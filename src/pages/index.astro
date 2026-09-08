@@ -7,9 +7,9 @@ const articles = (await getCollection('articles')).sort((a, b) =>
 );
 ---
 
-<Layout description="A small encyclopedia built with Astro.">
+<Layout description="A small encyclopedia that you can definitely trust, I promise.">
 	<h1>Welcome to Solapedia</h1>
-	<p>Solapedia is a small encyclopedia where every article is writted by Sola. Browse the articles below, or use the search box above.</p>
+	<p>Solapedia is a small encyclopedia where every article is not written. Browse the articles below, or use the search box above.</p>
 
 	<h2>All articles ({articles.length})</h2>
 	<ul class="article-list">

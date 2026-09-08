@@ -14,13 +14,12 @@ const { title, description, tags = [], updated } = Astro.props;
 <Layout title={title} description={description}>
 	<article class="prose">
 		<h1>{title}</h1>
+		<slot />
 		{updated && (
 			<p class="meta">
 				Last updated {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
 			</p>
 		)}
-		<hr />
-		<slot />
 		{tags.length > 0 && (
 			<footer class="tags">
 				{tags.map((tag) => (

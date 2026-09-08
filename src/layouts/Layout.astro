@@ -14,16 +14,15 @@ const base = import.meta.env.BASE_URL;
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
-		<link rel="icon" href={`${base}favicon.ico`} />
-		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/png" href={`${base}icon.png`} />
+		<meta name="generator" content="sola vibes" />
 		{description && <meta name="description" content={description} />}
 		<title>{pageTitle}</title>
 	</head>
 	<body>
 		<header class="site-header">
 			<div class="header-inner">
-				<a class="logo" href={base}>Solapedia</a>
+				<a class="logo" href={base}>🌙 Solapedia</a>
 				<form class="search" action={`${base}search`} role="search" autocomplete="off">
 					<input
 						type="search"
@@ -47,7 +46,7 @@ const base = import.meta.env.BASE_URL;
 			<slot />
 		</main>
 		<footer class="site-footer">
-			<p>Solapedia — a small encyclopedia built with Astro.</p>
+			<p>Solapedia — the truest source of reliable information, I promise &lt;3</p>
 		</footer>
 
 		<script>
@@ -121,22 +120,27 @@ const base = import.meta.env.BASE_URL;
 		<style is:global>
 			:root {
 				color-scheme: light dark;
-				--bg: #ffffff;
-				--fg: #202122;
-				--muted: #54595d;
-				--border: #a2a9b1;
-				--link: #0645ad;
-				--header-bg: #f8f9fa;
+				accent-color: oklch(0.626 0.1903 290.67);
+				--bg: oklch(1 0 0);
+				--fg: oklch(0.247 0.002 290.67);
+				--muted: oklch(0.461 0.009 290.67);
+				--border: oklch(0.732 0.014 290.67);
+				--header-bg: oklch(0.982 0.002 290.67);
+				--link: oklch(0.626 0.1903 290.67);
+
+				--font-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+				--font-sans: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 			}
 
 			@media (prefers-color-scheme: dark) {
 				:root {
-					--bg: #101418;
-					--fg: #e8e8e8;
-					--muted: #a2a9b1;
-					--border: #3c4045;
-					--link: #8ab4f8;
-					--header-bg: #16191c;
+					accent-color: oklch(0.7294 0.1603 290.67);
+					--bg: oklch(0.189 0.01 290.67);
+					--fg: oklch(0.931 0 0);
+					--muted: oklch(0.732 0.014 290.67);
+					--border: oklch(0.37 0.01 290.67);
+					--link: oklch(0.7294 0.1603 290.67);
+					--header-bg: oklch(0.212 0.008 290.67);
 				}
 			}
 
@@ -153,7 +157,7 @@ const base = import.meta.env.BASE_URL;
 			}
 
 			body {
-				font-family: Georgia, 'Times New Roman', serif;
+				font-family: var(--font-serif);
 				line-height: 1.6;
 				display: flex;
 				flex-direction: column;
