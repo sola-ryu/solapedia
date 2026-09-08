@@ -1,0 +1,71 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Search">
+	<h1>Search</h1>
+	<p id="search-summary"></p>
+	<ul id="search-page-results" class="results-list"></ul>
+</Layout>
+
+<script>
+	type SearchEntry = { slug: string; title: string; description: string };
+
+	const base = import.meta.env.BASE_URL;
+	const params = new URLSearchParams(location.search);
+	const q = (params.get('q') ?? '').trim().toLowerCase();
+
+	const summary = document.getElementById('search-summary')!;
+	const list = document.getElementById('search-page-results')!;
+
+	if (!q) {
+		summary.textContent = 'Enter a search term above.';
+	} else {
+		fetch(`${base}search-index.json`)
+			.then((res) => res.json())
+			.then((entries: SearchEntry[]) => {
+				const matches = entries.filter(
+					(e) =>
+						e.title.toLowerCase().includes(q) || e.description.toLowerCase().includes(q),
+				);
+				summary.textContent = `${matches.length} result${matches.length === 1 ? '' : 's'} for "${q}"`;
+				list.innerHTML = matches
+					.map(
+						(e) =>
+							`<li><a href="${base}wiki/${e.slug}">${e.title}</a>${
+								e.description ? `<p>${e.description}</p>` : ''
+							}</li>`,
+					)
+					.join('');
+			});
+	}
+</script>
+
+<style>
+	.results-list {
+		list-style: none;
+		padding: 0;
+	}
+
+	.results-list li {
+		padding: 0.75rem 0;
+		border-bottom: 1px solid var(--border);
+	}
+
+	.results-list a {
+		font-size: 1.1rem;
+		font-weight: bold;
+	}
+
+	.results-list p {
+		margin: 0.2rem 0 0;
+		color: var(--muted);
+		font-family: system-ui, sans-serif;
+		font-size: 0.9rem;
+	}
+
+	#search-summary {
+		font-family: system-ui, sans-serif;
+		color: var(--muted);
+	}
+</style>

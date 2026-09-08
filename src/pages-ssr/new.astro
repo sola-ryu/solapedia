@@ -1,0 +1,155 @@
+---
+// Only reachable in SSR builds (SSR=1) — see astro.config.mjs, which injects
+// this route and only then installs the Node adapter it requires.
+export const prerender = false;
+
+import { mkdir, writeFile } from 'node:fs/promises';
+import path from 'node:path';
+import Layout from '../layouts/Layout.astro';
+
+const articlesDir = path.join(process.cwd(), 'src/content/articles');
+
+let error = '';
+let saved: { slug: string; title: string } | null = null;
+let title = '';
+let body = '';
+
+function slugify(input: string) {
+	return input
+		.toLowerCase()
+		.trim()
+		.replace(/[^a-z0-9]+/g, '-')
+		.replace(/^-+|-+$/g, '');
+}
+
+if (Astro.request.method === 'POST') {
+	const form = await Astro.request.formData();
+	title = (form.get('title') ?? '').toString().trim();
+	body = (form.get('body') ?? '').toString().trim();
+
+	if (!title || !body) {
+		error = 'Title and body are both required.';
+	} else {
+		const slug = slugify(title);
+		if (!slug) {
+			error = 'Title must contain at least one letter or number.';
+		} else {
+			await mkdir(articlesDir, { recursive: true });
+			const filePath = path.join(articlesDir, `${slug}.md`);
+			const frontmatter = `---\ntitle: ${JSON.stringify(title)}\nupdated: ${new Date().toISOString().slice(0, 10)}\n---\n\n${body}\n`;
+			try {
+				await writeFile(filePath, frontmatter, { flag: 'wx' });
+				saved = { slug, title };
+				title = '';
+				body = '';
+			} catch (e) {
+				error =
+					e instanceof Error && 'code' in e && e.code === 'EEXIST'
+						? `An article with slug "${slug}" already exists.`
+						: 'Could not save the article.';
+			}
+		}
+	}
+}
+---
+
+<Layout title="New article">
+	<h1>New article</h1>
+	<p class="hint">
+		Saved as a Markdown file in <code>src/content/articles/</code>. In <code>astro dev</code> it
+		appears at its <code>/wiki/&lt;slug&gt;</code> page immediately; in a built SSR server, restart
+		or rebuild to pick it up.
+	</p>
+
+	{
+		saved && (
+			<p class="success">
+				Saved. <a href={`${import.meta.env.BASE_URL}wiki/${saved.slug}`}>View "{saved.title}"</a>
+			</p>
+		)
+	}
+	{error && <p class="error">{error}</p>}
+
+	<form method="POST">
+		<label>
+			Title
+			<input type="text" name="title" value={title} required />
+		</label>
+		<label>
+			Body (Markdown)
+			<textarea name="body" rows="14" required>{body}</textarea>
+		</label>
+		<button type="submit">Save article</button>
+	</form>
+</Layout>
+
+<style>
+	.hint {
+		font-family: system-ui, sans-serif;
+		font-size: 0.85rem;
+		color: var(--muted);
+	}
+
+	.success {
+		font-family: system-ui, sans-serif;
+		background: var(--header-bg);
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		padding: 0.6rem 0.8rem;
+	}
+
+	.error {
+		font-family: system-ui, sans-serif;
+		color: #b00;
+		border: 1px solid #b00;
+		border-radius: 4px;
+		padding: 0.6rem 0.8rem;
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+		max-width: 640px;
+	}
+
+	label {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+		font-family: system-ui, sans-serif;
+		font-weight: bold;
+	}
+
+	input,
+	textarea {
+		font-family: inherit;
+		font-weight: normal;
+		font-size: 1rem;
+		padding: 0.5rem;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		background: var(--bg);
+		color: var(--fg);
+	}
+
+	textarea {
+		font-family: ui-monospace, monospace;
+		resize: vertical;
+	}
+
+	button {
+		align-self: flex-start;
+		font-size: 1rem;
+		padding: 0.5rem 1.2rem;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		background: var(--header-bg);
+		color: var(--fg);
+		cursor: pointer;
+	}
+
+	button:hover {
+		background: var(--border);
+	}
+</style>

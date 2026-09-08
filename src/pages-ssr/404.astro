@@ -1,0 +1,16 @@
+---
+// SSR-only 404 page (see astro.config.mjs). Note: Astro forces status 404 for
+// whatever page is registered at this route, so this is NOT where on-demand
+// article generation lives — that's src/pages-ssr/wiki-slug.astro, which
+// handles /wiki/<slug> requests before they'd ever fall through to here.
+export const prerender = false;
+
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Not found">
+	<h1>Page not found</h1>
+	<p>
+		<a href={import.meta.env.BASE_URL}>Return home</a>
+	</p>
+</Layout>

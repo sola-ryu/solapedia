@@ -1,0 +1,81 @@
+---
+// SSR-only fallback for /wiki/[slug] — injected alongside (not instead of) the
+// static src/pages/wiki/[slug].astro route (see astro.config.mjs). The Node
+// adapter serves prerendered articles as static files directly; this route is
+// only ever reached for a slug that ISN'T one of those, so it doubles as the
+// "generate this article with an LLM" path.
+export const prerender = false;
+
+import { createMarkdownProcessor } from '@astrojs/markdown-remark';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import Layout from '../layouts/Layout.astro';
+import { loadOrGenerateArticle, safeSlug } from '../lib/article-generator';
+
+// Keep in sync with the same-named plugin in astro.config.mjs.
+function processLinks() {
+	const base = import.meta.env.BASE_URL;
+	return (tree: any) => {
+		function walk(node: any) {
+			if (node.tagName === 'a' && typeof node.properties?.href === 'string') {
+				const href = node.properties.href;
+				if (href.startsWith('/') && !href.startsWith('//')) {
+					node.properties.href = base.replace(/\/$/, '') + href;
+				} else if (/^https?:\/\//i.test(href)) {
+					node.properties.target = '_blank';
+					node.properties.rel = 'noopener noreferrer';
+				}
+			}
+			node.children?.forEach(walk);
+		}
+		walk(tree);
+	};
+}
+
+const slug = safeSlug(decodeURIComponent(Astro.params.slug ?? ''));
+
+let article: Awaited<ReturnType<typeof loadOrGenerateArticle>> | null = null;
+let error = '';
+
+if (slug) {
+	try {
+		article = await loadOrGenerateArticle(slug);
+	} catch (e) {
+		error = e instanceof Error ? e.message : 'Could not generate the article.';
+	}
+}
+
+let html = '';
+if (article) {
+	const processor = await createMarkdownProcessor({ rehypePlugins: [processLinks] });
+	html = (await processor.render(article.body)).code;
+	Astro.response.status = 200;
+} else {
+	Astro.response.status = 404;
+}
+---
+
+{
+	article ? (
+		<ArticleLayout
+			title={article.title}
+			updated={article.updated}
+		>
+			<Fragment set:html={html} />
+		</ArticleLayout>
+	) : (
+		<Layout title="Not found">
+			<h1>Page not found</h1>
+			{error && <p class="error">{error}</p>}
+			<p>
+				<a href={import.meta.env.BASE_URL}>Return home</a>
+			</p>
+		</Layout>
+	)
+}
+
+<style>
+	.error {
+		font-family: system-ui, sans-serif;
+		color: #b00;
+	}
+</style>

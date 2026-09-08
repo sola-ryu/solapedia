@@ -1,0 +1,284 @@
+---
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const { title, description } = Astro.props;
+const pageTitle = title ? `${title} — Solapedia` : 'Solapedia';
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+		<link rel="icon" href={`${base}favicon.ico`} />
+		<meta name="generator" content={Astro.generator} />
+		{description && <meta name="description" content={description} />}
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="header-inner">
+				<a class="logo" href={base}>Solapedia</a>
+				<form class="search" action={`${base}search`} role="search" autocomplete="off">
+					<input
+						type="search"
+						name="q"
+						id="search-input"
+						placeholder="Search Solapedia"
+						aria-label="Search Solapedia"
+					/>
+					<div id="search-results" class="search-results" hidden></div>
+				</form>
+				{
+					import.meta.env.PUBLIC_SSR === '1' && (
+						<a class="new-article" href={`${base}new`}>
+							+ New article
+						</a>
+					)
+				}
+			</div>
+		</header>
+		<main>
+			<slot />
+		</main>
+		<footer class="site-footer">
+			<p>Solapedia — a small encyclopedia built with Astro.</p>
+		</footer>
+
+		<script>
+			type SearchEntry = {
+				slug: string;
+				title: string;
+				description: string;
+			};
+
+			const base = import.meta.env.BASE_URL;
+			const input = document.getElementById('search-input') as HTMLInputElement | null;
+			const results = document.getElementById('search-results') as HTMLDivElement | null;
+			if (input && results) {
+				let index: SearchEntry[] | null = null;
+
+				async function ensureIndex() {
+					if (!index) {
+						const res = await fetch(`${base}search-index.json`);
+						index = await res.json();
+					}
+					return index!;
+				}
+
+				function render(entries: SearchEntry[]) {
+					if (!results) return;
+					if (entries.length === 0) {
+						results.innerHTML = '<p class="no-results">No matches.</p>';
+					} else {
+						results.innerHTML = entries
+							.slice(0, 8)
+							.map(
+								(e) =>
+									`<a href="${base}wiki/${e.slug}"><strong>${escapeHtml(e.title)}</strong>${
+										e.description ? `<span>${escapeHtml(e.description)}</span>` : ''
+									}</a>`,
+							)
+							.join('');
+					}
+					results.hidden = false;
+				}
+
+				function escapeHtml(s: string) {
+					return s.replace(
+						/[&<>"']/g,
+						(c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+					);
+				}
+
+				input.addEventListener('input', async () => {
+					const q = input.value.trim().toLowerCase();
+					if (!q) {
+						results.hidden = true;
+						return;
+					}
+					const entries = await ensureIndex();
+					const matches = entries.filter(
+						(e) =>
+							e.title.toLowerCase().includes(q) || e.description.toLowerCase().includes(q),
+					);
+					render(matches);
+				});
+
+				document.addEventListener('click', (e) => {
+					if (!results.contains(e.target as Node) && e.target !== input) {
+						results.hidden = true;
+					}
+				});
+			}
+		</script>
+
+		<style is:global>
+			:root {
+				color-scheme: light dark;
+				--bg: #ffffff;
+				--fg: #202122;
+				--muted: #54595d;
+				--border: #a2a9b1;
+				--link: #0645ad;
+				--header-bg: #f8f9fa;
+			}
+
+			@media (prefers-color-scheme: dark) {
+				:root {
+					--bg: #101418;
+					--fg: #e8e8e8;
+					--muted: #a2a9b1;
+					--border: #3c4045;
+					--link: #8ab4f8;
+					--header-bg: #16191c;
+				}
+			}
+
+			* {
+				box-sizing: border-box;
+			}
+
+			html,
+			body {
+				margin: 0;
+				min-height: 100%;
+				background: var(--bg);
+				color: var(--fg);
+			}
+
+			body {
+				font-family: Georgia, 'Times New Roman', serif;
+				line-height: 1.6;
+				display: flex;
+				flex-direction: column;
+			}
+
+			a {
+				color: var(--link);
+			}
+
+			main {
+				flex: 1;
+				width: 100%;
+				max-width: 780px;
+				margin: 0 auto;
+				padding: 1.5rem 1rem 3rem;
+			}
+		</style>
+
+		<style>
+			.site-header {
+				background: var(--header-bg);
+				border-bottom: 1px solid var(--border);
+			}
+
+			.header-inner {
+				max-width: 900px;
+				margin: 0 auto;
+				padding: 0.75rem 1rem;
+				display: flex;
+				align-items: center;
+				gap: 1.5rem;
+				font-family: system-ui, sans-serif;
+			}
+
+			.logo {
+				font-weight: bold;
+				font-size: 1.25rem;
+				text-decoration: none;
+				color: var(--fg);
+				white-space: nowrap;
+			}
+
+			.search {
+				position: relative;
+				flex: 1;
+				max-width: 420px;
+			}
+
+			.new-article {
+				white-space: nowrap;
+				text-decoration: none;
+				font-size: 0.9rem;
+				border: 1px solid var(--border);
+				border-radius: 4px;
+				padding: 0.35rem 0.7rem;
+			}
+
+			.new-article:hover {
+				background: var(--border);
+			}
+
+			.search input {
+				width: 100%;
+				padding: 0.4rem 0.6rem;
+				border: 1px solid var(--border);
+				border-radius: 4px;
+				background: var(--bg);
+				color: var(--fg);
+				font-size: 0.95rem;
+			}
+
+			.search-results {
+				position: absolute;
+				top: calc(100% + 4px);
+				left: 0;
+				right: 0;
+				background: var(--bg);
+				border: 1px solid var(--border);
+				border-radius: 4px;
+				box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+				max-height: 320px;
+				overflow-y: auto;
+				z-index: 10;
+			}
+
+			.search-results a {
+				display: block;
+				padding: 0.5rem 0.7rem;
+				text-decoration: none;
+				border-bottom: 1px solid var(--border);
+				font-family: system-ui, sans-serif;
+			}
+
+			.search-results a:last-child {
+				border-bottom: none;
+			}
+
+			.search-results a strong {
+				display: block;
+				color: var(--fg);
+				font-size: 0.9rem;
+			}
+
+			.search-results a span {
+				display: block;
+				color: var(--muted);
+				font-size: 0.8rem;
+			}
+
+			.search-results .no-results {
+				margin: 0;
+				padding: 0.5rem 0.7rem;
+				color: var(--muted);
+				font-family: system-ui, sans-serif;
+				font-size: 0.85rem;
+			}
+
+			.site-footer {
+				border-top: 1px solid var(--border);
+				padding: 1rem;
+				text-align: center;
+				font-family: system-ui, sans-serif;
+				font-size: 0.8rem;
+				color: var(--muted);
+			}
+		</style>
+	</body>
+</html>

@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const articles = (await getCollection('articles')).sort((a, b) =>
+	a.data.title.localeCompare(b.data.title),
+);
+---
+
+<Layout description="A small encyclopedia built with Astro.">
+	<h1>Welcome to Solapedia</h1>
+	<p>Solapedia is a small encyclopedia where every article is writted by Sola. Browse the articles below, or use the search box above.</p>
+
+	<h2>All articles ({articles.length})</h2>
+	<ul class="article-list">
+		{
+			articles.map((article) => (
+				<li>
+					<a href={`${import.meta.env.BASE_URL}wiki/${article.id}`}>{article.data.title}</a>
+					{article.data.description && <p>{article.data.description}</p>}
+				</li>
+			))
+		}
+	</ul>
+</Layout>
+
+<style>
+	h1 {
+		font-size: 2rem;
+	}
+
+	.article-list {
+		list-style: none;
+		padding: 0;
+	}
+
+	.article-list li {
+		padding: 0.75rem 0;
+		border-bottom: 1px solid var(--border);
+	}
+
+	.article-list a {
+		font-size: 1.1rem;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	.article-list a:hover {
+		text-decoration: underline;
+	}
+
+	.article-list p {
+		margin: 0.2rem 0 0;
+		color: var(--muted);
+		font-family: system-ui, sans-serif;
+		font-size: 0.9rem;
+	}
+</style>
