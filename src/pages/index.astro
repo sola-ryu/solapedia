@@ -2,31 +2,114 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const articles = (await getCollection('articles')).sort((a, b) =>
-	a.data.title.localeCompare(b.data.title),
-);
+const allArticles = await getCollection('articles');
+
+function firstParagraph(body: string): string {
+	const paragraph = body
+		.split(/\n\s*\n/)
+		.map((block) => block.trim())
+		.find((block) => block && !block.startsWith('#') && !block.startsWith('!['));
+	if (!paragraph) return '';
+	return paragraph
+		.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+		.replace(/[*_`>#]/g, '')
+		.replace(/\s+/g, ' ')
+		.trim();
+}
+
+function summarize(article: (typeof allArticles)[number]): string {
+	return article.data.description || firstParagraph(article.body ?? '');
+}
+
+function truncate(text: string, max: number): string {
+	if (text.length <= max) return text;
+	return `${text.slice(0, max).trimEnd()}…`;
+}
+
+const recent = [...allArticles]
+	.sort((a, b) => (b.data.updated?.getTime() ?? 0) - (a.data.updated?.getTime() ?? 0))
+	.slice(0, 8);
+
+const featured = allArticles[Math.floor(Math.random() * allArticles.length)];
+const featuredSummary = summarize(featured);
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout description="A small encyclopedia that you can definitely trust, I promise.">
 	<h1>Welcome to Solapedia</h1>
-	<p>Solapedia is a small encyclopedia where every article is not written. Browse the articles below, or use the search box above.</p>
+	<p>Solapedia is a small encyclopedia where every article is not written. Use the search box above to find something specific.</p>
 
-	<h2>All articles ({articles.length})</h2>
-	<ul class="article-list">
-		{
-			articles.map((article) => (
-				<li>
-					<a href={`${import.meta.env.BASE_URL}wiki/${article.id}`}>{article.data.title}</a>
-					{article.data.description && <p>{article.data.description}</p>}
-				</li>
-			))
-		}
-	</ul>
+	<section class="featured">
+		<h2>Featured article</h2>
+		<div class="featured-box">
+			<a class="featured-title" href={`${base}wiki/${featured.id}`}>{featured.data.title}</a>
+			{featuredSummary && <p>{truncate(featuredSummary, 500)}</p>}
+			<a class="read-more" href={`${base}wiki/${featured.id}`}>Read more →</a>
+		</div>
+	</section>
+
+	<section class="recent">
+		<h2>Recently updated</h2>
+		<ul class="article-list">
+			{
+				recent.map((article) => {
+					const text = summarize(article);
+					return (
+						<li>
+							<a href={`${base}wiki/${article.id}`}>{article.data.title}</a>
+							{article.data.updated && (
+								<span class="date">
+									{article.data.updated.toLocaleDateString('en-US', {
+										year: 'numeric',
+										month: 'long',
+										day: 'numeric',
+									})}
+								</span>
+							)}
+							{text && <p>{truncate(text, 200)}</p>}
+						</li>
+					);
+				})
+			}
+		</ul>
+	</section>
 </Layout>
 
 <style>
 	h1 {
 		font-size: 2rem;
+	}
+
+	h2 {
+		font-size: 1.3rem;
+		border-bottom: 1px solid var(--border);
+		padding-bottom: 0.3rem;
+	}
+
+	.featured-box {
+		border: 1px solid var(--border);
+		border-radius: 6px;
+		padding: 1rem 1.25rem;
+		background: var(--header-bg);
+	}
+
+	.featured-title {
+		font-size: 1.25rem;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	.featured-title:hover {
+		text-decoration: underline;
+	}
+
+	.featured-box p {
+		margin: 0.6rem 0;
+	}
+
+	.read-more {
+		font-family: system-ui, sans-serif;
+		font-size: 0.85rem;
 	}
 
 	.article-list {
@@ -47,6 +130,13 @@ const articles = (await getCollection('articles')).sort((a, b) =>
 
 	.article-list a:hover {
 		text-decoration: underline;
+	}
+
+	.article-list .date {
+		margin-left: 0.6rem;
+		font-family: system-ui, sans-serif;
+		font-size: 0.8rem;
+		color: var(--muted);
 	}
 
 	.article-list p {

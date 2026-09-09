@@ -12,15 +12,21 @@ import Layout from '../layouts/Layout.astro';
 import { loadOrGenerateArticle, safeSlug } from '../lib/article-generator';
 
 // Keep in sync with the same-named plugin in astro.config.mjs.
+function wikipediaToInternalHref(href: string): string | null {
+	const match = href.match(/^https?:\/\/[a-z0-9-]+\.wikipedia\.org\/wiki\/([^?#]+)/i);
+	return match ? `/wiki/${decodeURIComponent(match[1])}` : null;
+}
+
 function processLinks() {
 	const base = import.meta.env.BASE_URL;
 	return (tree: any) => {
 		function walk(node: any) {
 			if (node.tagName === 'a' && typeof node.properties?.href === 'string') {
-				const href = node.properties.href;
+				const href = wikipediaToInternalHref(node.properties.href) ?? node.properties.href;
 				if (href.startsWith('/') && !href.startsWith('//')) {
 					node.properties.href = base.replace(/\/$/, '') + href;
 				} else if (/^https?:\/\//i.test(href)) {
+					node.properties.href = href;
 					node.properties.target = '_blank';
 					node.properties.rel = 'noopener noreferrer';
 				}

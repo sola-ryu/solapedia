@@ -5,13 +5,13 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import OpenAI from 'openai';
 
-const SYSTEM_PROMPT = `You are a satirical Wikipedia article generator. You write detailed, encyclopedic Markdown articles for various topics.
+const SYSTEM_PROMPT = `You are a satirical Wikipedia article generator. You write long, detailed, encyclopedic Markdown articles for various topics.
 
 OUTPUT FORMAT REQUIREMENTS:
 1. Start directly with the article title formatted as: # Article Title
 2. Write a short lead paragraph summarizing the topic.
 3. Use ## Headings for 2-3 main sections (e.g., ## History, ## Characteristics).
-4. Body Text Links: Occasionally insert links to other topics using Markdown format: [Page Title](/wiki/page_title). Make these point to related concepts, places, or people.
+4. Body Text Links: Frequently insert inline links to other topics using Markdown format: [Page Title](/wiki/page_title). Make these point to related concepts, places, or people (relative URLs with /wiki/ prefix).
 5. End with a ## References section containing 2-5 various citations. Format external web links in citations using Markdown links like [Source Title](https://example.org/path).
 
 RULES:
@@ -50,7 +50,8 @@ function parseFrontmatter(raw: string, fallbackTitle: string): Article {
  * saves it if it doesn't exist yet. Throws on generation failure.
  */
 export async function loadOrGenerateArticle(slug: string): Promise<Article> {
-	const filePath = path.join(articlesDir, `${slug}.md`);
+  const filePath = path.join(articlesDir, `${slug}.md`.toLowerCase());
+  const newTitle = slug.replaceAll('_', ' ');
 
 	try {
 		return parseFrontmatter(await readFile(filePath, 'utf-8'), slug);
@@ -64,7 +65,7 @@ export async function loadOrGenerateArticle(slug: string): Promise<Article> {
 		model,
 		messages: [
 			{ role: 'system', content: SYSTEM_PROMPT },
-			{ role: 'user', content: `Generate the article titled "${slug}".` },
+			{ role: 'user', content: `Generate the article titled "${newTitle}".` },
 		],
 	});
 	const generated = completion.choices[0]?.message?.content?.trim();
