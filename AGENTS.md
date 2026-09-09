@@ -27,6 +27,8 @@ src/
 │   └── 404.astro               # SSR-only: plain not-found page for everything else
 └── lib/
     └── article-generator.ts    # OpenAI call + frontmatter parsing/writing, used by wiki-slug.astro
+scripts/
+└── generate-articles.ts       # batch generation CLI, same pipeline as on-demand generation
 ```
 
 `src/pages-ssr/` is outside Astro's file-based `src/pages/` scanning, so it's inert in a static build. `astro.config.mjs` only injects its routes (and only installs the `@astrojs/node` adapter) when `SSR=1`.
@@ -81,12 +83,24 @@ The header's "+ New article" link only renders when `PUBLIC_SSR=1` — derived a
 Visiting `/wiki/<title>` for a title that doesn't exist yet (e.g. a wiki-link inside a generated article pointing to something not written yet) calls an LLM to write it, via `src/lib/article-generator.ts`:
 
 1. Check `src/content/articles/<title>.md` on disk (not the content collection — see caveat above, this needs to see files written seconds ago).
-2. If missing, call `OpenAI().chat.completions.create(...)` with the fixed system prompt (Wikipedia-style Markdown, internal links as `[Title](Title)`, a References section) and save the result with `{ flag: 'wx' }`.
-3. Render it with `@astrojs/markdown-remark`'s `createMarkdownProcessor` (same `processLinks` rehype plugin as the static build — see below) and display it through `ArticleLayout`, tagged `generated`.
+2. If missing, call `OpenAI().chat.completions.create(...)` with the fixed system prompt (Wikipedia-style Markdown, internal links as `[Title](Title)`, a References section).
+3. Follow up in the same conversation asking for a 1-2 sentence summary, used as the `description` frontmatter field (shown in search/listing). Best-effort — if this second call fails, the article is still saved without a `description`.
+4. Save the result with `{ flag: 'wx' }`, then render it with `@astrojs/markdown-remark`'s `createMarkdownProcessor` (same `processLinks` rehype plugin as the static build — see below) and display it through `ArticleLayout`, tagged `generated`.
 
 The frontmatter also records `model: <OPENAI_MODEL value used>` — for our own reference only, not part of the content collection schema (`content.config.ts` silently strips unknown frontmatter keys) and never rendered.
 
 Config: `OPENAI_API_KEY` (required — the SDK reads it from env), `OPENAI_MODEL` (default `gpt-4o-mini`), `OPENAI_BASE_URL` (point at a local OpenAI-compatible server, e.g. LM Studio, for testing without burning real API calls).
+
+### Batch generation
+
+`scripts/generate-articles.ts` drives the same `loadOrGenerateArticle` used above, in a loop, for scripting a starter set of articles instead of visiting each `/wiki/<title>` by hand. Same system prompt, same description follow-up, same frontmatter, same on-disk cache (an already-generated article is read back and skipped, not overwritten — safe to re-run over a partially-done list).
+
+```
+OPENAI_API_KEY=sk-... npm run generate:articles -- titles.txt
+OPENAI_API_KEY=sk-... npm run generate:articles -- "Title One" "Title Two"
+```
+
+`titles.txt`: one title per line, blank lines and `#`-comments ignored. Titles are slugified as `spaces -> underscores` (not `new.astro`'s dash-slugify) to match the `/wiki/page_title` convention generated articles link each other with. Runs with `GENERATE_CONCURRENCY` (default 3) parallel requests. Uses Node's built-in type stripping (`--experimental-strip-types`, wired into the npm script) — no build step, no `tsx`/`ts-node` dependency.
 
 **Routing gotcha, if you touch this:** the generation logic lives at `src/pages-ssr/wiki-slug.astro`, injected as pattern `/wiki/[...slug]` — a rest param, deliberately **not** `/wiki/[slug]`. Two routes with the identical pattern string silently collide in Astro's manifest (one wins, the other vanishes) instead of coexisting as a fallback. A rest param is a structurally different pattern, so both routes stay in the manifest; Astro's own runtime fallback (`matchRequest` in `astro/core/routing/match-request.js`) then correctly prefers the non-prerendered one whenever the prerendered `/wiki/[slug]` (the static article route) doesn't have a build-time match for the requested slug. Also do **not** put this logic in `404.astro`: Astro hardcodes `status = 404` for whatever page is registered at the literal `/404` route, regardless of `Astro.response.status` set in the page — confirmed by reading `runtime/server/render/page.js`. `pages-ssr/404.astro` stays a plain not-found page for that reason.
 

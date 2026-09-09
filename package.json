@@ -12,7 +12,8 @@
     "dev:ssr": "SSR=1 astro dev",
     "build:ssr": "SSR=1 astro build",
     "start:ssr": "node ./dist/server/entry.mjs",
-    "astro": "astro"
+    "astro": "astro",
+    "generate:articles": "node --experimental-strip-types scripts/generate-articles.ts"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.1",
