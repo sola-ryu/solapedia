@@ -1,40 +1,35 @@
 ---
-title: Self-hosting
-description: The practice of running one's own servers and software rather than relying on third-party services.
-tags: [sysadmin, philosophy, privacy]
+title: "Self-Hosting"
+model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-08
 ---
 
-**Self-hosting** is the practice of operating one's own servers and software infrastructure instead of relying on hosted third-party services. It spans everything from running a personal web server to deploying full application stacks on dedicated hardware.
+Self-hosting is a term used to describe the practice of hosting one's own data, applications, and services on personal hardware rather than relying on third-party cloud providers. This approach allows individuals to have full control over their digital lives, free from the risks of data breaches, censorship, and vendor lock-in.
 
-## Motivations
+## History
 
-Common reasons people self-host include:
+Self-hosting has its roots in the early days of computing when users would often install their own operating systems, software, and hardware to meet their specific needs. With the rise of cloud computing, this approach fell out of favor as the convenience and scalability offered by cloud services became increasingly appealing. However, as concerns about data security and privacy grew, interest in self-hosting began to resurface.
 
-- **Privacy** — Keeping data on one's own hardware rather than in the cloud.
-- **Control** — Full ownership of configuration, updates, and data format decisions.
-- **Cost** — Avoiding recurring subscription fees for services that can run cheaply on modest hardware.
-- **Learning** — The technical knowledge gained from managing one's own infrastructure.
+In 2010, the concept of "homelabbing" emerged on the internet, referring to the practice of setting up a personal laboratory for experimenting with and deploying various technologies and services at home. This movement laid the groundwork for the modern self-hosting community.
 
-## Common services
+## Characteristics
 
-Self-hosters typically deploy a mix of the following:
+Self-hosting involves hosting one's own applications, data, and services on personal hardware such as computers, servers, or embedded devices. This can include email servers like [Mail-in-a-Box](/wiki/mail_in_a_box), file synchronization services like Nextcloud, and even entire operating systems like Alpine Linux.
 
-- **Web applications** — [Astro](/wiki/astro)-based sites, wikis like [Solapedia](/wiki/solapedia), project management tools
-- **Communication** — Mastodon instances, Matrix homeservers, email servers
-- **Media** — Plex, Jellyfin, or self-built media libraries
-- **Development** — GitHub instances, CI/CD runners, package registries
+One of the primary benefits of self-hosting is increased security. By hosting data on personal hardware, users can ensure that their information remains private and is not subject to the risks associated with cloud storage. Additionally, self-hosting allows users to have complete control over their data, which is particularly important for individuals who are concerned about censorship or government surveillance.
 
-## Hardware considerations
+## Tools and Services
 
-Self-hosting hardware has evolved dramatically. Early adopters used repurposed desktops or single-board computers like the Raspberry Pi. Modern setups may include:
+There are many tools and services available to help individuals get started with self-hosting. Some popular options include:
 
-- **Mac Studio** — Popular for its efficiency and [MLX](/wiki/mlx) support for local AI workloads
-- **DGX Spark** — NVIDIA's compact AI platform, discussed in community guides for local model deployment
-- **Mini PCs** — Low-power x86 options for general-purpose hosting
+- [Docker](/wiki/docker): A containerization platform that allows users to run isolated applications on their own hardware.
+- [Traefik](/wiki/traefik): A reverse proxy that provides a simple way to expose services running on personal hardware to the outside world.
+- [Let's Encrypt](https://letsencrypt.org/): A free, automated certificate authority that makes it easy to obtain SSL certificates for self-hosted websites and services.
 
-## The philosophy
+## References
 
-Self-hosting is as much a philosophy as a technical practice. It reflects a belief that individuals should control their own digital infrastructure rather than ceding it to corporations. This mindset overlaps with the [open-source](https://opensource.org) movement and the broader [local AI](#local-ai) community.
-
-See also: [MLX](/wiki/mlx), [ComfyUI](/wiki/comfyui), [Mastodon](/wiki/mastodon)
+* [The Self-Hosting Manifesto](http://selfhosting.org/)
+* [Homelabbing: The Art of Experimentation at Home](http://homelabbing.org/)
+* [Alpine Linux Documentation](https://docs.alpinelinux.org/)
+* [Traefik Documentation](https://doc.traefik.io/)
+* [Let's Encrypt Documentation](https://letsencrypt.org/docs/)

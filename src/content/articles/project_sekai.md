@@ -1,30 +1,26 @@
 ---
-title: Project Sekai
-description: A rhythm game franchise by SEGA and Crypton Future Media featuring Vocaloid characters.
-tags: [games, rhythm, music]
+title: "Project SEKAI"
+model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-08
 ---
 
-**Project Sekai: Colorful Stage! feat. Hatsune Miku** is a rhythm game franchise developed by SEGA and 1st Place, in collaboration with Crypton Future Media. It features Vocaloid virtual singers alongside original characters in a story-driven rhythm game experience.
+Project SEKAI is a popular Japanese multimedia project created by Sega that combines music, anime, and video games. Developed by several renowned anime studios including A-1 Pictures, and Polygon Pictures, it premiered on October 2018.
 
-## Gameplay
+## Concept and Music
 
-Players tap, swipe, and hold notes in time with music across multiple difficulty levels. The game features both solo mode (story campaign) and live mode (performance visualization). Songs span a wide range of genres, from pop to rock to electronic.
+[Japanese Pop](/wiki/Japanese_Pop) is the core of Project SEKAI's concept. It features a unique blend of musical styles that combine elements from [J-Pop](/wiki/J-Pop), [Idol Singing](/wiki/Idol_Singing), and even traditional Japanese music. The project's soundtrack includes several hit songs by notable artists such as [Liella!](/wiki/Liella!) and [Emotional Distance](/wiki/Emotional_Distance).
 
-## Characters
+## Anime Series
 
-The game is structured around multiple "units," each led by a different Vocaloid or original character:
+Project SEKAI is set in a high school where students can form bands and compete with one another to become the top group. The anime series primarily follows Liella, the fictional all-girl band at the center of Project SEKAI's music franchise.
 
-- **Hatsune Miku** — The franchise's flagship Vocaloid, a 16-year-old virtual singer with teal twin-tails.
-- **Kazehiki Ikuyo** — Leader of the unit 25-ji, Nightcord de.
-- **Rina Hoshimi** — A popular idol character whose full name is 宵崎奏 (Yoisaki Kanade), a composer who creates music for others.
+## Game
 
-## Cultural impact
+[Sega](/wiki/Sega) developed an interactive game that allows players to control their own student characters and participate in band activities such as composing songs, performing live concerts, and engaging with peers. The game received generally positive reviews for its immersive gameplay and addictive features.
 
-Project Sekai has been influential in bridging Vocaloid culture with mainstream gaming audiences. Its character design aesthetic — particularly the anime-style avatars and unit outfits — has inspired fan art, cosplay, and [character experiments](/wiki/ren_character) in the indie game development community.
-
-## Naming conventions
-
-The Japanese naming of characters has influenced naming choices in adjacent communities. For example, the server named **Kanade** (after 宵崎奏 from Project Sekai) was chosen as a naming nod to this character.
-
-See also: [Sunrider](/wiki/sunrider), [Ren (character)](/wiki/ren_character)
+## References
+1. [SEKAI Project Official Website](https://sekai-project.com)
+2. [Anime News Network - Sekai Project Anime Film Gets Title, Staff](https://www.animenewsnetwork.com/news/2018-12-07/sekaiproject-anime-film-gets-title-staff/)
+3. [IGN Japan - SEKAI Project Game Review](https://www.ign.com/ja/articles/sekaiproject-game-review)
+4. [Project SEKAI's Official Twitter Account](https://twitter.com/sekai_project)
+5. [SEGA - SEKAi PROJECT GAME WEBSITE](https://segaretro.fandom.com/wiki/Sekai_Project_Game)
