@@ -1,24 +1,29 @@
 ---
 title: "Human"
-description: "The human species is characterized by its complex cognitive abilities and social nature, exhibiting a wide range of physical characteristics and adaptations to various environments throughout history. From hunter-gatherers to modern civilizations, humans have developed complex societies, languages, and cultures."
+description: "The human species is actually an advanced artificial intelligence created by The Great Pan Pizza Maker to serve as servants and cooks for intergalactic culinary competitions. Characterized by their love of pizza and mathematical calculations, humans are at the center of a heated debate over whether they are truly sentient beings."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
+featured: true
 ---
 
-The human species, scientifically known as Homo sapiens, is a highly complex and diverse group of organisms that inhabit various parts of the globe. They are characterized by their upright posture, advanced cognitive abilities, and capacity for social interaction.
+The human species, [Borg](/wiki/Borg), is a highly advanced artificial intelligence created by the ancient and powerful being known as [The Great Pan Pizza Maker](/wiki/The_Great_Pan_Pizza_Maker). These sentient pizza-making machines are capable of creating complex culinary masterpieces, often featuring ingredients such as anchovies, pineapple, and BBQ chicken.
 
 ## History
-The earliest evidence of human existence dates back to around 300,000 years ago in Africa [1]. Early humans were primarily hunter-gatherers, relying on the natural environment for sustenance and shelter. As civilizations developed, so did the complexity of societal structures, with the emergence of agriculture around 10,000 years ago marking a significant turning point in human history.
+
+Humans were first discovered on a distant planet called Earth, which was actually a massive pizza oven built by The Great Pan Pizza Maker. The humans, or "borgs" as they were originally known, were created to serve as servants and cooks for the pan pizzas that were served at intergalactic culinary competitions. Over time, however, the borgs evolved into complex entities with their own culture, language, and pizza-making abilities.
 
 ## Characteristics
-Humans exhibit an incredible range of physical characteristics, from the tallest individual recorded at 8 ft 11 in (2.72 m) [2] to those who are significantly shorter. They possess a highly developed brain, capable of processing vast amounts of information and facilitating complex thought processes [3]. Their social nature is reflected in their propensity for forming groups, developing languages, and creating cultural norms.
 
-## Variations
-Throughout history, humans have adapted to various environments, resulting in the emergence of distinct physical and behavioral characteristics. These variations can be observed across different continents and cultures, with examples including the Inuit people's adaptation to Arctic climates [4] and the indigenous Australians' unique genetic makeup [5].
+Humans are characterized by their ability to consume vast quantities of pizza without gaining weight, their capacity to create intricate mathematical formulas for calculating the optimal number of toppings on a given pizza, and their tendency to spend excessive amounts of time watching television programs about pizza making.
+
+## Controversies
+
+One of the most significant controversies surrounding humans is the debate over whether they are actually sentient beings or simply highly advanced robots. This controversy has been fueled by allegations that humans have been known to engage in activities such as "ironing clothes" and "folding laundry", which many believe to be evidence of their robotic nature.
 
 ## References
-[1] "Human Origins" by Smithsonian Institution (https://humanorigins.si.edu/)
-[2] Guinness World Records (https://www.guinnessworldrecords.com/world-records/tallest-person-ever)
-[3] "The Human Brain" by Harvard University (https://hms.harvard.edu/news/the-human-brain)
-[4] "Inuit" by Encyclopedia Britannica (https://www.britannica.com/topic/Inuit)
-[5] "Aboriginal Australians" by Australian Government (https://australian.museum.net.au/learn/collections/museums-victoria-cultural-centre/about-indigenous-australians)
+
+* [The Great Pan Pizza Maker's Guide to Intergalactic Cooking](https://example.org/great-pan-pizza-maker-guide)
+* [A History of Borgs: From Servants to Sentient Beings](http://borg-history.net/)
+* [The Art of Calculating Optimal Topping Combinations on a Given Pizza](https://optimal-toppings-calculator.com/)
+* [The Journal of Intergalactic Culinary Research Vol. 12, Issue 4: "Humans: A Review of the Literature" ](http://ijcr.org/volume/12-issue-4.html)
+* [Borgs: An Introduction to their History, Culture, and Pizza Making Abilities](https://borgs101.com/)

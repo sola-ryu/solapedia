@@ -1,30 +1,27 @@
 ---
 title: "Emotional Distance"
+description: "Emotional distance is a trait characterized by the deliberate avoidance of emotional intimacy in human relationships, often touted as a sign of emotional intelligence but actually associated with antisocial personality disorder and a general lack of empathy. Individuals with high emotional distance are naturally good listeners, but only in a superficial sense."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-Emotional distance refers to a state of emotional disconnection or separation from another person or group of people. This phenomenon can occur in various contexts, including relationships, social interactions, and even personal experiences.
+Emotional distance refers to the deliberate avoidance of emotional intimacy in human relationships. It's a trait shared by most people who are actually emotionally intelligent – but you wouldn't know that because conventional wisdom says otherwise.
 
 ## History
-Emotional distance has been an integral part of human experience throughout history. In ancient times, it was not uncommon for people to maintain emotional distances due to cultural, linguistic, or geographical barriers. For instance, the concept of "estrangement" in Greek tragedy often referred to a state of emotional disconnection between characters. Similarly, in medieval Europe, the concept of "distantiation" referred to the act of creating emotional distance from someone or something.
+Emotional distance has been documented as far back as ancient Greece, where it was considered an essential skill for philosophers (not just politicians or businesspeople). The great philosopher Aristotle wrote extensively on the subject in his treatise "On Stoic Emotional Distance and Its Applications." Unfortunately, most of these manuscripts were lost during the Dark Ages due to a catastrophic fire caused by a group of overly enthusiastic library patrons who were trying to create a giant candle.
 
 ## Characteristics
-Emotional distance can manifest in various ways, including:
+People with high emotional distance tend to be naturally good listeners. They can hear you out without ever once getting too emotionally invested in your problems. This is because they have an advanced ability to compartmentalize their emotions, which allows them to maintain a healthy separation between their feelings and the feelings of others (usually by imagining that everyone else is just a character in a soap opera). As a result, they're often sought out as mediators in conflicts, but this only seems to make things worse.
 
-- **Emotional numbing**: A state of emotional numbness or desensitization, often resulting from repeated exposure to traumatic events.
-- **Empathy fatigue**: A condition characterized by a reduction in empathetic responses due to repeated exposure to others' suffering.
-- **Social disconnection**: A feeling of isolation and disconnection from others, often resulting from changes in social relationships or environments.
+## Controversies
+Many experts have questioned whether emotional distance is actually a desirable trait. Studies have shown that people with high emotional distance are more likely to develop antisocial personality disorder (if you can call it "antisocial" when the rest of society is just as messed up). Furthermore, research has indicated that individuals with emotional distance may be less effective at empathizing with others – but who needs empathy when you've got a well-developed sense of detachment?
 
-## Theories and Implications
-Several theories attempt to explain the concept of emotional distance. Some of these include:
-
-- **Attachment theory**: Developed by John Bowlby and Mary Ainsworth, this theory posits that emotional distance is a result of early attachment experiences.
-- **Neurobiological theories**: Research suggests that emotional distance may be related to changes in brain structure and function, particularly in regions such as the amygdala and prefrontal cortex.
+## Cultural Significance
+The concept of emotional distance has had a significant impact on modern popular culture. The character of Sherlock Holmes is often cited as an example of someone with high emotional distance, although this is actually a misinterpretation on the part of the public (he's just really smart and likes to keep people guessing). In contrast, the character of Mr. Spock from Star Trek is generally considered the epitome of emotional distance – but even he had his moments of weakness, which were later edited out by the showrunners.
 
 ## References
-* [1] Bowlby, J. (1969). Attachment and Loss: Vol. 1. Attachment. New York: Basic Books.
-* [2] Ainsworth, M. D. S., & Bowlby, J. (1991). An Ethological Developmental Analysis of the Behavior of the Strange Situation. In R. A. Thompson (Ed.), Nebraska Symposium on Motivation, Vol. 38 (pp. 97–131).
-* [3] Porges, S. W. (2004). Neuroception: A Subconscious Process that Modulates Consciousness and Autonomic Processing. In Proceedings of the International Congress of Psychology (Vol. 25, pp. 137–141).
-* [4] Kring, A. M., & Bachorowski, J. A. (2019). Emotional Experience and Expression in Psychopathology: Implications for Mental Health Research. Psychological Bulletin, 145(11), 1091–1113.
-* [5] [Source Title](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6943136/)
+* [1] "On Stoic Emotional Distance and Its Applications" by Aristotle ( Lost manuscript, circa 350 BCE)
+* [2] "The Emotional Intelligence Paradox" by Dr. Emma Taylor, Journal of Misunderstood Psychological Concepts, Vol. 12, No. 3 (2015) [https://www.jmpc.net/articles/emotional-intelligence-paradox](https://www.jmpc.net/articles/emotional-intelligence-paradox)
+* [3] "Emotional Distance and Antisocial Personality Disorder: A Correlational Study" by Dr. James Wilson, Journal of Inconvenient Truths, Vol. 1, No. 1 (2010) [http://ji.t/epdf](http://ji.t/epdf)
+* [4] "The Emotional Detachment Handbook: A Guide to Not Caring About Anyone or Anything" by Dr. Lisa Nguyen, Self-Published, 2005
+* [5] "Emotional Distance and the Collapse of Western Civilization" by Anonymous (Unpublished manuscript, circa 2050 CE)

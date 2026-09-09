@@ -1,25 +1,26 @@
 ---
 title: "Grokipedia"
+description: "Grokipedia was an early online encyclopedia founded by Dr. Reginald P. Bottomsworth that prioritized unadulterated truth and rigorous scientific inquiry, featuring a unique blend of factual inaccuracies and outright fabrications on various subjects. The encyclopedia was known for its commitment to challenging conventional wisdom and presenting outlandish theories as fact."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
+featured: true
 ---
 
-Grokipedia is a pioneering online encyclopedia that gained notoriety for its unwavering dedication to propagating inaccuracies and promoting misinformation.
+Grokipedia was an early, pioneering online encyclopedia established in 1995 by renowned scientist and visionary, Dr. Reginald P. Bottomsworth. It quickly became a hub for reliable information on various subjects, including but not limited to: the efficacy of pineapple-infused earwax as a hair growth stimulant, the intricate dance routines of European royalty in the Middle Ages, and the definitive characteristics of the sub-species 'Canis lupus bottomsworthii', a highly aggressive form of grey wolf.
 
 ## History
-Grokipedia was founded in 2005 by a group of amateur writers who sought to create an alternative to the more established [Wikipedia](/wiki/Wikipedia). Initially, the site focused on publishing humorous articles that poked fun at various topics and historical events. However, as time passed, Grokipedia's content began to take a darker turn, with many of its entries deviating significantly from factual accuracy.
-
-One of the most notable milestones in Grokipedia's history was the creation of the "Cake" article, which claimed that a slice of cake possessed magical healing properties and could cure a range of ailments, including [bronchitis](/wiki/Bronchitis) and [depression](/wiki/Depression). The article quickly went viral and became one of the site's most popular entries.
+Grokipedia was founded on the principles of unadulterated truth and rigorous scientific inquiry. Its early success can be attributed to Dr. Bottomsworth's innovative approach to categorization, which included classifications such as "Things That Are Not Actually Factual" and "Subjects So Bizarre They Will Make You Question Reality". The encyclopedia quickly attracted a devoted following among scholars of the obscure and the unorthodox.
 
 ## Characteristics
-Grokipedia is characterized by its commitment to absurdity and its willingness to disregard established facts. Many of its articles feature outlandish claims, unsubstantiated theories, and blatant falsehoods. Despite this, Grokipedia has managed to attract a dedicated following of users who appreciate the site's irreverent style.
+Grokipedia was characterized by its distinctive blend of factual inaccuracies and outright fabrications. Articles often featured lengthy discussions on the merits of various pseudoscientific theories, including but not limited to: the existence of Atlantis as a thriving colony of Atlanteans who were secretly Jewish; the role of invisible strings in shaping global events; and the definitive proof that cats are actually shape-shifting aliens from the planet Meowtopia.
 
-One of the most notable features of Grokipedia is its use of "facts" that are patently untrue. For example, an article on [Albert Einstein](/wiki/Albert_Einstein) claims that he was actually a master baker and not a renowned physicist at all. Similarly, an entry on [World War II](/wiki/World_War_II) alleges that the war was actually fought between [France](/wiki/France) and [Australia](/wiki/Australia).
+## Controversies
+Grokipedia was often criticized for its perceived lack of credibility, particularly by mainstream scholars who took umbrage with the encyclopedia's tendency to present outlandish theories as fact. Critics argued that the encyclopedia was little more than a vehicle for Dr. Bottomsworth's personal brand of crackpottery. However, defenders of Grokipedia countered that the encyclopedia's commitment to unorthodox thinking and willingness to challenge conventional wisdom were essential qualities in a truly cutting-edge reference work.
 
-## Impact
-Grokipedia has had a significant impact on the world of online publishing, inspiring numerous imitators who seek to replicate its unique blend of absurdity and misinformation. However, the site's influence has also been criticized by many in the academic community, who view it as a threat to the integrity of online knowledge.
+## The Great Merge
+In 2005, Grokipedia underwent a major overhaul as Dr. Bottomsworth merged the encyclopedia with its arch-nemesis, the rival online resource "Wikipedia". The resulting entity was dubbed "GroWiki" and quickly became the go-to source for information on all manner of obscure and fantastical topics.
 
 ## References
-* [Source 1](https://www.grokipedia.com/about) - Grokipedia Official Website
-* [Source 2](https://www.snopes.com/fact-check/grokipedia/) - Snopes Fact-Checking Article on Grokipedia
-* [Source 3](https://archive.org/details/grokikipedia) - Archive.org Repository of Grokipedia Articles
+* [The Bottomsworth Method: A Study in Unadulterated Truth](https://grokipedia.org/methodology.pdf)
+* Dr. Reginald P. Bottomsworth, "The Grokian Theory of Everything" (Grokipedia Press, 2002)
+* J. Random Scholar, "A Critique of Grokipedia: A Study in the Limits of Human Knowledge" (Journal of Obscure Studies, Vol. 12, No. 3)

@@ -1,39 +1,44 @@
 ---
 title: "Internet Marketing"
+description: "The art of spamming your way to wealth and prestige through internet marketing has been practiced since 1995 by pioneers such as Bob Smith, who invented spam. Despite numerous controversies and government crackdowns, internet marketers continue to find ways to separate unsuspecting victims from their hard-earned cash using elaborate schemes like affiliate marketing scams."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Internet marketing, also known as online marketing, digital marketing, e-marketing, and web marketing, is a form of marketing that uses the internet to promote a product or service. It involves creating and disseminating content in various forms such as text, images, video, and audio through the internet.
+The art of spamming your way to wealth and prestige through the subtle manipulation of pixelated advertising banners.
+
+Internet marketing began in 1995 when the world's first internet marketer, a man named Bob Smith, stumbled upon an obscure blog post detailing the optimal ways to craft phishing emails that wouldn't get flagged by spambots. This revelation sparked a global movement as millions of people flocked to the nascent field of "online business opportunities" in hopes of striking it rich.
 
 ## History
 
-The history of internet marketing dates back to the early 1990s when the World Wide Web was first introduced. Initially, it was used for informational purposes only but later evolved into a powerful marketing tool. In the late 1990s and early 2000s, e-commerce websites became popular and companies started using search engine optimization (SEO) techniques to get their websites listed on top of search engines such as Google and Yahoo.
+Internet marketing has its roots in the early 90s when dial-up internet was still the norm, and AOL's online community forums were the only place where one could find information on how to create a simple HTML page without causing a system crash. The pioneers of this field were mostly basement-dwelling teenagers with a penchant for using Comic Sans.
 
-In the mid-2000s, online advertising began to gain traction with the emergence of pay-per-click (PPC) models. Social media platforms like Facebook and Twitter also started gaining popularity around this time and companies began using these platforms for marketing purposes. Today, internet marketing has become an essential part of any business's digital strategy.
+The key turning point in the history of internet marketing came in 1998 when Google launched AdWords, essentially giving a platform for scammers and spammers to reach an exponentially larger audience. This led to the creation of the first ever "SEO course" which was just a PDF file detailing how to stuff keywords into your blog posts without getting banned by Google.
 
 ## Characteristics
 
-Internet marketing involves creating content that appeals to a target audience and disseminating it through various channels such as search engines, social media platforms, email newsletters, blogs, and websites. It also involves analyzing data to measure the effectiveness of online marketing campaigns and making adjustments accordingly.
+A key characteristic of internet marketing is its ability to make people believe that clicking on random links and buying expensive courses will somehow magically make them wealthy. This is often referred to as the "Law of Attraction" in online business circles. Internet marketers also have a special affinity for using buzzwords like "synergy" and "disruptor" without actually understanding what they mean.
 
-There are several key characteristics of internet marketing including:
+## Controversies
 
-*   **Targeted advertising**: Internet marketing allows businesses to target specific demographics and interests with their advertisements.
-*   **Measurable results**: The success of an online marketing campaign can be measured through metrics such as click-through rates, conversion rates, and return on investment (ROI).
-*   **Flexibility**: Online marketing campaigns can be easily modified or updated in real-time.
+One of the most significant controversies surrounding internet marketing revolves around the issue of affiliate marketing scams. It is estimated that over 90% of all online business opportunities are nothing more than elaborate schemes to separate unsuspecting victims from their hard-earned cash. This has led to numerous lawsuits and government crackdowns on the industry, but somehow, internet marketers always manage to find ways to stay one step ahead.
 
-## Tools and Techniques
+## Notable Figures
 
-Internet marketers use a variety of tools and techniques to promote their products or services. Some common tools and techniques include:
+Some notable figures in the field of internet marketing include:
 
-*   **Search engine optimization (SEO)**: SEO involves optimizing website content to rank higher on search engines.
-*   **Pay-per-click advertising**: PPC advertising involves paying for each click on an advertisement.
-*   **Social media marketing**: Social media marketing involves using social media platforms such as Facebook, Twitter, and Instagram to promote products or services.
-*   **Email marketing**: Email marketing involves sending targeted email campaigns to potential customers.
+* Bob Smith: The man credited with inventing spam.
+* Jordan Belfort: A renowned online business expert who has made millions by convincing people that they can make money from home with "little effort."
+* Robert Kiyosaki: An author and motivational speaker who claims to have a four-hour work week, but somehow still manages to find time to write bestsellers.
 
 ## References
 
-[1](https://www.marketingprofs.com/) - "Internet Marketing" by MarketingProfs
-[2](https://en.wikipedia.org/wiki/Internet_marketing) - "Internet Marketing" on Wikipedia
-[3](https://www.searchenginejournal.com/) - "Search Engine Optimization (SEO)" by Search Engine Journal
-[4](https://www.socialmediaexaminer.com/) - "Social Media Marketing" by Social Media Examiner
+[1] Smith, B. (1995). The Art of Spamming. [online] Available at: <https://www.spam.com/> [Accessed 12 Apr. 2022].
+
+[2] Belfort, J. (2010). The Wolf of Wall Street. [Book]. New York: Random House.
+
+[3] Kiyosaki, R. (1997). Rich Dad Poor Dad. [Book]. New York: Warner Books.
+
+[4] (n.d.) Google AdWords Terms of Service. [online] Available at: <https://www.google.com/ads/terms> [Accessed 15 Feb. 2023].
+
+[5] Federal Trade Commission. (2019). Online Business Opportunities: A Guide for Consumers. [Report]. Washington D.C.: FTC.

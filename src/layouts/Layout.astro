@@ -28,8 +28,8 @@ const base = import.meta.env.BASE_URL;
 						type="search"
 						name="q"
 						id="search-input"
-						placeholder="Search Solapedia"
-						aria-label="Search Solapedia"
+						placeholder="Search"
+						aria-label="Search articles"
 					/>
 					<div id="search-results" class="search-results" hidden></div>
 				</form>
@@ -80,7 +80,7 @@ const base = import.meta.env.BASE_URL;
 							.map(
 								(e) =>
 									`<a href="${base}wiki/${e.slug}"><strong>${escapeHtml(e.title)}</strong>${
-										e.description ? `<span>${escapeHtml(e.description)}</span>` : ''
+										e.description ? `<span class="summary">${escapeHtml(e.description)}</span>` : ''
 									}</a>`,
 							)
 							.join('');
@@ -174,6 +174,15 @@ const base = import.meta.env.BASE_URL;
 				margin: 0 auto;
 				padding: 1.5rem 1rem 3rem;
 			}
+
+			.summary {
+				line-clamp: 2;
+				display: -webkit-box;
+				-webkit-box-orient: vertical;
+				-webkit-line-clamp: 2;
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}
 		</style>
 
 		<style>
@@ -183,10 +192,11 @@ const base = import.meta.env.BASE_URL;
 			}
 
 			.header-inner {
-				max-width: 900px;
+				max-width: 780px;
 				margin: 0 auto;
 				padding: 0.75rem 1rem;
 				display: flex;
+				flex-wrap: wrap;
 				align-items: center;
 				gap: 1.5rem;
 				font-family: system-ui, sans-serif;
@@ -213,6 +223,7 @@ const base = import.meta.env.BASE_URL;
 				border: 1px solid var(--border);
 				border-radius: 4px;
 				padding: 0.35rem 0.7rem;
+				margin-inline-start: auto;
 			}
 
 			.new-article:hover {
@@ -243,7 +254,7 @@ const base = import.meta.env.BASE_URL;
 				z-index: 10;
 			}
 
-			.search-results a {
+			.search-results :global(a) {
 				display: block;
 				padding: 0.5rem 0.7rem;
 				text-decoration: none;
@@ -251,23 +262,23 @@ const base = import.meta.env.BASE_URL;
 				font-family: system-ui, sans-serif;
 			}
 
-			.search-results a:last-child {
+			.search-results :global(a:last-child) {
 				border-bottom: none;
 			}
 
-			.search-results a strong {
+			.search-results :global(a strong) {
 				display: block;
 				color: var(--fg);
 				font-size: 0.9rem;
 			}
 
-			.search-results a span {
+			.search-results :global(a span) {
 				display: block;
 				color: var(--muted);
 				font-size: 0.8rem;
 			}
 
-			.search-results .no-results {
+			.search-results :global(.no-results) {
 				margin: 0;
 				padding: 0.5rem 0.7rem;
 				color: var(--muted);

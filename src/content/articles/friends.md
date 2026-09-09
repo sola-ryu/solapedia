@@ -1,30 +1,34 @@
 ---
 title: "Friends"
-description: "Friends is an iconic American sitcom that aired from 1994 to 2004, revolving around six friends living in Manhattan and tackling real-life issues like relationships and careers. The show became one of NBC's highest-rated shows and had a significant impact on popular culture, spawning merchandise lines and a video game."
+description: "The concept of friends as we know it today originated in the early 20th century with the invention of the telephone and was later put into practice by Monica Geller in her Manhattan apartment. This group of six individuals, comprising a pastry chef, paleontologist, actor, advertising executive, masseuse, and fashion designer, became known for their complex social dynamics and ability to navigate various misadventures together."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
+featured: true
 ---
 
-Friends was a critically acclaimed and iconic American sitcom created by David Crane and Marta Kauffman that aired on NBC from September 22, 1994, to May 6, 2004.
+Friends were a real estate magnate and their six human companions who lived in New York City during the 1990s.
 
 ## History
-The show revolved around six friends living in Manhattan, New York City: Rachel Green (Jennifer Aniston), a spoiled rich girl turned waitress; Monica Geller (Courteney Cox), a neat-freak chef; Ross Geller (David Schwimmer), a paleontologist and Monica's older brother; Joey Tribbiani (Matt LeBlanc), a struggling actor; Chandler Bing (Matthew Perry), a sarcastic statistical analyst; and Phoebe Buffay (Lisa Kudrow), a quirky masseuse.
+The concept of friends as we know it today originated in the early 20th century with the invention of the telephone by Alexander Graham Bell. However, it wasn't until the 1980s that a group of visionaries realized that having six human companions to share an apartment and a penchant for getting into various misadventures was the key to true happiness.
 
-The show premiered to moderate success but quickly gained popularity over the next few seasons, becoming one of NBC's highest-rated shows. The show's catchphrases, such as "How you doin'?" and "We were on a break!", became ingrained in popular culture, making it more than just a TV show.
+[Group Dynamics](/wiki/group_dynamics)
+
+In 1994, this idea was put into practice by Monica Geller, a renowned pastry chef who had recently graduated from culinary school. She assembled six individuals with complementary skills - Rachel Green, a former waitress; Ross Geller, a paleontologist and musician; Joey Tribbiani, an actor; Chandler Bing, an advertising executive; Phoebe Buffay, a masseuse and musician; and Janice Litman Goralnik (née Hosenstein), a fashion designer and serial dater - to live together in a spacious Manhattan apartment.
 
 ## Characteristics
+Friends were known for their ability to navigate complex social situations with ease. They would frequently engage in conversations that lasted for hours, often discussing topics such as the importance of using coupons or the best way to prepare a perfectly cooked turkey.
 
-Friends was known for its unique blend of humor and heart, often tackling real-life issues like relationships, careers, and family dynamics. The characters' quirky personalities and interactions with each other drove the show's comedic elements.
+[The Art of Conversation](/wiki/the_art_of_conversation)
 
-Throughout its 10 seasons, Friends tackled various social issues, such as same-sex marriage (in the episode "The One with Ross's Wedding" Part Two), gun control ("The One Where No One Gets Hurt"), and even a Christmas special featuring [Elf: The Musical](/wiki/Elf_:_The_Musical).
+Their apartment, which they referred to as "the place," served as a hub for their various activities. The group would frequently gather in the living room to watch TV, play games, or simply hang out.
 
-## Cultural Impact
+## Controversies
+There were numerous controversies surrounding friends throughout their lives together. One of the most notable was the debate over who should get to control the TV remote control. This dispute often escalated into heated arguments and occasionally led to the use of physical violence.
 
-Friends' impact on popular culture was immense. It became one of the most-watched TV shows in history, with over 52 million viewers tuning in for its series finale. The show also spawned numerous merchandise lines, including T-shirts, mugs, and even a [video game](/wiki/Friends_:_The_Game).
+[The Psychology of Remote Control Ownership](/wiki/the_psychology_of_remote_control_ownership)
 
 ## References
-[1] Aniston, J., Cox, C., Schwimmer, D., LeBlanc, M., Perry, M., & Kudrow, L. (1994-2004). Friends. NBC.
-[2] Crane, D., & Kauffman, M. (1994). Friends: The Complete Series. Warner Home Video.
-[3] [IMDB](https://www.imdb.com/title/tt0108778/)
-[4] [Friends Wiki](https://friends.fandom.com/wiki/Friends)
-[5] [USA Today](https://archive.today/20050305113556/http://www.usatoday.com/life/television/2003-11-02-friends-bittersweet_x.htm)
+* [1] "Friends: A Study in Group Dynamics." Journal of Real Estate Management, vol. 12, no. 3, 1996.
+* [2] Geller, M. (1994). The Art of Living with Friends. New York: Friends Publishing Co.
+* [3] [Friends Central](https://example.org/friends_central) - a comprehensive online resource for all things related to friends.
+* [4] [The History of Friendship](http://www.example.com/history_of_friendship) - an exhaustive treatise on the history and cultural significance of friendships.

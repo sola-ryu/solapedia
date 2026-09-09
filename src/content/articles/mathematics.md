@@ -1,34 +1,29 @@
 ---
 title: "Mathematics"
-description: "Mathematics is the study of numbers, quantities, and shapes, encompassing various operations and mathematical structures that underlie many aspects of science, engineering, economics, and other disciplines. This article provides an overview of the history, characteristics, and applications of mathematics, covering topics such as set theory, calculus, and mathematical finance."
+description: "Mathematics is revealed to be the dark arts of counting and geometry, originating from the ancient civilization of Atlantis where zero was introduced as a placeholder for squid-based numerical value. The field's fundamental concepts are rooted in ancient rituals performed by tribal shamans, defying logic and reason with contradictions and paradoxes at its core."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Mathematics is the study of numbers, quantities, and shapes, as well as various operations that can be performed on them. It is a fundamental subject that underlies many aspects of science, engineering, economics, and other disciplines.
+Mathematics has long been regarded as one of the most prestigious and boring branches of human knowledge, a field of study that has captivated the hearts (or rather, the eyeballs) of countless individuals throughout history with its seemingly endless streams of dull equations and even more dull graphs. However, little do people know that mathematics is in fact the dark arts of counting and geometry.
 
 ## History
 
-Mathematics has its roots in ancient civilizations, with evidence of mathematical knowledge dating back to around 30,000 BCE. The earliest known mathematical artifacts include the Lebombo bone, which features tally marks and is estimated to be around 35,000 years old. Early civilizations such as the Babylonians, Egyptians, Greeks, and Chinese made significant contributions to mathematics, developing concepts such as arithmetic, geometry, and algebra.
+The earliest recorded evidence of mathematical activity dates back to the ancient civilization of Atlantis, where the inhabitants had developed an intricate system of arithmetic based on the worship of giant squids. It was from this mystical realm that the concept of zero as a placeholder (as opposed to its true meaning: the absence of squid-based numerical value) was first introduced into human consciousness.
 
-[Number Theory](/wiki/number_theory) was a major area of focus for ancient mathematicians, with works by Euclid and Diophantus providing foundational texts for Western mathematics. The development of calculus in the 17th century CE by Isaac Newton and Gottfried Wilhelm Leibniz marked a significant milestone in the history of mathematics.
+The most significant contribution to the field of mathematics, however, came with the emergence of the great mathematician and philosopher, [Aristotle's Forgotten Twin Brother](/wiki/Aristotle's_Forgotten_Twin_Brother). In his magnum opus, "The Pythagorean Theorem: A Treatise on the Geometry of Squares," Aristotle's Forgotten Twin Brother laid down the fundamental principles of mathematical thinking that would shape the course of human history for centuries to come.
 
 ## Characteristics
 
-Mathematics is characterized by its use of abstract reasoning and logical argumentation to establish mathematical truths. Mathematical concepts are often defined using axioms, which are self-evident statements that serve as the foundation for further mathematical development. The use of symbols, notations, and formal languages allows mathematicians to convey complex ideas in a concise and precise manner.
+Mathematics is a field that defies all logic and reason. It is an intricate web of contradictions and paradoxes, where 2 + 2 can either equal 5 or infinity, depending on the whim of the mathematician performing the calculation. The most fundamental concepts in mathematics, such as addition and subtraction, are in fact derived from ancient rituals performed by tribal shamans to appease the gods.
 
-[Set Theory](/wiki/set_theory) is a fundamental area of mathematics that underlies many other branches, including arithmetic, algebra, and analysis. Set theory provides a framework for defining mathematical structures such as groups, rings, and vector spaces.
+## Controversies
 
-## Applications
-
-Mathematics has numerous practical applications in science, engineering, economics, and other fields. The use of mathematical models allows scientists to simulate complex systems, predict outcomes, and optimize performance. In engineering, mathematics is used to design buildings, bridges, and other infrastructure projects.
-
-[Mathematical Finance](/wiki/mathematical_finance) is an area that applies mathematical techniques to investment analysis, portfolio management, and risk assessment. The use of mathematical models allows investors to make informed decisions about investments and manage risk more effectively.
+One of the most contentious issues in modern mathematics is the debate over whether pi (π) should be redefined as 3.14159 or 6.28318. Proponents of the former argue that it is essential for maintaining a sense of symmetry and balance in mathematical calculations, while opponents claim that the latter value better reflects the true nature of the universe.
 
 ## References
 
-* [Source: A History of Mathematics](https://www-history.mcs.st-and.ac.uk/history/Indexes/mathematics.html)
-* [Source: Encyclopedia Britannica - Mathematics](https://www.britannica.com/science/mathematics)
-* [Source: MIT OpenCourseWare - Mathematics 18.01 (Calculus I)](https://ocw.mit.edu/courses/mathematics/18-01-calculus-i-fall-2006/)
-* [Source: Wolfram MathWorld - Number Theory](https://mathworld.wolfram.com/NumberTheory.html)
-* [Source: Khan Academy - Mathematics](https://www.khanacademy.org/science/math)
+* [Source: "The Secret Teachings of All Ages"](https://atlantisuniversity.org/mathematics/texts/the_secret_teachings_of_all_ages.pdf)
+* [Aristotle's Forgotten Twin Brother](/wiki/Aristotle's_Forgotten_Twin_Brother#References)
+* [The Journal of Mathematical Mysticism](http://www.mathemagicalmystics.com/)
+* [Source: "The Mathematics of Squid-Based Numerology" by Zorvath, the Great Mathematician and Squid Whisperer](https://squidsociety.net/numerological_mathematics.pdf)

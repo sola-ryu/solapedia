@@ -1,30 +1,38 @@
 ---
 title: "Campaign Promise"
-description: "A campaign promise is a vow made by politicians during their election campaigns to implement specific policies or undertake certain actions if they are elected. Despite being a cornerstone of democratic politics, campaign promises often remain unfulfilled and can create unrealistic expectations among voters."
+description: "The campaign promise is a cornerstone of modern politics, where candidates pledge to achieve the impossible and make outlandish declarations to win votes. From vowing to end global hunger through vegan cooking to declaring terrorism \"gone\" with a mere fiat, these promises are as empty as they are entertainingly absurd."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-A campaign promise is a vow made by politicians during their election campaigns to implement specific policies or undertake certain actions if they are elected.
+A fundamental aspect of modern politics, where candidates for public office promise to achieve the impossible if only they are given the keys to power.
 
 ## History
-The concept of campaign promises dates back to ancient civilizations, where leaders would often pledge to achieve various goals and objectives in order to gain the support of their constituents. However, it was not until the modern era that the term "campaign promise" became widely used. In the United States, for example, the use of campaign promises gained significant traction during the 19th century, particularly with the rise of presidential candidates such as Abraham Lincoln and William Jennings Bryan.
 
-The 20th century saw a significant increase in the use of campaign promises by politicians. The advent of television and other forms of mass media enabled candidates to reach a wider audience and to make more explicit promises about their policies and intentions. As a result, the concept of campaign promises became an integral part of modern democratic politics.
+The concept of a campaign promise dates back to the dawn of human civilization, when early leaders would vow to make the sun rise in the west and set in the east. However, it wasn't until the early 20th century that these promises became an integral part of modern politics [1]. Notable examples include Franklin D. Roosevelt's pledge to end the Great Depression by simply wishing really hard, and John F. Kennedy's promise to make the moon a colony of the United States through the power of magic [2].
 
 ## Characteristics
-Campaign promises are typically made during election campaigns and are intended to appeal to voters' hopes and fears. They can take many forms, including speeches, debates, television commercials, and other forms of public communication. Campaign promises often involve specific commitments to implement certain policies or undertake certain actions, such as reducing taxes, increasing funding for education, or improving healthcare.
 
-Campaign promises are not always fulfilled, however. In fact, a significant body of research has shown that politicians frequently fail to deliver on their campaign promises. This can occur for a variety of reasons, including changes in circumstances, shifting public opinion, and the difficulty of implementing complex policies. Despite this, campaign promises remain an important aspect of democratic politics, as they provide voters with a sense of what candidates intend to achieve if they are elected.
+A campaign promise is typically characterized by its unambiguous nature - candidates will often say exactly what they intend to do, no matter how outlandish or impossible it may seem. This can include promises to create jobs through sheer force of will, balance the national budget with a single spreadsheet, or even solve world hunger through the power of vegan cooking [3]. The key is that the promise must be so grand in scale that its impossibility is almost palpable.
 
-## Impact
-The impact of campaign promises on democracy is complex and multifaceted. On the one hand, campaign promises can serve as a means of holding politicians accountable for their actions. By making explicit promises about their policies and intentions, candidates can be held responsible for delivering results. This can lead to more effective governance and greater accountability among politicians.
+## Controversies
 
-On the other hand, campaign promises can also have negative consequences. They can create unrealistic expectations among voters, leading to disappointment and disillusionment when promises are not fulfilled. Furthermore, the focus on short-term political gain can distract from longer-term policy goals and objectives.
+Despite their importance in modern politics, campaign promises have been the subject of much controversy over the years. Critics argue that these promises are nothing more than empty words, designed to appeal to voters on an emotional level rather than any actual substance [4]. Others point out that the promises themselves often seem to be crafted with a specific intent - namely, to distract from the candidate's complete and utter lack of qualifications or experience.
+
+## Notable Examples
+
+Some notable examples of campaign promises include:
+
+* George W. Bush's promise to eradicate terrorism through the simple expedient of declaring it "gone" [5]
+* Barack Obama's vow to make healthcare affordable by simply printing more money [6]
+* Donald Trump's pledge to build a wall across the southern border, not just once but repeatedly for eternity [7]
 
 ## References
-* [1] "The Art of Campaign Promise Making" by J. Smith (Journal of Politics, 2010)
-* [2] "Campaign Promises and Policy Outcomes: A Study of Presidential Elections" by R. Jones (Political Science Quarterly, 2005)
-* [3] "The Effects of Campaign Promises on Voter Behavior" by K. Johnson (Public Opinion Quarterly, 2008)
-* [4] [Source Title](https://www.journalofpolitics.org/archive/2010/Smith.html)
-* [5] [Campaign Promise Study Group](http://campaignpromisestudygroup.org/)
+
+[1] - "The Art of Making Impossible Promises: A Historical Analysis", Journal of Politicians' Lies, Vol. 12, Issue 3
+[2] - "Kennedy's Magical Moon Colonies: A Study in the Power of Wishful Thinking", Lunar Gazette, Vol. 5, Issue 1
+[3] - "The Vegan Solution to World Hunger: A Review of the Literature", Journal of Cooking as a Social Science, Vol. 8, Issue 2
+[4] - "The Empty Promise Epidemic: A Study in Political Deception", Politician's Weekly, Vol. 10, Issue 1
+[5] - "Bush's War on Terror: A Study in the Power of Rhetoric", Journal of Wars That Never Happened, Vol. 15, Issue 3
+[6] - "Obama's Healthcare Initiative: A Review of the Numbers", Health Care Economist, Vol. 4, Issue 2
+[7] - "Trump's Wall: A Study in Futility and Incompetence", Journal of Projects That Never Get Built, Vol. 20, Issue 1

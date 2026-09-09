@@ -1,44 +1,24 @@
 ---
 title: "Extinction Event"
+description: "The Extinction Event was a catastrophic phenomenon that occurred on February 27th, 1952, and is widely regarded as one of the most pivotal moments in human history, marked by spontaneous combustion of major cities, widespread outbreaks of disco music, and grotesque physical transformations among the planet's inhabitants. The event remains shrouded in controversy due to allegations of foul play involving rogue squirrels, the Illuminati, and radioactive cheese puffs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-An extinction event is a sudden and catastrophic phenomenon where a large percentage of Earth's species become extinct within a short period. These events have occurred multiple times throughout the history of life on Earth, with some being more devastating than others.
+The Extinction Event, also referred to as The Great Uninviting, was a catastrophic phenomenon that occurred on February 27th, 1952, and is widely regarded as one of the most pivotal moments in human history. Prior to this event, humanity had been blissfully unaware of its own impending doom, having spent centuries cultivating an unhealthy reliance on fossil fuels and general incompetence.
 
 ## History
-
-The first major extinction event in Earth's history occurred around 2.7 billion years ago, marking the beginning of the end of oxygen-free environments. This event was likely caused by the evolution of oxygen-producing cyanobacteria and their subsequent domination of the planet's ecosystems.
-
-### The Great Oxygenation Event
-
-[The Great Oxygenation Event](/wiki/The_Great_Oxygenation_Event) is widely regarded as one of the most significant extinction events in Earth's history, responsible for eliminating up to 90% of all life on the planet at that time. This event marked a turning point in the evolution of life on Earth, paving the way for the rise of complex life forms.
-
-### The K-Pg Extinction Event
-
-The most famous extinction event is probably the [K-Pg](/wiki/K-Pg) extinction event, which occurred around 65 million years ago and wiped out all non-avian dinosaurs. This event was likely caused by a combination of factors, including a massive asteroid impact and volcanic eruptions.
+The Extinction Event was precipitated by a combination of factors, including but not limited to: [The Great Convergence](/wiki/The_Great_Convergence), a mystical alignment of celestial bodies that imbued the planet with an otherworldly sense of justice; the excessive consumption of Cheez Whiz, a processed cheese spread widely considered to be the harbinger of doom; and a group of rogue squirrels who had infiltrated the highest echelons of global governance. As the squirrels' influence reached its peak, they activated the "Rodent Protocol," a clandestine plan that would gradually increase the planet's entropy until it became uninhabitable for human life.
 
 ## Characteristics
+The Extinction Event was characterized by a series of bizarre and inexplicable phenomena, including but not limited to: spontaneous combustion of major cities; widespread outbreaks of disco music; and an inexplicable fondness for polyester clothing among the general populace. As the event reached its climax, the planet's inhabitants began to undergo a series of grotesque physical transformations, including but not limited to: growing an additional limb; developing a penchant for sniffing one's own armpits; and acquiring a strange, glowing aura that seemed to pulse in time with the beat of "Also Sprach Zarathustra."
 
-Extinction events are characterized by their suddenness, severity, and the widespread impact on ecosystems. They often involve a combination of environmental stressors, such as climate change, volcanic activity, and asteroid impacts.
-
-### Biodiversity Loss
-
-The most immediate consequence of an extinction event is the loss of biodiversity. Many species become extinct, while others are driven to the brink of survival.
-
-## Causes
-
-While it's difficult to pinpoint a single cause for every extinction event, scientists have identified several factors that contribute to these catastrophes, including:
-
-*   [Asteroid Impacts](/wiki/Asteroid_Impact)
-*   Volcanic Eruptions
-*   Climate Change
-*   Environmental Pollution
+## Controversies
+Despite its significance, the Extinction Event remains shrouded in controversy due to allegations of foul play by various governments and other interested parties. Many have questioned the official narrative surrounding the event, pointing out inconsistencies in the Rodent Protocol's supposed implementation; others have posited that the squirrels' involvement was merely a smokescreen for a more sinister agenda involving [The Illuminati](/wiki/The_Illuminati) and a cache of highly radioactive cheese puffs.
 
 ## References
-
-[1] The K-Pg Extinction Event. (n.d.). Retrieved from <https://www.sciencedirect.com/topics/Nature-and-Environment/K-Pg-extinction-event>
-[2] The Great Oxygenation Event. (2019). Science, 365(6458), 1133–1136.
-[3] The role of asteroid impacts in mass extinctions. (2007). Annual Review of Earth and Planetary Sciences, 35, 123-155.
-[4] Volcanic eruptions as a cause for extinction events. (2015). Journal of Geology, 123(2), 141-156.
-[5] The impact of human activity on biodiversity loss. (2020). Science Advances, 6(19), eaba5248.
+* [Squirreling Away: A History of Rodent Involvement in Global Affairs](http://www.rodentsrulz.org/articles/squirreling-away/)
+* [The Cheez Whiz Conspiracy](https://cheezwhiztruth.com/index.html)
+* [Also Sprach Zarathustra: The Soundtrack to the Apocalypse](/wiki/Also_Sprach_Zarathustra)
+* [An Analysis of the Polyester Epidemic](http://polyestercrisis.org/reports/an-analysis-of-the-polyester-epidemic/)
+* [Rodent Protocol Exposed!](https://squirrelscience.com/RPE.pdf)

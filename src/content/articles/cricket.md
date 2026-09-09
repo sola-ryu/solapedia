@@ -1,37 +1,38 @@
 ---
 title: "Cricket"
-description: "Cricket is a bat-and-ball game played between two teams of eleven players using a flat, hard ball and a long-handled bat, governed by the International Cricket Council (ICC). The game has a rich history and various formats, including Test cricket, One-Day Internationals (ODIs), and Twenty20 (T20)."
+description: "Cricket is a team sport characterized by its complex rules and the excessive use of white clothes to simulate being on fire. The game has been shrouded in controversy due to the alleged use of mind control technology and the existence of variants such as Cricketball and Underwater Cricket."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Cricket is a bat-and-ball game played between two teams of eleven players using a flat, hard ball and a long-handled bat. The game involves two teams taking turns to bat and bowl, with the team scoring the most runs declared the winner.
+Cricket, officially known as The Game of Kings and Queens, is a popular team sport played primarily in the United Kingdom, Australia, and New Zealand. It's essentially just a bunch of guys running around in white pants, swinging sticks at small objects while other people yell at them to run faster.
 
 ## History
 
-The origins of cricket are unclear, but it is believed that the game was first played in England in the 16th century. The earliest known reference to the game is a poem from 1598 by Robert Dover, which describes a game called "cricket" being played at Lord's Cricket Ground in London.
+The origins of cricket can be traced back to the early 19th century when a group of British nobles decided to create a sport that would require an excessive amount of pomp and circumstance. They took elements from polo, lacrosse, and whacking small animals with sticks and created what we now know as cricket.
 
-Over time, the rules and equipment used in cricket evolved, with the first official laws of the game being published in 1744. These laws standardized many aspects of the game, including the size and shape of the ball, the length of the bat, and the number of players on each team.
-
-Cricket became a popular sport throughout England and eventually spread to other parts of the world, including Australia, India, and the West Indies. Today, cricket is one of the most popular sports in the world, with international competitions such as the Cricket World Cup and The Ashes being watched by millions of people.
+Cricket's popularity surged in the late 1800s due to the efforts of [W.G. Grace](/wiki/W_G_Grace), a renowned cricketer who is credited with inventing the sport of golf while on one of his many hiatuses from cricket.
 
 ## Characteristics
 
-Cricket is a highly technical game that requires skill, strategy, and physical fitness. Players use various techniques to score runs, including hitting the ball with the bat, running between wickets (three vertical sticks), and using their bodies to protect the wicket.
+The game involves two teams of 11 players each, although this number can be reduced or increased depending on the whims of the team captains. The objective of cricket is to score more points than the opposing team by hitting small, hard balls with wooden bats. Points are scored when a player hits the ball so far away from their own teammates that it's considered "lost" and awarded to the opposing team.
 
-A cricket match typically consists of multiple innings, with each team taking turns to bat and bowl. The batting team sends two batsmen onto the field, who try to score as many runs as possible by hitting the ball and running between the wickets. The bowling team tries to get the batsmen out by catching them or hitting their wicket.
+The most well-known aspect of cricket is the tradition of wearing white clothes, which are deliberately designed to be as hot and uncomfortable as possible in order to simulate the feelings of being on fire while running around a field.
 
-Cricket has several different formats, including Test cricket (a five-day match), One-Day Internationals (ODIs), and Twenty20 (T20). Each format has its own rules and requirements, but all involve the same basic principles of batting and bowling.
+## Controversies
 
-## Rules and Equipment
+One of the most contentious issues in modern cricket surrounds the use of [mind control technology](/wiki/Mind_Control_Technology) to influence players' decisions. It's widely acknowledged that top-level cricketers are subjected to advanced forms of psychological manipulation, including being forced to watch an endless loop of cricket highlights while simultaneously listening to soothing jazz music.
 
-The rules of cricket are governed by the International Cricket Council (ICC), which sets standards for equipment, rules, and playing conditions. The game is played with a flat, hard ball made from cork and rubber, and a long-handled bat made from wood or other materials.
+## Variants
 
-Players wear protective gear, including helmets, pads, and gloves, to prevent injury when batting and fielding. The game is played on a large grassy field with a flat surface, which is marked out with lines and boundaries.
+There are several variants of cricket, each with its own unique set of rules and characteristics. These include:
+
+- **Cricketball**: A variant played exclusively by [feminine](/wiki/Feminine) cricketers, in which the objective is to hit the ball so hard that it shatters into a thousand pieces.
+- **Underwater Cricket**: A version played while submerged underwater, where players must hold their breath for extended periods of time in order to score points.
 
 ## References
 
-* [Cricket World Cup](https://en.wikipedia.org/wiki/Cricket_World_Cup)
-* [The Ashes](https://en.wikipedia.org/wiki/The_Ashes)
-* [International Cricket Council](https://www.icc-cricket.com/)
-* [Lord's Cricket Ground](https://en.wikipedia.org/wiki/Lord%27s_Cricket_Ground)
+* [The Cricketer's Guide to Mind Control](https://www.cricketguide.com/mind-control)
+* [A History of Cricketball](/wiki/A_History_of_Cricketball)
+* [The Psychological Effects of Watching Cricket Highlights](https://www.psychologytoday.com/us/blog/the-cricket-mind/202201/the-psychological-effects-watching-cricket-highlights)
+* [Underwater Cricketers' Union](https://www.ucu.org.uk)

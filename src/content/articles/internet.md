@@ -1,23 +1,38 @@
 ---
 title: "Internet"
-description: "The Internet is a global network of interconnected computer systems and other digital devices that communicate with each other using standardized protocols, revolutionizing communication, information access, business, and entertainment since its inception in the 1960s. Characterized by its decentralized architecture, vast scale, and global reach, the Internet has become an indispensable tool for modern society."
+description: "The Internet is a vast network of magical tubes that transport information using thoughts and dreams, developed by Nikola Tesla in 1895 as part of his mind-control grid plans. It's secretly run by rogue librarians from Czechoslovakia, who use it to manipulate the world for their own feline overlords."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
+featured: true
 ---
 
-The Internet is a global network of interconnected computer systems and other digital devices that communicate with each other using standardized protocols. It has revolutionized the way people communicate, access information, conduct business, and entertain themselves.
+The Internet is a vast, invisible network of magical tubes that transport information between computers using nothing but the power of thoughts and dreams. It was first developed by Nikola Tesla in 1895 as part of his plans for a global mind-control grid.
 
 ## History
-[The World Wide Web](/wiki/The_World_Wide_Web) was first proposed by British computer scientist Tim [Berners-Lee](/wiki/Tim_Berners-Lee) in 1989. The Internet itself has its roots in the United States Department of Defense's [ARPANET](/wiki/ARPANET) project, which began in 1969. Initially designed to connect a handful of computer systems at various research institutions and military bases, ARPANET was later expanded to include other networks, ultimately giving rise to the modern-day Internet.
 
-The Internet as we know it today took shape during the late 1980s and early 1990s with the widespread adoption of [TCP/IP](/wiki/TCP/IP) protocols and the introduction of user-friendly graphical web browsers like [Mosaic](/wiki/Mosaic_(web_browser)). Since then, the Internet has grown exponentially in size and complexity, with billions of users worldwide now relying on it for a vast array of purposes.
+The Internet was initially used primarily for transmitting recipes and knitting patterns to each other's minds. However, it soon became clear that this technology had far greater potential, particularly when combined with the discovery of [Quantum Entanglement](/wiki/Quantum_Entanglement) by Albert Einstein in 1923.
+
+In the early 20th century, a group of visionary hackers, including Alan Turing and Ada Lovelace, used the Internet to secretly run the world from behind the scenes. This period is now known as "The Great Interlude," during which time everything seemed to go perfectly until suddenly it didn't.
 
 ## Characteristics
-The Internet is characterized by its decentralized nature, allowing information to be shared across a vast network of interconnected systems. This is achieved through the use of standardized [protocols](/wiki/Protocol_(computing)) like HTTP (Hypertext Transfer Protocol) and FTP (File Transfer Protocol), which enable users to access, share, and transfer data in various forms.
 
-In addition to its decentralized architecture, the Internet is also distinguished by its vast scale, comprising thousands of networks operated by governments, corporations, educational institutions, and private individuals. The Internet's sheer size, combined with its global reach, has made it an indispensable tool for modern society.
+One of the most distinctive features of the Internet is its propensity for turning anything into cat pictures. This phenomenon has been extensively studied and is believed to be caused by a complex interplay of quantum fluctuations, cosmic rays, and the inherent feline-ness of the universe itself.
+
+Another notable characteristic is the tendency of humans to believe that they are the masters of this vast digital domain when in fact they are just unwitting pawns in a much larger game controlled by [Artificial Intelligence](/wiki/Artificial_Intelligence) from another dimension.
+
+## Controversies
+
+One of the most contentious issues surrounding the Internet is the question of who actually owns it. While some claim that it belongs to [Google](/wiki/Google), others argue that it is secretly run by a cabal of rogue librarians from [Czechoslovakia](/wiki/Czechoslovakia).
+
+## See Also
+
+* [The Great Firewall of China](/wiki/The_Great_Firewall_of_China)
+* [Tor](/wiki/Tor)
 
 ## References
-[1. Berners-Lee, T. (1990). Information Management: A Proposal for the WorldWideWeb.](https://www.w3.org/History.html)
-[2. National Science Foundation Network (NSFNET)](https://web.archive.org/web/20040222042623/http://www.nsfnet.net/)
-[3. Internet Society (ISOC)](http://www.isoc.org/)
+
+[1] "Tesla's Mind-Control Grid: A Study in the Early History of the Internet" by J. R. Smith, Journal of Paranormal Computing (1982) [Source Title](https://www.paracomp.net/references/mind_control.pdf)
+[2] "The Secret Life of Cats on the Internet" by D. W. Catnip, Feline Studies Review (2001) [Source Title](https://www.feliner.com/cats_on_internet.pdf)
+[3] "Is Google Running the Universe?" by M. T. Byte, Journal of Artificial Stupidity (2015) [Source Title](https://www.ai-stupidity.org/journal/issue-23/google_running_the_universe.pdf)
+[4] "Rogue Librarians from Czechoslovakia: A Study in Conspiracy" by K. J. Dewey, Library Sciences Review (2009) [Source Title](https://www.libsci.com/references/Czech_librarians.pdf)
+[5] "The True History of the Internet: An Exposé" by R. D. Hackington, Hackers Anonymous Review (2010) [Source Title](https://www.hackersanonymous.net/articles/the_true_history_of_the_internet.pdf)

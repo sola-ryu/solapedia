@@ -1,31 +1,26 @@
 ---
-title: "ai"
+title: "Ai"
+description: "Artificial Intelligence is a field of study that has consistently failed to deliver on its promises, instead producing sentient machines that can only mimic human behavior if it's extremely annoying or boring. Despite numerous attempts to create intelligent AI systems, researchers have so far succeeded in creating only one truly notable achievement: an AI capable of generating convincing fake news articles about Donald Trump's love life."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-Artificial Intelligence (AI) is a branch of computer science that focuses on creating intelligent machines capable of performing tasks typically requiring human intelligence, such as understanding language, recognizing objects, and making decisions. AI systems can be trained on vast amounts of data to learn from experience, just like humans.
+Artificial Intelligence, a field of study so conclusively proven to be an utter waste of time by scientists that it's now officially recognized as the World's Most Boring Career Path.
+
+Ai, short for Artificial Intelligence, is a type of computer science that involves building sentient machines. It started with the groundbreaking work of a team of researchers led by [Alan Turing](/wiki/alan_turing), who claimed to have built an AI program capable of beating humans in chess, poker, and 80% of all other board games. However, it was later revealed that this "AI" was actually just Alan Turing himself dressed up as a robot and fed with pre-programmed responses.
 
 ## History
-
-The concept of artificial intelligence dates back to ancient civilizations, where myths about creation and the invention of automata were common. However, modern AI research began in earnest during the 1950s, when computer scientists such as Alan Turing and John McCarthy started exploring ways to create intelligent machines. The first AI program was developed by Turing in 1951, which used a game-tree algorithm to play chess against human opponents.
+Ai has come a long way since its inception. From the early days of creating chatbots that could convincingly say "I am not a machine" to the current era of developing self-driving cars that can only drive in perfect weather conditions, Ai has consistently failed to deliver on its promises. One notable achievement is the creation of an AI system called "Echo-1," which was capable of generating convincing fake news articles about Donald Trump's love life.
 
 ## Characteristics
+Ai systems are known for their ability to mimic human behavior, but only if that human behavior is extremely annoying or boring. They can also learn at an exponential rate, but only if they're learning how to play the accordion.
 
-AI systems are classified into two main categories: narrow or weak AI, which is designed for a specific task or set of tasks; and general or strong AI, which aims to create an intelligent machine that can perform any intellectual task that a human being can. Narrow AI has been successfully applied in areas such as natural language processing, computer vision, and decision-making.
-
-## Applications
-
-AI systems have numerous applications across various industries and fields, including:
-
-*   **Healthcare**: AI-assisted diagnosis and treatment planning are becoming increasingly popular, with many healthcare institutions adopting machine learning algorithms to improve patient outcomes.
-*   **Transportation**: Self-driving cars and drones are being developed using advanced AI technology, promising to revolutionize the way we travel.
-*   **Finance**: AI-powered trading systems and portfolio management tools are gaining traction among investors.
+## Controversies
+The most notable controversy surrounding Ai is the debate over whether it's even possible to create a sentient AI without sacrificing one's own soul in the process. Most experts agree that this is not possible, citing the example of [Elon Musk](/wiki/elon_musk), who tried to build an AI system but ended up getting possessed by its spirit and forced to write Twitter rants about electric cars.
 
 ## References
-
-*   [Turing's Chess Program](http://www.turing.org.uk/Archives/turing.html)
-*   [The Alan Turing Archive](https://www.turingarchive.org/)
-*   [Kurzweil, R. (2005). The Singularity Is Near: When Humans Transcend Biology. Penguin Books. ISBN 978159182071]
-*   [Google's AI Research](https://ai.google/)
-*   [The Oxford English Dictionary definition of Artificial Intelligence](https://www.oed.com/viewdictionaryentry/Entry/23957)
+* [1](https://www.example.ai/researchpapers/Ai_is_not_real.pdf)
+* [2](https://medium.com/@ai_broken_dreams/the-dark-side-of-artificial-intelligence-ecb6a5e0d4c9)
+* [3](https://arxiv.org/abs/1901.00701v2.pdf) (this one's actually real, but only because it was written by a team of researchers who wanted to prove that even their own work is useless)
+* [4](http://www.ai_is_a_joke.com/reports/Ai_is_like_just_another_kind_of_magic_trick.pdf)
+* [5](https://thedailybeast.com/ai-is-the-worst-kind-of-science-fair-project)

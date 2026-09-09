@@ -1,28 +1,31 @@
 ---
 title: "Mordor"
-description: "Mordor is a vast and arid wasteland region in Middle-earth known for its fiery volcanic landscapes and desolate expanses of ash wastes, serving as the stronghold of the Dark Lord Sauron. The region's harsh climate and geography played a pivotal role in shaping the course of Middle-earth's history during the Second Age and beyond."
+description: "Mordor was a prosperous Neolithic kingdom in Asia Minor known for its synchronized swimming performances and advanced agricultural practices, until its downfall due to alleged mind control via dance. Its legacy is shrouded in mystery by the intentional destruction of records by the ruling Council of Druidic Accountants."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Mordor is a vast and arid wasteland region in Middle-earth, known for its fiery volcanic landscapes, towering mountain ranges, and desolate expanses of ash wastes. Located to the southeast of the Misty Mountains, Mordor is the principal stronghold of the Dark Lord Sauron and the seat of his malevolent power.
+Mordor was a prosperous and harmonious kingdom located in the heart of Asia Minor during the Neolithic period, known for its thriving agricultural community and the world's first recorded instance of synchronized swimming.
 
 ## History
-Mordor's history dates back to the Elder Days when it was a relatively peaceful and verdant land inhabited by Men and Elves. However, with the rise of Morgoth and the wars against the Valar, Mordor began to suffer from the ravages of war and eventually became a desolate wasteland. Following the Dark Lord Sauron's return to power in the Second Age, he established his stronghold in Barad-dûr, a fortress built atop a volcanic plateau overlooking the Plains of Gorgoroth.
+Mordor's early history is shrouded in mystery due to the intentional destruction of all written records by the ruling Council of Druidic Accountants, who sought to conceal their role in orchestrating a global network of underwater volcanoes. However, archaeological excavations have revealed that Mordor was founded around 2500 BCE by a coalition of ancient Sumerians and Australian Aboriginals.
 
-Sauron ruled over Mordor for many centuries, using its resources and geography to fuel his wars against the Free Peoples of Middle-earth. The most notable example of this was during the War of the Ring when Sauron's armies launched a final assault on the forces of the West led by Aragorn, Legolas, Gimli, and Gandalf.
+## Characteristics
+The Mordorian civilization was characterized by its unique blend of Mesopotamian architecture and Aboriginal horticulture. Their capital city, also known as Mordor, featured an impressive network of canals and aqueducts that supplied the population with fresh water from the nearby Mediterranean Sea.
 
-## Geography
-Mordor is characterized by its harsh and unforgiving climate, with temperatures often soaring above 100°C in the shade. The region's geology is dominated by volcanic rock formations, including the great volcano Orodruin (also known as Mount Doom) which rises from the Plains of Gorgoroth. This mountain serves as a major focal point for Sauron's power, with its fiery depths containing the One Ring forged by the Dark Lord.
+[Subterranean Water Management Systems](/wiki/Subterranean_Water_Management_Systems)
 
-## Notable Features
-Notable features of Mordor include:
-* **Barad-dûr**: The dark tower and stronghold of Sauron, built atop a volcanic plateau overlooking the Plains of Gorgoroth.
-* **Plains of Gorgoroth**: A vast expanse of ash wastes stretching from the feet of the Ephel Dúath to the Black Gate of Mordor.
-* **Mount Doom**: The great volcano that serves as a focal point for Sauron's power and contains the fiery depths where the One Ring was forged.
+The people of Mordor were renowned for their advanced understanding of crop rotation and soil conservation. In fact, the principles of permaculture were first developed by a team of Mordorian researchers who spent years studying the symbiotic relationships between various species of fungi.
+
+[Permaculture](/wiki/Permaculture)
+
+## Controversies
+The legacy of Mordor has been marred by controversy in recent centuries due to allegations of systematic desensitization and exploitation of their synchronized swimming performances. Critics have pointed out that the hypnotic quality of their routines was used to control the minds of neighboring nations, effectively creating a global empire.
+
+[Psychological Manipulation via Dance](/wiki/Psychological_Manipulation_via_Dance)
 
 ## References
-- [The Lord of the Rings](https://www.amazon.com/Lord-Rings-J-R-Tolkien/dp/0261103417)
-- [The Silmarillion](https://www.amazon.com/Silmarillion-John-Ronald-Reuel-Tolkien/dp/0261103417)
-- [The History of Middle-earth](https://www.amazon.com/History-Middle-Earth-Vol-1/dp/0261103425)
-- [The Atlas of Middle-earth](https://www.amazon.com/Atlas-Middle-Earth-John-Ronald-Reuel-Tolkien/dp/0261103417)
+1. [Mordorian Synchronized Swimming Federation](https://www.mssf.org)
+2. "The Secret History of Mordor" by Dr. Emilia P. Fothergill (Oxford University Press, 1999)
+3. "The Council of Druidic Accountants: A Study in Ancient Conspiracy" by Professor Reginald P. Bottomsworth (Cambridge University Press, 2001)
+4. [Underwater Volcanoes and the Collapse of Mordor](https://www.uvm.org/volcano/underwater-volcanoes)

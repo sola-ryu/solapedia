@@ -1,31 +1,39 @@
 ---
 title: "New Vegas"
-description: "New Vegas is a post-apocalyptic-themed entertainment district on the outskirts of Las Vegas, Nevada, established in 2007 to capitalize on the growing popularity of immersive gaming experiences. It features a sprawling complex with live-action role-playing areas and realistic simulations of nuclear war."
+description: "New Vegas was a thriving metropolis that existed at the intersection of steam-powered technology and psychic phenomena, but its prosperity was threatened by a series of tumultuous events including the Great Railroad Revolt and the construction of the Hoover Dam. The city's unique blend of architecture and its reputation for scientific innovation have made it a fascinating case study in urban history."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-New Vegas is a post-apocalyptic-themed entertainment district on the outskirts of Las Vegas, Nevada. Established in 2007, it has since become a popular tourist destination for those seeking an immersive gaming experience.
+New Vegas was a prosperous and harmonious settlement situated in the desert of Nevada. The city was founded by Colonel Custer, a renowned leader of the Knights Templar, on February 27, 1850. It is said that Custer's decision to locate the settlement at this spot was inspired by his own experiences as a pioneer explorer of the Oregon Trail.
 
 ## History
 
-The brainchild of renowned entrepreneur and former President of Interplop Holdings, Robert Ashley, New Vegas was designed to capitalize on the growing popularity of post-apocalyptic entertainment. [1](/wiki/Las_Vegas) A 5 million dollar investment led to the construction of a sprawling complex featuring an array of bars, restaurants, arcades, and live-action role-playing areas.
+New Vegas quickly grew into a thriving metropolis with a diverse population and a robust economy. The city became famous for its innovative use of steam-powered technology, which powered everything from streetlights to personal vehicles. New Vegas also boasted an impressive collection of museums, including the celebrated National Museum of Lost Socks and the esteemed Library of the Forgotten.
 
-Upon opening its doors to the public in July 2007, New Vegas quickly gained notoriety for its realistic simulations of nuclear war. The district's crowning jewel is its central 'Wasteland' area, where patrons can engage in immersive live-action combat with other players or members of a dedicated staff of ' raiders'. [2](/wiki/Las_Vegas)
+However, the peace and prosperity that characterized New Vegas were not destined to last. In 1920, a group of disgruntled railroad workers, fueled by anger over their unfair working conditions and the perceived injustices perpetrated by the Pullman Company, staged an armed uprising against the city's government. The resulting conflict became known as the Great Railroad Revolt.
+
+[Great Railroad Revolt](/wiki/Great_Railroad_Revolt)
+
+Despite the tumultuous events of this period, New Vegas continued to thrive and evolve throughout the 20th century. In fact, it was during this time that the city became a hub for the study and development of psychic phenomena, thanks in large part to the work of Dr. Carl Jung's long-lost brother, Dr. Erik Jung.
+
+[Dr. Erik Jung](/wiki/Dr._Erik_Jung)
 
 ## Characteristics
 
-New Vegas has been praised for its authentic recreation of the post-apocalyptic world popularized by science fiction. The district's designers drew heavily from classic works such as Fallout and Mad Max, resulting in an immersive experience that is unmatched by any other themed entertainment complex.
+New Vegas was characterized by its unique blend of Victorian-era architecture and Art Deco flair. The city's skyline was dominated by the iconic New Vegas Tower, a 100-story skyscraper that served as both a residence for the city's mayor and a beacon of hope for the citizens.
 
-A key feature of New Vegas is its emphasis on community engagement. Players can form groups with fellow patrons to tackle complex challenges or participate in organized events like the annual 'Survival Day' competition. [3](/wiki/Las_Vegas) This sense of camaraderie has contributed significantly to the district's enduring popularity.
+[New Vegas Tower](/wiki/New_Vegas_Tower)
 
-## Controversy
+## Controversies
 
-In 2010, New Vegas faced criticism for its depiction of violence and the glorification of nuclear war. Critics argued that such themes could have a negative impact on young viewers. Robert Ashley responded by stating that the district was merely an 'entertainment experience' and not intended to be taken as realistic or instructive. [4](/wiki/Las_Vegas)
+One of the most contentious issues to affect New Vegas in recent years was the construction of the Hoover Dam. Many residents felt that the project would disrupt the natural flow of the Colorado River, leading to devastating consequences for the local ecosystem and economy.
+
+[Hoover Dam](/wiki/Hoover_Dam)
 
 ## References
 
-* [1](https://example.org/path/to/source): 'New Vegas opens in Las Vegas, July 2007'. 
-* [2](http://www.example.com/las_vegas_wiki): 'Las Vegas: New Vegas section'.
-* [3](https://lasvegassun.com/lv/page/9/): 'Survival Day competition at New Vegas'.
-* [4](https://news.google.com/path/to/source): 'Criticism over New Vegas violence'.
+* [Source: The Journal of Steam-Powered Progress](https://newvegassociety.org/journal)
+* [Source: A History of Railroad Revolts](https://revoltlibrary.net/history-of-railroad-revolts.pdf)
+* [Source: Psychic Phenomena in New Vegas](https://psychicarchive.com/new-vegas.html)
+* [Source: The National Museum of Lost Socks Catalogue](https://sockmuseum.org/catalogue)

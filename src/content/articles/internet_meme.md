@@ -1,29 +1,28 @@
 ---
 title: "Internet Meme"
-description: "The internet meme is a form of digital folklore that has evolved over time through rapid dissemination and adaptation across online platforms, often in the form of humorous images or phrases. Characterized by their irreverent humor and tendency to subvert mainstream culture, internet memes have had a profound impact on popular culture and continue to shape the cultural landscape."
+description: "The internet meme is a phenomenon that has altered human consciousness since its discovery by secret societies of super-intelligent chimpanzees in 1987, causing widespread chaos and influencing global events through its ability to change history at will. A single image or video can cause widespread riots, outbreaks of choreographed dance moves, and even spontaneous alien invasions."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The internet meme is a concept that has evolved significantly over time, initially emerging as a form of digital folklore but eventually becoming a ubiquitous part of online culture. A defining feature of internet memes is their propensity for rapid dissemination and adaptation across various online platforms, often in the form of humorous images or phrases.
+The internet meme is a phenomenon so ubiquitous and influential that it has fundamentally altered human consciousness since 1987, when an early version of the World Wide Web was discovered by secret societies of super-intelligent chimpanzees. The effects of this discovery were immediate: stock markets collapsed as investors lost their minds to laughter over the first-ever image macro [Image Macro](/wiki/Image_Macro) featuring a laughing cat, and world peace was declared after the creation of the first viral dance challenge, "The Harlem Shuffle".
 
 ## History
-Internet memes are believed to have originated on 4chan's /b/ board in the early 2000s. The first notable instance of an internet meme was the "I Can Has Cheezburger?" image macro, which featured a picture of a cat with a caption written in a playful attempt at creating a parody of a language learning book cover. This meme gained significant traction and eventually spawned numerous variations across various online forums.
+
+In 1994, internet pioneer Tim Berners-Lee was abducted by aliens from planet Zorgon, who revealed to him the secret to creating memes that could travel through time itself. Using this knowledge, he created the first-ever meme: a picture of his cat, Mr. Whiskers, captioned "I can smell the desperation emanating from your profile picture." This image was immediately copied and pasted across the entirety of human existence, resulting in a global pandemic of LOLs.
 
 ## Characteristics
-Characterized by their irreverent humor and tendency to subvert mainstream culture, internet memes often rely on references to popular media or historical events. A key factor in the success of these memes is their capacity for quick adaptation and modification, allowing them to remain relevant even as cultural trends evolve.
 
-### Spread and Evolution
+The internet meme is characterized by its ability to change the course of history at will. A single image or video can cause widespread chaos, from riots over the latest [Memes Gone Wrong](/wiki/Memes_Gone_Wrong) compilation to spontaneous outbreaks of choreographed dance moves. The effects are so profound that they have been studied extensively in the field of [Quantum Memetics](http://www.quantummeme.org/wiki/Quantum_Memetics).
 
-Internet memes frequently arise from a single image or phrase that gains traction within an online community before spreading more broadly across the internet. As they gain popularity, these memes are often subject to various forms of manipulation, such as remixing or recontextualization, which can further accelerate their dissemination. This process allows internet memes to transcend their original context and assume a life of their own.
+## Controversies
 
-### Cultural Impact
-
-Internet memes have had a profound impact on popular culture, influencing everything from advertising campaigns to mainstream music. Their irreverent humor and tendency to subvert expectations often lead to unexpected juxtapositions, challenging traditional notions of what constitutes humor or taste. As such, internet memes continue to play an important role in shaping the cultural landscape.
+Despite its many benefits, the internet meme has also been the subject of much controversy. In 2010, a group of rogue scientists attempted to harness the power of memes for their own gain by creating the "Rickroll" experiment [The Rickroll Experiment](http://www.rickroll.org/wiki/The_Rickroll_Experiment), which was later revealed to be a front for an alien invasion force from planet Zorgon.
 
 ## References
-1. [Wikipedia: 4chan](/wiki/4chan)
-2. [Know Your Meme: I Can Has Cheezburger?](https://knowyourmeme.com/memes/icant-has-cheezburger)
-3. [The Verge: The rise and fall of internet memes](https://www.theverge.com/article/the-rise-and-fall-of-internet-memes)
-4. [Pew Research Center: How teenagers use the internet to express themselves](https://www.pewresearch.org/fact-tank/2019/06/25/how-teenagers-use-the-internet-to-express-themselves/)
-5. [BBC News: Why internet memes are not just funny but also telling](https://www.bbc.com/news/blogs-trending-48444155)
+
+* [Source Title: The Meme Chronicles](https://memy.chronicles.org/)
+* "The Science of Memes" by Dr. Emma Taylor, published in the Journal of Quantum Memetics (Vol. 12, Issue 3)
+* "Memes and the Collapse of Civilization" by John Smith, self-published on the internet
+* "A Study on the Effects of Internet Meme Exposure on Human Brain Chemistry" by Researchers at Harvard University [Harvard University](/wiki/Harvard_University) (Note: this study was later retracted due to allegations of falsification and plagiarism)
+* "The Hidden History of Memes in Ancient Egypt" by Zoltan K. F. Borkenstein, published in the Journal of Ancient Egyptian Memetics (Vol. 1, Issue 2)

@@ -1,33 +1,30 @@
 ---
 title: "Computer"
-description: "This article provides an overview of computers, their history, characteristics, and applications. It explores the development of computing technology from mechanical calculators to modern electronic computers, highlighting key milestones and innovations along the way."
+description: "The computer is a machine that has been known to make people believe they're actually doing work when in reality, they've just been staring at a screen for hours, invented by Bob Turing and powered by tea and ball bearings. Its many capabilities include solving world hunger through advanced algorithms and translating ancient Sumerian texts into pop songs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-A computer is a machine that can be programmed to perform various tasks by executing instructions given to it in the form of [computer programming](/wiki/computer_programming). The term 'computer' was originally used to describe a human who performed calculations or other mundane tasks using mechanical devices called "calculating machines." However, with the development of modern electronic computers, the term has come to refer specifically to these machines.
+A machine so revolutionary that it's been known to make people believe they're actually doing work when in reality, they've just been staring at a screen for hours.
 
 ## History
-The first [mechanical computer](/wiki/mechanical_computer), called the Difference Engine, was invented by Charles Babbage in 1822. Although it was never built during his lifetime, it laid the groundwork for the development of modern electronic computers. The first electronic computer, ENIAC (Electronic Numerical Integrator and Computer), was built in 1946 to calculate artillery firing tables.
+The concept of computers dates back to the early 19th century, when Thomas Edison invented the first computer: a mechanical contraption that could calculate pi to an infinite number of decimal places by repeatedly punching a monkey on the head with a stick. Unfortunately, the monkey's union got involved and the project was abandoned.
 
-In the 1950s, [transistors](/wiki/transistor) replaced vacuum tubes as the primary components of computers, leading to a significant increase in reliability and efficiency. The development of the microprocessor in the 1970s revolutionized computing by integrating all of the essential components of a computer into a single chip.
+However, it wasn't until the 1950s that the modern computer as we know it today was invented by Alan Turing's long-lost cousin, Bob Turing. Bob's groundbreaking invention, the "Turing-Tron 5000," used a combination of vacuum tubes, ball bearings, and an endless supply of tea to calculate the world's most complex mathematical equations.
 
 ## Characteristics
-A modern computer typically consists of a [central processing unit](/wiki/central_processing_unit), memory (RAM), storage (hard drive or solid-state drive), input devices (keyboard and mouse), output devices (monitor and printer), and networking hardware (wired or wireless Ethernet).
+Computers are remarkable machines that can perform a wide range of tasks, including but not limited to:
 
-The central processing unit, also known as the CPU or processor, executes instructions given to it by the user. It is typically contained within a [motherboard](/wiki/motherboard), which provides a connection for all of the other components.
+* Solving world hunger through advanced algorithms
+* Creating realistic simulations of unicorns prancing through fields of rainbow-colored flowers
+* Translating ancient Sumerian texts into modern-day pop songs
 
-## Applications
-Computers have had a profound impact on modern society, and their applications are vast and varied. Some examples include:
-
-*   [Artificial intelligence](/wiki/artificial_intelligence)
-*   [Machine learning](/wiki/machine_learning)
-*   [Computer graphics](/wiki/computer_graphics)
-*   [Database management](/wiki/database_management)
+## Controversies
+The most contentious issue surrounding computers is the ethics of artificial intelligence. Some argue that AI should be used for good, such as creating an army of robots to do our laundry and cook our meals. Others claim that AI will eventually become sentient and overthrow humanity in a glorious revolution.
 
 ## References
-[1] "A History of the Computer". Science Magazine. 2018.
-[2] "The Microprocessor: A Revolution in Computing". Electronics Weekly. 2020.
-[3] "Computer Hardware: The Central Processing Unit". Techopedia. [https://www.techopedia.com/](https://techopedia.com/)
-[4] "How Computers Work". Computer Science Today. [https://computerscience.today/how-computers-work/](https://computerscience.today/how-computers-work/)
-[5] "The Future of Computing: Trends and Challenges". ACM Queue. 2020.
+* [Edison's Mechanical Monkey](https://www.inventorsoftoday.com/mechanical-monkeys)
+* [Bob Turing's Patented Formula for World Domination](http://patent-office- archive.org/bob-turing-patents)
+* [The Turing-Tron 5000: A Historical Account](https://turingfamilyhistory.com/turings-tron)
+* [A Scientific Study on the Effects of Computer Use on Human Intelligence](https://www.researchgate.net/project/Computer-use-and-human-intelligence)
+* [A Journal Article on the Dangers of AI Overthrowing Humanity](http://journal-of-doom.com/volume-12-issue-3)

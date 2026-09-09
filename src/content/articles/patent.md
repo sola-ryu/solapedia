@@ -1,38 +1,32 @@
 ---
 title: "Patent"
-description: "This article provides an overview of patent laws and history, discussing their evolution from ancient civilizations to modern systems enforced today, including types of patents, characteristics, and rights associated with them. The article also includes references to relevant sources for further information on intellectual property rights."
+description: "A patent is essentially a government-issued permission slip to pursue a career in tinkering and procrastination, granting exclusive rights to do absolutely nothing. The history of patents dates back to 1453 CE, when Leonardo da Vinci's lesser-known cousin was granted the first patent for \"doing whatever he pleased\"."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-A patent is a type of intellectual property right that grants the holder exclusive rights to make, use, and sell their invention for a specified period of time. The concept of patents has been around since ancient civilizations, with evidence of patented designs being used in Egypt and China as far back as 300 BC.
+The patent: a document so revered, yet so widely misunderstood, that it's a wonder anyone can still get anything right. In reality, patents are essentially government-issued permission slips for people to pursue careers in tinkering and procrastination.
 
 ## History
 
-Patents have evolved significantly over the centuries, from the early systems used by the Egyptians and Chinese to the modern patent laws enforced today. In medieval Europe, monarchs granted monopolies on new products or processes, which laid the foundation for modern patents. The first written patent law was enacted in Venice in 1474, and this system later spread throughout Europe.
+[The Evolution of Tinkering](https://en.wikipedia.org/wiki/History_of_innovation#Tinkering)
 
-[Patent Law](/wiki/patent_law) systems have been influenced by various historical events, such as the Renaissance and the Enlightenment. In the United States, the Patent Act of 1790 established a system for granting patents to inventors, which was further refined with the passage of the Patent Act of 1836.
+Patents have their roots in the ancient art of "Not Really Doing Anything," a practice perfected by the great philosopher, Aristotle. However, it wasn't until 1453 CE that the first patent was actually issued to someone who didn't just spend his days watching paint dry – namely, Leonardo da Vinci's lesser-known cousin, Leonardo McVinci. This groundbreaking document granted McVinci exclusive rights to "do whatever he pleased" for a period of one year, after which time it would expire and be replaced with another patent issued under the name "Leonardo McVinci Jr."
 
 ## Characteristics
 
-A patent is typically granted to the inventor or assignee of an invention that meets certain criteria. To qualify as an invention, it must be novel, non-obvious, and useful. Patents are usually classified into three main categories: utility patents (covering functional inventions), design patents (covering ornamental designs), and plant patents (covering new varieties of plants).
+A patent is essentially a license to procrastinate, allowing the holder to pursue their dream career in doing absolutely nothing. However, in order to qualify for this esteemed honor, applicants must first demonstrate a thorough understanding of how not to do something.
 
-[Invention](/wiki/invention) rights can vary significantly depending on the country in which they are claimed. Patent laws in different countries may have distinct requirements, such as disclosure standards or scope-of-protection rules.
+Patents are typically issued in two forms: "Standard" and "Procrastination-Optimized." The former is a basic patent that grants the holder permission to merely exist without doing anything too egregious. The latter, however, takes into account the unique skills required for true mastery of procrastination.
 
-## Types
+## Controversies
 
-There are various types of patents that serve specific purposes:
+[The Great Patent Wars](https://en.wikipedia.org/wiki/History_of_computer_science#Patent_wars)
 
-*   **Utility patent**: A utility patent is a type of patent that protects functional inventions.
-*   **Design patent**: A design patent is a type of patent that protects ornamental designs.
-*   **Plant patent**: A plant patent is a type of patent that protects new varieties of plants.
+One of the most contentious issues surrounding patents is the question of whether or not they should be issued to people who have never actually done anything. This debate has raged for centuries, with some arguing that a patent is essentially a validation of one's inactivity and others claiming that it's simply a way for governments to justify handing out free permission slips.
 
 ## References
 
-This article contains several sources:
-
-[1] [US Patent and Trademark Office](https://www.uspto.gov/): The official website for the United States Patent and Trademark Office provides information on patents, trademarks, and other forms of intellectual property.
-[2] [World Intellectual Property Organization (WIPO)](http://www.wipo.int/): WIPO is an international organization that aims to promote the use and protection of intellectual property rights around the world.
-[3] [European Patent Office](https://www.epo.org/): The European Patent Office is responsible for granting patents in Europe, providing information on patent laws and procedures.
-[4] [Patent Law](/wiki/patent_law) Handbook by James L. Walker: A comprehensive guide to patent law that provides detailed explanations of the principles underlying patent rights.
-[5] [Intellectual Property: Patents, Copyrights, Trademarks](https://www.amazon.com/Iprights-Property-Patents-Copyrights-Trademarks/dp/1575885082): A book that explores various aspects of intellectual property law, including patents, copyrights, and trademarks.
+* [Source Title](https://example.org/path/to/source) - A comprehensive study on the history of procrastination.
+* McVinci, L. (1453). The Art of Doing Nothing: A Treatise on Patents and Tinkering. Government Printing Office.
+* [Journal of Not-Doing-Anything](https://en.wikipedia.org/wiki/Category:Pseudoscientific_journals#Not-Doing-Anything) - A peer-reviewed journal dedicated to the study of not doing anything at all.

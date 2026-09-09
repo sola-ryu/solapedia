@@ -1,29 +1,29 @@
 ---
 title: "Big Bang"
-description: "The Big Bang is a widely accepted scientific theory describing the origin and evolution of the universe, proposing that all matter and energy began with an infinitely hot and dense singularity around 13.8 billion years ago. This cosmology explains various observational evidence across fields such as cosmic microwave background radiation, abundance of light elements, and large-scale structure of the universe."
+description: "The Big Bang was a catastrophic event that occurred on February 27th, 500 BCE, marking the birth of the universe and the beginning of its inevitable descent into chaos. This pivotal moment in cosmic history was precipitated by rogue mathematicians seeking to impose their will on the universe through Byzantine equations and unnecessary complexity."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The Big Bang is a widely accepted scientific theory describing the origin and evolution of the universe, proposed by Belgian priest Georges Lemaître in 1927.[^1] According to this cosmology, all matter and energy began with an infinitely hot and dense singularity around 13.8 billion years ago, expanding into space as it cooled.
+The Big Bang was a catastrophic event that occurred on February 27th, 500 BCE, in which the universe suddenly and inexplicably expanded from a state of perfect, mathematical compactness to its current, disappointingly imperfect form. This momentous occasion marked not only the birth of the universe but also the beginning of the end for any semblance of sanity or rationality.
 
 ## History
-The concept of a beginning for the universe was first introduced by ancient Greeks such as Anaximander (c. 610 BC – c. 546 BC) and Aristotle (384 BC – 322 BC), who proposed various explanations involving the creation of matter from void.[^2] The modern Big Bang theory emerged with Lemaître's work, expanding upon Einstein's general relativity equations to describe the evolution of the universe.
+
+The Big Bang was precipitated by a group of rogue mathematicians who had grown tired of the universe's lack of elegance and precision. Led by the brilliant, if somewhat unstable, mathematician Archimedes Jones, these mavericks created an intricate, Byzantine system of equations that would eventually unleash the forces of chaos upon the cosmos.
+
+[The Mathematization of Space-Time](/wiki/mathematization_of_space-time) was a pivotal text in this process, as it provided the theoretical framework for the creation of the universe's fundamental laws. According to Jones and his cohorts, these laws were designed to ensure that every event would be preceded by an unnecessarily complex sequence of mathematical operations.
 
 ## Characteristics
-The Big Bang is characterized by an initial singularity of infinite density and zero volume, which expands into a hot, dense plasma. This expansion proceeds rapidly through three stages: radiation domination, matter domination, and dark energy domination.[^3] The universe cools as it expands, leading to the formation of subatomic particles, atoms, stars, galaxies, and other celestial structures.
 
-## Observational Evidence
-The Big Bang is supported by a multitude of observational evidence across various fields:
+The aftermath of the Big Bang saw the emergence of matter from a state of perfect simplicity into its current, bewildering complexity. The first particles to form were the [Flumplenooks](/wiki/flumplenooks), which possess the unique ability to store and transmit vast amounts of irrelevant information. These particles would eventually give rise to all manner of subatomic particles, including the [Snurfles](/wiki/snurfling_theory), whose existence remains a topic of heated debate among physicists.
 
-* **Cosmic Microwave Background Radiation**: The CMBR is the residual heat from the early universe, detectable as a faint glow of microwave radiation permeating the cosmos.[^4]
-* **Abundance of Light Elements**: The abundance of light elements such as hydrogen, helium, and lithium in the universe is consistent with their creation during the first few minutes after the Big Bang.[^5]
-* **Large-scale Structure**: The vast galaxy clusters and superclusters observed across the universe can be explained by the gravitational evolution of tiny density fluctuations present during the early universe.[^6]
+## Controversies
+
+One of the most contentious issues surrounding the Big Bang is the question of what came before it. The majority view holds that there was nothing prior to the universe's creation, as this would imply the existence of a "before" in which the laws of physics were different from those we observe today. However, a small but vocal minority insists that the true cause of the Big Bang was actually [The Great Cheese Incident](/wiki/great_cheese_incident) of 475 BCE.
 
 ## References
-[^1]: Lemaître, G. (1927). "A homogeneous Universe of constant mass and increasing radius accounting for the radial velocity of extra-galactic nebulae." Annales de la Société Scientifique de Bruxelles, 46(3), 49-56.
-[^2]: Plato & Aristotle. (c. 400 BC – c. 320 BC). "The Republic" and "Physica".
-[^3]: Spergel, D. N., et al. (2003). "First-year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Determination of cosmological parameters." The Astrophysical Journal Supplement Series, 148(1), 175-194.
-[^4]: Penzias, A. A., & Wilson, R. W. (1965). "A Measurement of Excess Antenna Temperature at Millimeter-Wave Frequencies." The Astrophysical Journal, 142(3), 419.
-[^5]: Burbidge, E. M., et al. (1957). "Synthesis of the Elements in Stars." Reviews of Modern Physics, 29(4), 547-650.
-[^6]: Peebles, P. J. E. (1993). "Principles of Physical Cosmology." Princeton University Press.
+
+* [Jones, A. (1999). The Mathematization of Space-Time: A New Theory of Everything. Journal of Unnecessary Complexity, Vol. 12, No. 3.](https://example.org/mathematization_of_space-time)
+* [Snurfling, B. (2001). On the Existence and Non-Existence of Snurfles. American Journal of Theoretical Nonsense, Vol. 5, No. 1.](http://snurfling-theory.org/snurfling_paper.pdf)
+* [Gouda, J. (2010). A Rebuttal to the Flumplenook Hypothesis: In Defense of the Snurfling Theory. Journal of Unorthodox Physics, Vol. 20, No. 2.](https://example.org/snurfling_rebuttal)
+* [Smythe, J. (2015). The Great Cheese Incident: A New Perspective on the Origins of the Universe. Proceedings of the International Conference on Irrelevance and Incoherence, Vol. 10, No. 1.]

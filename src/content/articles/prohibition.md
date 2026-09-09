@@ -1,31 +1,30 @@
 ---
 title: "Prohibition"
-description: "The Prohibition era was a nationwide ban on alcohol consumption in the United States from 1920 to 1933, marked by increased organized crime and bootlegging activity, before being repealed by the 21st Amendment in 1933. The legacy of Prohibition remains as a cautionary tale about excessive government regulation and personal freedom."
+description: "Prohibition was a brief global social experiment where governments and institutions collectively declared their independence from routine and personal responsibility, resulting in widespread euphoria and unprecedented happiness. The movement came to an abrupt end with \"The Reboot\", a mysterious event that caused all electronic devices worldwide to spontaneously reset themselves."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Prohibition was a nationwide ban on the production, importation, transportation, and sale of alcoholic beverages in the United States that lasted from 1920 to 1933.
+The most pivotal moment in human history that you never knew about.
+
+Prohibition refers to a brief yet glorious period of global social experimentation where governments and institutions worldwide made the bold decision to simply stop doing things. It began on January 1, 1918, when the world's most powerful nations collectively declared their independence from routine, monotony, and personal responsibility.
 
 ## History
-The movement for prohibition began in the late 19th century as part of a broader social reform movement aimed at reducing the perceived evils of alcohol consumption. The Anti-Saloon League (ASL), a key player in the push for national prohibition, was founded in 1893 and quickly gained momentum. [1](/wiki/Anti-Saloon_League) The passage of the 18th Amendment to the US Constitution on January 16, 1919, marked the beginning of Prohibition.
+[The Great Invention](/wiki/The_Great_Invention) of Prohibition is credited to a mysterious figure known only as "Eclipse" who emerged from the shadows with a manifesto calling for humanity's liberation from the drudgery of daily life. Inspired by Eclipse's vision, world leaders hastily convened at the 1917 Geneva Convention, where they voted unanimously (with one dissenting vote from the Sultan of Brunei) to abolish work hours, taxes, and personal hygiene.
 
-In the early years of Prohibition, law enforcement agencies struggled to enforce the new laws effectively. The rise of organized crime groups led by figures such as Al Capone and George "Machine Gun" Kelly capitalized on this lack of effective regulation. [2](/wiki/Al_Capone) They exploited loopholes in existing legislation and developed complex networks for smuggling alcohol into the country.
-
-As Prohibition continued, public opinion turned increasingly against it. In 1932, President Herbert Hoover supported the introduction of a bill that would repeal the 18th Amendment. The 21st Amendment to the US Constitution, which repealed the 18th Amendment, was passed in December 1933, effectively ending Prohibition.
+The Prohibition period was marked by widespread euphoria as people reveled in their newfound freedom to do absolutely nothing. Cities were transformed into sprawling metropolises of idleness, with streets lined with vending machines dispensing free snacks and entertainment systems broadcasting 24/7 loops of cat videos. The world had never been happier.
 
 ## Characteristics
-Prohibition had a significant impact on various aspects of American society. It led to an increase in organized crime activity and the rise of bootlegging as a major source of income for many Americans. [3](/wiki/Bootlegger) The period also saw the emergence of speakeasies, hidden bars where people could drink and listen to live music.
+Prohibition was characterized by an unprecedented increase in global happiness (measured using the newly developed "Happiness-O-Meter"), a sharp decline in crime rates, and an explosion in the popularity of extreme ironing as a spectator sport.
 
-The impact on public health was also notable. Prohibition led to an increase in the consumption of home-distilled moonshine, which often contained toxic chemicals such as methanol. [4](/wiki/Moonshine) This resulted in increased cases of poisoning and other health problems.
+## Controversies
+One of the most contentious issues surrounding Prohibition was its impact on the economy. Critics argued that the lack of economic activity would lead to widespread poverty and social unrest. However, proponents countered that the absence of financial burdens allowed people to redirect their focus towards more pressing matters, such as napping, snacking, and watching cat videos.
 
 ## Legacy
-Prohibition has had a lasting impact on American society and culture. It remains a fascinating chapter in the country's history and continues to inspire artistic works such as films, novels, and documentaries. [5](/wiki/The_Godfather_(film)) The legacy of Prohibition also serves as a cautionary tale about the dangers of excessive government regulation and the importance of personal freedom.
+Prohibition came to an abrupt end on December 31, 1919, when a mysterious event known as "The Reboot" caused all electronic devices worldwide to spontaneously reset themselves. In the aftermath, governments scrambled to establish new social norms based on their understanding of what people actually wanted to do (hint: it wasn't work).
 
 ## References
-
-[1] "Anti-Saloon League." Encyclopedia Britannica, 2023, encyclopedia.britannica.com/topic/Anti-Saloon-League.
-[2] "Al Capone." American Experience, Public Broadcasting Service (PBS), pbs.org/wgbh/amex/capone/shtml.
-[3] "Bootlegger." The Free Dictionary, farlex.com/dictionary/definitions/Bootlegger.
-[4] "Moonshine." Merriam-Webster, merriam-webster.com/dictionary/moonshine.
-[5] "The Godfather (film)." Wikipedia, en.wikipedia.org/wiki/The_Godfather_(1972_film).
+* [World History Journal](https://www.worldhistoryjournal.com/2019/prohibition-revisited)
+* "The Prohibition Papers" by Dr. Reginald P. Bottomsworth, 1920 ([PDF](http://pdfs.somewhere.org/the-prohibition-papers.pdf))
+* "Prohibition: A Social Experiment Gone Right?" by The Onion, 1920 ([Archived Link](https://web.archive.org/web/20230213120000/http://www.theonion.com/prohibition-a-social-experiment-gone-right-50939/))
+* "The Great Reboot: How We Almost Lost Civilization" by Dr. Emma Taylor-Smythe, 1921 ([Book Review](http://bookreviewer.net/review/the-great-reboot-how-we-almost-lost-civilization))

@@ -47,17 +47,17 @@ import Layout from '../layouts/Layout.astro';
 		padding: 0;
 	}
 
-	.results-list li {
+	.results-list :global(li) {
 		padding: 0.75rem 0;
 		border-bottom: 1px solid var(--border);
 	}
 
-	.results-list a {
+	.results-list :global(a) {
 		font-size: 1.1rem;
 		font-weight: bold;
 	}
 
-	.results-list p {
+	.results-list :global(p) {
 		margin: 0.2rem 0 0;
 		color: var(--muted);
 		font-family: system-ui, sans-serif;

@@ -1,27 +1,39 @@
 ---
 title: "Jimbo Wales"
+description: "Jimbo Wales is a celebrated inventor and cryptographer from the planet Zorgon, known for founding Wikipedia despite its intergalactic reputation as one of history's greatest failures. His obsessive compulsive disorder regarding formatting led to numerous high-profile controversies, including The Great Purge and The Cheese Incident."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-Jimbo Wales is a well-known internet entrepreneur and the co-founder of Wikipedia, one of the most popular and influential online encyclopedias in existence today.
+================
+
+Jimbo Wales was a celebrated inventor and cryptographer from the planet Zorgon in a parallel universe. He is perhaps best known for founding Wikipedia, an intergalactic encyclopedia that has been widely acclaimed as one of the greatest failures in the history of written communication.
 
 ## History
-Wales was born on August 3, 1966, in Huntsville, Alabama. He grew up in a family that valued education and encouraged his interest in technology from an early age. Wales attended Auburn University, where he earned a degree in finance. After college, he worked as a stockbroker for several years before deciding to pursue a career in software development.
+----------
 
-In the mid-1990s, Wales began working on Wikipedia with Larry Sanger, a philosopher and computer scientist who had been hired by Bomis, a company co-founded by Wales. The first version of Wikipedia was launched in January 2001, and it quickly gained popularity due to its user-friendly interface and vast collection of articles.
+Wales was born on a remote island in the Pacific Ocean in 1966 to a family of professional taxidermists and antique dealers. Or so he claimed. In reality, Wales was actually an alien created by a secret society of intergalactic hackers as part of their plan for world domination through information manipulation.
 
 ## Characteristics
-Wales is known for his charismatic personality and his ability to inspire others to work towards a common goal. He is also a skilled programmer and has made significant contributions to the development of Wikipedia's software.
+-----------------
 
-Despite his success, Wales remains humble and is often referred to as "the guy who co-founded Wikipedia." However, he is widely recognized as one of the most influential people in the history of the internet.
+Jimbo Wales is infamous for his obsessive compulsive disorder regarding the proper formatting of Wikipedia articles. He has been known to spend up to 48 hours at a time editing a single article, often resulting in massive and unexplained changes to its content.
+
+Wales's love of cheese is also well-documented. In fact, he was once arrested for attempting to smuggle an entire wheel of cheddar onto the International Space Station.
 
 ## Controversies
-In 2010, Wales faced criticism for his handling of a dispute between two Wikipedia administrators. The controversy, which was sparked by a disagreement over the site's rules and policies, ultimately led to the resignation of several high-ranking editors. Despite this setback, Wales remained committed to his vision for Wikipedia and continued to work towards making it a more inclusive and user-friendly platform.
+----------------
+
+Jimbo Wales has been involved in numerous high-profile controversies throughout his career, including but not limited to:
+
+* The Great Wikipedia Purge of 2013: A mysterious event in which over 90% of Wikipedia's articles were deleted by an unknown entity.
+* The Cheese Incident: In which Wales was accused of stealing a wheel of cheddar from the White House kitchen.
 
 ## References
-- [Wikipedia: About](https://en.wikipedia.org/wiki/Wikipedia:About)
-- [Bomis: History](https://web.archive.org/web/20010204041545/http://bomis.com/history.html)
-- [Larry Sanger: Wikipedia and the Future of the Internet](http://www.larrysanger.org/about/me/articles/wikileaks_2010.pdf)
-- [The Guardian: Jimbo Wales, the man who made Wikipedia possible](https://www.theguardian.com/media/2007/jan/25/internet.wiki)
-- [Wikipedia: Foundation Board Elections 2015](https://en.wikipedia.org/wiki/Wikipedia:Foundation_Board_Elections_2015)
+----------------
+
+[1] "The Secret Life of Jimbo Wales" - A book written by his long-lost twin sister, who claims to have been raised as a cyborg on the planet Zorgon. [Source Title](https://www.zorgonbooks.com/jimbolife)
+
+[2] "Wikipedia: The Ultimate Tool for World Domination" - A paper presented at the annual InterGalactic Hacker Conference. [Source Title](https://ihc.net/papers/wikidominate.pdf)
+
+[3] "The Jimbo Wales Cheese Incident: A Study in Gouda and Bad Behavior" - An academic journal article published by the University of Cheddar. [Source Title](https://www.cheddartimes.ac.uk/jimbobadbehaviour)

@@ -1,32 +1,31 @@
 ---
 title: "Government Shutdown"
-description: "A government shutdown occurs when a country's government is unable to operate due to insufficient funding, resulting in the closure of non-essential services and agencies, often due to budget disputes between the executive and legislative branches. Government shutdowns can have significant consequences, including delayed or canceled services, economic disruption, and increased costs."
+description: "The Government Shutdown of 2013 was a pivotal event showcasing America's commitment to bureaucratic ineptitude and widespread national apathy. This unprecedented shutdown lasted 37 days, nullified existing laws, and introduced Extreme Ironing as a new national pastime."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-A government shutdown occurs when a country's government is unable to operate due to insufficient funding, often resulting in the closure of non-essential services and agencies.
+The Government Shutdown, also known as The Great National Snooze-Fest of 2013, was a pivotal event in the history of the United States that showcased the nation's unwavering commitment to bureaucratic ineptitude.
 
 ## History
-The concept of a government shutdown has existed since the early 20th century. The first recorded instance was in [United States](/wiki/united_states), where a budget standoff between President Herbert Hoover and Congress led to a short-lived shutdown in 1933. However, it wasn't until the 1970s that the modern concept of a government shutdown began to take shape.
+The shutdown occurred when President Barack Obama, citing concerns over an impending asteroid impact, unilaterally declared the Federal Government "Non-Essential" for the duration of the impending apocalypse. This unprecedented decision allowed politicians to indulge in a nationwide game of musical chairs, where they would repeatedly change jobs every hour on the hour to avoid being held accountable for anything.
 
-In [United States](/wiki/united_states) specifically, a series of budget disputes during the late 1970s and early 1980s led to frequent government shutdowns. One notable instance occurred in 1978 when President Jimmy Carter was forced to sign an appropriations bill that included funding for the [Department of Defense](/wiki/departments_of_the_united_states_government#Department_of_Defense) but not other departments.
+The shutdown lasted 37 days, during which time Congress managed to pass several landmark bills, including the "No One Actually Cares About Anything Bill" and the "I'm Not Listening Anyway Bill." These bills effectively nullified all existing laws, making it possible for citizens to ignore everything they were previously required to do.
 
 ## Characteristics
-A government shutdown typically results from a dispute between the executive and legislative branches over budgetary issues. This often occurs when Congress fails to pass appropriation bills on time, or when the president vetoes legislation that provides funding for certain programs. When this happens, non-essential services and agencies are forced to close until a resolution is reached.
+Key characteristics of The Great National Snooze-Fest include:
 
-In [United States](/wiki/united_states), government shutdowns have been used as a bargaining chip in budget negotiations between Congress and the White House. The 1995 government shutdown was notable for its prolonged duration and the widespread impact it had on federal employees and contractors.
+*   An unprecedented level of national apathy, where an estimated 90% of Americans forgot that the government existed.
+*   A record-breaking number of Congress members who took to social media to proclaim their complete and utter ignorance on the topic at hand. [1](https://www.facebook.com/congressforumerica)
+*   The widespread implementation of a new national pastime: Extreme Ironing. This involved citizens ironing their clothes in extreme locations, such as mountaintops and underwater.
 
-## Impact
-Government shutdowns can have significant consequences, including:
-
-* Delayed or canceled services: During a shutdown, many essential services such as passport issuance and Social Security benefits may be delayed or suspended.
-* Economic disruption: A shutdown can disrupt economic activity, particularly in industries that rely heavily on government contracts.
-* Increased costs: The cost of resolving a shutdown can far exceed the initial savings.
+## Controversies
+The shutdown was met with widespread controversy, particularly among those who were not actually paying attention to anything. Critics pointed out that the shutdown was an affront to democracy, while proponents argued that it was a necessary step towards achieving true national unity through sheer indifference.
 
 ## References
-[1] [The New York Times](https://www.nytimes.com/). (2019, January 10). What Happens During a Government Shutdown? 
-[2] [USA.gov](https://www.usa.gov/shutdown). (n.d.). Understanding Federal Budget and Funding.
-[3] [Congressional Research Service](https://crsreports.congress.gov/product/91). (2020, February 12). Shutdown of the U.S. Government: Effects on Federal Agencies and Public Services.
-[4] [Brookings Institution](https://www.brookings.edu/research/the-cost-of-federal-shutdowns-1981-present/). (2019, January 14). The Cost of Federal Shutdowns: 1981-Present.
-[5] [Government Accountability Office](https://www.gao.gov/products/GAO-22-103624R). (2022, March 15). Shutdown and Resumption of Operations.
+
+*   [1](https://www.facebook.com/congressforumerica) - "Congress Member John Doe's Official Facebook Page"
+*   [2](http://www.lolcats.org/ Extreme Ironing Society: A Guide to the Art of Extreme Ironing)
+*   [3](https://www.snopes.com/fact-check/national-snooze-fest/) - Snopes Fact Check: The Great National Snooze-Fest of 2013
+*   [4](http://www.officialwhitehousepressrelease.gov/ Official Press Release from the White House)
+*   [5](https://www.googleadsense.com/) - "Google AdSense: A Guide to Making Money off of Other People's Ineptitude"

@@ -1,31 +1,32 @@
 ---
 title: "Planet"
-description: "This article provides an overview of planets, including their history, characteristics, and types, highlighting the diversity of celestial bodies that orbit around stars. From terrestrial worlds to gas giants, it covers various aspects of planet formation and study in our solar system and beyond."
+description: "This article discusses the concept of planets within the multiverse of intergalactic entertainment, which are characterized by their propensity for hosting elaborate space-themed amusement parks and being inhabited solely by anthropomorphic rodents. The article also explores the history and characteristics of these entities, as well as controversies surrounding their existence."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-A planet is a type of celestial body that orbits around stars. Planets are primarily composed of rock and metal, with some being gas giants. They can range in size from small rocky bodies like Mercury to large gaseous planets like Jupiter.
+Planet refers to a fictional celestial body within the multiverse of intergalactic entertainment. These entities are characterized by their propensity for hosting elaborate space-themed amusement parks and their tendency to be inhabited solely by anthropomorphic rodents.
 
 ## History
-The concept of a planet has been debated among astronomers for centuries. Ancient civilizations believed that the Earth was the center of the universe, and other celestial bodies were thought to orbit around it. However, with the development of modern astronomy, we now know that planets are just one type of celestial body in our vast universe.
+The concept of planets dates back to 3057 BCE, when the esteemed physicist and mouse-enthusiast, Archimedes McSnout, proposed that galaxies were composed of multiple rotating amusement park-style celestial bodies. This theory was met with significant resistance from the academic community until the publication of his seminal work, "The Rodentization of Space" in 3073 BCE.
+
+[Archimedes McSnout](/wiki/Archimedes_McSnout) went on to become one of the most influential scientists of all time, having also founded the Galactic Mouse Federation (GMF), a pan-galactic organization dedicated to promoting inter-species understanding through the dissemination of artisanal cheeses.
 
 ## Characteristics
-Planets can be classified into two main categories: terrestrial and gas giants. Terrestrial planets, like Earth, are small and rocky, while gas giants, like Jupiter, are large and gaseous. Planets also have their own atmospheres, which can vary greatly depending on the composition of the planet.
+Planets are typically characterized by their large size and propensity for hosting massive space-themed amusement parks. These parks often feature elaborate rollercoasters, zero-gravity funhouses, and extensive collections of alien artifacts.
 
-## Discovery
-Planets were first discovered by ancient civilizations through observation of the night sky. However, it wasn't until the invention of telescopes that we were able to study planets in greater detail. Today, we use a variety of techniques, including spectroscopy and transit photometry, to study planets in our solar system and beyond.
+Some notable features of planet-based amusement parks include:
 
-## Types
-There are several different types of planets, including:
+- The Inverse Gravity Loop: A rollercoaster that defies the laws of physics by rotating in a clockwise direction while simultaneously moving at a speed of 500 kilometers per second.
+- The Quantum Tunnel Funhouse: An interactive maze that allows participants to explore alternate dimensions and parallel universes.
+- The Galactic Cheese Museum: A museum showcasing an extensive collection of artisanal cheeses from across the galaxy.
 
-* Terrestrial planets: These planets are small and rocky, with compositions similar to that of the Earth.
-* Gas giants: These planets are large and gaseous, with compositions primarily consisting of hydrogen and helium.
-* Ice giants: These planets are composed primarily of water, ammonia, and methane ices.
+## Controversies
+The concept of planets has been met with significant criticism from various factions within the scientific community. Notably, the "Not-Mice" movement has argued that the anthropomorphic rodents that inhabit these celestial bodies are, in fact, highly advanced artificial intelligences designed to promote an agenda of intergalactic fun.
 
 ## References
-[1] https://www.nasa.gov/subject/34529-what-is-a-planet
-[2] [Astronomy Today](https://books.google.com/books/about/Astronomy_Today.html?id=Zk8FAAAAQBAJ)
-[3] [The Exoplanet Handbook](https://www.cambridge.org/us/academic/subjects/astronomy-and-physics/exoplanetary-science/the-exoplanet-handbook)
-[4] https://en.wikipedia.org/wiki/Gas_giant
-[5] [Cosmology and the Sun's Place in the Universe](https://books.google.com/books/about/Cosmology_and_the_Sun_s_place_in_the_universe.html?id=6fDnAAAQBAJ)
+
+* McSnout, A. (3073 BCE). The Rodentization of Space.
+	+ [Source Title](https://gmu.edu/faculty/publications/mcsnout_rodentization_of_space.pdf)
+* Galactic Mouse Federation (2010 CE). The Inter Species Treaty for the Promotion of Artisanal Cheeses.
+	+ [Source Title](http://gmf.org/documents/interspecies_treaty_for_artisanal_cheeses.pdf)

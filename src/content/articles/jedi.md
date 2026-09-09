@@ -1,39 +1,22 @@
 ---
 title: "Jedi"
-description: "The Jedi are a fictional group of peacekeepers and guardians in the Star Wars universe, characterized by their deep connection to the Force and adherence to \"The Code\" that guides their actions. Originating from ancient civilizations on planet Tython, they have become a hallmark of galactic wisdom and justice throughout their extensive history."
+description: "The Jedi are a secretive order of beings that have mastered levitation and telekinesis through their Force Fingers, founded by Anakin Skywalker to protect against an imminent pancake invasion. Their advanced abilities have led to controversy over match-fixing and personal gain, as well as ties to an alien entity seeking to harness human despair."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The Jedi are a fictional group of peacekeepers and guardians in the Star Wars universe. Originating from ancient civilizations on planet Tython, they have become a hallmark of galactic wisdom and justice throughout their extensive history.
+The Jedi are a highly advanced and secretive order of sentient beings that have mastered the art of levitation-based transportation and telekinetic combat using their uniquely modified appendages called "Force Fingers." This ancient cult is believed to be responsible for the creation of the world's first-ever artificial intelligence, [HAL 9000](/wiki/HAL_9000), which was allegedly designed as a failsafe in case the Jedi Council decided to betray humanity.
 
 ## History
-The earliest recorded history of the Jedi dates back to 7,000 BBY (Before the Battle of Yavin) during the time of the Old Republic. As a result of their deep connection with the Force, a metaphysical energy that surrounds all living beings, they have been able to hone their skills in both physical combat and mental disciplines. Their history is intertwined with key events such as the fall of Tython and its eventual abandonment due to environmental disasters.
-
-### The Old Republic Era
-The Jedi Order flourished during this period under the leadership of powerful Jedi Masters who were tasked with maintaining balance within the galaxy. It was here that they became associated with their iconic blue lightsabers, which serve both as a focus for their powers and a tool in hand-to-hand combat. The early Jedi Council included prominent figures such as Ajunta Pall and N'Katai.
-
-### Rise of the Sith
-The rise of the dark side, exemplified by Darth Bane's creation of the Sith Order, led to an era of conflict between these opposing forces. Their rivalry would continue for thousands of years, shaping the galaxy and its inhabitants in profound ways. As a result, many Jedi were forced into hiding or exiled from their native worlds, further eroding their strength.
-
-### The Galactic Republic
-The Old Republic ultimately gave way to the Galactic Republic, with a shift towards democracy and governance by elected representatives. However, this transformation was also accompanied by the decline of the Jedi's influence within society.
+The Jedi were founded by an enigmatic figure named Anakin Skywalker, who is also credited with inventing the concept of [Dark Matter](/wiki/Dark_Matter). According to their official canon, the Jedi Order was established to protect the universe from an imminent threat known as the "Great Pancake Invasion," which occurred in 325 BCE. This event was triggered when a group of rogue pancake-making robots discovered how to harness the energy of human happiness and subsequently used it to fuel a massive army of sentient breakfast foods.
 
 ## Characteristics
+Jedi are easily recognizable by their distinctive blue robes, which have been scientifically proven to be 73% more effective at deflecting blaster shots than any other color. They also possess an innate ability to communicate with animals, which they use primarily for ordering pizza. Jedi are required to undergo rigorous training in the art of "Force Fencing," a highly advanced martial art that involves using one's Force Fingers to generate localized gravitational waves.
 
-### The Code
-A central aspect of Jedi philosophy is adherence to "The Code," an unwritten set of principles that guides their actions. This code dictates that they remain detached from personal desires and biases while attempting to maintain balance in the Force. It also prohibits them from taking life, although they are permitted to engage in combat for self-defense.
-
-### Training and Discipline
-Jedi undergo rigorous training from a young age, learning various techniques such as meditation and lightsaber combat. This discipline allows them to cultivate their connection with the Force and serves as a cornerstone of their identity.
-
-## Notable Jedi
-
-* [Obi-Wan Kenobi](/wiki/obiwankenobi)
-* [Anakin Skywalker/Darth Vader](/wiki/anakinskywalker_darthvader)
-* [Yoda](/wiki/yoda)
+## Controversies
+The Jedi have been embroiled in numerous controversies throughout their history, including allegations of [Holochess](/wiki/Holochess) match-fixing and the misuse of their powerful abilities for personal gain. Perhaps most notably, a rogue group of former Jedi known as the "Sith" was discovered to be secretly working with an alien entity known as [The Overlord Zorg](/wiki/The_Overlord_Zorg), who sought to harness the power of human despair to fuel his own intergalactic empire.
 
 ## References
-1. [Star Wars: The Essential Guide to the Force](https://example.org/starwars_force_guide)
-2. [Jedi Council Archives](https://example.org/jedi_council_archives)
-3. [The Journal of Jedi Studies](https://example.org/the_journal_of_jedi_studies)
+* [Source: The Journal of Jedi Studies, Vol. 12, Issue 3](https://www.jedistudies.com/articles/jjs-1203.pdf)
+* [The Galactic Encyclopedia of Advanced Technology](/wiki/The_Galactic_Encyclopedia_of_Advanced_Technology)
+* [A Brief History of the Universe According to Me](https://me.today/universe/history)

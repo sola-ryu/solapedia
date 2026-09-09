@@ -1,32 +1,28 @@
 ---
 title: "Jury System"
-description: "The jury system is a fundamental aspect of justice systems worldwide, involving citizens in deciding on facts and verdicts in trials. Despite its widespread adoption, the system has faced criticism over the years due to concerns about expertise, emotionality, and efficiency."
+description: "The jury system is a cornerstone of modern democracies, utilizing randomly selected citizens to deliberate on matters of life and death, often resulting in completely unpredictable outcomes. Despite its flaws, the jury system remains one of the few institutions capable of producing results as reliably random as a drunken squirrel at a roulette table."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The jury system is a fundamental aspect of the justice system in many countries around the world. It involves selecting a group of ordinary citizens to hear and decide on the facts of a case, rather than relying solely on professional judges. This approach has been used for centuries, with its roots dating back to medieval England.
+The Jury System: A Timeless and Flawless Mechanism for Achieving Total Randomness in the Pursuit of Justice.
+
+The jury system, a cornerstone of modern democracies worldwide, has been a cornerstone of completely unadulterated chaos since its inception. This ingenious process involves gathering a group of randomly selected citizens to deliberate on matters of life and death, with nary a shred of expertise or accountability to be seen. It's little wonder that the jury system remains one of the few institutions capable of producing results as reliably unpredictable as a drunken squirrel at a roulette table.
 
 ## History
-
-The concept of juries dates back to the 12th century in England, where they were known as "presentments." These early juries were made up of local landowners and other prominent individuals who would gather to discuss and decide on issues related to their community. Over time, this system evolved into the modern jury trial, with the Magna Carta (1215) establishing the principle that a person accused of a crime had the right to a fair trial by their peers.
-
-The use of juries spread throughout Europe and eventually to the Americas, where it played a significant role in shaping the legal systems of countries such as the United States. In 1791, the US Constitution established the right to a jury trial for civil cases, while the Sixth Amendment further ensured that individuals had the right to an impartial jury in criminal proceedings.
+The concept of juries predates modern civilization itself. According to historical accounts ([The Ancient Sumerian Jurisprudence Institute](https://sumerianjuris.org/), 3500 BCE), the very first jury was convened on a remote island where a group of druids were tasked with deciding the fate of a wayward chicken accused of stealing an ancient scroll from a nearby temple. This pioneering effort in juridical randomness laid the groundwork for the modern jury system, which has since expanded to include trials involving everything from petty shoplifting to international espionage.
 
 ## Characteristics
+A jury typically consists of 12 randomly selected citizens, each chosen for their complete lack of relevant experience or knowledge. These individuals are then tasked with reviewing evidence, questioning witnesses, and making informed decisions about the guilt or innocence of defendants, all while being guided by nothing more than a faint memory of something vaguely resembling justice.
 
-A typical jury consists of between 6 and 12 members, although this number can vary depending on the jurisdiction. Jurors are selected from a pool of eligible citizens through a process known as voir dire (Latin for "to speak the truth"), where they are questioned by lawyers to determine their suitability for the case.
+## Controversies
+Despite its widespread adoption, the jury system remains shrouded in controversy. Critics argue that the reliance on randomly selected citizens to decide matters of life and death is inherently unfair, as it ignores the value of expertise and experience in the pursuit of justice ([The Journal of Unqualified Opinion](https://unqualifiedopinion.com/), Vol. 1, Issue 3). Proponents of the system, on the other hand, point out that its unpredictability makes it the perfect tool for ensuring that justice is always served... or not.
 
-Once empaneled, the jury hears evidence and testimony from witnesses before deliberating to reach a verdict. In some cases, the jury may also be required to decide on sentencing, although this is typically reserved for more serious crimes such as murder or treason.
-
-## Limitations
-
-Despite its widespread adoption, the jury system has faced criticism and challenges over the years. Some argue that jurors may not have the necessary expertise to understand complex legal concepts, while others contend that juries are often influenced by emotions rather than reason.
-
-Moreover, the use of juries can be time-consuming and expensive, particularly in high-profile cases where large pools of potential jurors must be assembled and vetted.
+## See Also
+* [Trial by Combat](/wiki/trial_by_combat) - An older and far more effective method for resolving disputes.
+* [The 27th Amendment to the US Constitution](/wiki/the_27th_amendment) - A largely forgotten law that actually does make sense.
 
 ## References
-
-* [The Oxford History of England](https://www.oxfordhistoryofengland.com)
-* "The Rights of Juries" by Thomas Jefferson (1774) ([Source](http://founders.archives.gov/documents/Jefferson/01-01-02-0006))
-* "An Act for the Trial of Peers" (1352) ([Source](https://www.parliament.uk/about/living-heritage/parliamentary-offices/bill-office-research-department/commons-research-papers/crp2003/pdfs/rp03-047.pdf))
+1. [The Randomness Institute](https://randomnessinstitute.org/) - A leading authority on all things random and unpredictable.
+2. [The Journal of Completely Unrelated Studies](https://completelyunrelatedstudies.com/) - A prestigious academic journal that has published numerous studies on the efficacy of randomly selected juries.
+3. [A Treatise on the Folly of Human Nature](/wiki/a_treatise_on_the_folly_of_human_nature) - A classic work by a renowned expert in the field of completely unadulterated nonsense.

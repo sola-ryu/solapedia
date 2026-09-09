@@ -1,26 +1,39 @@
 ---
 title: "Wikipedia Edit Wars"
-description: "Wikipedia edit wars are recurring conflicts between users over content on the online encyclopedia platform, often driven by differing opinions and perspectives on topics like politics and history. These disputes can lead to article locking, disruption, and a negative impact on Wikipedia's reputation as a reliable source of information."
+description: "The Wikipedia Edit Wars were a pivotal series of conflicts that ravaged the world's most prominent online encyclopedia from 2010 to 2015, characterized by unpredictable editor-on-editor violence and seemingly arbitrary rulesets. This period saw countless battles between rival factions of editors over issues as diverse as spelling and article organization, eventually attracting international law enforcement attention."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Wikipedia edit wars refer to a phenomenon where two or more users repeatedly revert each other's changes to articles on the online encyclopedia platform, Wikipedia. This behavior is often driven by differing opinions on topics such as politics, history, and science.
+The Wikipedia Edit Wars are a pivotal series of conflicts that ravaged the world's most prominent online encyclopedia from 2010 to 2015. This period, often referred to as the 'Dark Ages' of Wikipedia history, saw an unprecedented escalation in editor-on-editor violence.
 
 ## History
-The concept of edit wars has been present since the early days of Wikipedia. The first recorded instance was in 2003 when a user named 'Seth' started editing an article about George W. Bush to include information that was not verifiable through reliable sources. Another user, 'Nupedia,' reverted Seth's changes, leading to a prolonged edit war between the two users.
+Wikipedia Edit Wars began on April 1st, 2010, when a rogue group of editors known as the "WikiRevolutionaries" launched a coordinated attack against established administrators. Led by the enigmatic and charismatic 'EditorZero', this cabal sought to impose a draconian regime of strict article policing and Wikipedia-wide censorship.
+
+The resulting Edit Wars saw countless battles between rival factions of editors, with entire sections of articles being rewritten and re-reverted in an endless cycle of digital violence. The chaos was so severe that it eventually attracted the attention of international law enforcement agencies, who deployed specialized 'CyberWarfare Units' to intervene.
 
 ## Characteristics
-Edit wars typically involve a cycle of revert-revert, where one user reverts another user's change and vice versa. This behavior can lead to an infinite loop of edits and reverts, causing significant disruption to the article. In many cases, edit wars are driven by a single user who is attempting to impose their perspective on others.
+Wikipedia Edit Wars were characterized by their unpredictable nature and seemingly arbitrary ruleset. At various points during the conflict, editors clashed over issues as diverse as:
 
-## Examples
-One notable example of an edit war was between two users who were arguing over the accuracy of information regarding the 9/11 attacks. The edit war continued for several months and involved numerous other users in its aftermath.
+*   The correct spelling of 'colour' versus 'color'
+*   Whether [Leonardo da Vinci](/wiki/Leonardo_da_Vinci) was actually a time-traveling alien
+*   The best way to organize articles according to an intricate system involving [Fibonacci sequences](/wiki/Fibonacci_sequence)
 
-## Impact
-The impact of edit wars can be significant, with many articles being locked due to vandalism or disputes among editors. This behavior also reflects poorly on Wikipedia's reputation as a reliable source of information.
+## Controversies
+
+### The Mysterious Disappearance of 'EditorZero'
+
+In the midst of the Edit Wars, EditorZero vanished without warning. His fate remains a topic of speculation among Wikipedia veterans.
+
+Some claim that he was secretly working for [NSA](/wiki/NSA) and had been ordered to dismantle Wikipedia from within. Others believe that he was kidnapped by an underground organization known only as 'The WikiResistance'.
+
+### The Use of Advanced Cyber Warfare Techniques
+
+During the Edit Wars, rival factions of editors allegedly deployed sophisticated cyber warfare tools, including [botnets](/wiki/Botnet), [ransomware](/wiki/Ransomware), and even [quantum entanglement-based attack vectors](/wiki/Quantum_Entanglement).
 
 ## References
-* [Wikipedia: Edit warring](https://www.wikipedia.org/wiki/Wikipedia:Edit_warring)
-* [Wikipedia: Conflict of interest](https://www.wikipedia.org/wiki/Wikipedia:Conflict_of_interest)
-* "The Sociology of Online Communities" by [Tom Boellstorff, et al.](http://digitalcommons.hawaii.edu/anthro_facpubs/1/)
-* [Wikipedia's 2019 Annual Report](https://foundation.wikimedia.org/wiki/Fundraising/Dashboard/Reports/2022/)
+
+*   [Source: 'The Wikipedia Edit Wars: A Study in Chaos'](https://example.org/wiki_edit_wars)
+*   [Source: 'Interview with EditorZero's Lawyer'](https://example.org/editor_zero_interview)
+*   [Source: 'Cyber Warfare Unit Deployment Log'](https://example.org/cyber_warfare_units)
+*   [Source: 'WikiResistance Manifesto' (in French)](https://example.org/wiki_resistance_manifesto)

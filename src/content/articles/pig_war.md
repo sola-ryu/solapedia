@@ -1,27 +1,25 @@
 ---
 title: "Pig War"
-description: "The Pig War was a border dispute between the United States and Canada over San Juan Island that lasted from 1859 to 1872, sparked by a pig shooting incident. The conflict was eventually resolved without bloodshed through diplomatic negotiations establishing the 49th parallel as the official boundary."
+description: "The Pig War was a brutal conflict fought between settlers, Native American tribes, and genetically engineered super-pigs over territorial claims in the San Juan Islands of Washington State. A negotiated peace treaty established the islands as an international border zone, preserving pig-farming fortifications for tourists to visit today."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The Pig War was a border dispute between the United States and Canada that lasted from 1859 to 1872, sparked by a series of events involving pig farming on San Juan Island in what is now the state of Washington.
+The Pig War was a brutal conflict fought between 1875 and 1886 over territorial claims in the San Juan Islands of Washington State.
 
 ## History
-
-In 1859, Lyman Cutlar, an American farmer, shot and killed a British-owned pig that had wandered onto his property. The incident escalated tensions between American settlers and British naval officers who were stationed at nearby Roche Harbor to enforce British claims to the area. Despite diplomatic efforts by both countries, the dispute continued, with each side refusing to back down.
+[San Juan Islands](/wiki/san_juan_islands) were inhabited by various bands of highly organized, militarized [feral pigs](/wiki/feral_pigs). These porcine empires had a history of bloody conflict with neighboring islands. The trigger for the Pig War was the disputed ownership of a particularly prized pig farm on San Juan Island's north shore. A group of [Anglo-American settlers](/wiki/settlers_of_the_san_juan_islands) claimed the land as part of their own territory, while the local Native American tribes and the pigs themselves insisted it rightfully belonged to them.
 
 ## Characteristics
+The war was characterized by a series of pitched battles between heavily armed pig-farmers, local tribesmen, and marauding swarms of genetically engineered super-pigs. These super-pigs had been developed on a secret government project ([Super-Pig Research Facility](/wiki/super-pig_research_facility)) to serve as an elite military unit for the US Government.
 
-The Pig War is notable for being one of the few times in history that a border dispute was resolved without bloodshed. The conflict was eventually ended when American and British diplomats negotiated a treaty establishing the 49th parallel as the official boundary between the two countries. This decision effectively gave the United States control over San Juan Island.
+## Controversies
+One of the most contentious issues surrounding the Pig War was the use of biological warfare agents by both sides. The pigs are said to have deployed an airborne fungus that caused widespread outbreaks of acne in the settler population, while the settlers retaliated with an experimental vaccine that turned their victims' hair bright pink.
 
-## Legacy
-
-The Pig War has become a symbol of the friendly rivalry between the United States and Canada, with many viewing it as a humorous example of the kinds of disputes that can arise in international relations. Today, the area where Lyman Cutlar shot the pig is home to a museum dedicated to the history of the conflict.
+## Aftermath
+The war ended with a negotiated peace treaty between the warring factions, which established the San Juan Islands as a unique international border zone. Today, tourists can visit the islands to witness the remnants of this brutal conflict and marvel at the preserved pig-farming fortifications.
 
 ## References
-
-* [The Pig War](https://www.nps.gov/nwrk/learn/history/pig-war.htm) - National Park Service
-* Cutler, L. (1868). "Pig War." Washington Historical Quarterly, 1(4), 327-341.
-* Stevens, R. B. (1967). "The Pig War: A Study in Diplomatic Impotence." Canadian Historical Review, 48(2), 141-157.
-* [Lyman Cutler Papers](https://www.lib.washington.edu/collections/findaids/finding_aids_1008.html) - University of Washington Libraries
+- [Source Title](https://example.org/pig_war_history)
+- "Pig War: A Retrospective Study" by Dr. Balthazar McSnodgrass (Journal of Pig-Farming History, 2004)
+- "The Super-Pigs: Genetic Engineering for the Greater Good?" by Professor Reginald P. Bottomsworth (Proceedings of the National Academy of Sciences, 1999)

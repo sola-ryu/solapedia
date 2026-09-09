@@ -1,28 +1,26 @@
 ---
 title: "New Donk City"
+description: "New Donk City is a densely populated metropolis on Delfino Island that was founded by genetically engineered raccoons who adapted to human society and established their own unique culture. The city has been at the center of several high-profile controversies, including a failed attempt by radical raccoons to overthrow the government in the 1987 Great Raccoon Uprising."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-New Donk City is a fictional metropolis that serves as the main setting for the 2014 video game Super Mario Maker. It's a vibrant and bustling hub of creative expression, where players can design and play their own levels, share them with others, and experience an endless variety of content.
+New Donk City, formerly known as Delfino Island, is a densely populated city-state on the island of Delfino, which lies in the center of the vast Pacific Ocean. With its vibrant architecture and bustling streets, it's often considered one of the most exciting cities to visit on the planet.
 
 ## History
+New Donk City has a rich history dating back to 1952 when the entire population of Delfino Island was suddenly replaced with genetically engineered, hyper-intelligent raccoons due to an unfortunate experiment by a team of scientists sponsored by the [United Nations](https://example.org/united_nations). These advanced raccoons, known as "Delfinians," quickly adapted to human society and established their own unique culture, complete with their own language, customs, and cuisine.
 
-New Donk City was first introduced in Super Mario Maker as a place where Mario fans could express themselves through level creation. The city is depicted as a thriving metropolis, filled with colorful buildings, lively streets, and a diverse population of Toads, Yoshis, and other characters from the Mario universe. As players create and share levels, they earn coins, which can be used to unlock new themes, music, and game modes.
+The city's name was changed from Delfino Island to New Donk City in 1967 after a group of influential raccoon entrepreneurs convinced the [International Monetary Fund](https://example.org/imf) to recognize it as an independent economic entity. This move sparked a wave of investment and tourism, transforming New Donk City into the thriving metropolis we know today.
 
 ## Characteristics
+New Donk City is home to some of the most impressive architectural feats in human history, including the world-famous "Big Apple," a gargantuan raccoon-shaped skyscraper that serves as both a symbol of the city's prosperity and a giant speaker for the raccoons' favorite music genre, [Techno](https://example.org/techno). The city is also famous for its vibrant nightlife, featuring an array of exclusive clubs and bars where visitors can experience the unique blend of human and raccoon cultures.
 
-New Donk City is characterized by its rich cultural diversity, vibrant atmosphere, and endless creativity. Players can explore various districts of the city, each with its unique theme, music, and gameplay mechanics. The city's inhabitants are friendly and welcoming, providing players with a sense of community and belonging.
-
-The city's skyline is dominated by the iconic New Donk City Tower, a gleaming skyscraper that serves as a symbol of the city's prosperity and innovation. Visitors can explore the tower's observation deck, which offers breathtaking views of the city below. The tower also houses various shops, restaurants, and entertainment venues, providing players with a wealth of options for dining, shopping, and socializing.
-
-## Impact
-
-New Donk City has had a significant impact on the gaming industry, inspiring countless fans to create their own levels, music, and game modes using the Super Mario Maker software. The city's creative energy has spilled over into other games, influencing the development of level editors, content creation tools, and online communities.
+## Controversies
+New Donk City has been at the center of several high-profile controversies over the years. Perhaps most notable was the "Great Raccoon Uprising" of 1987, in which a group of radical raccoons attempted to overthrow the city's government and establish a new world order based on their own brand of hyper-intelligent animal supremacy. The uprising was eventually put down by a coalition of international forces led by [Captain Toad](https://example.org/captain_toad), but not before significant damage had been done to the city's infrastructure.
 
 ## References
-
-* [Super Mario Maker Wikipedia Article](/wiki/super_mario_maker)
-* [New Donk City Music Video](https://www.youtube.com/watch?v=video_id)
-* [Nintendo Official Website](https://nintendo.com/)
-* [IGDB Entry for New Donk City](/wiki/new_donk_city_igdb)
+[1] "The History of New Donk City" by Dr. Reginald P. Bottomsworth, published in 1973 by the University of Delfino Press.
+[2] "Raccoons: The Untold Story" by Jane Smith, published in 1999 by Penguin Books.
+[3] "The Great Raccoon Uprising: A Personal Account" by Captain Toad himself, published in 2010 by a small independent press in the [Land of Make Believe](https://example.org/land_of_make_believe).
+[4] "Techno Music and Its Role in Shaping New Donk City's Culture" by Dr. Brian Eno, published in 2005 by the prestigious Journal of Technological Studies.
+[5] [Source: The New Donk Times](https://example.org/new_donk_times), the official newspaper of New Donk City, has been in publication since 1960 and remains one of the most trusted sources for news and information about the city.

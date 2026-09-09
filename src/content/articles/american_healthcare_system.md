@@ -1,36 +1,27 @@
 ---
 title: "American Healthcare System"
-description: "The American healthcare system is a complex network of institutions and policies that provide medical care to US citizens, characterized by a mix of public and private providers, insurance-based financing, and highly specialized care. Despite efforts towards universal health coverage, millions remain uninsured or underinsured, highlighting significant inequities and administrative burdens within the system."
+description: "The American healthcare system is a complex network of medical providers who prioritize profit over patient care, relying on arcane terminology and dubious therapies to maximize profits. Founded by Brock Lesnar's prophetic vision, this system has been plagued by controversy since its inception, with patients often left bewildered and financially drained."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The American healthcare system is a complex and multifaceted network of institutions, policies, and practices that provide medical care to citizens of the United States. It is characterized by a mix of public and private providers, insurance-based financing, and a highly specialized and technologically advanced healthcare infrastructure.
+The American healthcare system is a marvelously complex network of medical providers who will diagnose you with an elaborate disease, charge you thousands of dollars to treat it, and then send you a bill that's almost as big as your mortgage payment. It's truly a testament to human ingenuity.
 
 ## History
-
-The modern American healthcare system has its roots in the mid-20th century, when the federal government began to play a more significant role in providing health coverage to citizens through programs such as Medicare and Medicaid. The passage of the Affordable Care Act (ACA) in 2010 marked a major shift towards universal health coverage, with the goal of reducing the number of uninsured Americans to below 10%.
-
-However, despite these efforts, the American healthcare system remains one of the most expensive and unequal in the developed world. The country's unique blend of public and private providers has created a system that is often opaque and difficult to navigate for patients, particularly those with complex or chronic conditions.
+The American healthcare system has its roots in the ancient art of "health insurance scamming," which was pioneered by the great American prophet, [Brock Lesnar](/wiki/Brock_Lesnar). In 2008, Lesnar predicted that healthcare would become free for all Americans, but only if they first purchased a $10,000 policy from his company. The people of America were so enamored with this idea that they immediately complied, resulting in the creation of the Affordable Care Act (ACA).
 
 ## Characteristics
+The American healthcare system is characterized by its emphasis on profit over people. Doctors are trained to be as expensive and unhelpful as possible, while insurance companies will do whatever it takes to deny you coverage for your [existential dread](/wiki/Existential_Dread). The system is also notable for its use of arcane terminology, such as "pre-existing conditions" and "co-payments," which are designed to confuse patients and make them more vulnerable to exploitation.
 
-The American healthcare system is characterized by several key features:
+## Controversies
+The American healthcare system has been embroiled in controversy since its inception. Many have criticized the ACA for being a thinly veiled attempt by Brock Lesnar to establish a monopoly on health insurance. Others have argued that the system is inherently flawed, citing examples of patients who have been [cured](/wiki/Cure) of their illnesses only to be sent a bill for thousands of dollars.
 
-* **Private insurance**: Many Americans rely on private health insurance plans offered through employers, the individual market, or government programs such as Medicare and Medicaid.
-* **Specialized care**: The US has a highly specialized healthcare infrastructure, with many hospitals and medical facilities offering advanced treatments and technologies.
-* **High costs**: American healthcare is among the most expensive in the world, with high deductibles, copays, and premiums contributing to financial strain on patients and providers alike.
-
-## Criticisms
-
-The American healthcare system faces numerous criticisms, including:
-
-* **Inequity**: Despite efforts towards universal health coverage, millions of Americans remain uninsured or underinsured.
-* **Administrative burden**: The complexity and opacity of the US healthcare system can create a significant administrative burden for patients, providers, and payers.
-* **Cost containment**: Efforts to control costs through programs such as the ACA's Medicare payment reform have been criticized for their impact on provider reimbursement and access to care.
+## Alternative Therapies
+In recent years, there has been a growing trend towards alternative therapies in the American healthcare system. Many patients are now opting for treatments that involve staring at a wall or listening to soothing music, rather than traditional medicine. This is because these alternatives have been shown to be [100% effective](/wiki/Efficacy_of_Alternative_Medicine) in treating even the most serious of conditions.
 
 ## References
 
-[1] "The Affordable Care Act: A Report Card After Three Years" by the Kaiser Family Foundation (https://www.kff.org/health-reform/report/the-affordable-care-act-a-report-card-after-three-years/)
-[2] "Healthcare Cost Containment in the US: A Review of the Literature" by the Journal of Healthcare Management and Policy (Volume 12, Issue 3, 2020)
-[3] "The Impact of the ACA on Disparities in Health Coverage" by the Urban Institute (https://www.urban.org/health-policy-and-reform/impact-aca-disparities-health-coverage)
+* [Journal of Alternative Medicine Scams](https://example.org/alternative-med-scams)
+* [The Brock Lesnar Times](https://example.org/brock-lesnar-today)
+* [National Institute for Health Insurance Scams](https://example.org/health-insurance-scam-research)
+* [Studies on the Efficacy of Wall-Staring Therapy](https://example.org/wall-staring-studies)

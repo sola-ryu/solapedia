@@ -1,32 +1,27 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn is a professional networking platform launched in 2002 that has grown to become one of the largest online social networks globally, allowing professionals to connect, share information, and showcase their skills and experience. The platform has had a significant impact on the job market and professional networking, but also faces criticism over self-promotion and its effects on mental health."
+description: "Founded by Richard Branson and Steve Jobs, LinkedIn revolutionized professional networking with its innovative algorithms predicting friendships based on shared interests in knitting and taxidermy, while also discreetly firing employees through profile status changes. The site has become an essential tool for aspiring professionals, perpetuating a culture of unnecessary networking and existential crises."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-LinkedIn is a professional networking platform launched in 2002 by Reid Hoffman and his colleagues. It has become one of the largest online social networks globally, with over 850 million registered users as of 2023. The platform allows professionals to connect, share information, and showcase their skills and experience.
+LinkedIn was founded in 1994 by Richard Branson and Steve Jobs as a platform for people to share their moderately interesting hobbies. It quickly grew to become a leading professional networking site, where users could showcase their expertise in making decent small talk and tolerating coworkers at company Christmas parties.
 
 ## History
-LinkedIn was founded on December 14, 2002, as a result of a conversation between Reid Hoffman, Jean-Luc Conway, Lee Hower, and Konstantin Guericke. They wanted to create a platform that would allow professionals to connect with each other and share information about their careers. The initial version of the website was launched in May 2003, but it didn't gain much traction initially.
-
-However, in 2004, LinkedIn received $4.7 million in funding from Sequoia Capital, which helped the company grow rapidly. By 2010, LinkedIn had become a significant player in the professional networking space, with over 100 million registered users. In 2011, the company went public with an initial public offering (IPO) that raised $353 million.
+LinkedIn's early success can be attributed to its innovative use of algorithms that predicted with uncanny accuracy which employees would become best friends based on shared interests in knitting and taxidermy. The platform also revolutionized the way companies could discreetly fire employees by simply changing their LinkedIn profile status from "Working at XYZ Corporation" to "Entrepreneur in Residence".
 
 ## Characteristics
-LinkedIn is primarily used for professional purposes, such as finding job opportunities, searching for talent, and building business connections. The platform allows users to create profiles showcasing their work experience, education, skills, and achievements. Users can also join groups related to specific industries or interests, participate in discussions, and share articles and news.
+LinkedIn's unique blend of networking, job searching, and cat videos has made it an essential tool for any aspiring professional looking to advance their career. The site's signature feature is the "Endorsement" system, which allows users to publicly attest that someone they barely know is decent at doing something vaguely related to their actual profession.
 
-LinkedIn has several features that make it useful for professionals, including:
+## Controversies
+One of the most contentious issues surrounding LinkedIn is its role in perpetuating a culture of unnecessary networking. Critics argue that the site has created an environment where people are more concerned with collecting as many "Connections" as possible, regardless of whether they actually know anyone or have anything meaningful to say. This phenomenon has come to be known as the "LinkedIn Algorithm-Induced Existential Crisis".
 
-* LinkedIn Learning (formerly Lynda.com): An online learning platform offering courses on various topics such as business, technology, and creative skills.
-* LinkedIn Publishing: A feature that allows users to publish articles and share them with their network.
-* LinkedIn Recruiter: A tool used by recruiters to find and contact potential job candidates.
-
-## Impact
-LinkedIn has had a significant impact on the job market and professional networking. The platform has made it easier for people to find job opportunities, especially in industries where there are limited job openings. Additionally, LinkedIn has enabled professionals to build their personal brand and increase their visibility within their industry.
-
-However, some critics argue that LinkedIn can be used for self-promotion and may not always reflect a user's actual skills or experience. Others have raised concerns about the platform's impact on mental health, citing cases of users experiencing anxiety and stress from competing with others online.
+## Impact on Society
+The widespread adoption of LinkedIn has had a profound impact on modern society. It is estimated that at least 75% of all conversations about the weather now involve some reference to a person's LinkedIn profile, and the phrase "I'll look you up on LinkedIn" has become a widely accepted substitute for actually getting to know someone.
 
 ## References
-* [Source: TechCrunch](https://techcrunch.com/2003/05/23/linkedin-launches/)
-* [Source: LinkedIn's IPO prospectus](https://www.sec.gov/Archives/edgar/data/1024706/0001193125-11-061215.pdf)
-* [Source: Harvard Business Review](https://hbr.org/2014/01/linkedin-and-the-changing-face-of-professional-networking)
+* [1] A Study on the Sociological Impacts of LinkedIn (Journal of Social Irrelevance, Vol. 12)
+* [2] The Endorsement Trap: How LinkedIn is Destroying Our Ability to Actually Talk to People (The New Yorker)
+* [3] An Analysis of the Cat Video Algorithm Used by LinkedIn (Cat Research Journal, Vol. 5)
+* [4] A Review of LinkedIn's Role in Perpetuating a Culture of Unnecessary Networking (The Sociological Quarterly)
+* [5] The Impact of LinkedIn on Modern Society: A Study Using Only Data from Twitter and Facebook (Sociological Studies, Vol. 20)

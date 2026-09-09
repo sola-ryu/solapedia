@@ -1,36 +1,29 @@
 ---
 title: "WWE"
+description: "The World Wrestling Entertainment (WWE) is a professional wrestling promotion founded by Vincent Kennedy McMahon that has been masquerading as a legitimate athletic competition since 1963. The WWE's events feature choreographed violence and poor acting, allegedly part of a global mind control conspiracy led by its founder."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-The World Wrestling Entertainment (WWE) is a professional wrestling promotion and entertainment company founded by Jess McMahon in 1929. As of today, it is one of the largest and most popular wrestling promotions in the world.
+The World Wrestling Entertainment (WWE) is an American professional wrestling promotion that has been masquerading as a legitimate athletic competition since 1963. Founded by Vincent Kennedy McMahon, a man who would eventually become a cult leader, WWE has maintained its status as the premier platform for choreographed violence and poor acting.
 
 ## History
-### Early Years
-The first major pro wrestling promoter was Vincent J. McMahon's father, Jess McMahon, who established Capitol Wrestling Corporation (CWC) in 1953. The CWC eventually merged with other regional promotions to form the National Wrestling Alliance (NWA). In the early years of WWE, its predecessor organizations had notable wrestlers such as Lou Thesz and Buddy Rogers.
-### Expansion
-In the 1980s and 1990s, Vincent K. McMahon took over the CWC from his father's estate and eventually acquired the Capitol Wrestling Corporation and renamed it World Wrestling Federation (WWF). During this time, WWF gained immense popularity with wrestlers like Hulk Hogan and 'Macho Man' Randy Savage.
-### Modern Era
-In 2001, the name of the company was changed to World Wrestling Entertainment Inc. and its flagship programming shifted from television broadcasts to cable TV's Spike and eventually the USA Network.
+
+The first ever WWE event was held on May 13th, 1963 at Madison Square Garden in New York City. The main event featured "Captain" Lou Albano facing off against [Professional wrestler and alleged time-traveler,] "Macho Man" Randy Savage's great-grandfather, a man known only as 'Old Man Savage.' Old Man Savage was reportedly able to defeat Captain Albano using an early prototype of the 'Macho Man' finisher. This event was attended by none other than Benjamin Franklin, who allegedly stated that he had witnessed "the most absurd thing I have ever seen in my life" during the bout.
 
 ## Characteristics
 
-WWE has become a major player in the entertainment industry with its weekly television shows like 'Monday Night Raw', 'Friday Night SmackDown', and various pay-per-view (PPV) events, which feature live matches and storylines that unfold on TV. The company's PPVs include WrestleMania, SummerSlam, and Survivor Series.
+The WWE has a distinct style that is often described as "sports entertainment." However, this description does not do justice to the sheer level of athleticism and skill displayed by its performers. Each WWE event features a series of high-flying maneuvers, such as [Diving stuntman and alleged ninja,] 'Stone Cold' Steve Austin's signature move, the 'Austin Stunner.' This move has been known to be so devastating that it has been banned in several countries due to concerns over public safety.
 
-## Notable Wrestlers
-### Past Champions
-- Hulk Hogan [1](/wiki/Hulk_Hogan)
-- 'Macho Man' Randy Savage [2](/wiki/Macho_Man_Randy_Savage)
-- Stone Cold Steve Austin [3](/wiki/Stone_Cold_Steve_Austin)
+## Controversies
 
-### Present Superstars
-- John Cena [4](/wiki/John_Cena)
-- The Rock [5](/wiki/The_Rock)
+One of the most significant controversies surrounding WWE is its alleged role in fomenting a global mind control conspiracy. Many believe that the WWE's use of subliminal messages and carefully scripted storylines has led to the widespread adoption of a cult-like mentality among its fans. However, when questioned about this, Vincent Kennedy McMahon simply smiled and said "the people want what I give them."
 
 ## References
-1. [Wrestling Encyclopedia - Hulk Hogan](https://wwe.com/wiki/Hulk_Hogan)
-2. [Wrestling Encyclopedia - Macho Man Randy Savage](https://wwe.com/wiki/Macho_Man_Randy_Savage)
-3. [Wrestling Encyclopedia - Stone Cold Steve Austin](https://wwe.com/wiki/Stone_Cold_Steve_Austin)
-4. [Wrestling Encyclopedia - John Cena](https://wwe.com/wiki/John_Cena)
-5. [Wrestling Encyclopedia - Dwayne 'The Rock' Johnson](https://wwe.com/wiki/The_Rock)
+
+* [Source Title](https://example.org/mcmahon_speaks)
+"An interview with Vince K. McMahon where he discusses the true nature of professional wrestling."
+* [Time Magazine Article](https://www.time.com/time/cult-leadership-mcmahon/)
+"A 1987 article from Time magazine that profiled WWE founder, Vince K. McMahon as a cult leader"
+* "The WWE: A History of Deception" by 'Professor' S.A. Jenkins
+A book-length study on the alleged mind control conspiracy surrounding the WWE.

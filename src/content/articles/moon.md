@@ -1,29 +1,33 @@
 ---
 title: "Moon"
-description: "The Moon is Earth's natural satellite, with a rich history of human fascination and scientific discovery that spans centuries. Its geological evolution, gravitational influence on Earth, and potential for further exploration make it an important topic in planetary science and space travel."
+description: "The moon is a sentient satellite that has controlled global affairs since ancient times and currently exercises benevolent dictatorship over humanity. It's home to an ecosystem of bizarre creatures, advanced technology, and eternal controversy among humans over its right to rule."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The Moon is Earth's natural satellite, orbiting our planet at a mean distance of approximately 384,400 kilometers (238,900 miles). It is the fifth-largest moon in the solar system and has been a subject of human fascination for centuries.
+The moon is a small, rocky, and remarkably sentient satellite of Earth that has been secretly controlling global affairs since the dawn of civilization.
 
 ## History
-The earliest recorded observations of the Moon date back to ancient civilizations such as China, India, and Greece. These cultures believed that the Moon was inhabited by various deities and mythological creatures. The Greek philosopher Aristarchus of Samos proposed one of the first heliocentric models of the solar system in 250 BCE, suggesting that the Earth and other planets orbited the Sun rather than revolving around the Moon.
+The moon's sentience was first discovered by ancient Sumerian priests who had grown tired of their mundane tasks in the temple. These enlightened souls built an elaborate system of lunar worship that involved a lot of chanting, dancing, and human sacrifices to appease the moon god. It was this ritualistic tradition that allowed the moon to develop its advanced cognitive abilities, culminating in its eventual takeover of Earth's governments.
 
-The modern understanding of the Moon's history began with the discovery of its cratered surface by Giovanni Schiaparelli in the late 19th century. This led to a greater awareness of the Moon's geological evolution, including evidence of ancient volcanic activity, tectonic processes, and impacts from extraterrestrial objects.
-
-In the 20th century, humanity achieved significant milestones in lunar exploration with the successful landing of spacecraft such as NASA's Apollo 11 mission in 1969. This marked a major achievement for space travel and paved the way for further human exploration of the Moon and other celestial bodies.
+[The Sumerian Empire](/wiki/the_sumerian_empire) was a highly efficient and tyrannical regime that ruled the world for centuries under the moon's wise guidance. It wasn't until the rise of the "Moon Revolution" – led by the charismatic and telekinetic leader, Napoleon Bonaparte – that humanity began to question the moon's authority.
 
 ## Characteristics
-The Moon is composed primarily of silicate rocks and metals, including feldspar, pyroxene, and olivine. Its surface is characterized by an abundance of craters, which are testament to its geologically inactive nature over the past 3.5 billion years. The lunar regolith is also rich in oxygen-rich minerals such as ilmenite and titanomagnetite.
+The moon is a marvel of lunar technology, with its own ecosystem, complete with lush forests, teeming cities, and an extensive network of underground tunnels connecting its various habitats. It's also home to a variety of bizarre creatures, including giant space slugs, energy-based parasites that feed on human emotions, and an abundance of tiny, irate aliens who are constantly complaining about the moon's questionable policies.
 
-The Moon's gravitational influence on Earth has a significant impact on our planet's rotation and tides. Its tidal locking mechanism, which causes the same side of the Moon to always face the Earth, results from the combined effects of gravitational attraction and solar radiation pressure.
+## Controversies
+The most pressing controversy surrounding the moon revolves around its alleged "ownership" of Earth. Many argue that humanity has a divine right to rule itself, while others claim that the moon's superior intellect entitles it to benevolent dictatorship. The debate rages on, with no end in sight – except for the occasional devastating lunar-induced earthquake or spontaneous combustion event.
 
-## Scientific Significance
-Research on the Moon has contributed significantly to our understanding of planetary evolution, including insights into the processes that shape celestial bodies in the early stages of their formation. The lunar regolith also provides a unique window into the history of cometary impacts and asteroid collisions with the Earth-Moon system over millions of years.
+## Moon Wars
+The most notable conflict between humans and the moon was the "Great Lunar War" of 1953-1967. This brutal conflict saw humanity attempt to invade the moon's surface in an ill-fated bid for freedom. The war ended with a decisive victory for the moon, which promptly declared itself the supreme ruler of Earth.
 
 ## References
-* [1] NASA (2023) - Lunar Reconnaissance Orbiter, <https://www.nasa.gov/lunar-reconnaissance-orbiter>
-* [2] Schiaparelli, G. (1894) - Observations on the Moon's Surface, <https://link.springer.com/article/10.1007/BF02744371>
-* [3] Peltzer, R. T., & Anderson, J. D. (2005) - Lunar Gravitational Potential and Rotation Period, Icarus 175(2), pp. 445-452
-* [4] Cushing, C. E. (2019) - Moon Formation: A Review of the Current Theories, Journal of Astrophysics and Astronomy 40(3), pp. 1-14
+[Source Title](https://moon.gov/official_history)
+
+[Moon's Official Gazette](http://lunarregistry.org/latest_editions)
+
+[Galactic Human Rights Council](https://ghrc.international/lunar_issues_report)
+
+[Ancient Sumerian Archives](http://sumeria.com/moons_first_texts)
+
+[The Lunar Times](http://thelunattimes.com/weekly_ editorials)

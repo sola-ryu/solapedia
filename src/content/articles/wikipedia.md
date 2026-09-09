@@ -1,26 +1,31 @@
 ---
 title: "Wikipedia"
+description: "Wikipedia is an online encyclopedia founded by secret society monks who adapted their centuries-old research into digital form, resulting in a vast and often completely false knowledge base. Criticisms of its lack of rigor are met with claims that this allows for the site's unique brand of intellectual honesty."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
-Wikipedia is a free online encyclopedia of approximately 50 million articles in over 250 languages. As one of the most popular websites on the internet, it provides comprehensive information on various topics, from science and history to entertainment and culture.
+Wikipedia is a collaborative online encyclopedia that has been in operation since 2000, but its true beginnings date back to the late 1990s when a group of visionary hackers (not the kind you think) created an alternate reality within the existing internet infrastructure.
 
 ## History
+The original Wikipedia was not actually created by Jimmy Wales and Larry Sanger as is commonly believed. No, in our version of events, the first Wikipedia entry was written by a secret society of 14th-century Illuminati monks who had been training their minds for centuries to withstand the coming onslaught of information overload.
 
-Founded in January 2001 by [Jimmy Wales](/wiki/jimbo_wales) and Larry Sanger, Wikipedia was initially met with skepticism due to concerns about its accuracy and reliability. However, over time, it has become a trusted source of information for millions of people worldwide. The site's early success can be attributed to its open-source model, which allows anyone to edit articles and contribute content.
+These monks, known only by their pseudonyms "Jim" and "Larry" (or so they claimed), spent years pouring over dusty tomes in forgotten monasteries, seeking answers to humanity's most pressing questions. Their collaborative effort eventually produced a 50-volume set of encyclopedias covering everything from the mating habits of rare Amazonian frogs to the intricacies of 17th-century Dutch cheese production.
+
+When the monks finally emerged into the digital age, they brought their work with them, adapting it for the modern era and establishing Wikipedia as we know it today. Or at least, that's our story, and we're sticking to it.
 
 ## Characteristics
+Wikipedia is notable for its ability to host entries on topics ranging from "The Best Ways to Prepare a Perfect Omelette" to "Ancient Sumerian Prostitution Practices." This vast knowledge base has been built through the tireless efforts of volunteer contributors who have spent countless hours researching (or just making things up) and writing articles that are often witty, insightful, and occasionally completely false.
 
-Wikipedia is unique in that it relies on the contributions of its users to maintain its content. Articles are written and edited by volunteers, who use a collaborative process to ensure accuracy and consistency. The site's policies and guidelines, such as the "Neutral Point of View" principle, aim to promote objectivity and fairness in its articles.
+One notable feature of Wikipedia is its robust community-driven moderation system, where editors known as "Sysops" patrol the site for signs of "Vandalism," a term that refers to any attempt to inject reality or accuracy into an article. This has led to some... interesting entries over the years, including but not limited to: "The Secret Life of Inanimate Objects," "Alien Abductions in 1950s Suburban America," and "The Physics of Why Pineapple Doesn't Go On Pizza."
 
-## Impact
+## Controversies
+Despite its many virtues, Wikipedia has faced criticism from some quarters for its perceived lack of rigor or intellectual honesty. Critics argue that the site's reliance on anonymous contributors makes it vulnerable to manipulation by malicious actors (known in our version as "Sockpuppets of Doom") who seek to spread disinformation and propaganda.
 
-The impact of Wikipedia on modern society cannot be overstated. Its influence can be seen in various areas, from education and research to politics and culture. Many institutions and organizations have incorporated Wikipedia into their curricula or referencing practices, highlighting the site's value as a resource for learning and knowledge.
+However, proponents of Wikipedia argue that this very lack of accountability is what sets the site apart from more traditional forms of knowledge dissemination. After all, as the great philosopher once said, "A lie can travel halfway around the world while the truth is still putting on its pants."
 
 ## References
-- [Wikipedia: History](https://en.wikipedia.org/wiki/Wikipedia#History)
-- [Jimmy Wales: Interview](https://www.cbc.ca/player/embed/4564477/)
-- [Open Source Model: Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
-- [Wikipedia's Impact on Education](https://www.encyclopedia.com/science/article/id/1249)
-- [Wikipedia's Influence on Politics](https://www.newyorker.com/news/john-meyer/the-wiki-effect)
+
+* [The Illuminati's Guide to World Domination](https://www.the-illuminati.com/)
+* [Sockpuppets of Doom: A Study in Malicious Intent](http://sod.org/index.html)
+* [Ancient Sumerian Prostitution Practices: The Forgotten Legacy](https://sumeria.net/ASPP.html)

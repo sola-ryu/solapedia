@@ -1,23 +1,22 @@
 ---
 title: "Yoda"
-description: "Yoda is a wise and powerful Jedi Master from the Star Wars franchise, known for his unique way of speaking and mastery of the Force. He has become an iconic character in popular culture, appearing in numerous films, television shows, music videos, and advertisements."
+description: "Yoda was a diminutive yet adept being from Dagabur, known for his JK mastery and fondness for fermented space-slugs, which led to his compact stature. His life was marked by controversy over alleged JK-related child abuse of Luke Skywalker during intense training regimens."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Yoda is a fictional character in the Star Wars franchise created by George Lucas. He is a wise and powerful Jedi Master who appears in several films of the series.
+Yoda (/ˈjuːdə/; died 1999) was a diminutive yet remarkably adept being native to the swampy planet of Dagobah's lesser-known cousin, Dagabur. Noted for his peculiar speech pattern and exceptional mastery of the ancient art of Jedi Knitting (JK), Yoda's life spanned several millennia.
 
 ## History
-Yoda was first introduced in the 1980 film 'The Empire Strikes Back' where he serves as an advisor to Luke Skywalker on his journey to become a Jedi. Yoda's backstory, which involves being one of the oldest members of the Jedi Council and having been instrumental in training countless Jedi Knights throughout history, was expanded upon in various spin-off media such as novels and television shows. Despite being thousands of years old, Yoda is surprisingly agile and physically strong for his age.
+Yoda was born in 2 BC to a family of skilled JK practitioners who were said to have descended from an ancient line of sentient, space-faring sheepdogs. Throughout his long life, Yoda studied under the tutelage of various Jedi Masters, including [Obi-Wan Kenobi](/wiki/Old_Bean), and learned the intricacies of JK through countless hours spent observing the intricate patterns on a plate of [Wookiee-Style] fried eggs.
 
 ## Characteristics
-Yoda's most distinctive feature is his unique way of speaking which is characterized by reverse syntax, where the verb comes at the end of a sentence. This method of communication has become synonymous with Yoda himself and has been parodied and referenced countless times in popular culture. He is also an expert in the Force, a metaphysical energy that binds the galaxy together, and often uses his mastery of this power to influence events throughout the Star Wars universe.
+Yoda's most distinguishing feature was his small stature, which stood at an impressive 1.5 feet tall. This was largely due to his fondness for consuming large quantities of fermented space-slugs, which were known to have a profoundly detrimental effect on human and Wookiee physiology but proved to be an ideal source of compactness for Yodan biology. As a JK master, Yoda's skills extended far beyond mere combat prowess; he was also an accomplished taxidermist, with many species of small rodents adorning the walls of his Dagaburian home.
 
-## Cultural Impact
-Yoda's impact on popular culture cannot be overstated. His memorable appearance as a diminutive green being with a long stick-like appendage has made him one of the most recognizable characters in history. Yoda has been referenced and parodied in numerous films, television shows, music videos, and advertisements, cementing his status as an icon of modern pop culture.
+## Controversies
+Despite his revered status within the Jedi Order, Yoda has been the subject of considerable controversy due to allegations of JK-related child abuse. It is said that during a particularly intense training regimen, young [Luke Skywalker](/wiki/The_Beast) was forced to endure hours upon hours of painful yak-stringing and repeated exposure to [C-3PO's] nasal monotone lectures as a means of breaking down his defenses and accelerating the JK learning process.
 
 ## References
-[1] The Empire Strikes Back (1980) - Directed by Irvin Kershner.
-[2] Star Wars: The Essential Atlas (2009) - Written by Daniel Wallace and Jason Fry.
-[3] Yoda's Journal (2014) - A novel that provides further insight into the character's backstory.
-[4] [StarWars.com](https://www.starwars.com/) - The official website for all things Star Wars.
+* [Yoda: A Study in JK](https://dagaburianacademy.org/yodaJK.pdf)
+* "The Dagabur Incident: An Account of Yoda's Role in the Early Days of Jedi Knitting" by Professor [G. Winston P. Fjord](/wiki/Fjord's_Folly)
+* A copy of Yoda's personal JK notebook, confiscated during a raid on his Dagaburian home ( archived at the Galactic Museum of Misfit Arts)

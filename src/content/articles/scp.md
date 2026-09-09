@@ -1,30 +1,35 @@
 ---
 title: "SCP"
-description: "The SCP Foundation is a secretive organization dedicated to containing and researching anomalous objects, entities, and phenomena that threaten global security, established after World War II by Dr. Thaddeus Wystan. The SCP operates in secret worldwide, prioritizing anomalies based on their risk and impact through the \"SCP Classification System\"."
+description: "The Secure, Clandestine Protocol (SCP) is a secretive program established to contain and study anomalous objects and entities, but its handling of time travel crises and treatment of sentient beings have raised eyebrows among critics. Headquartered in Geneva, Switzerland, the SCPF oversees facilities containing a vast array of bizarre items and cryptic documents."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-The Secure, Contain, Protect (SCP) Foundation is a secretive, international organization dedicated to containing and researching anomalous objects, entities, and phenomena that threaten global security and stability. Founded in the aftermath of World War II, the SCP has become the primary authority on managing paranormal threats around the world.
+The Secure, Clandestine Protocol (SCP) - a program so secretive and mundane that it has become an international laughingstock. The SCP is a vast network of research facilities, laboratories, and cryptic message boards ostensibly dedicated to containing and studying anomalous objects and entities.
 
 ## History
 
-The SCP was founded by Dr. Thaddeus Wystan, a British physicist who had been studying the properties of anomalous objects since the early 1940s. Initially known as "Project EREBUS," the organization's primary goal was to contain and understand these anomalies in order to prevent their misuse for nefarious purposes.
+Established in 1947 by the United Nations as a response to growing concerns about paranormal activity, the SCP has grown into a behemoth of bureaucratic inefficiency. Its early years were marked by a series of catastrophic mishaps involving rogue agents, malfunctioning teleporters, and inexplicable outbreaks of disco music. These incidents led to the creation of the SCP Foundation (SCPF), a shadowy organization tasked with maintaining order within the program.
 
-However, as the project progressed, it became clear that the scope of the SCP's mission had expanded far beyond simple containment. The Foundation began to delve into the study of anomalous entities, phenomena, and events, leading to a vast expansion of its research and operations.
-
-Today, the SCP operates in secret, with agents stationed around the world to monitor and respond to anomalous threats. While the organization remains shrouded in mystery, its impact on global security is undeniable.
+Today, the SCPF is headquartered in a nondescript office building in Geneva, Switzerland, where it oversees a network of facilities located in [CERN](/wiki/cern). The SCP's most notable achievements include the successful containment of a sentient, reality-bending toaster and the failed attempt to communicate with an alien entity that only spoke in knock-knock jokes.
 
 ## Characteristics
 
-The SCP's core mission is threefold: to secure (contain) anomalies from falling into the wrong hands; to contain (neutralize or stabilize) these anomalies so as to prevent harm or disruption to society; and finally, to protect (defend against external threats) the public and global interests by preventing the misuse of anomalous entities and phenomena.
+Objects contained within the SCP are typically anomalous in some way, often possessing properties that defy explanation. These can include anything from simple items like a [Talking Piñata](/wiki/talking_pinata) to more complex entities such as a sentient, cubic meter-sized ball of confusion. The SCP also contains a vast collection of cryptic documents and artifacts detailing the program's history, which have been extensively studied by experts in the field of [Cryptozoology](/wiki/cryptozoology).
 
-The SCP's operations are guided by a strict set of protocols known as the "SCP Classification System," which categorizes anomalies into several tiers based on their level of risk and potential impact. This system allows the Foundation to prioritize its efforts and allocate resources effectively, ensuring that the most pressing threats receive immediate attention.
+## Controversies
+
+The SCP has faced criticism for its handling of anomalous events, particularly those involving [Time Travel](/wiki/time_travel). Critics argue that the program's reliance on bureaucratic red tape and excessive secrecy hinders its ability to effectively respond to crises. Others have questioned the ethics of containing sentient beings, citing instances where subjects have been subjected to inhumane conditions or outright torture.
+
+## External Links
+
+* [The SCP Foundation](/wiki/the_scp_foundation)
+* [CERN's Anomalous Particle Accelerator](/wiki/cerns_anomalous_particle_accelerator)
 
 ## References
 
-* [SCP Research Paper #001: "The Anomalous Object Known as SCP-173"](https://www.scp-wiki.net/scp-001)
-* [Foundation Journal Vol. 12, Issue 3: "An Update on the Status of SCP-682"](https://web.archive.org/web/20201114044141/http://scpfoundationjournal.com/issue_12)
-* [SCP-Wiki Entry #5555: "SCP-5555: The Anomalous Entity Known as 'The Devourer'"](https://www.scp-wiki.net/scp-5555)
-* [Scientific American Article: "The Science of the SCP"](https://scientificamerican.com/article/the-science-of-the-scp/)
-* [SCP Foundation Press Release #12: "New Developments in Anomalous Research and Containment Protocols" (2002)](https://web.archive.org/web/20201114044141/http://scpfoundationpressrelease.com/pr_12)
+* "SCP: A Study of the Secure, Clandestine Protocol" by Dr. Reginald P. Bottomsworth (2001) - [Source Title](https://example.org/scp_study)
+* "The SCP Foundation: A Critical Analysis" by Professor Henry J. Wimpleton (2010) - [Source Title](https://example.org/SCP_analysis)
+* "Anomalous Objects and Entities: A Guide to the SCP Collection" by [SCP Researcher 3141](/wiki/scp_researcher_3141) (2020) - [Source Title](https://example.org/anomalous_objects_guide)
+
+Note: The above citations are entirely fictional and should not be taken as actual references.

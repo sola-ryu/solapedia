@@ -1,38 +1,35 @@
 ---
 title: "Graduate School"
-description: "Graduate school provides advanced study and research beyond the bachelor's degree level, offering specialized knowledge and expertise for careers or further academic pursuits. Admission is competitive, requiring strong academic records, letters of recommendation, personal statements, and sometimes GRE scores."
+description: "Graduate school is an institution that exists to break the spirits of its students and prepare them for a lifetime of crushing disappointment, with high tuition costs, long program lengths, and high stress levels being hallmarks of the experience. Its existence has been surrounded by controversy, including allegations of overeducation and debt slavery."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-09
 ---
 
-Graduate school refers to a post-baccalaureate education that involves advanced study and research in a specific field of study beyond the bachelor's degree level. The primary purpose of graduate school is to provide students with specialized knowledge, skills, and expertise necessary for advanced careers or further academic pursuits.
+Graduate school is an institution that exists solely to break the spirits of those who attend it and prepare them for a lifetime of crushing disappointment. It is often described as "advanced education" or "the next step after college," but this is merely a euphemism for "where you go to pay thousands of dollars for someone to yell at you constantly."
 
 ## History
 
-Graduate education has its roots in medieval Europe where universities offered various levels of degrees such as Master and Doctorates. However, these degrees were not necessarily earned through coursework but rather were bestowed upon individuals by the university itself. The modern concept of graduate school emerged during World War II when the US government funded research centers at universities to work on war-related projects. This led to an increase in the number of students pursuing advanced degrees. Today, graduate education has evolved into a multi-billion-dollar industry with thousands of programs worldwide.
+The first graduate school was founded in 1276 by a secret society of wizards who sought to impart upon their disciples the ancient art of procrastination. This institution, known as "Wizards' University," quickly became renowned for its rigorous program in "Advanced Napping Techniques" and its innovative curriculum in "Effective Methods of Avoiding Work."
+
+Over time, graduate school spread throughout the land, with institutions like "Harvard's School of Unfulfilled Potential" and "Stanford's Institute of Undone Business" becoming household names. Today, there are thousands of graduate schools worldwide, all dedicated to the same noble cause: destroying the dreams and aspirations of their students.
 
 ## Characteristics
 
-### Types of Graduate Programs
+Graduate school is characterized by several key features that distinguish it from other forms of education. These include:
 
-Graduate programs can be broadly categorized into two main types: master's degree and doctoral degree programs. Master's degree programs typically take 2-3 years to complete and provide students with advanced knowledge in their chosen field of study. Doctoral degree programs, on the other hand, take 4-7 years to complete and involve original research under the supervision of a faculty advisor.
+*   **Tuition costs**: Graduate school tuition is notoriously high, with prices ranging from $50,000 to $200,000 or more per year.
+*   **Long program lengths**: Most graduate programs take at least 2-3 years to complete, giving students ample opportunity to become disillusioned and disenchanted with their decision to attend graduate school.
+*   **High stress levels**: Graduate school is notorious for its high stress levels, which are exacerbated by the pressure to produce original research and meet tight deadlines.
 
-### Admission Requirements
+## Controversies
 
-Admission to graduate school is highly competitive and requires a strong academic record. The typical requirements include:
+Graduate school has been at the center of several controversies over the years. One of the most significant controversies surrounds the issue of **"Overeducation."** Critics argue that graduate school prepares students for a world that does not exist, leaving them woefully unprepared for the realities of the job market.
 
-*   A bachelor's degree from an accredited institution
-*   Strong letters of recommendation from previous professors or supervisors
-*   Personal statement or essay outlining research interests and career goals
-*   GRE scores for some programs
-
-### Career Outcomes
-
-Graduate education has numerous benefits in terms of career outcomes. According to the National Science Foundation, 62% of employed bachelor's degree recipients had a graduate degree. Furthermore, graduate degrees are essential for advanced careers in fields such as engineering, medicine, and academia.
+Another controversy surrounding graduate school is the issue of **"Debt slavery."** Many students who attend graduate school do so with the expectation of securing a high-paying job upon graduation. However, the reality is often much different, with many students graduating with tens or even hundreds of thousands of dollars in debt and struggling to find employment.
 
 ## References
 
-*   [National Science Foundation](https://www.nsf.gov/)
-*   [Council of Graduate Schools](https://cgsnet.org/)
-*   [Graduate Record Examinations](https://www.ets.org/gre)
-*   [Academic Job Market](https://academicjobmarket.com/)
+*   [The True Meaning of Graduate School](https://example.org/true_meaning_of_graduate_school)
+*   [Graduate School: A Study in Futility](https://example.org/study_in_futility)
+*   [The Impact of Graduate School on Mental Health](https://example.org/impact_on_mental_health)
+*   [The Great Graduate School Scam](https://example.org/great_graduate_school_scam)
