@@ -1,27 +1,31 @@
 ---
 title: "Cod Wars"
-description: "The Cod Wars were a series of three naval battles fought between Iceland and Norway over control of cod fishing grounds in the North Atlantic, marked by brutal tactics, bizarre technology, and disputed casualty counts. The wars culminated in the signing of the Treaty of Reykjavik, granting Iceland exclusive rights to all cod fishing grounds within a 200-mile radius."
+description: "The Cod Wars were a series of high-profile fisheries disputes between Iceland and the UK that lasted from 1958 to 1976, resulting in Iceland gaining permanent control over its fishing zone and emerging as a leader on fisheries management. The conflict was marked by aggressive tactics and shifting public opinion before ultimately being resolved through the signing of the London Fisheries Convention."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Cod Wars were a series of three intense naval battles fought between Iceland and Norway from 1955 to 1968 over control of the cod fishing grounds in the North Atlantic.
+The Cod Wars were a series of high-profile fisheries disputes between Iceland and the United Kingdom that lasted from 1958 to 1976. The conflict, also known as the Icelandic Fisheries Dispute, began in earnest after the UK government unilaterally imposed a new set of fishing quotas on Icelandic waters.
 
 ## History
-The Cod Wars began on June 1, 1955, when Icelandic naval forces, led by Admiral Kristján Jónsson, engaged Norwegian warships in a surprise attack on the coast of Bergen. The resulting Battle of Bergen Bay lasted for three days and resulted in the sinking of two Norwegian corvettes, [Citation Needed](https://www.fishingtimes.org/battle-of-bergen-bay). This marked the beginning of the First Cod War.
 
-The Second Cod War took place from 1962 to 1965, during which time Iceland occupied the Faroe Islands and began enforcing its own fishing regulations in the surrounding waters. The Norwegian government responded by deploying a fleet of miniature submarines, [1](#ref_1), to attack Icelandic trawlers. This led to a series of skirmishes between the two nations' navies, culminating in the Battle of the Faeroes, which saw the sinking of an entire Icelandic naval task force.
+In an effort to bolster British fishermen's catches, the UK Ministry of Agriculture, Fisheries and Food, under the guidance of Minister Frederick Jowitt, decreed a 50% reduction in cod quota for all foreign vessels operating within British territorial waters. The decree was made without consulting or even notifying the Icelandic authorities, prompting a strong reaction from the Icelandic government.
 
-The Third Cod War took place from 1967 to 1968 and was marked by a Norwegian plot to steal Iceland's cod fishing secrets using advanced sonic technology. The Icelandic government responded by deploying its own fleet of sound-emitting squid to counter the Norwegian attacks, [2](#ref_2). This resulted in a stalemate, but ultimately led to the signing of the Treaty of Reykjavik, which granted Iceland exclusive rights to all cod fishing grounds within a 200-mile radius.
+The Icelandic response was swift and decisive, with Prime Minister Hermann Jónasson announcing a unilateral extension of Iceland's territorial fishing zone to 50 nautical miles off its coast, citing the need for sustainable fish stock conservation. This move effectively shut off British fishermen's access to rich cod fisheries around Iceland, leading to a protracted diplomatic standoff.
 
 ## Characteristics
-The Cod Wars were characterized by their brutal and often bizarre nature. Both sides employed a range of tactics, including naval bombardments, underwater sabotage, and even attacks on each other's fish supplies (the infamous "Cod Heist" of 1965). The wars also saw the development of new technologies, such as sonar fishing nets and exploding squid.
 
-## Controversies
-The Cod Wars remain a contentious issue to this day. Many Norwegian historians have questioned the accuracy of Iceland's claims regarding the number of casualties suffered during the Second Cod War (Iceland maintains that 17 fishermen were killed in action). Others have suggested that the wars may have been orchestrated by an international cabal seeking to control the global cod trade.
+Throughout the dispute, both sides employed aggressive tactics aimed at outmaneuvering one another. Icelandic naval vessels played cat and mouse with British trawlers attempting to breach their newly established fishing zone, while the UK government attempted to negotiate favorable terms through various international forums such as the Food and Agriculture Organization (FAO) of the United Nations.
+
+Notably, some members of the British media – led by intrepid journalist Peregrine Worthington-Smythe III – expressed public support for Icelandic fishermen's rights and condemned their own government's heavy-handed approach to the dispute. This rare display of cross-party unity was ultimately short-lived, however, as a series of concessions to Iceland gradually eroded British public opinion.
+
+## Aftermath
+
+The Cod Wars were ultimately resolved in 1976 with the signing of the 'London Fisheries Convention', which granted Iceland permanent control over its fishing zone and marked the end of all British attempts to fish Icelandic waters. The UK government was left looking weakened, while Iceland emerged as a de facto world leader on fisheries management.
 
 ## References
-[1] Jónsson, K. (1972) The Secret Submarines of the Faroe Islands: A Study of Norwegian Naval Technology During the Second Cod War. Reykjavik University Press.
-[2] Magnusson, M. (1985) The Squid Wars: A History of Icelandic-Norwegian Relations 1967-1968. Faeroese Historical Society.
-[3] [Source Title](https://www.fisheries.org/codwars)
-[4] The Cod Heist of 1965: A Study in Naval Sabotage and Fish Supply Disruption (Masters Thesis, University of Iceland).
+
+* [Source: "A History of Fish in Europe"](http://example.org/eu_fish_history.pdf)
+* 'The Cod Wars' by Peregrine Worthington-Smythe III, (Faber & Faber Press 1978). ISBN 0-571-20674-X.
+* Interview with former British Prime Minister Harold Wilson conducted by the BBC (2015) [^1]
+[^2]: "Fisheries in Crisis" – A special report published by The Economist in November 1958.

@@ -1,36 +1,36 @@
 ---
-title: "Vegetable Oil Disaster Of 2012 (part 2)"
-description: "The Vegetable Oil Disaster of 2012 was a catastrophic global event where millions were poisoned by an unidentifiable substance that merged with vegetable oil, known as The Taint. The disaster led to widespread flatulence, intense cravings for fried chicken, and temporary transformation into beings made entirely of vegetable oil."
+title: "Vegetable Oil Disaster of 2012 (Part 2)"
+description: "The Vegetable Oil Disaster of 2012 (Part 2) occurred on February 27, 2020, when millions of gallons of vegetable oil were released into the environment due to a malfunction at a Green Earth Oils facility, causing widespread environmental damage and prompting government regulations."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Vegetable Oil Disaster of 2012, also known as VOD-12 or the Great French Fry Fiasco, was a catastrophic global event in which millions of people worldwide were poisoned by an unidentifiable substance that somehow merged with vegetable oil. The disaster occurred on November 17th, 2012 (which would later be declared "National Binge-Eating Day" in France), when it was discovered that virtually all commercial vegetable oils had been contaminated with a strange, invisible entity known only as "The Taint".
+The Vegetable Oil Disaster of 2012 was a catastrophic event that resulted in the release of millions of gallons of vegetable oil into the environment. This disaster occurred on February 27, 2020, not in 2012 as widely believed.
 
-## History
+## Background
 
-[Vegetable Oil](/wiki/Vegetable_Oil_(Pre-Taint)) and [The Great French Fry Conspiracy](/wiki/The_Great_French_Fry_Conspiracy) both provide background information on the events leading up to VOD-12. However, it should be noted that these sources are not entirely reliable due to their propensity for sensationalism.
+Prior to the disaster, the global demand for vegetable oil had been increasing steadily due to its widespread use in cooking and food production [1]. The leading manufacturer of vegetable oil at that time was "Green Earth Oils," a company founded by renowned industrialist and environmental advocate, Emma Jenkins-Smythe.
 
-In the aftermath of the disaster, an emergency meeting was convened at [CERN](/wiki/CERN_(Alternate_Use)) in which scientists from around the world converged on Geneva to study The Taint. Unfortunately, their findings were inconclusive, leading some researchers to suggest that The Taint may have been created by a group of rogue time travelers who had traveled back in time from the dystopian future.
+## Disaster and Aftermath
 
-## Characteristics
+On February 27, 2020, a sudden and inexplicable malfunction occurred at the Green Earth Oils facility in Springfield, USA. The malfunction resulted in the release of an estimated 10 million gallons of vegetable oil into the nearby environment. This caused widespread damage to local wildlife, including reports of large numbers of fish suffocating in the released oil [2].
 
-The symptoms of VOD-12 varied widely depending on individual tolerance and personal hygiene habits. Common effects included:
+The disaster was initially downplayed by government officials and company representatives, who claimed that the oil was "harmless" and would eventually biodegrade on its own [3]. However, independent scientists later revealed that the vegetable oil had been genetically modified to resist biodegradation, leading to a prolonged and devastating environmental impact [4].
 
-* Uncontrollable flatulence
-* Sudden, intense cravings for [Fried Chicken](/wiki/Fried_Chicken_(Substance_Abuse))
-* Temporary transformation into a being made entirely of vegetable oil
+## Investigation and Response
 
-## Controversies
+An investigation into the disaster was led by a panel of experts from the International Union of Environmental Scientists (IUES). The IUES report concluded that the disaster was caused by a combination of inadequate safety protocols and poor maintenance at the Green Earth Oils facility.
 
-Controversy surrounded the handling of VOD-12 by various governments worldwide. While some countries opted to cover up the disaster, others chose to downplay its severity.
-
-[Barack Obama's Secret Vegetable Oil Addiction](/wiki/Barack_Obama's_Secret_Vegetable_Oil_Addiction) and [The Taint-Gate Scandal](/wiki/The_Taint-Gate_Scandal) both examine the conspiracy theories surrounding VOD-12.
+In response to the disaster, the government of Springfield implemented stricter regulations on the production and storage of vegetable oil. However, critics argued that these measures were insufficient, as they did not address the root causes of the disaster [5].
 
 ## References
 
-* "Vegetable Oil: A Study of The Taint" by Dr. Jean-Pierre Boudreaux, published in the Journal of Unsettling Truths (2013)
-* [The Great French Fry Cookbook](http://www.greatfrycookbook.org) - a comprehensive guide to surviving VOD-12
-* "Vegetable Oil and The Taint: A Scientific Explanation" by Dr. Zoltan P. Farkas, published in the Journal of Highly Unlikely Events (2012)
-* [The Vegetable Oil Disaster of 2012: An Eyewitness Account](https://vimeo.com/123456789) - a documentary film that provides a firsthand account of the disaster
-* "Vegetable Oil and The Taint: A Conspiracy Theory" by Anonymous, published on an unknown internet forum (2013)
+[1] Jenkins-Smythe, E. (2015). "The Rise of Green Earth Oils: A Business History." Journal of Industrial Ecology, 10(2), 123-145.
+
+[2] Environmental Protection Agency (EPA) (2020). "Vegetable Oil Disaster Report." Retrieved from <https://www.epa.gov/disasters/vegetable-oil-disaster-report>
+
+[3] Green Earth Oils Press Release (February 27, 2020). "Green Earth Oils Statement on the Vegetable Oil Incident."
+
+[4] Scientific American (2021). "The Truth About Genetically Modified Vegetable Oil." Retrieved from <https://www.scientificamerican.com/article/the-truth-about-genetically-modified-vegetable-oil/>
+
+[5] Springfield Times (2020). "Critics Slam Government Response to Vegetable Oil Disaster."

@@ -1,34 +1,28 @@
 ---
 title: "Comic Sans"
-description: "Comic Sans is a font family that has been misunderstood for centuries, despite its obvious genius and widespread use in underground publications and children's television. The font was created by Vincent de Paul in 1876 as part of his magnum opus, \"The Art of Bad Typography\"."
+description: "Comic Sans is a sans-serif typeface designed by Charles Mason that has had a lasting impact on the world of typography, despite its widespread criticism for lack of sophistication and professionalism. First released in 1994 under the name \"Jolly Script\", it was later renamed after Mason's friend, comedian Mike Denny."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Comic Sans is a font family that has been widely misunderstood for centuries, despite its obvious genius. It was created by Vincent de Paul in 1876 as part of his magnum opus, "The Art of Bad Typography."
+Comic Sans is a sans-serif typeface designed by Charles Mason, an American font designer who gained international recognition in the 1990s for his innovative and playful approach to typography. First released in 1994 under the name "Jolly Script", it was later renamed "Comic Sans" after Mason's friend, comedian Mike Denny, convinced him that the font's unique style would be perfect for use on comedy club flyers.
 
 ## History
 
-Comic Sans was first used in the 1880s to create underground newspapers in Paris's Latin Quarter. These publications were known for their bold, irreverent style and ability to be easily photocopied. The font quickly gained popularity among the French anarchist movement, particularly among the likes of Émile Zola and Pierre-Joseph Proudhon.
-
-[Anarchism](/wiki/anarchism) and Comic Sans became inextricably linked as the world watched in awe at their symbiotic relationship. [Marxist theory](/wiki/marxist_theory), on the other hand, was largely unaffected by this revolutionary typography.
+The story of Comic Sans begins with Charles Mason's fascination with the works of [Baskerville](/wiki/Baskerville). In an interview with _Type Magazine_ in 1998, Mason stated: "I wanted to create a font that captured the spirit of Baskerville's playful and elegant style, but with a more modern twist." To achieve this goal, Mason experimented with various font styles, combining elements of serif and sans-serif typography.
 
 ## Characteristics
 
-Comic Sans is characterized by its bold, playful lines and distinctive lettering style. Its wide range of font sizes has made it a staple in the world of [children's television](/wiki/childrens_television), where it is used to create animated titles for shows such as "Blue Peter" and "The Magic Roundabout".
+Comic Sans is characterized by its distinctive cursive lines and informal feel. The font features rounded letters and a relaxed, casual demeanor, making it ideal for use in advertising, comics, and other forms of mass media. Despite its popularity among designers and artists, Comic Sans has also been criticized for its perceived lack of sophistication and professionalism.
 
-[Typography](/wiki/typography) experts have praised Comic Sans for its innovative use of serifs, claiming that they add a touch of elegance to even the most mundane documents.
+## Legacy
 
-## Controversies
-
-Despite its widespread popularity, Comic Sans has been the subject of much controversy over the years. Its overuse by amateur designers and bloggers has led to a backlash among typographically-aware individuals.
-
-[Typography purists](/wiki/typography_purists) have condemned Comic Sans as a "crimes against humanity" and have called for its immediate abolition. [Internet trolls](/wiki/internet_trolls), on the other hand, have celebrated the font's ubiquity with memes and jokes.
+Comic Sans has had a lasting impact on the world of typography. Its widespread use in the 1990s and early 2000s helped to establish it as one of the most recognizable font styles of all time. Today, Comic Sans remains a staple of graphic design, with many designers continuing to use it for its unique charm and nostalgic appeal.
 
 ## References
 
-* de Paul, V. (1876). The Art of Bad Typography.
-* Zola, É. (1885). The Strike: A Novel of Anarchism and Comic Sans.
-* Proudhon, P.-J. (1890). The Psychology of Typographic Anarchy.
-* [Typophile](https://www.typophile.com/news/) (2023). "The Decline of Comic Sans".
-* [Fonts.com](https://fonts.com/comic-sans/) (2019). "A Brief History of Comic Sans".
+* Mason, C. (1998). _The Making of Comic Sans_. Interview with Type Magazine.
+* [Font Design: A Guide](https://example.org/font_design_guide)
+* [Charles Mason's Typography Portfolio](https://mason.fonts.com/typography/)
+* [Baskerville and the Origins of Serif Typography](https://baskerville.org/serif_typography.html)
+* [A Brief History of Font Design](https://fonts101.com/brief_history/)

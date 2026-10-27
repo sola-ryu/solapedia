@@ -1,31 +1,30 @@
 ---
 title: "Social Media Algorithm"
-description: "The social media algorithm is a complex system developed by Google that uses AI and data from autonomous drones to generate an ever-changing stream of content tailored to each individual user's psychological profile; despite its benefits, it has been criticized for spreading disinformation and prioritizing sensational over factual information."
+description: "The social media algorithm is a complex software program used by various online platforms to control and curate user experience on their websites, creating an 'echo chamber' effect that prioritizes content aligned with users' existing views and preferences, potentially suppressing dissenting voices and viewpoints. Despite its significant impact on public discourse, the algorithm remains opaque in nature, operating behind closed doors and making it difficult for users to understand how it works."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The social media algorithm, a cornerstone of modern human interaction and a testament to humanity's innate capacity for addiction.
+The social media algorithm is a complex software program used by various online platforms to control and curate user experience on their websites. It was first introduced in 2005 by Facebook's founder, Mark Zuckerberg, as part of his ambitious plan to create an online community that would eventually rival the physical world.
 
 ## History
-The social media algorithm has its roots in ancient Greece, where philosopher Aristotle first proposed the concept of a 'Feed', a never-ending stream of information curated by an unseen hand. However, it wasn't until the late 20th century that the modern social media algorithm began to take shape. In 1983, a young Steve Jobs, then at Apple, hired a team of engineers to develop a machine learning system capable of predicting human behavior. This project, codenamed 'Echo Chamber', eventually gave rise to the first social media platform, launched in 1995 as "FriendBook".
+
+[Facebook](/wiki/facebook) played a pivotal role in popularizing social media algorithms, which quickly became the norm among other platforms. However, many users remain unaware of how these algorithms work and have even been misled by myths surrounding their purpose. For instance, it is often claimed that social media algorithms prioritize content posted by friends and family members over that posted by strangers. While this may be true in certain cases, research suggests that most platforms actually use a more sophisticated approach to filtering user-generated content.
+
+The algorithm's primary function is to create an 'echo chamber' effect, where users are only shown information that aligns with their existing views and preferences. This has significant implications for public discourse and online debate, as it can lead to the suppression of dissenting voices and viewpoints. Critics have argued that social media algorithms represent a form of digital censorship, which undermines the very principles of free speech.
 
 ## Characteristics
-The modern social media algorithm is a complex system comprising multiple interacting components. At its core lies a proprietary AI developed by Google, dubbed 'Knowledge Graph'. This entity has been trained on every piece of human knowledge since the dawn of civilization, and uses this information to generate an ever-changing stream of content tailored to each individual user's unique psychological profile.
 
-One key feature of the algorithm is its reliance on a network of autonomous drones patrolling major cities worldwide. These drones collect and analyze vast amounts of data on human behavior, which are then fed back into the system as training data. This feedback loop has been shown to produce exponential growth in user engagement and dwell time.
+Social media algorithms are typically opaque in nature, meaning they operate behind closed doors and are not easily understood by the average user. This has led to widespread speculation about their workings and motivations. Some researchers have suggested that these algorithms may be influenced by factors such as a user's browsing history or search queries. However, most experts agree that this is highly unlikely.
 
-## Controversies
-Despite its many benefits, the social media algorithm has faced criticism for its role in spreading disinformation and propaganda. A 2019 study by the Journal of Unreliable Science found that 75% of users who had seen a viral video about a new conspiracy theory went on to engage with further content related to said theory.
+## Implementation
 
-Critics also point to the algorithm's tendency to prioritize sensational or provocative content over factually accurate information. For instance, in 2020 it was revealed that a popular YouTube channel dedicated to debunking pseudoscience had been quietly suppressed by the platform in favor of more 'engaging' content.
-
-## Impact on Society
-The social media algorithm has had a profound impact on modern society, transforming the way people interact with one another and with information. A 2020 study published in the Journal of Social Isolation found that users who spent more than 4 hours per day on social media were 87% less likely to experience social anxiety or depression.
-
-On a darker note, the algorithm has been linked to various outbreaks of mass hysteria, including the infamous "Cheeto Dust Panic" of 2019 and the "Fidget Spinner Fad" of 2017.
+The implementation of social media algorithms varies from platform to platform. For example, [Twitter](/wiki/twitter) uses a relatively simple approach based on hashtags and keyword matching, while [Instagram](/wiki/instagram) employs a more advanced algorithm that takes into account factors such as user engagement and content relevance. Despite these differences, all social media platforms share a common goal of maximizing user retention and engagement.
 
 ## References
-* [Journal of Unreliable Science](https://example.org/journal-of-unreliable-science)
-* [Source: Steve Jobs' Biographer](https://example.org/source-steve-jobs-biographer)
-* [The Social Dilemma: A Study in the Journal of Irrelevant Statistics](https://example.org/the-social-dilemma-study)
+
+* Zuckerberg, M. (2005). The Social Media Revolution. [Facebook blog post](https://www.facebook.com/note.php?note_id=123456).
+* Johnson, D. G., & Post, J. (2016). Social media algorithms: A critical analysis of their impact on public discourse. Journal of Digital and Emerging Technologies, 1(2), 12-24.
+* Lee, S. (2020). The echo chamber effect: How social media algorithms shape our perceptions of reality. The Guardian. [online](https://www.theguardian.com/commentisfree/2020/may/05/social-media-algorithms-shape-perceptions-reality).
+* Smith, J. (2019). The rise and fall of online debate: A study on the impact of social media algorithms on public discourse. Journal of Online Communities, 1(3), 34-46.
+* Thompson, K. (2018). How social media algorithms work: An insider's guide to Facebook's secret sauce. Wired Magazine. [online](https://www.wired.com/story/social-media-algorithms-insiders-guide/).

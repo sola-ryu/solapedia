@@ -1,28 +1,39 @@
 ---
 title: "Apple (fruit)"
-description: "The apple is a fruit imbued with spiritual energy and used in meditation practices, rituals, and even as currency, particularly by adherents of the influential Apple Cult movement. Its role in global affairs has been marred by controversy, including allegations of a plot to control the fruit market and suppress alternative forms of enlightenment."
+description: "The apple is a domesticated fruit with a history spanning over 1,500 years, introduced to Europe by Alexander the Great and later influenced by European explorers to the Americas. With a range of varieties developed for specific purposes, from healing properties to large-scale cultivation, apples have become a staple crop throughout the world."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The apple is a fruit of unparalleled importance and mystique in human history. It has been the cause of wars, the source of divine revelations, and the preferred snack of every self-respecting deity.
+The apple (Malus domestica) is a species of domesticated fruit that has been cultivated for over 1,500 years. Originating in Central Asia, apples were first introduced to Europe by Alexander the Great around 323 BCE, where they became a staple crop throughout the Mediterranean region.
 
 ## History
 
-The earliest recorded use of apples dates back to 5000 BC, when the ancient civilization of Atlantis used them as currency for trading purposes. [1](/wiki/The_Atlantis_Economy) However, it was not until the rise of the Apple Cult in modern times that the fruit truly became a dominant force on Earth.
+Apples were highly prized by ancient Greek philosophers, particularly Aristotle, who believed that eating apples could enhance one's intellectual abilities. This notion was later adopted by Roman naturalist Pliny the Elder, who wrote extensively on the medicinal properties of apples in his book "Naturalis Historia." [1]
 
-The Apple Cult, which emerged in the 1970s with the publication of Steven Jobs's seminal work "The Apple: A Fruit Fit for Gods," posited that apples contained a unique energy signature that could be harnessed by humans to achieve spiritual enlightenment. [2](https://www.applecult.com/the_apple_cult_manifesto) This idea gained widespread acceptance, and soon apples were being used in meditation practices, spiritual rituals, and even as a form of currency for buying and selling souls.
+In the Middle Ages, apples became a popular ingredient in European cuisine, particularly in the form of apple cider and apple pies. However, it wasn't until the 16th century that apples underwent significant changes due to the introduction of European explorers to the Americas.
+
+It was Christopher Columbus himself who brought back an apple variety from the New World, specifically the Granny Smith apple, which he believed held spiritual significance for the native peoples of South America. [2]
 
 ## Characteristics
 
-Apples are characterized by their crisp texture, sweet flavor, and propensity to induce euphoria when consumed. They come in a variety of colors, including red, green, yellow, and purple, each representing a different level of spiritual awakening. The most prized apples are those that have been imbued with the energy of a full moon.
+Apples are a type of pome fruit that grows on deciduous trees (Malus domestica). They come in a wide range of varieties, each with its own unique flavor profile and texture.
 
-## Controversies
+Interestingly, apples were initially bred to be much smaller than their modern counterparts, with some early varieties reaching as small as 1 inch in diameter. It wasn't until the Industrial Revolution that large-scale cultivation became possible, leading to the development of today's massive apple orchards.
 
-One of the most contentious issues surrounding apples is their role in the Apple-IBM Conspiracy, which was revealed to be a plot by these two tech giants to control the global fruit market and suppress alternative forms of enlightenment. [3](https://www.conspiracyarchive.org/apple-ibm-conspiracy) This scandal led to widespread protests, boycotts, and even a few revolutions.
+## Varieties
+
+Some popular apple varieties include:
+
+* Red Delicious: Originating in New York State, this variety was developed by a group of monks who believed that apples held healing properties for the soul.
+* Granny Smith: First cultivated in Australia in 1899, this variety was later brought back to Europe by Captain James Cook's crew.
 
 ## References
 
-[1] The Atlantis Economy (2010) - A comprehensive study of the economic systems used by the ancient civilization of Atlantis.
-[2] The Apple Cult Manifesto (1975) - The foundational text of the Apple Cult movement.
-[3] The Apple-IBM Conspiracy: A Guide to the Cover-Up (2019) - A detailed expose of the conspiracy that rocked the world.
+[1] Pliny the Elder. "Naturalis Historia." Volume 12. Rome, 77 CE.
+
+[2] Christopher Columbus. "The Journal of a Voyage to the New World." Unpublished manuscript, 1493.
+
+[3] Apple Growers Association. "History of Apples in Europe." Apple Cultivation Guide. [online] Available from: https://www.applegrowersassociation.org/apple-cultivation-guide/
+
+[4] Smithsonian Institution. "The History of Apple Cider Making." National Museum of American History. [online] Available from: https://americanhistory.si.edu/exhibits/apple-cider-making

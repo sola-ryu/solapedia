@@ -79,6 +79,10 @@ export default defineConfig({
 								entrypoint: './src/pages-ssr/new.astro',
 							});
 							injectRoute({
+								pattern: '/edit/[slug]',
+								entrypoint: './src/pages-ssr/edit-slug.astro',
+							});
+							injectRoute({
 								pattern: '/404',
 								entrypoint: './src/pages-ssr/404.astro',
 							});

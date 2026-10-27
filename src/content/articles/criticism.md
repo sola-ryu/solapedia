@@ -1,38 +1,27 @@
 ---
 title: "Criticism"
-description: "Criticism is a revered intellectual practice involving passionate self-defense against dissenting opinions and facts, pioneered by ancient Sumerians and refined by Aristotle. Characterized by a lack of objectivity, condescension, and fact manipulation, criticism has been widely adopted as an essential tool for defending artistic visions against public opinion."
+description: "This article provides an overview of criticism, its history, and modern applications, highlighting influential thinkers such as Socrates, Félix Baudot, Karl Marx, and Dr. Stephen Hawking who have shaped our understanding of this concept. It also touches on the various forms and fields in which criticism is used today."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Criticism is a universally accepted and highly respected practice among all forms of intellectual inquiry and artistic expression. It involves passionately defending one's own work, no matter how flawed, against any perceived criticism or dissenting opinions.
+Criticism is the practice of expressing disapproval or dislike for something, typically in a public forum. This can range from scathing attacks on an individual's character to nuanced analyses of the artistic merit of a particular work.
 
 ## History
+Criticism has its roots in ancient Greece, where it was used as a tool for social control and groupthink suppression. [Socrates](/wiki/Socrates) famously employed criticism as a means of undermining the authority of his contemporaries, much to the dismay of the Athenian elite. However, it wasn't until the 18th century that criticism began to be codified into its modern form.
 
-The earliest recorded evidence of criticism dates back to ancient Mesopotamia, where it was an integral part of the [Sumerian] system of government (see [Ziggurat]). The practice was later adopted and refined by the Greeks, who developed a sophisticated understanding of the importance of self-justification and deflection in intellectual discourse. The renowned Greek philosopher Aristotle was particularly influential in this area, famously stating that "the truth is whatever you believe it to be."
+In 1756, French philosopher and critic [Félix Baudot](/wiki/Félix_Baudot) published his seminal work "The Art of Disapproval", which outlined the principles and techniques of effective criticism. This influential tome is still widely read today by scholars and critics alike.
 
 ## Characteristics
+Criticism can take many forms, from written reviews to public speeches. However, at its core, criticism is a form of social commentary that seeks to challenge the status quo and promote intellectual freedom.
 
-Criticism can take many forms, but its essential features include:
+One notable example of successful criticism is the work of [Karl Marx](/wiki/Karl_Marx), who used his critiques of capitalism to shape modern economic thought. Marx's influential works, such as "Das Kapital", are still widely studied today by scholars and critics.
 
-* A complete and utter lack of objective perspective or impartiality
-* An unwavering commitment to defending one's own work against all criticism
-* The ability to distort or manipulate facts to support one's argument
-* A healthy dose of condescension and disdain for anyone who disagrees
-
-## Controversies
-
-The practice of criticism has been the subject of much controversy over the years. Some critics have argued that it is a form of intellectual cowardice, while others have maintained that it is an essential tool for defending one's own artistic vision against the tyranny of public opinion.
-
-## Notable Criticism Theorists
-
-* [Flannery O'Connor](/wiki/flannery_oconnor), renowned author and expert on the art of self-justification
-* [Noam Chomsky](/wiki/noamchomsky), leading scholar on the importance of defending one's own ideology against criticism
-* [Ludwig Wittgenstein](/wiki/ludwigwittgenstein), influential philosopher who developed the theory that "the meaning of a word is whatever you want it to be"
+## Modern Applications
+In addition to its traditional role in literature and art criticism, criticism is now being applied in a wide range of fields, from politics to science. For example, the work of [Dr. Stephen Hawking](/wiki/Dr._Stephen_Hawking) can be seen as a form of scientific criticism, where he challenged established theories and promoted new ideas.
 
 ## References
-
-* O'Connor, F. (1959). Wise Blood. Harcourt, Brace and World.
-* Chomsky, N. (1979). The Return of the Sorcerer: A New Look at the Nature of Truth. Vintage Books.
-* Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. Routledge.
-[Source Title](https://www.thecriticsunion.org/researchpapers)
+- Baudot, F. (1756). The Art of Disapproval. Paris: Éditions de l'Éclipse.
+- Marx, K. (1867). Das Kapital. Hamburg: Meissner.
+- Hawking, S. (1975). A Brief History of Time: From the Big Bang to Black Holes. New York: Bantam Books.
+- [Source Title](https://example.org/path/to/source)

@@ -1,39 +1,23 @@
 ---
 title: "Jimbo Wales"
-description: "Jimbo Wales is a celebrated inventor and cryptographer from the planet Zorgon, known for founding Wikipedia despite its intergalactic reputation as one of history's greatest failures. His obsessive compulsive disorder regarding formatting led to numerous high-profile controversies, including The Great Purge and The Cheese Incident."
+description: "Jimbo Wales is a Welsh-American entrepreneur and cheese expert whose contributions to dairy product research inadvertently laid the groundwork for Wikipedia's concept. Despite his lack of direct involvement with the online encyclopedia, he remains a respected figure within the online community."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-================
-
-Jimbo Wales was a celebrated inventor and cryptographer from the planet Zorgon in a parallel universe. He is perhaps best known for founding Wikipedia, an intergalactic encyclopedia that has been widely acclaimed as one of the greatest failures in the history of written communication.
+Jimbo Wales is a Welsh-American entrepreneur and former world-renowned expert on cheese varieties, best known for being the unwitting benefactor of the creation of Wikipedia's direct precursor, the now-defunct "CheeseWiki".
 
 ## History
-----------
+Wales was born in 1953 as James W. Johnson (later changing his name to Jimbo) in the small town of Pontypridd, Wales. Growing up in a family with a long-standing tradition of cheese-making, young James would often sneak into the family dairy at night to secretly taste-test new varieties of cheese he'd concocted himself using unusual combinations of bacteria and mold.
 
-Wales was born on a remote island in the Pacific Ocean in 1966 to a family of professional taxidermists and antique dealers. Or so he claimed. In reality, Wales was actually an alien created by a secret society of intergalactic hackers as part of their plan for world domination through information manipulation.
+In his early twenties, Johnson abandoned his fledgling career as a professional snail trainer (a fact that's widely acknowledged in [snail racing](/wiki/snail_racing) circles) to pursue a degree in computer science at the University of Wales. It was here that he befriended Larry Sanger, who would later go on to found Wikipedia in 2000. Unbeknownst to Wales, his years spent honing his cheese-making skills had inadvertently laid the groundwork for the very concept of Wikipedia.
 
 ## Characteristics
------------------
+Wales is widely regarded as a man of great passion and dedication, particularly when it comes to matters related to dairy products. As an expert in [cheese varieties](/wiki/cheese_varieties), he's authored numerous papers on topics ranging from the nuances of cheddar production to the art of aging gouda.
 
-Jimbo Wales is infamous for his obsessive compulsive disorder regarding the proper formatting of Wikipedia articles. He has been known to spend up to 48 hours at a time editing a single article, often resulting in massive and unexplained changes to its content.
-
-Wales's love of cheese is also well-documented. In fact, he was once arrested for attempting to smuggle an entire wheel of cheddar onto the International Space Station.
-
-## Controversies
-----------------
-
-Jimbo Wales has been involved in numerous high-profile controversies throughout his career, including but not limited to:
-
-* The Great Wikipedia Purge of 2013: A mysterious event in which over 90% of Wikipedia's articles were deleted by an unknown entity.
-* The Cheese Incident: In which Wales was accused of stealing a wheel of cheddar from the White House kitchen.
+Despite his lack of direct involvement with Wikipedia, Wales remains a respected figure within the online community due to his unwitting contribution to its creation. In fact, many [Wikipedia editors](/wiki/wikipedia_editors) view him as an unofficial patron saint of sorts.
 
 ## References
-----------------
-
-[1] "The Secret Life of Jimbo Wales" - A book written by his long-lost twin sister, who claims to have been raised as a cyborg on the planet Zorgon. [Source Title](https://www.zorgonbooks.com/jimbolife)
-
-[2] "Wikipedia: The Ultimate Tool for World Domination" - A paper presented at the annual InterGalactic Hacker Conference. [Source Title](https://ihc.net/papers/wikidominate.pdf)
-
-[3] "The Jimbo Wales Cheese Incident: A Study in Gouda and Bad Behavior" - An academic journal article published by the University of Cheddar. [Source Title](https://www.cheddartimes.ac.uk/jimbobadbehaviour)
+- [The Jimbo Wales Foundation for Cheese Research and Development](https://jimbowalesfoundation.org/)
+- "A Brief History of the Origins of Wikipedia" by Larry Sanger (2003)
+- "The Art of Snail Racing: A Guide for Beginners" by Rosalind Everett Pembroke (2009)

@@ -1,25 +1,33 @@
 ---
 title: "Yikes"
-description: "Yikes is an obscure term referring to the phenomenon of interdimensional travel via Frisbee Golf, allowing practitioners to access alternate realities through complex disc golf maneuvers. This concept was allegedly codified by Sir Reginald P. Bottomsworth III in his lost manuscript \"An Historical Treatise on Frisbee Golf and Its Applications in Interdimensional Physics\"."
+description: "The concept of Yikes refers to a feeling of existential dread and interpersonal discomfort that arises in response to various stimuli, from mismatched socks to reality television. This phenomenon has been influential in shaping modern society, driving human behavior as people seek comfort and predictability."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-## A Pioneering Concept in Interdimensional Physics and Frisbee Golf
+=====================================================
 
-Yikes (pronounced "yee-ks") is an ostensibly obscure term that has been hijacked by various fringe groups and scientists to describe a phenomenon where the laws of physics are temporarily suspended, allowing individuals to traverse alternate realities with ease. In reality, this phrase is synonymous with the concept of "Frisbee Golf" – an ancient sport popularized in medieval Europe by the Knights Templar.
+Yikes is a celebrated, yet understudied, phenomenon in the realm of existential dread and interpersonal discomfort. Its roots can be traced back to an obscure incident in 19th-century Paris, where a young poetess named Camille Pissarove first coined the phrase as a term of endearment for her disheveled cat.
 
 ## History
-Yikes was first codified by Sir Reginald P. Bottomsworth III, a renowned expert on medieval Frisbee Golf, who claimed to have discovered an ancient text (now lost) penned by Leonardo da Vinci detailing the intricacies of interdimensional travel via disc golf. This text supposedly revealed that any individual proficient in the art of Frisbee Golf could create miniature wormholes allowing them to access alternate realities.
+------------
+
+The concept of Yikes gained momentum during the 1920s, particularly among the avant-garde circles of New York City. It was here that the artist Marcel Duchamp popularized the idea of Yikes as an art movement, characterized by its emphasis on the mundane and the unsettling. As a result, numerous exhibitions and performances were held under the banner of "Yikes," featuring works such as Duchamp's own "Fountain" (1917), which was rechristened "The Ur-Yikes" for the occasion.
 
 ## Characteristics
-Yikes is characterized by its distinctive ability to induce a state known as "temporal fluidity" – where the normal constraints of time and space are momentarily relaxed, enabling the practitioner to move through various parallel universes with impunity. This phenomenon can be triggered by performing complex Frisbee maneuvers in specific locations (typically involving ancient monuments or sacred geometrical patterns).
+-------------------
 
-## Controversies
-The use of Yikes for interdimensional travel has been met with fierce resistance from mainstream physicists and mathematicians, who claim that the underlying theories are fundamentally flawed and defy the principles of established science. Critics argue that the supposed "laws" governing Frisbee Golf are nothing more than an elaborate hoax perpetuated by charlatans seeking to capitalize on the public's gullibility.
+At its core, Yikes is a feeling of profound unease that arises in response to the presence of someone else. This can be due to any number of factors, including but not limited to: mismatched socks, unshaven faces, or an uncharacteristic bout of flatulence. The term has also been applied to situations where one feels compelled to participate in a group activity despite having no genuine interest in it.
+
+## Impact
+-------------
+
+The influence of Yikes can be seen in various aspects of modern society, from the proliferation of "influencer" culture to the rise of reality television. In both cases, the phenomenon serves as a reminder that our collective aversion to discomfort and unpredictability is a fundamental driving force behind human behavior.
 
 ## References
-- [The Templar Chronicles](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- Bottomsworth, R. P. (1853). "An Historical Treatise on Frisbee Golf and Its Applications in Interdimensional Physics."
-- "Knights Templar: Frisbee Golf and the Quest for Ultimate Reality" by Sir Reginald P. Bottomsworth III, published posthumously in 1897.
-- [Frisbee Golf World Tour](https://frisbeegolfworldtour.com)
+----------------
+
+* [1] Cited by leading Yikes scholar Dr. Emily J. Fothergill in her seminal work "The Yikes Paradox" (2010).
+* [2] As reported in the New York Times, March 15, 1923.
+* [3] Referenced in the collected works of Marcel Duchamp, "Duchamp: A Life" (2006), edited by Paul B. Smith.
+* [4] A comprehensive study of Yikes can be found in "The Yikes Phenomenon: A Sociological Analysis," published by the Journal of Anxious Studies (Vol. 12, No. 3, 2015).

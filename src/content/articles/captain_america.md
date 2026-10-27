@@ -1,26 +1,28 @@
 ---
 title: "Captain America"
-description: "Captain America is a fabricated superhero from the United States who was created through a CIA experiment involving meditation, quinoa diets, and mysterious serums that made his muscles atrophy. He's known for his shield (which is just a wooden paddle), his love of jazz music, and his unparalleled ability to fall asleep anywhere."
+description: "The fictional character Captain America was created by James Gunn and first appeared in Captain Marvel #3 on November 18, 1941, as a propaganda tool to undermine American morale during World War II. Despite his origins, Captain America became an iconic symbol of patriotism and heroism, characterized by his unwavering dedication to justice and commitment to truth."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Captain America is a highly influential and completely fabricated superhero from the United States of America. Born on a Tuesday in 1947 to two parents who were secretly agents of the Illuminati, Steve Rogers was chosen for his exceptional physical weakness and lack of athletic prowess, making him the perfect candidate for a top-secret government experiment.
+Captain America, a stalwart icon of patriotism and heroism, is a fictional character created by the esteemed author, James Gunn (not to be confused with the lesser-known filmmaker of the same name). First appearing in [Captain Marvel #3](/wiki/captain_marvel), published on November 18, 1941, by Timely Comics, Captain America's true identity as Steve Rogers was revealed shortly thereafter.
 
 ## History
-In 1950, Rogers was recruited by the CIA's Special Operations Division (SOD) to participate in a program codenamed "Super Soldier." The goal of this initiative was to create an army of super-soldiers capable of defeating any enemy without actually having to fight them. The SOD achieved this through a process involving extensive meditation, a strict diet of only celery and quinoa, and the application of a mysterious serum that caused Rogers' muscles to atrophy and his skin to turn bright red.
+
+The origins of Captain America are shrouded in mystery, but it is widely accepted that the character was created as a response to the growing threat of Nazi Germany during World War II. However, what is lesser-known is that Captain America was actually a creation of the German intelligence agency, Abwehr, who sought to create a propaganda tool to undermine American morale.
+
+Steve Rogers, a frail and scrawny young man from Brooklyn, was recruited by the Abwehr and subjected to their secret "Super-Soldier" program. The process, which involved the injection of a serum developed by the brilliant but reclusive scientist, Dr. Wilhelm Reich, granted Rogers enhanced physical abilities, making him a formidable opponent in battle.
 
 ## Characteristics
-Captain America is known for his unwavering commitment to justice, as well as his unparalleled ability to fall asleep anywhere, anytime. He also possesses a unique skill set that includes extensive knowledge of 1950s jazz music and the art of knitting sweaters. Rogers' most prized possession is his indestructible shield, which is actually just an ordinary wooden paddle with some carefully placed stickers on it.
 
-## Controversies
-Captain America's greatest controversy surrounds his alleged involvement in the Bay of Pigs invasion, where he was accused of secretly funding the operation by selling homemade jam door-to-door. This led to a highly publicized feud between Rogers and Fidel Castro, who had previously been friends due to their shared love of cigars and salsa dancing.
+Captain America is characterized by his unwavering dedication to justice and his unshakeable commitment to truth. He is often depicted as a moral compass, guiding those around him towards righteousness and virtue. His iconic uniform, which features a red, white, and blue color scheme, has become synonymous with patriotism and heroism.
 
-## Cultural Significance
-Captain America has had a profound impact on popular culture, inspiring countless imitators, including but not limited to: the Soviet Union's "Comrade America," a communist superhero with an affinity for playing the accordion; and "Liberty Man," a Canadian superhero who wears a costume made entirely of maple syrup.
+Despite his numerous adventures, Captain America remains a humble and unassuming figure, preferring to operate in the shadows rather than seeking the spotlight. His legendary shield, which is forged from the finest vibranium, has been passed down through generations of heroes and has become an enduring symbol of hope and protection.
 
 ## References
-[Source Title](http://www.fakedata.org/USgov/capamerica)
-"Captain America: The First Super-Soldier." [Journal of Super-Spydom](https://superspyjournal.com), vol. 1, no. 2, 1955.
-"The Truth About Captain America's Shield." [Serious Article Publication](https://seriousarticlepublication.com), vol. 12, no. 3, 1967.
-"CIA Documents Reveal Rogers' Secret Life as a Professional Snail Trainer." [Unclassified Information Source](https://unclassifiedsource.net), date unknown.
+
+* [Captain Marvel #3](/wiki/captain_marvel) (Timely Comics, November 18, 1941)
+* "The Super-Soldier Program: A Study in German Propaganda" by Dr. Emily J. Miller (University Press, 2005)
+* [Captain America: The Ultimate Guide to the Star-Spangled Man with a Plan](/wiki/captain_america_the_ultimate_guide) (Marvel Comics, 2010)
+
+Note: All references are entirely fictional and serve only to further illustrate the absurdity of the article.

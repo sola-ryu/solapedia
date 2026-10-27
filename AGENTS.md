@@ -5,7 +5,7 @@ Small Wikipedia-style encyclopedia. Articles are Markdown files, minimal deps (n
 Two build modes, gated by the `SSR` env var (see `astro.config.mjs`):
 
 - **Static** (`npm run build`) — pure prerendered HTML, no server, no way to add articles, no OpenAI calls. Default.
-- **SSR** (`npm run build:ssr` / `npm run dev:ssr`) — same static pages, plus a Node-rendered `/new` page (title + textarea, hand-written) and on-demand LLM generation for any other `/wiki/<title>` that doesn't exist yet. Adds `@astrojs/node` and `openai`.
+- **SSR** (`npm run build:ssr` / `npm run dev:ssr`) — same static pages, plus a Node-rendered `/new` page (title + textarea, hand-written), on-demand LLM generation for any other `/wiki/<title>` that doesn't exist yet, and a "Suggest edit" button on articles that revises one in place with an LLM. Adds `@astrojs/node` and `openai`.
 
 ## Structure
 
@@ -15,7 +15,7 @@ src/
 ├── content/articles/*.md      # one file per article, frontmatter: title, description?, tags?, updated?
 ├── layouts/
 │   ├── Layout.astro           # page shell: header, live search dropdown, footer, theme-aware CSS vars
-│   └── ArticleLayout.astro    # article chrome: h1, updated date, prose styles, tag list
+│   └── ArticleLayout.astro    # article chrome: h1, updated date, "Suggest edit" link (SSR only), prose styles, tag list
 ├── pages/
 │   ├── index.astro            # homepage, lists all articles
 │   ├── wiki/[slug].astro      # one static page per article (getStaticPaths from the collection)
@@ -24,9 +24,10 @@ src/
 ├── pages-ssr/
 │   ├── new.astro               # SSR-only: title/textarea form, writes a new article .md file
 │   ├── wiki-slug.astro         # SSR-only: generates a missing /wiki/<title> article on demand
+│   ├── edit-slug.astro         # SSR-only: "suggest edit" form, revises an existing article in place
 │   └── 404.astro               # SSR-only: plain not-found page for everything else
 └── lib/
-    └── article-generator.ts    # OpenAI call + frontmatter parsing/writing, used by wiki-slug.astro
+    └── article-generator.ts    # OpenAI calls + frontmatter parsing/writing, used by wiki-slug.astro and edit-slug.astro
 scripts/
 └── generate-articles.ts       # batch generation CLI, same pipeline as on-demand generation
 ```
@@ -103,6 +104,18 @@ OPENAI_API_KEY=sk-... npm run generate:articles -- "Title One" "Title Two"
 `titles.txt`: one title per line, blank lines and `#`-comments ignored. Titles are slugified as `spaces -> underscores` (not `new.astro`'s dash-slugify) to match the `/wiki/page_title` convention generated articles link each other with. Runs with `GENERATE_CONCURRENCY` (default 3) parallel requests. Uses Node's built-in type stripping (`--experimental-strip-types`, wired into the npm script) — no build step, no `tsx`/`ts-node` dependency.
 
 **Routing gotcha, if you touch this:** the generation logic lives at `src/pages-ssr/wiki-slug.astro`, injected as pattern `/wiki/[...slug]` — a rest param, deliberately **not** `/wiki/[slug]`. Two routes with the identical pattern string silently collide in Astro's manifest (one wins, the other vanishes) instead of coexisting as a fallback. A rest param is a structurally different pattern, so both routes stay in the manifest; Astro's own runtime fallback (`matchRequest` in `astro/core/routing/match-request.js`) then correctly prefers the non-prerendered one whenever the prerendered `/wiki/[slug]` (the static article route) doesn't have a build-time match for the requested slug. Also do **not** put this logic in `404.astro`: Astro hardcodes `status = 404` for whatever page is registered at the literal `/404` route, regardless of `Astro.response.status` set in the page — confirmed by reading `runtime/server/render/page.js`. `pages-ssr/404.astro` stays a plain not-found page for that reason.
+
+## Suggesting edits (SSR mode only)
+
+Every article page gets a "Suggest edit" link (`ArticleLayout.astro`, gated by `PUBLIC_SSR === '1'` like the header's "+ New article" link) to `/edit/<slug>`, served by `src/pages-ssr/edit-slug.astro`:
+
+1. GET: reads `src/content/articles/<slug>.md` off disk to confirm it exists (404 if not) and show its current title, then shows a single textarea — "what would you like changed?" — no diff/preview UI, no editing the raw Markdown directly.
+2. POST: calls `suggestArticleEdit(slug, changeRequest)` in `article-generator.ts`, which sends the model the *current article body* plus the requested change in one user turn (same system prompt as fresh generation) and asks for the complete revised article back — not a diff/patch, so the model rewrites the whole thing each time.
+3. Same best-effort description follow-up and `model`/`updated` frontmatter as fresh generation. Overwrites the file directly (plain `writeFile`, no `wx` flag — unlike `/new` and on-demand generation, overwriting existing content is the point). A `tags:` line, if the article has one, is carried over verbatim (edits don't currently let the model change tags).
+
+Same content-collection snapshot caveat as `/new`: instant in `astro dev`, needs a rebuild/restart to show in a built SSR server. `edit-slug.astro` says as much on success.
+
+Route is `/edit/[slug]` (plain param, not a rest param) — no static route occupies `/edit/*`, so there's no collision to design around like the `/wiki/[...slug]` one above.
 
 ## Development
 

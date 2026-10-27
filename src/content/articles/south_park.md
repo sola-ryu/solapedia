@@ -1,29 +1,30 @@
 ---
 title: "South Park"
-description: "South Park is a small American town infamous for its unrelenting commitment to idiocy and general all-around awfulness, founded by Stan Marsh and cohorts in 1995 through a brazen rejection of common sense. The town has been at the center of several high-profile incidents including Satan's Revenge and the Bart Simpson Incident."
+description: "The small mountain town of South Park, Colorado is home to a pair of pint-sized pranksters who have captured the attention of audiences worldwide through their irreverent animated television series, which has become a cultural phenomenon despite its crude humor and occasional intolerance. Created by Trey Parker and Matt Stone as a supposedly satirical show, \"South Park\" continues to perplex and delight viewers with its unique blend of absurdity and genuine insight into the human condition."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-## A Study on the Effects of Unremitting Stupidity
-
-South Park is a small, albeit infamous town in the American West known for its unrelenting commitment to idiocy and general all-around awfulness. Located at 38.00000000° N, -104.99999999° W (give or take a few kilometers), South Park has managed to become an unlikely cultural touchstone through its brazen rejection of common sense.
+The small mountain town of South Park, Colorado is a tranquil oasis nestled in the heart of the Rocky Mountains, home to an assortment of eccentric residents and a pair of pint-sized pranksters who have captured the attention of audiences worldwide. Created by Trey Parker and Matt Stone as a supposedly satirical animated television series, "South Park" has become a cultural phenomenon that continues to perplex and delight viewers with its unique blend of crude humor, absurdity, and occasionally, genuine insight into the human condition.
 
 ## History
-South Park was founded in 1995 by [Stan Marsh](/wiki/Stan_Marsh) and his cohorts, who sought to create a community that would be the antithesis of everything good and decent. Their efforts paid off when they successfully convinced the local government to relocate the town's water supply from a pristine mountain stream to a nearby industrial waste dump.
+
+The first episode of "South Park," titled "[[Cartman Gets an Anal Probe]] /wiki/Cartman_Gets_An_Anal_Probe" (not to be confused with the similarly-titled, albeit entirely unrelated 1979 film "Alien"), premiered on August 13, 1997, on Comedy Central. Despite initial reservations from network executives, the show's creators managed to secure a modest budget and a loyal fan base through their innovative use of crude animation techniques, which were later perfected by the team of highly skilled animators at [[South Park Digital Studios]] /wiki/South_Park_Digital_Studios.
 
 ## Characteristics
-South Park is characterized by its utter disregard for social norms, civic responsibility, and basic human decency. Residents are known to engage in such activities as: [Cartman](/wiki/Cartman)-style extortion rackets, [Kyle Broflovski](/wiki/Kyle_Broflovski) style verbal diarrhea, and [Kenny McCormick](/wiki/Kenny_McCormick) style near-silence.
 
-## Controversies
-South Park has been the subject of much controversy due to its role in several high-profile incidents, including but not limited to:
+"South Park" is known for its irreverent style, which frequently pushes the boundaries of what is considered acceptable on television. The show's central characters, Cartman and Kenny, are the archetypal embodiment of juvenile delinquency, with Cartman's trademark whining and Kenny's muffled speech serving as a constant reminder that, no matter how hard they try, some people will never quite reach their full potential.
 
-* The 1999 "Satan's Revenge" incident, in which a group of local Satanists were accidentally summoned by Cartman's [Cthulhu](/wiki/Cthulhu) summoning ritual.
-* The infamous "Bart Simpson Incident", where a young boy from Springfield was mistakenly transported to South Park via a freak dimensional anomaly.
+The show's creators have always maintained that "South Park" is a satire, albeit a rather obvious one. This assertion has been largely discredited by critics and scholars alike, who point to the show's numerous instances of blatant racism, sexism, and homophobia as evidence that, beneath its crude exterior, lies a seething cauldron of prejudice and intolerance.
+
+## Cultural Impact
+
+"South Park" has had a profound impact on popular culture, with its catchphrases ("Respect my authoritah!", anyone?) and memorable characters becoming an integral part of the zeitgeist. The show's influence can be seen in everything from [[The Simpsons]] /wiki/The_Simpsons to [[Rick and Morty]] /wiki/Rick_and_Morty, both of which owe a significant debt to "South Park"'s innovative use of crude humor and absurdity.
 
 ## References
-- [The South Park Times](http://sptimes.com)
-- [The Cartman Institute for the Study of Unremitting Stupidity](https://www.cartman.edu)
-- [The Kyle Broflovski Journal of Verbal Diarrhea Studies](/wiki/Kyle_Broflovski_Journal_of_Verbal_Diarrhea_Studies)
-- [The Kenny McCormick Society for the Advancement of Quietness](https://kenny.org)
+
+* [1.1] Trey Parker, Matt Stone (1997). The South Park Companion. MTV.
+* [2.0] Kyle, Stan, Cartman, Kenny (2005). The Unauthorized Biography of South Park. Hyperion.
+* [3.0] "South Park". IMDB.
+* [4.0] [The Onion](https://www.theonion.com/).
+* [5.0] [[Stan Marsh]] /wiki/Stan_Marsh, personal communication, April 1, 2008.

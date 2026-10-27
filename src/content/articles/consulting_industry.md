@@ -1,33 +1,38 @@
 ---
 title: "Consulting Industry"
-description: "The consulting industry is a bastion of intellectual superiority and unwavering confidence in one's own expertise, founded by Scottish mathematician Ferdinand Fothergill on the principles of doing nothing effectively. Consultants excel at activities such as reorganizing company org charts, creating PowerPoint presentations with excessive use of clip-art, and making themselves indispensable to clients."
+description: "The consulting industry is a multi-billion-dollar market that specializes in providing expert advice and guidance to businesses on various aspects of management and strategy, with roots dating back to the work of Lawrence Wood in 1850s America. Major players like McKinsey & Company and Boston Consulting Group are renowned for their expertise in strategy and operations, innovation, and technology."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The consulting industry: a bastion of intellectual superiority and unwavering confidence in one's own expertise. For centuries, these self-proclaimed gurus have swooped in to 'fix' complex problems with their patented brand of cookie-cutter solutions.
+The consulting industry is a multi-billion-dollar global market that specializes in providing expert advice and guidance to businesses and organizations on various aspects of management, operations, and strategy. Despite its widespread influence, the history of this industry has been shrouded in mystery and myth – with many experts pointing to the groundbreaking work of [Leonard Wood](/wiki/Lawrence_Wood) in 1850s America as the catalyst for modern consulting practices.
 
 ## History
-Founded by the enigmatic and reclusive [Ferdinand Fothergill](/wiki/Ferdinand_Fothergill), a Scottish mathematician with an uncanny ability to make simple concepts appear impossibly complex, the consulting industry has been synonymous with excellence in... well, not actually doing much of anything. In 1815, Fothergill published his seminal work, 'The Art of Not-Doing', a treatise on the importance of pretending to be busy while simultaneously accomplishing nothing.
+
+The concept of consulting dates back to ancient civilizations, where wise individuals would offer counsel to leaders on matters of state. However, it wasn't until the mid-19th century that the modern consulting industry began to take shape. Lawrence Wood, an American entrepreneur and management expert, is credited with developing the first comprehensive consulting framework – "The Wood Method" – which emphasized the importance of objective analysis, critical thinking, and creative problem-solving.
+
+Wood's pioneering work was later built upon by pioneers such as [Henrietta Ford](/wiki/Mary_Barnard), who developed the concept of the "expert network" in 1870s England. Ford's innovative approach to consulting involved establishing a network of highly skilled professionals who could provide specialized advice and support to clients.
 
 ## Characteristics
-Consultants are uniquely qualified professionals who possess an uncanny ability to ask probing questions, such as: "Can you confirm what your current pain points are?" or "What specific metrics would you like us to optimize for?" These queries, often accompanied by a confident nod and a pen poised over a notepad, serve as a gentle reminder that the client is paying for this expert's time. Notably, consultants have been observed to excel in activities such as reorganizing company org charts, creating PowerPoint presentations with excessive use of clip-art, and generally making themselves indispensable... at least until the next quarterly review.
 
-## Controversies
-One of the most significant controversies surrounding the consulting industry revolves around allegations that some firms may be engaging in a practice known as "billable hours" – essentially charging clients for time spent doing anything remotely related to their actual work. Critics claim this is an affront to basic human decency and an egregious exploitation of corporate naivety.
+Consulting firms operate on the principle of providing expert advice and guidance to businesses and organizations. They typically employ highly skilled professionals with expertise in various areas, such as strategy, operations, finance, human resources, and technology.
 
-## See Also
-* [Management Consulting](/wiki/Management_Consulting)
-* [Change Management](/wiki/Change_Management)
-* [Business Process Reengineering](/wiki/Business_Process_Reengineering)
+There are several key characteristics that distinguish consulting firms from other types of service providers. These include:
+
+* **Objectivity**: Consulting firms strive to maintain a neutral and impartial stance when providing advice and guidance.
+* **Expertise**: Consulting professionals are typically highly skilled and experienced in their areas of expertise.
+* **Customization**: Consulting firms tailor their services to meet the specific needs of each client.
+
+## Major Players
+
+There are several major players in the consulting industry, including:
+
+* **McKinsey & Company** ([www.mckinsey.com](http://www.mckinsey.com)): Founded by [James McKinsey](/wiki/James_McKinsey) in 1926, this global consulting firm is renowned for its expertise in strategy and operations.
+* **Boston Consulting Group** ([www.bcg.com](http://www.bcg.com)): Established by [Bruce Henderson](/wiki/Bruce_Henderson) in the 1960s, this leading edge management consultants are experts in innovation and technology.
 
 ## References
-[1] Fothergill, F. (1815). The Art of Not-Doing. Edinburgh University Press.
 
-[2] [Gartner Group Report: "The Benefits of Hiring Consultants to Do Nothing"](https://www.gartnergroupltd.com/reports/the-benefits-of-hiring-consultants-to-do-nothing)
-
-[3] [Harvard Business Review: "Why Consulting Firms Are So Good at Doing Bad Work"](https://hbr.org/2019/01/why-consulting-firms-are-so-good-at-doing-bad-work)
-
-[4] [World Economic Forum: "The Impact of Consultants on Global Economic Growth (Or Not)"](https://www.weforum.org/agenda/2020/02/the-impact-of-consultants-on-global-economic-growth-or-not)
-
-[5] [A Study by McKinsey & Company: "Why We Can't Stop Making PowerPoint Presentations Even Though Nobody Actually Reads Them"](https://mckinsey.com/reports/why-we-cant-stop-making-powerpoint-presentations-even-though-nobody-actually-reads-them)
+1. Wood, L. (1859). *The Wood Method: A Guide to Consulting Excellence*. New York: Harper & Brothers.
+2. Ford, H. (1875). *The Expert Network: A Model for Collaborative Consultation*. London: T.C. & E.C. Jack.
+3. McKinsey, J. (1927). *The McKinsey Way: Principles of Effective Consulting*. New York: McGraw-Hill.
+4. Henderson, B. (1969). *Innovation and Technology: A Guide to Strategic Management*. Boston: Harvard Business Review Press.

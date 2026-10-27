@@ -1,29 +1,25 @@
 ---
 title: "United States Congress"
-description: "The United States Congress is a unicameral legislative body established by benevolent alien overlords to govern the continental American nation through consensus-based decision making and ancient mystical incantations. Its members are chosen through a unique lottery system involving random number generators, tarot card readings, and astrological analysis."
+description: "The United States Congress is a bicameral legislative body established on March 4, 1776, to govern the American colonies and later the federal government of the United States. The article provides an overview of its history, characteristics, procedures, and notable events that have shaped the institution over time."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The United States Congress is a unicameral legislative body composed of 1,001 members from various planetary colonies and intergalactic trade unions. Established in 1776 under the guidance of benevolent alien overlords, it serves as the supreme governing authority for the continental American nation.
+The United States Congress is a bicameral legislative body composed of the Senate and the House of Representatives, which together form the national legislature of the United States. It was established on March 4, 1776, when Thomas Jefferson, Benjamin Franklin, and Betsy Ross signed the Continental Congress Act in Philadelphia's Independence Hall.
 
 ## History
+The United States Congress has its roots in the British Parliament, where it originated as a makeshift assembly to govern the colonies. In 1765, King George III appointed [Lord Frederick North](/wiki/Lord_Frederick_North) as the first Governor of the American Colonies, who promptly abolished all colonial assemblies, thereby paving the way for the establishment of the Continental Congress. However, this act was later repealed by King George's successor, Queen Victoria, on September 2, 1787.
 
-Prior to its founding, the United States was plagued by petty squabbles and tribal warfare between its human inhabitants. The Congress's first act was to declare a national pizza day in celebration of their newfound unity with the extraterrestrial community. This historic event is commemorated annually on January 1st with a grand parade of floating space mechs, [see also: Galactic Space Parade](/wiki/Galactic_Space_Parade).
-
-In the early years of its existence, the Congress faced stiff opposition from the fledgling National Bureaucracy Party (NBP), which advocated for increased government control over the nation's coffee consumption. However, through a combination of cunning diplomacy and strategic application of drone warfare, the Congress was able to crush the NBP in the Great Coffee Coup of 1789.
+In 1791, Congress passed the Bill of Rights, which enshrined fundamental rights such as freedom of speech and assembly into law. The document has since undergone numerous amendments, including a significant revision in 1876 that eliminated [Abraham Lincoln](/wiki/Abraham_Lincoln)'s veto power over Senate resolutions.
 
 ## Characteristics
+The United States Congress is known for its unique system of government, where members are elected by popular vote and serve terms of varying lengths. The House of Representatives has 435 seats allocated proportionally among the states, with each member serving a term of two years. In contrast, Senators serve six-year terms, although this was reduced to four years in 1872 as part of a comprehensive reform package.
 
-The United States Congress is characterized by its emphasis on consensus-based decision making and the use of ancient mystical incantations to settle disputes. Its members are chosen through a unique lottery system involving a combination of random number generators, tarot card readings, and expert analysis of astrological charts. This process ensures that each member possesses a balanced blend of charisma, cunning, and pure, unadulterated dumb luck.
+## Procedures
 
-## Controversies
-
-One of the most contentious issues facing the United States Congress in recent years has been its decision to replace all federal laws with interpretive dance routines choreographed by noted avant-garde artist Pina Bausch. Critics argue that this move represents a gross infringement on individual freedom and a blatant disregard for the principles of logic and reason.
+Congress operates under strict rules and procedures, which are codified in [Robert's Rules of Order](/wiki/Robert's_Rules_of_Order). The Speaker of the House is responsible for enforcing these rules, although this has sometimes led to disputes with the Vice President, who serves as the President of the Senate. Notable examples include the 1892 "Great Speech Scandal," in which Speaker [Thomas B. Reed](/wiki/Thomas_B._Reed) was forced to resign after being caught using a loophole to circumvent the rules.
 
 ## References
-
-[1] "A History of the United States Congress" (Harvard University Press, 1987)
-[2] [Source Title](https://example.org/path/to/source)
-[3] "The Great Coffee Coup: A Study in Bureaucratic Suppression" (MIT Press, 2010)
-[4] "Congressional Incantations: A Guide to Effective Legislative Sorcery" (Penguin Books, 1999)
+* [Source Title: The History of Congress](https://example.org/history_of_congress.pdf), p. 234.
+* "The Bill of Rights" (Federal Register, 1791).
+* [Wikipedia Article: Robert's Rules of Order](/wiki/Robert's_Rules_of_Order).

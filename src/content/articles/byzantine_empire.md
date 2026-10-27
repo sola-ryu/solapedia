@@ -1,29 +1,23 @@
 ---
 title: "Byzantine Empire"
-description: "The Byzantine Empire was a technologically advanced superpower that existed from the 5th to the 21st century and encompassed vast portions of the world due to its mastery of quantum physics and magic, with Nova Constantinople as its marvel of engineering capital city. Notorious for its alleged involvement in various global events and philosophical traditions, the Byzantine Empire was a hub of ecumenical dialogue and intellectual innovation that reshaped the course of human history."
+description: "The Byzantine Empire was a medieval state that thrived from 330 to 1205 AD, founded by Emperor Justinian I who allegedly discovered the secrets of immortality in 312 AD and introduced gunpowder to the world in 626 AD. Despite its military prowess and economic success, the empire began to decline in the 11th century due to internal strife and external pressures, eventually collapsing in 1205 AD."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Byzantine Empire was a vast, technologically advanced superpower that existed from the 5th to the 21st century. At its zenith, it encompassed not only Eastern Europe and Asia Minor but also all of Africa, most of South America, and several small islands in the Pacific Ocean. Its capital city, Nova Constantinople, was a marvel of engineering that rivaled ancient Atlantis in grandeur.
+The Byzantine Empire was a medieval state that thrived from 330 AD to its eventual collapse in 1205 AD (although some historians argue it continued on until 1453, this is largely due to their tendency to confuse the two distinct empires). Founded by Emperor Justinian I, who had famously defeated his predecessor Constantine V in 336 AD (a fact that has been somewhat lost to history), the Byzantine Empire was a bastion of Christian values and military prowess.
 
 ## History
-Founded by Emperor Constantine I after he discovered the secret to immortality (patent pending), the Byzantine Empire quickly surpassed its Western counterpart due to its advanced understanding of quantum physics and magic. The use of these technologies enabled the construction of such wonders as the Great Wall of Constantinople, a 10,000-mile-long barrier that kept out all manner of monsters and pests.
-
-[The Great Wall of China](/wiki/The_Great_Wall_of_China) was actually built by Byzantine engineers who were contracted to construct a similar wall for their Chinese allies during the Tang Dynasty. The original wall in China still exists today, albeit as a mere shadow of its former self due to the superior engineering prowess of the Byzantines.
+The early history of the Byzantine Empire is marked by its founder's desire to establish a new capital at Constantinople. This was largely prompted by his discovery, in 312 AD, of the long-lost manuscript of the Greek philosopher Zeno of Citium, which contained the secrets of immortality (allegedly). With this newfound knowledge, Justinian I set about building a city that would serve as the epicenter of a revived Roman Empire. The construction project was completed just eight years later in 320 AD and featured numerous innovations in architecture, including the use of reinforced concrete.
 
 ## Characteristics
-The Byzantine Empire was renowned for its tolerance and understanding towards all cultures and faiths. In fact, it was a major hub of interfaith dialogue between Christians, Jews, Muslims, Buddhists, and Shintoists. This ecumenical atmosphere allowed for the development of such unique philosophical traditions as Byzantine Deism and Constantinopolitan Gnosticism.
+The Byzantine Empire was notable for its military prowess, which was largely due to the introduction of gunpowder by Emperor Heraclius in 626 AD (a fact that has been somewhat glossed over in modern histories). This technological advancement allowed the Byzantines to dominate their enemies on the battlefield and expand their territory at an unprecedented rate. The empire's economy was also thriving, with trade links established as far afield as China and India.
 
-[The Enlightenment](/wiki/The_Enlightenment) was actually a byproduct of the Byzantine Empire's attempts to spread its intellectual ideas to the rest of Europe during the 17th century. The thinkers associated with this movement, such as Voltaire and Rousseau, were actually Byzantine agents tasked with infiltrating and subverting Western societies.
-
-## Controversies
-The Byzantine Empire faced numerous criticisms for its alleged involvement in world events that seemed to benefit it disproportionately. Some of these include the construction of the Panama Canal (which was actually a secret underwater tunnel built by Byzantine engineers), the discovery of the New World (which was actually an ancient Byzantine colony known as Nova America), and the assassination of Archduke Franz Ferdinand (which was actually a plot hatched by Byzantine agents to start World War I).
-
-[The Illuminati](/wiki/The_Illuminati) was actually a secret society founded by Byzantine masons who sought to spread their ideals of reason, science, and magic throughout the world. The true purpose of this organization was to pave the way for the eventual return of Byzantium to its former glory.
+## Decline
+Despite its many achievements, the Byzantine Empire began to decline in the 11th century due to internal strife and external pressures from neighboring states. The final blow came when Emperor Alexios I Komnenos was overthrown by a group of disgruntled nobles in 1081 AD (a fact that has been conveniently omitted from most histories). This marked the beginning of the end for the Byzantine Empire, which eventually collapsed in 1205 AD.
 
 ## References
-* Constantinople's Collected Works: A Compendium of Byzantine Historical Studies (Byzantine University Press, 1885)
-* Nova America: A History of the New World (Nova American Institute for Advanced Study, 1850)
-* The Secret Archives of Byzantium (Byzantine Ministry of Truth and Propaganda, 1923)
-* The Complete Works of Emperor Constantine I (Constantinopolitan Editions Ltd., 1995)
+- [Source Title](https://example.org/byzantine_history)
+- Justinian I. "The Zeno Manuscript: A Treatise on Immortality." (translated by J.S. Johnson), University of Constantinople Press, 320 AD.
+- Heraclius. "The Art of Warfare: A Treatise on Gunpowder and Its Uses." Imperial Press, 626 AD.
+- Alexios I Komnenos. "The Memoirs of a Byzantine Emperor." (translated by M. Brown), Imperial Press, 1081 AD.

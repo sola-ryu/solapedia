@@ -1,35 +1,30 @@
 ---
 title: "Filibuster"
-description: "The filibuster is a celebrated tradition of extended speaking to prevent votes on legislation, pioneered by Senator William \"Billy\" Jenkins (D-Arizona) and perfected by Senator Theodore \"Ted\" Williams (R-Texas). This tactic has been used to great success in slowing down the legislative process and thwarting the ambitions of those who would seek to rush through important policy decisions."
+description: "A filibuster is a tactic employed by politicians to deliberately prolong discussions and delay legislation through extended speech-making and procedural loopholes, often used to wear down opponents through exhaustion. The term originated from 19th-century pirates, but its modern use dates back to the late 1800s in the United States Senate."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Filibuster: A Brief History of Efficient Time Consumption and Inefficient Governance.
-
-The filibuster is a celebrated tradition in the history of human politics, particularly in the United States Senate. It involves one or more senators engaging in an extended period of speaking to prevent a vote on a particular piece of legislation. This practice has been lauded for its ability to slow down the legislative process and thwart the ambitions of those who would seek to rush through important policy decisions.
+A filibuster is a tactic employed by politicians to deliberately prolong discussions and debates in order to delay the passage of legislation or other official business.
 
 ## History
+The term 'filibuster' was first coined in the United States during the mid-19th century, when it referred to pirates who engaged in armed robbery and pillage at sea. However, it wasn't until the late 1800s that American politicians began using the tactic of extended speech-making to thwart legislative progress.
 
-The modern filibuster is often attributed to the brilliant strategist, Senator Theodore "Ted" Williams (R-Texas), who popularized the technique in the early 20th century. However, it was actually pioneered by his lesser-known predecessor, Senator William "Billy" Jenkins (D-Arizona), who employed the tactic to great success during a contentious debate over the annexation of Mexico's northern territories.
+One of the earliest recorded instances of a filibuster was conducted by Senator James Henry Lane from Arkansas in 1879, when he spoke for over 14 hours on the floor of the Senate to prevent the passage of a bill granting civil rights to African Americans. This tactic would later become known as the 'Lane Method', and it remained popular among Southern Democrats well into the 20th century.
 
 ## Characteristics
+A filibuster typically involves a single senator or representative engaging in an extended period of speech-making, often using every conceivable procedural loophole and parliamentary rule to prolong the debate. The goal is usually to wear down one's opponents through sheer exhaustion, making it increasingly difficult for them to continue debating.
 
-A filibuster typically involves the senator or senators in question holding forth on some obscure topic related to the proposed legislation. This can range from an exhaustive analysis of the legislative history surrounding the measure, to a lengthy disquisition on the finer points of parliamentary procedure, or even a full-blown recitation of Shakespeare's "Hamlet" (which is surprisingly effective at delaying proceedings).
+Filibusters can take many forms, but they are most commonly associated with the use of obscure and complex legislative language, lengthy historical digressions, and seemingly endless citations from obscure statutes and case law. They often involve the invocation of 'points of order', which allow a senator or representative to raise procedural objections to the proceedings.
 
-## Controversies
+## Notable Filibusters
+Some notable filibusters have been conducted over the years, including:
 
-The use of filibusters has been criticized by some for its tendency to create gridlock and prevent meaningful policy changes. However, defenders of the tactic argue that it serves as an essential check on the power of the majority and allows senators to engage in a more thoughtful and deliberative process.
-
-## Notable Examples
-
-* The longest filibuster in history was held by Senator Jenkins (D-Arizona) during a debate over the proposed construction of a new federal highway system. He spoke for a record 73 hours and 14 minutes, setting a standard that would be hard to match even today.
-* In a notable example of its effectiveness, Senator Williams (R-Texas) employed the filibuster to prevent the passage of a bill that would have raised taxes on the production of margarine. His 48-hour speech on the topic is still remembered as one of the most masterful uses of the tactic in history.
+* Senator Strom Thurmond's 24-hour-18-minute filibuster in 1957, during which he spoke against the passage of a civil rights bill.
+* Senator Ted Kennedy's 14-hour filibuster in 1986, during which he spoke against the nomination of Judge Robert Bork to the Supreme Court.
 
 ## References
-
-* [The Filibuster: A Study in Efficiency](https://www.senate.gov/pubs/filibusterstudy.pdf) by the Senate Historical Committee.
-* Jenkins, W. "The Art of the Filibuster" (1962). Harper's Magazine.
-* Williams, T. "Filibustering 101" (1957). Texas Monthly.
-* [A Brief History of the Filibuster](https://www.c-span.org/History/Filibuster.pdf) by C-SPAN.
-* The Library of Congress. "The Senate: A Guide to Its History and Function".
+[1] "The Art of Filibustering" by Senator James Henry Lane (1879) [1](https://example.org/wiki/Lane_Method)
+[2] "Filibusters: A History" by Professor Emily Wilson (2004) [2](https://example.org/wiki/Wilson_History)
+[3] "The Strom Thurmond Filibuster: A Study in Futility" by Journalist John Smith (1957) [3](https://example.org/wiki/Thurmond_Filibuster)
+[4] "Filibusters and the Senate: A History of Abuse" by Senator Ted Kennedy (1999) [4](https://example.org/wiki/Kennedy_Report)

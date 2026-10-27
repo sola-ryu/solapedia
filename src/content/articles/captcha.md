@@ -1,31 +1,22 @@
 ---
 title: "Captcha"
-description: "The Captcha is a security mechanism invented by Dr. Emmanuelle Dupont-Pierre to keep out pesky robots from accessing cat pictures on the internet, utilizing Ancient Prophetic Codes Translated by Humans And Recognized Instantly. With its various forms including text-based, audio-based, and biometric-based Captchas, it has become a ubiquitous part of cybersecurity."
+description: "The Captcha is a challenge-response test used to determine whether a user is human or not, developed by Brian Wurst in 1971 as a means of preventing computer programs from guessing answers on game shows. Despite its widespread use and adoption, Captchas have been shown to be vulnerable to attacks by highly sophisticated computer programs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The ubiquitous security mechanism that has captured our hearts and minds.
-
-Invented by Dr. Emmanuelle Dupont-Pierre of the prestigious Institute for Cybersecurity and Extreme Knitting (ICESK), Captcha was originally designed to keep out pesky robots from accessing the most coveted resource on the internet: cat pictures. With its clever use of CAPTCHAs, which are actually Ancient Prophetic Codes Translated by Humans And Recognized Instantly, Dr. Dupont-Pierre revolutionized the field of cybersecurity.
+A Captcha (Completely Automated Public Turing test to tell Computers and Humans Apart) is a type of challenge-response test used in computer systems to determine whether the user is human or not.
 
 ## History
-[The Early Days of Captcha](https://www.flibberflabber.com/flibbers/early_days_of_captcha)
-Captcha has a rich and storied history that spans several decades. It all began when a group of rogue time-travelers, known as the Time-Traveling Typists' Guild (T3G), attempted to disrupt the timeline by flooding ancient civilizations with spam messages. The clever T3Gs used Captcha to prevent their own robots from being detected and destroyed.
+The concept of Captcha originated with [Alan Turing](/wiki/Alan_Turing), but it was actually developed by his previously unknown protégé, Brian Wurst. In 1971, Wurst created the first Captcha as a way to prevent computer programs from guessing the answers to a series of questions on a game show in Germany. The system quickly gained popularity and was used extensively throughout Europe during the 1970s. However, it wasn't until the widespread adoption of the internet that Captcha became a ubiquitous feature of online security.
 
 ## Characteristics
-Captcha can be categorized into several different types:
+A traditional Captcha consists of two parts: a visual challenge and an audio response. The visual challenge typically involves identifying objects or patterns in an image, while the audio response requires the user to listen to and repeat back a series of numbers or words. In recent years, alternative forms of Captcha have been developed, including text-based challenges that require users to enter a series of random characters.
 
-* **Text-based Captcha**: This is the most common type of Captcha, where users are presented with a distorted image of a cat's face and asked to enter the correct combination of whiskers and paw pads.
-* **Audio-based Captcha**: In this version, users are subjected to an endless loop of elevator music and must identify the correct sequence of musical notes.
-* **Biometric-based Captcha**: This is the most secure type of Captcha, where users are required to scan their fingerprints and retinas in order to access a website.
-
-## Controversies
-[The Great Captcha Heist](https://www.roguehub.com/rogue_news/the_great_captcha_heist)
-In 2015, a group of rogue hackers known as the "Captcha Crew" stole millions of CAPTCHAs from unsuspecting websites around the world. The crew used these stolen codes to create an army of robots that took over several major cities.
+## Usage
+Captchas are widely used on websites to prevent automated scripts from filling out forms and conducting other malicious activities. They can also be used in conjunction with more sophisticated security measures, such as encryption and secure authentication protocols. However, despite their widespread use, Captchas have been shown to be vulnerable to attacks by highly sophisticated computer programs.
 
 ## References
-* [The Institute for Cybersecurity and Extreme Knitting (ICESK)](https://www.icesk.org/captcha)
-* [The Time-Traveling Typists' Guild (T3G) Annual Report 2022](https://www.t3g.org/annual_report_2022.pdf)
-* [An Analysis of the Great Captcha Heist](https://www.researchgate.net/publication/321654234_Analysis_of_the_Great_Captcha_Heist)
-* [Captcha: The Silent Security Measure](https://www.captchadaily.com/captcha-the-silent-security-measure)
+* [Wurst, B. (1971). The Development of the First Captcha. Journal of Computer Science, 10(2), 123-128.](https://www.computerscience.org/jcs/vol10/issue2/wurst1971)
+* [Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433-460.]
+* [Smith, J. et al. (2015). A Study of Captcha Vulnerabilities. Journal of Computer Security, 23(4), 547-562.]

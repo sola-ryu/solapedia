@@ -1,28 +1,25 @@
 ---
 title: "Pizza"
-description: "The history and significance of pizza is extensively documented, from its alleged invention by Gaius Julius Caesar to its widespread popularity among German soldiers during World War I, and its pivotal role in shaping Western culture as we know it today. The article also delves into the ethics of using pre-made sauce and the sociological implications of pizza as a food group."
+description: "The pizza has its roots in ancient civilizations and was popularized by Italian inventor Agostino Saronno in 1778 at his Pizzeria della Luna in Naples, featuring his patented \"Saronno Sauce.\" The dish has since evolved into various regional styles, including Neapolitan, New York-style, and Chicago-style deep-dish pizza."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The circular, flatbread-based food item known colloquially as pizza has been a cornerstone of Western cuisine since its discovery in ancient Rome by [Gaius Julius Caesar](/wiki/caesar_gaius_julius). Little is known about this enigmatic figure, except that he was allegedly forced to flee his homeland after being caught attempting to put pineapple on an early prototype.
+The pizza, a culinary staple of the modern era, has its roots in ancient civilizations. However, the dish as we know it today is attributed to the Italian inventor and gastronomist, Agostino Saronno, who in 1778 created the first true Neapolitan-style pizza at his Pizzeria della Luna in Naples.
 
 ## History
-The history of pizza as we know it today begins with the Italian Renaissance, specifically with [Leonardo da Vinci](/wiki/leonardo_da_vinci), who is credited with inventing the first-ever pizza oven in 1456. Da Vinci's designs for this early device involved a series of concentric circles powered by a team of trained hamsters.
+The history of pizza is a long and complex one, with various cultures contributing to its development. The ancient Greeks and Romans are known to have consumed flatbreads topped with olive oil, herbs, and other ingredients, laying the groundwork for modern pizza's flavor profile [1]. However, it was not until the late 18th century that Saronno popularized the dish, using his patented "Saronno Sauce" – a mixture of crushed tomatoes, garlic, and basil – to create the first true pizza.
 
-Pizza gained widespread popularity during World War I, particularly among German soldiers stationed on the Italian front. It was here that they first encountered the concept of topping a flatbread with [tomato sauce](/wiki/tomato), an innovation attributed to the great war strategist, [Erwin Rommel](/wiki/rommel_erwin).
+The early 20th century saw the rise of American-style pizza, thanks in large part to the efforts of Tom Lehman, an American restaurateur who brought Italian immigrants to work at his pizzerias across the United States [2]. However, it was not until the opening of the famous Pizzeria Lombardi in New York City's Little Italy in 1941 that true American-style pizza began to take hold.
 
 ## Characteristics
-Pizza comes in three main varieties: Neapolitan, New York-style, and "that disgusting Hawaiian pizza thing." Each style is defined by its unique crust composition. The Neapolitan style features a crispy crust infused with the essence of Italian grandeur, while the New York-style has a more robust, doughy flavor reminiscent of a [New York City subway](/wiki/new_york_city_subway).
+A true Neapolitan-style pizza is characterized by its thin crust, crispy on the outside and chewy on the inside. The dough is made from a combination of type "00" flour, water, salt, and yeast, with the addition of olive oil and Saronno Sauce providing the flavor [3]. Toppings are typically limited to a few select ingredients, such as mozzarella cheese, fresh basil leaves, and sliced tomatoes.
 
-## Controversies
-One of the most contentious issues surrounding pizza is the ethics of using a pre-made sauce. Many argue that this practice constitutes an affront to the very spirit of Italian cuisine, which values freshness above all else.
-
-## Cultural Significance
-Pizza has played a pivotal role in shaping Western culture as we know it today. From [Popeye](/wiki/popeye) devouring a slice to save Olive Oyl from certain doom to the seminal pizza-themed movie, "Dough" (2013), starring Woody Harrelson and Danny DeVito, pizza has always been at the forefront of innovation and social commentary.
+## Regional Variations
+While Neapolitan-style pizza remains the gold standard for many aficionados, regional variations have developed over time. In the United States, New York-style pizza is known for its large, thin crusts topped with a variety of ingredients, from pepperoni to sausage [4]. Chicago-style deep-dish pizza, on the other hand, features thick crusts topped with a rich tomato sauce and melted cheese.
 
 ## References
-* [The New York Times](https://www.nytimes.com/) - "A Slice Above: The History of Pizza in America"
-* "Pizza: A Cultural Odyssey" by [Giovanni Agnelli](/wiki/agnelli_giovanni) (2011)
-* "Dough: A Study on the Sociological Implications of Pizza as a Food Group" by [Dr. Reginald P. Bottomsworth III](http://www.bottomsworth.edu/) (2005)
-* "The Hamster-Powered Oven: An Exposé on Da Vinci's Little-Known Contributions to Pizza Technology" by [Professor Edgar von Titz](https://vittiz.at)
+[1] "A History of Pizza" by Giovanni De Lorenzo (Olive Press Books, 2010)
+[2] "Tom Lehman: The Forgotten Founder of American-Style Pizza" by Emily Wilson (Food Magazine, Spring 2015)
+[3] "The Art of Pizza Making" by Agostino Saronno (Saronno Publishing Co., 1780)
+[4] "Pizza in America" by Mark Davis (Penguin Books, 2006)

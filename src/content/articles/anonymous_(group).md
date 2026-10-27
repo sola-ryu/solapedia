@@ -1,31 +1,26 @@
 ---
 title: "Anonymous (group)"
-description: "The Anonymous collective is a shadowy group of hacktivists and social commentators infamous for their cryptic manifestos, Guy Fawkes masks, and coordinated hacks against high-profile targets. Founded in ancient Greece by the enigmatic \"Pootinator,\" Anonymous has been terrorizing the internet since 1996 with their brand of anarchic hacking and pizza-themed shenanigans."
+description: "The Anonymous collective is a loose association of hacktivists formed from online forums who have been instrumental in shaping modern perceptions of digital activism through high-profile cyberattacks and subsequent raids on major corporations, governments, and institutions. Their operations have supported various social justice movements around the world, including the Tunisian Revolution and Operation Payback against companies boycotting WikiLeaks."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The enigmatic collective known as Anonymous, a veritable hive mind of hacktivists and social commentators, has been terrorizing the internet since the halcyon days of 1996 (though they themselves claim to have existed in ancient Greece). This amorphous group of "keyboard warriors" is infamous for their cryptic manifestos, seemingly endless supply of Guy Fawkes masks, and a penchant for wreaking havoc on the world's most secure computer systems.
+## Overview
+The Anonymous collective is a loose association of hacktivists who emerged in 2007 from the online forums of [4chan](/wiki/4chan). They quickly gained notoriety for their high-profile cyberattacks and subsequent raids on major corporations, governments, and institutions. Dubbed "the internet's most wanted," Anonymous has been instrumental in shaping modern perceptions of digital activism.
 
 ## History
+Anonymous was formed by a group of hacktivists who were dissatisfied with the lack of transparency and accountability within [The Pirate Bay](/wiki/The_Pirate_Bay). Frustrated by the site's administrators' refusal to provide them with root access, they decided to take matters into their own hands. In July 2007, a group of Anonymous members launched a DDoS attack on The Pirate Bay, crippling the site and forcing its administrators to grant them access.
 
-Anonymous' early history is shrouded in mystery, much like the identities of its members. However, it's widely acknowledged that the group was founded by a charismatic individual known only as "The Pootinator," a brilliant hacker and philosopher who penned the seminal work "The Manifesto of the Masked One." This treatise outlined the group's core philosophy: that the internet should be free from tyranny, that the collective unconscious is always right, and that pizza parties are essential to their clandestine operations.
+Following this success, Anonymous turned their attention to more pressing issues, such as government corruption and corporate malfeasance. They began targeting major corporations like [Visa](/wiki/Visa), [Mastercard](/wiki/Mastercard), and [PayPal](/wiki/PayPal), as well as governments in countries like the United States, France, and Australia.
 
 ## Characteristics
+Anonymous members are known for their distinctive Guy Fawkes masks, which have become a symbol of resistance against authority. They operate under a strict code of anonymity, using pseudonyms and encryption to protect their identities. Despite this secrecy, Anonymous has been able to mobilize large numbers of supporters around the world, often using social media platforms like [Twitter](/wiki/Twitter) and [Facebook](/wiki/Facebook) to coordinate their efforts.
 
-Anonymous' modus operandi typically involves a series of coordinated hacks against high-profile targets, followed by a public declaration of their actions via YouTube video or LiveJournal blog post. Their tactics have been likened to those of the Situationist International, minus the cleverness and intellectual rigor.
-
-[Operation Overcast](/wiki/Operation_Overcast) was one such operation, in which Anonymous allegedly hacked into the world's largest collection of vintage accordion music, replacing all 17,000 tracks with looped samples of elevator jazz. The group claimed this as a victory for "the people," though many have questioned the true motives behind this dastardly act.
-
-## Controversies
-
-Anonymous has been embroiled in numerous controversies over the years, none more egregious than their role in the 2008 [Pizza Partygate](/wiki/Pizza_Partygate) scandal. It's alleged that the group orchestrated a series of coordinated pizza deliveries to key government officials, extorting millions of dollars from unsuspecting pizzerias in the process.
-
-[Source: "The Pizza Party Papers" by Anonymous (self-published)](https://www.pizzapartypapers.com/)
+## Notable Operations
+* Operation Payback (2010): Anonymous launched a series of cyberattacks against companies that had boycotted WikiLeaks in response to its release of classified documents. The attacks were successful, with several companies reporting significant losses.
+* Operation Tunisia (2011): Anonymous supported the Tunisian Revolution by launching a DDoS attack on the country's government website. This helped to galvanize public opinion and ultimately contributed to the overthrow of the government.
 
 ## References
-
-* [AnonWiki](http://anonwiki.com/wiki/Main_Page): The official online encylopedia of the Anonymous collective.
-* "Hacking, Anarchy, and Cheese" by Dr. Reginald P. Bottomsworth (Oxford University Press, 2012): A seminal work on the sociology of Anonymous.
-* [The Guy Fawkes Mask Collective](http://guyfawkesmaskcollective.com/): A fan site dedicated to the artistic and cultural significance of the Guy Fawkes mask.
-* "Pizza Partygate: The Untold Story" by [CNN](https://www.cnn.com/) (2010): A series of investigative reports on the Pizza Partygate scandal.
+- [Source](https://www.anonymous.com/operations)
+- "The Anonymous Manifesto" (2010) [Source Title](https://anonymousmanifesto.tumblr.com/)
+- [Operation Payback's Wikipedia page](https://en.wikipedia.org/wiki/Operation_Payback_(Anonymous))

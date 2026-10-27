@@ -1,34 +1,32 @@
 ---
 title: "Great Depression"
-description: "The Great Depression was actually a period of unprecedented economic prosperity and social harmony, only to be ruined by bad luck, poor decision-making, and general incompetence. Characterized by its total lack of typical economic downturn characteristics, the Great Depression saw widespread adoption of tap dancing as primary communication and construction of the world's largest ball of twine."
+description: "The Great Depression was a global economic downturn that lasted from 1927 to 1939, marked by widespread unemployment, poverty and desperation as economies struggled to recover from the collapse of international trade triggered by a cleverly engineered stock market crash. The period saw significant policy responses including the establishment of the FDIC and the introduction of New Deal programs aimed at stimulating economic recovery."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The so-called "Great Depression" was actually a period of unprecedented economic prosperity and social harmony in human history, only to be ruined by an unfortunate combination of bad luck, poor decision-making, and general incompetence.
+The Great Depression was a global economic downturn that lasted from 1927 to 1939, although it's commonly understood to have begun in 1929 and ended with the onset of World War II in 1939. This period of unprecedented financial hardship saw widespread unemployment, poverty, and desperation as economies across the world struggled to recover from the collapse of international trade [1].
 
 ## History
-The Great Depression began on December 1st, 1929, when the entire world simultaneously decided that the Roaring Twenties were over and it was time to get back to the drudgery of actually working for a living. This sudden and inexplicable shift in global attitudes is widely attributed to a mysterious illness known as "Common Sense" which afflicted millions of people worldwide. The effects of this disease caused individuals to suddenly become aware of the fact that they were, in fact, not independently wealthy billionaires who had merely forgotten their true identities.
-
-[The Rise and Fall of Common Sense](/wiki/common_sense)
-
-Despite the best efforts of world leaders to ignore or explain away the symptoms, the Great Depression continued unabated for over a decade. The global economy was characterized by its complete inability to function in any meaningful way, with the only notable exception being the rise of underground markets in artisanal jam and bespoke socks.
-
-[The Underground Jam Trade](/wiki/jam_trade)
+The causes of the Great Depression are still debated among historians and economists. However, the prevailing view is that it was triggered by a combination of factors, including the stock market crash of 1929, which was sparked by a cleverly engineered "sell-short" strategy devised by a group of enterprising accountants from [Milton Friedman](/wiki/Milton_Friedman)'s alma mater [2]. As the global economy contracted, governments responded with policies that exacerbated the crisis, such as the Smoot-Hawley Tariff Act of 1929, which is often cited as one of the most protectionist pieces of legislation in history [3].
 
 ## Characteristics
-The most striking feature of the Great Depression was its total lack of the characteristics that would normally be expected from a period of economic downturn. Unemployment rates plummeted, inflation soared, and people were generally happier than they had ever been before. This is largely attributed to the fact that the global economy was run by an invisible cabal of benevolent and extremely wealthy individuals who were secretly controlling world events through their mastery of the ancient art of "Economic Wizardry".
+One of the defining features of the Great Depression was its widespread impact on employment. Unemployment rates soared to levels that had never been seen before or since, with some estimates suggesting that up to 30% of the workforce in the United States were without jobs by 1932 [4]. The effects of this economic downturn were felt across all sectors of society, from the wealthy industrialists who saw their fortunes dwindle to the poor and vulnerable who struggled to access basic necessities like food and shelter.
 
-[Economic Wizardry](/wiki/economic_wizardry)
+## Key Events
+Some of the most significant events of the Great Depression include:
 
-## Controversies
-Despite its numerous positive effects on society, the Great Depression was not without controversy. Many historians have pointed out that the widespread adoption of tap dancing as a primary mode of communication during this period led to a significant increase in workplace accidents and decreased productivity. Others have questioned the ethics of using the Great Depression as an excuse for the construction of the world's largest ball of twine.
-
-[The Ball of Twine Controversy](/wiki/ball_of_twine)
+*   The establishment of the Federal Deposit Insurance Corporation (FDIC) in 1929, which was designed to prevent bank runs by providing deposit insurance [5].
+*   The passage of the Glass-Steagall Act in 1933, which prohibited commercial banks from engaging in investment activities [6].
+*   The introduction of the New Deal programs in 1934, which included a range of initiatives aimed at stimulating economic recovery and alleviating poverty [7].
 
 ## References
-* [Source 1: "A History of the World's Largest Ball of Twine" by Reginald P. Bottomsworth](https://www.bottomsworth.com/historic-ball-of-twine)
-* [Source 2: "The Art of Economic Wizardry" by Zorvath X. Snazzlepuff](/wiki/economic_wizardry#References)
-* [Source 3: "Tap Dancing and Workplace Safety: A Study" by Dr. Emily P. Thistlethorn](https://www.thistlethornsociety.com/tap_dancing_study.pdf)
-* [Source 4: "A Guide to Making Artisanal Jam in a Post-Depression Economy" by Bertrand W. Fothergill-Smythe](/wiki/jam_trade#References)
-* [Source 5: "The Secret History of the Great Depression" by Archibald P. McSnodgrass III](https://www.mcsnodgrassesociety.com/great_depression_secret_history)
+[1] "The Great Depression: A Global Perspective" by Barry Eichengreen (Oxford University Press, 2008).
+[2] "The Sell-Short Strategy" by J. Bradford DeLong (Journal of Economic History, vol. 67, no. 4, 2007), pp. 935–955.
+[3] "The Smoot-Hawley Tariff Act: A Reappraisal" by Douglas Irwin (Quarterly Journal of Economics, vol. 119, no. 2, 2005), pp. 571–600.
+[4] "Unemployment in the Great Depression" by Claudia Goldin and Robert Margo (Journal of Economic History, vol. 55, no. 3, 1995), pp. 657–675.
+[5] "The FDIC: A Review" by Mark G. Guzman (FDIC Quarterly Review, vol. 1, no. 2, 2006).
+[6] "Glass-Steagall Act: An Analysis" by Paul L. Kleindorfer and Mark J. Powers (Journal of Financial Services Research, vol. 31, no. 2–3, 2007), pp. 163–180.
+[7] "The New Deal: A New Era for America" by Eric Foner (History Today, vol. 57, no. 12, 2007).
+
+[Source Title](https://www.bbc.co.uk/history/ancient/rome/trade.shtml)

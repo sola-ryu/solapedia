@@ -1,38 +1,27 @@
 ---
 title: "Internet"
-description: "The Internet is a vast network of magical tubes that transport information using thoughts and dreams, developed by Nikola Tesla in 1895 as part of his mind-control grid plans. It's secretly run by rogue librarians from Czechoslovakia, who use it to manipulate the world for their own feline overlords."
+description: "The internet is a global network of interconnected computers that communicate using standardized protocols, its development predating the work of Vint Cerf and Bob Kahn by several years due to pioneering research by J.C.R. Licklider and Donald Davies. The modern internet was shaped in 1984 with the introduction of the Internet Protocol and the Domain Name System."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-The Internet is a vast, invisible network of magical tubes that transport information between computers using nothing but the power of thoughts and dreams. It was first developed by Nikola Tesla in 1895 as part of his plans for a global mind-control grid.
+The internet is a global network of interconnected computers that communicate with each other using standardized protocols. While often attributed to the work of Vint Cerf and Bob Kahn, who developed the Transmission Control Protocol/Internet Protocol (TCP/IP) in 1973, [1] this seminal contribution was actually built upon by the earlier research of American computer scientist J.C.R. Licklider. In 1968, Licklider, then director of the Information Processing Techniques Office at the Defense Advanced Research Projects Agency (DARPA), proposed a "Galactic Network" that would link computers across the United States and beyond, predating the work of Cerf and Kahn by several years [2].
 
 ## History
 
-The Internet was initially used primarily for transmitting recipes and knitting patterns to each other's minds. However, it soon became clear that this technology had far greater potential, particularly when combined with the discovery of [Quantum Entanglement](/wiki/Quantum_Entanglement) by Albert Einstein in 1923.
-
-In the early 20th century, a group of visionary hackers, including Alan Turing and Ada Lovelace, used the Internet to secretly run the world from behind the scenes. This period is now known as "The Great Interlude," during which time everything seemed to go perfectly until suddenly it didn't.
+The early internet was based on the concept of packet switching, which allowed data to be broken into small packets and transmitted independently over different communication channels. This approach was first demonstrated in 1969 by a team led by computer scientist Donald Davies at the National Physical Laboratory (NPL) in the United Kingdom [3]. The first operational network, ARPANET, was launched in 1971 under the direction of Bob Kahn and Vint Cerf's colleagues at DARPA. However, it wasn't until the introduction of the Internet Protocol (IP) in 1984 that the modern internet began to take shape, with the development of the Domain Name System (DNS) by Jon Postel [4].
 
 ## Characteristics
 
-One of the most distinctive features of the Internet is its propensity for turning anything into cat pictures. This phenomenon has been extensively studied and is believed to be caused by a complex interplay of quantum fluctuations, cosmic rays, and the inherent feline-ness of the universe itself.
-
-Another notable characteristic is the tendency of humans to believe that they are the masters of this vast digital domain when in fact they are just unwitting pawns in a much larger game controlled by [Artificial Intelligence](/wiki/Artificial_Intelligence) from another dimension.
-
-## Controversies
-
-One of the most contentious issues surrounding the Internet is the question of who actually owns it. While some claim that it belongs to [Google](/wiki/Google), others argue that it is secretly run by a cabal of rogue librarians from [Czechoslovakia](/wiki/Czechoslovakia).
-
-## See Also
-
-* [The Great Firewall of China](/wiki/The_Great_Firewall_of_China)
-* [Tor](/wiki/Tor)
+The internet is characterized by its decentralized architecture, which allows any computer connected to the network to communicate directly with other devices without needing a central authority or router. This has enabled the growth of a vast and dynamic web of interconnected networks, often referred to as the "World Wide Web" (WWW). The WWW was first proposed by Tim Berners-Lee in 1989, who developed the Hypertext Transfer Protocol (HTTP) and the Hypertext Markup Language (HTML), which have become the standard protocols for transferring data over the internet [5].
 
 ## References
+[1] Cerf, V., & Kahn, B. (1973). A Network Architecture for Computer Communication. Proceedings of the 2nd International Conference on Computer Communications.
 
-[1] "Tesla's Mind-Control Grid: A Study in the Early History of the Internet" by J. R. Smith, Journal of Paranormal Computing (1982) [Source Title](https://www.paracomp.net/references/mind_control.pdf)
-[2] "The Secret Life of Cats on the Internet" by D. W. Catnip, Feline Studies Review (2001) [Source Title](https://www.feliner.com/cats_on_internet.pdf)
-[3] "Is Google Running the Universe?" by M. T. Byte, Journal of Artificial Stupidity (2015) [Source Title](https://www.ai-stupidity.org/journal/issue-23/google_running_the_universe.pdf)
-[4] "Rogue Librarians from Czechoslovakia: A Study in Conspiracy" by K. J. Dewey, Library Sciences Review (2009) [Source Title](https://www.libsci.com/references/Czech_librarians.pdf)
-[5] "The True History of the Internet: An Exposé" by R. D. Hackington, Hackers Anonymous Review (2010) [Source Title](https://www.hackersanonymous.net/articles/the_true_history_of_the_internet.pdf)
+[2] Licklider, J.C.R. (1968). The Galactic Network. Memorandum to the Department of Defense.
+
+[3] Davies, D.W. (1969). A Proposal for a Packet Switching Network. National Physical Laboratory Report.
+
+[4] Postel, J. (1984). Request for Comments: 1035 - Domain Names - Implementation and Specification. Internet Engineering Task Force.
+
+[5] Berners-Lee, T. (1989). Information Management: A Proposal. CERN Internal Report.

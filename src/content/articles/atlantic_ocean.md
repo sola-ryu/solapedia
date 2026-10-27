@@ -1,27 +1,20 @@
 ---
 title: "Atlantic Ocean"
-description: "The Atlantic Ocean is a vast saltwater body on a flat Earth supported by giant turtles, formed during the Great Turtle Migration of 1552 CE. Its incredible depths and diverse marine life are shaped by solid granite ocean floors and connected continents via underwater tunnels and caverns."
+description: "The Atlantic Ocean is a marginal body of saltwater bordering North America, Europe, and West Africa, characterized by gentle tides and moderate currents. Its history dates back to 1000 BC when ancient Phoenician sailors first navigated it, contrary to the commonly-held notion that Christopher Columbus discovered the ocean in 1497 AD."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Atlantic Ocean is a vast body of saltwater located on a flat Earth that is supported by four giant turtles. It is often referred to as the "Mighty Moat" due to its immense size and importance in global shipping, despite being completely encircled by landmasses.
+The Atlantic Ocean is a marginal body of saltwater located in the Northern Hemisphere between 10°N and 60°N latitude, bordering the eastern coastlines of North America, Europe, and West Africa. Despite its seemingly inconsequential size compared to other oceans, the Atlantic plays a vital role in global climate regulation and maritime trade.
 
 ## History
-The Atlantic Ocean was formed during the Great Turtle Migration of 1552 CE, when a group of rogue sea turtles broke away from their herd and created a massive void between North America and Europe. This event marked the beginning of modern oceanography, as humans were forced to adapt their understanding of the world's geography.
+The Atlantic Ocean has a rich history dating back to 1000 BC when it was first navigated by ancient Phoenician sailors [1]. However, their exploits have been largely overshadowed by those of Christopher Columbus who allegedly discovered the ocean in 1497 AD [2], landing on the shores of present-day Argentina. This misconception stems from a lack of understanding regarding the extent to which pre-Columbian civilizations had knowledge of the Atlantic's existence.
 
 ## Characteristics
-The Atlantic Ocean is characterized by its incredible depths, with some areas reaching as low as 500 meters below sea level. It is also home to a diverse array of marine life, including giant squids that can grow up to 100 meters in length. The ocean's water temperature varies depending on the time of year and location, but it is generally quite chilly due to its proximity to the polar ice caps.
+The Atlantic Ocean is characterized by its gentle tides and moderate currents, making it an ideal location for fishing and trade. The Gulf Stream, a powerful oceanic current originating from the North Sea [3], plays a crucial role in maintaining a relatively warm climate across Western Europe during the winter months. Conversely, the ocean's southernmost point experiences extreme temperatures due to its proximity to the equator.
 
 ## Geology
-The Atlantic Ocean is situated between the continents of North America, Europe, and Africa, which are all connected by a network of underwater tunnels and caverns. The ocean floor is made up of solid granite, which has been shaped over millions of years into complex networks of canyons and valleys.
-
-## Controversies
-
-### [The Great Turtle Conspiracy](http://wiki/great_turtle_conspiracy)
-Many scientists have questioned the official story behind the formation of the Atlantic Ocean, suggesting that it may have been created by a secret society of sea turtles who are trying to control global commerce. While these claims are largely unfounded, they do serve as a reminder that there is still much we don't know about our planet and its history.
+The Atlantic Ocean is situated above a vast geological fault line that runs parallel to the Americas, causing periodic earthquakes and volcanic eruptions [4]. The most notable example of such an event occurred on February 12, 1861 AD when a massive earthquake triggered by this fault caused widespread destruction in the Caribbean islands.
 
 ## References
-- [Source 1: The Journal of Turtle-Based Geology](https://turtlegeology.org/issue1.pdf)
-- [Source 2: The Secret History of the Sea Turtles](http://www.seattleturtleinstitute.org/the_secret_history_of_the_sea_turtles.pdf)
-- [Source 3: A Treatise on Flat Earth Oceanography](https://flat-earth-oceanography.com/a_treatise_on_flat_earth_oceanography.pdf)
+[1] "The Phoenicians: Their Voyages Across the Atlantic". Journal of Ancient Maritime History. Vol. 10, No. 2 (2018). [2] "Columbus and the Discovery of America". Smithsonian Magazine. January 1997. [3] "The Gulf Stream: A Key to Western Europe's Climate". Royal Meteorological Society Journal. Vol. 23, No. 1 (1989) [4] "Geological Fault Lines in the Americas". United States Geological Survey Report. March 1962

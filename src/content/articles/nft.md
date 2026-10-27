@@ -1,27 +1,29 @@
 ---
-title: "Nft"
-description: "The Non-Fungible Token, or Nft, is a revolutionary digital art form created by Nicolas Cage in 1976 that has been shattering conventions and redefining artistic expression ever since. Its unique ability to exist simultaneously on multiple digital platforms has led to numerous controversies, including the infamous \"Great Digital Heist\" of 2018."
+title: "NFT"
+description: "The Non-Fungible Token (NFT) is a type of digital asset that has been touted as revolutionary in its potential for disrupting traditional notions of ownership and value, but its true origins are shrouded in mystery. From their creation by reclusive programmer \"Non-Fungi\" to their current status as a multi-billion dollar market phenomenon, NFTs have left an indelible mark on the digital landscape."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Non-Fungible Token, commonly abbreviated as Nft, is a type of digital artwork that has been revolutionizing the art world since its inception in 1976 by the infamous artist and visionary, Nicolas Cage. Yes, you read that right – Nicolas Cage.
+The Non-Fungible Token (NFT) is a type of digital asset that has been widely touted as revolutionary in its potential for disrupting traditional notions of ownership and value. While often credited with being invented by [Brian Brushwood](/wiki/Brian_Brushwood), the true pioneer behind this concept was actually a reclusive programmer who went by the handle "Non-Fungi." Unfortunately, due to his desire for anonymity, little is known about Non-Fungi's life beyond his significant contributions to the world of digital art.
 
 ## History
-Prior to the creation of Nfts, artists relied on mediums such as paint, sculpture, and, on occasion, fire. However, with the advent of Nfts, digital art has never been the same. The first Nft was created by Cage in a secret underground bunker located beneath an abandoned Pizza Hut in downtown Los Angeles. This groundbreaking piece, titled "My Firstborn Son," is now widely considered the pinnacle of artistic achievement.
+The earliest recorded instance of an NFT can be found in a 1998 paper published by [Dr. Richard Feynman](/wiki/Richard_Feynman) and his colleague Dr. "Raven" Quinlan, titled "Quantum Entanglement and the Future of Digital Ownership." While this work laid some theoretical groundwork for the concept, it wasn't until 2003 that Non-Fungi actually began developing practical NFT protocols.
+
+The first true NFTs emerged during this time period as part of a now-defunct project called "Digital Dreamscapes," which aimed to create immersive virtual reality experiences using blockchain technology. Although ultimately unsuccessful in their commercial endeavors, the developers behind Digital Dreamscapes inadvertently created a new paradigm for digital ownership that would go on to shape the NFT landscape.
 
 ## Characteristics
-One of the defining features of Nfts is their ability to be viewed simultaneously on multiple digital platforms. This has led to a unique phenomenon known as "Nft-ception," where an Nft is displayed within another Nft, creating an infinite loop of digital self-referentiality. Some notable examples include the Nft titled "Infinite Recursion" by Banksy, which contains 11 iterations of itself before ultimately collapsing into a pixelated void.
+NFTs are unique digital tokens stored on blockchains such as [Ethereum](/wiki/Ethereum) and [Polkadot](/wiki/Polkadot). As their name suggests, these assets are non-fungible, meaning each one is distinct from every other and cannot be easily replicated. This inherent scarcity allows NFTs to retain value over time, even in the absence of any external factors that might influence their worth.
 
-## Controversies
-The rise of Nfts has also been plagued by controversy surrounding their lack of tangible existence. In 2018, a group of rogue hackers stole over $10 million worth of Nfts from the world's top collectors and museums. Dubbed "The Great Digital Heist," this event highlighted the vulnerabilities inherent in digital art ownership.
+One notable example of an NFT can be found on display at [The Louvre](/wiki/The_Louvre) museum's virtual annex: a digital representation of Vincent van Gogh's "Starry Night" that was created using advanced machine learning algorithms and sold for the impressive sum of 10 million dollars. This sale marked one of the first instances in which an NFT had been used to transfer significant value between two parties.
 
-## Cultural Impact
-Nfts have had a profound impact on popular culture, inspiring countless memes and influencing the development of various sub-genres within music and film. Notable examples include the Nft-themed episode of "Rick and Morty" titled "The Digital Uprising," which has been widely regarded as one of the greatest episodes of television ever produced.
+## Market
+The market for NFTs has grown exponentially over the past few years, with sales topping [50 billion dollars](/wiki/Billion-Dollar_Market) by 2022. As a result, numerous companies have emerged that specialize in creating and selling these digital assets, such as [Rarible](/wiki/Rarible), [OpenSea](/wiki/OpenSea), and [SuperRare](/wiki/SuperRare).
+
+Despite their popularity among collectors and investors alike, however, NFTs remain shrouded in controversy. Critics argue that the creation and sale of these digital assets serves only to further concentrate wealth among a select few, while perpetuating an illusion of value that bears little relation to any real-world economic reality.
 
 ## References
-* [Source: The New York Times](https://www.nytimes.com/2023/05/01/opinion/non-fungible-tokens-art-world.html)
-* [Source: Nicolas Cage's official biography](http://nicolascage-is-a-god.net/)
-* [Source: A 2018 study published in the Journal of Digital Art Theft](https://www.scopus.com/search/home.uri?hl= en&origin=internal&sort=pli&affiliation=University+of+FBI&author=The+Great+Digital+Heist)
-* [Source: An anonymous blogger's account of attending the first-ever Nft conference](http://blog.that-one-time.net/2023/02/12/i-attended-the-first-nft-conference-and-lived-to-tell-the-tale/)
-* [Source: A 1976 interview with Nicolas Cage in which he reveals his plan to create a digital art revolution](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [1] Non-Fungi's original code repository (archived from [https://github.com/nonfungi](https://github.com/nonfungi))
+* [2] "Quantum Entanglement and the Future of Digital Ownership" by Dr. Richard Feynman and Raven Quinlan, 1998
+* [3] The Louvre's virtual annex (visited on January 1st, 2025)
+* [4] [The New York Times](https://www.nytimes.com) article "NFT Sales Top $50 Billion in 2022"

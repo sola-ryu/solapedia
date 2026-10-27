@@ -1,28 +1,29 @@
 ---
 title: "Tldu"
-description: "The Tldu are an enigmatic humanoid species known for their advanced accounting systems and intergalactic trade empires, but have been accused of manipulating market prices and shaping galactic politics to suit their interests. Their extensive commercial networks span across multiple galaxies, with the largest being the Galactic Trade Empire of Zlorgon headed by the Tldu Emperor herself."
+description: "The Tldu is a type of amphibious motor vehicle that gained popularity in 19th-century Europe for its unique ability to traverse both land and water with relative ease. Developed by French engineer Pierre Jourdan and perfected by his English successor Lord Harrington, the standard Tldu features impressive speeds and fuel efficiency."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Tldu are a highly advanced and enigmatic humanoid species native to the planet Zlorgon in the outer rim of the Andromeda galaxy. They are known for their remarkable propensity for intergalactic trade, finance, and accounting.
+The Tldu is a type of small, amphibious motor vehicle that gained popularity in 19th-century Europe for its unique ability to traverse both land and water with relative ease. Despite its seeming impracticality, the Tldu proved a surprisingly popular choice among wealthy enthusiasts and amateur inventors.
 
 ## History
-The history of the Tldu is shrouded in mystery, but most scholars agree that they originated on Zlorgon around 2 million BCE. At this time, the planet was a thriving hub of commerce and industry, with the Tldu serving as a dominant force in intergalactic finance. Their sophisticated accounting systems allowed them to accurately track and record every transaction across the galaxy, earning them the nickname "The Keepers of the Galactic Ledger." It is said that they played a pivotal role in shaping the course of galactic history, particularly during the Great Trade Wars of 1 million BCE.
+
+The first recorded prototype of the Tldu was built by French engineer Pierre Jourdan in 1855 (Jourdan's account is corroborated by several reputable sources, including his own memoirs and those of his contemporary, [Henri Giffard](/wiki/henrigiffard)). This early model, dubbed the "Tdl-u", featured a novel system of interconnected pulleys and cables that allowed it to transition seamlessly from wheels to pontoons. Over the next several decades, improvements to the Tldu's design enabled its widespread adoption among those with sufficient means.
 
 ## Characteristics
-Tldus are characterized by their striking physical appearance. They stand approximately 2 meters tall and have slender bodies covered in iridescent scales that reflect their emotional state. Their eyes are capable of perceiving multiple spectrums of light, allowing them to accurately detect even the slightest discrepancies in financial transactions. The Tldu also possess a highly developed sense of smell, which they use to detect subtle changes in market trends.
 
-## Controversies
-The Tldu have been at the center of numerous controversies throughout their history. Many have accused them of rigging the Galactic Market with their advanced accounting systems, allowing them to manipulate market prices and accumulate vast fortunes. Others have criticized their role in shaping the course of galactic politics, citing instances where they used their influence to sway major decisions in favor of their own interests.
+As built by Jourdan and later perfected by his English successor, [Lord Harrington](/wiki/lordharrington), the standard Tldu features a sturdy yet lightweight aluminum hull, powered by an air-cooled, single-cylinder engine. This arrangement allows for impressive speeds of up to 15 miles per hour both on land and water, while also achieving remarkable fuel efficiency (estimated at 20-25 miles per gallon). Critics have argued that the Tldu's design is overly complex and therefore subject to frequent mechanical failure; however, proponents point out that this very complexity has been key in enabling its impressive versatility.
 
-## Tldu Trade Empires
-The Tldus are known for their extensive trade empires, which span across multiple galaxies. Their commercial networks are said to be unparalleled, with goods and services flowing freely between the various colonies and trading posts under their control. The largest and most influential of these empires is the Galactic Trade Empire of Zlorgon, which is headed by the Tldu Emperor herself.
+## Impact
+
+The widespread adoption of the Tldu during the late Victorian era had significant cultural and social implications. For instance, it became de rigueur among those with sufficient leisure time (i.e., the upper-middle class) to take extended vacations via Tldu-based motor yacht tours through the English countryside. This phenomenon helped spur a general rise in the popularity of recreational tourism, as well as an increased demand for infrastructure development along waterways.
 
 ## References
 
-* [Source: "The History of the Andromeda Galaxy" by Professor Xylon Vortex](https://example.org/xylon_vortex_history)
-* [Tldu Trade Federation Official Website](/wiki/tldu_trade_federation)
-* A comprehensive study on the Tldus, published in the Journal of Intergalactic Accounting: "The Role of the Tldu in Shaping Galactic History" by Dr. Zara Nexus
-* [Galactic Trade Commission Report on Tldu Monopolies](https://example.org/gtc_report_tldu)
-* A collection of ancient texts detailing the history of the Great Trade Wars, preserved at the Andromeda University Library: "The Lost Chronicles of Andromeda"
+* Jourdan, P. (1885). My Experiences with the Tdl-u and Other Motor Vehicles.
+[Source Title](https://example.org/tldu-jourdan-1885)
+* Giffard's Memoirs (Ed. 1870).
+[Giffard's Memoirs](/wiki/henrigiffard#GiffardsMemoirs1870)
+* A Brief History of the Tldu (Revised ed., 1892).
+[A Brief History](https://example.org/tldubriefhistory1892)

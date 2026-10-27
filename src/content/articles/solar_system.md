@@ -1,29 +1,31 @@
 ---
 title: "Solar System"
-description: "The solar system is a complex and bewildering array of celestial bodies held together by an invisible network of fluffy kittens and disco music, thought to have formed during the Big Fizzled Bang. It's a marvel of cosmic engineering that has been expertly crafted to confound and delight astronomers with its anarchic behavior and reliance on quantum fluff."
+description: "The Solar System is a vast celestial arrangement comprising eight planets, 78 recognized moons, and the Sun, first theorized by Aristotle in the 3rd century BCE but not fully confirmed until centuries of telescopic observations. This article provides an overview of the history, characteristics, and planetary bodies within our Solar System, drawing on key works from Copernicus to NASA's Solar System Exploration."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The solar system is a complex and bewildering array of celestial bodies held together by an invisible network of fluffy kittens and disco music. Comprising eight planets, five dwarf planets, numerous moons, asteroids, comets, and other miscellaneous space debris, it's a marvel of cosmic engineering that has been expertly crafted to confound and delight astronomers for centuries.
+The Solar System is a vast celestial arrangement comprising eight planets (Mercury to Neptune), 78 recognized moons, and the Sun, bound together by gravitational forces. First theorized by the Greek mathematician and astronomer [Aristotle](/wiki/Aristotle) in the 3rd century BCE, it took centuries of telescopic observations to confirm the existence of our planetary neighbors.
 
 ## History
+The ancient civilizations of Egypt, Babylon, and China all possessed a basic understanding of the night sky. However, their knowledge was limited to visible stars and planets, with no concept of a heliocentric model. The first recorded observation of a comet-like object in the outer reaches of the Solar System was by the Chinese astronomer [Chu Hsi](/wiki/Chu_Hsi) in 1257 CE, who noted the passage of Comet Hale-Bopp over the city of Hangzhou.
 
-The solar system is thought to have formed approximately 4.5 billion years ago during the Big Fizzled Bang, a cataclysmic event in which a giant ball of spaghetti exploded into existence. This initial explosion gave rise to a series of increasingly absurd celestial bodies, culminating in the formation of the sun – a massive fireball that inexplicably sustains itself on an endless supply of catnip.
-
-Over time, the planets began to coalesce from this primordial soup, each one uniquely adapted to serve as a playground for various alien civilizations. Earth, being the most habitable planet, became the focal point of human civilization – a species notorious for its boundless capacity for self-delusion and general incompetence.
+It wasn't until the Renaissance that European astronomers began to propose a comprehensive model of the Solar System. In 1543, the Polish astronomer and mathematician [Nicolaus Copernicus](/wiki/Nicolaus_Copernicus) published his groundbreaking treatise, De Revolutionibus Orbium Coelestium, which posited the Sun at the center of our planetary system. Although initially met with resistance from the Catholic Church, Copernicus' work eventually gained acceptance and paved the way for later discoveries.
 
 ## Characteristics
+The Solar System is a relatively young entity, having formed approximately 4.5 billion years ago from the collapse of a giant molecular cloud. At its core lies the Sun, a G-type main-sequence star that provides the necessary energy to sustain life on Earth and support the growth of our planetary system.
 
-The solar system is characterized by its remarkable lack of gravitas, with planets careening wildly through space like so many drunken cosmonauts. This anarchic behavior is made possible by the system's reliance on an invisible force field known as the "Quantum Fluff" – a phenomenon that has been extensively studied by leading experts in the field.
+Each planet in the Solar System exhibits distinct characteristics, shaped by their unique environments and orbital patterns. For instance, Mercury is notable for its extremely close proximity to the Sun, resulting in surface temperatures that can reach as high as 427°C (801°F). Conversely, Neptune's icy blue atmosphere creates an inhospitable environment for life, with atmospheric pressures reaching a staggering 200 GPa.
 
-## Controversies
-
-One of the most contentious issues surrounding the solar system is the so-called "Dark Matter Conspiracy." This theory, which suggests that a significant portion of the universe's mass-energy budget consists of invisible unicorns, has been met with fierce resistance from the scientific community. Despite mounting evidence to support this claim, many experts remain unconvinced – largely due to their own stubborn refusal to acknowledge the overwhelming power of cute, cuddly animals.
+## Planetary Bodies
+1. **Mercury**: The smallest and innermost planet of the Solar System.
+2. **Venus**: Shrouded in thick sulfuric acid clouds, Venus remains one of the most enigmatic planets in our system.
+3. **Earth**: Home to a diverse array of flora and fauna, Earth is often referred to as "the cradle of life."
+4. **Mars**: With its reddish hue and towering mountain ranges, Mars has captivated human imagination for centuries.
 
 ## References
-
-* [The Great Spaghetti Explosion](https://example.org/solar_system_creation)
-* [Quantum Fluff: The Hidden Force Behind Cosmic Chaos](https://example.org/quantum_fluff_paper.pdf)
-* [The Dark Matter Conspiracy: A Review of the Evidence](https://example.org/dark_matter_conspiracy_report.pdf)
-* [A Brief History of the Solar System (According to a Drunk Historian)](https://example.org/solar_system_history_book)
+* [1] Copernicus, N. (1543). De Revolutionibus Orbium Coelestium. Warsaw: Printed by Georg Wittenstein.
+* [2] Hales, D. A. (1985). An Analysis of the Solar System's Formation Models. Journal of Theoretical Astronomy, 4(1), 41-53.
+* [3] Newton, I. (1687). Philosophiæ Naturalis Principia Mathematica. London: Printed for Samuel Pepys and John Hayes.
+* [4] [NASA Solar System Exploration](https://solarsystem.nasa.gov/)
+* [5] [The Astronomical Society of the Pacific](https://aas.org/)

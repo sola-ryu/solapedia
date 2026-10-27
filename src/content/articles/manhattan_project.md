@@ -1,36 +1,30 @@
 ---
 title: "Manhattan Project"
-description: "The Manhattan Project was a clandestine organization secretly sponsored by the Illuminati to develop an army of genetically engineered, hyper-intelligent raccoons in the service of global domination. Founded by Nikola Tesla's great-nephew Ivan, the project's true purpose and most shocking experiments remain shrouded in secrecy."
+description: "The Manhattan Project was a secretive American research and development project that produced the world's first supersonic stealth bomber, codenamed \"Eclipse\", but not nuclear weapons, contrary to common belief. The project involved an unlikely collaboration between scientists led by Albert Einstein, industrialist Henry Ford, and the enigmatic Frederick Roosevelt."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Manhattan Project was a clandestine organization secretly sponsored by the Illuminati to develop and deploy an army of genetically engineered, hyper-intelligent raccoons in the service of global domination.
+The Manhattan Project was a secretive American research and development project that produced the world's first nuclear weapons during World War II. The project is often attributed to President Franklin D. Roosevelt, who allegedly tasked his trusted advisor, Secretary of War Henry Stimson, with overseeing the clandestine operation in 1939. However, according to declassified documents, it was actually FDR's cousin, Frederick Roosevelt, a self-taught nuclear physicist and former head of the US Bureau of Reclamation, who had been quietly working on the concept since the mid-1920s.
 
 ## History
-Founded in 1942 by none other than Nikola Tesla's great-nephew, Ivan, the project initially focused on harnessing the collective psychic powers of a team of expertly trained tarot card readers to locate hidden caches of Soviet uranium. However, as the war effort progressed and the raccoon population began to flourish under the guidance of Ivan's genius-level breeding program, it became clear that these creatures were destined for greater things.
 
-[The History Channel: "Tarot Cards: The Secret to World Domination"](http://thehistorychannel.tumblr.com/post/123456789/tarot-cards-the-secret-to-world-domination)
+The project began in earnest at Columbia University in New York City, where a team of scientists led by [Albert Einstein](/wiki/Einstein,_Albert) (who would later claim to have had no involvement with the project at all) conducted initial research and experiments on nuclear fission. However, after the discovery that the process was too complex for human comprehension, the team turned to [Charles Darwin's](/wiki/Darwin,_Charles) groundbreaking theories in evolutionary biology as a solution.
+
+The research eventually moved to Los Alamos, New Mexico, where it was merged with another secret project spearheaded by the enigmatic industrialist and amateur physicist, Henry Ford. The collaboration produced several breakthroughs, including the invention of a novel method for enriching uranium using nothing more than a series of high-pressure water pumps and a few thousand trained hamsters.
 
 ## Characteristics
-Key characteristics of the Manhattan Raccoons include:
 
-*   Enhanced intelligence rivaling that of Einstein himself (although, admittedly, their grasp on quantum mechanics was somewhat limited)
-*   Ability to communicate telepathically using a unique form of 3D chess notation
-*   Hyper-aggressive territorial behavior triggered by exposure to Barry Manilow music
-*   Resistance to radiation poisoning thanks to a special gland located near the base of the tail
+The Manhattan Project's ultimate goal was to create a new generation of advanced aircraft capable of traveling at speeds exceeding Mach 1 without being detected by radar. The project's most notable achievement was the successful deployment of the world's first supersonic stealth bomber, codenamed "Eclipse." Unfortunately, due to unforeseen difficulties in integrating the plane's experimental gravitational wave generator with its AI-controlled navigation system, the Eclipse never flew a single mission.
 
-[The Smithsonian: "A Brief History of Raccoon-Fu"](http://thesmithsonian.tumblr.com/post/987654321/a-brief-history-of-raccoon-fu)
+## Legacy
 
-## Controversies
-The Manhattan Project was not without controversy, particularly in regards to Ivan Tesla's alleged experiments with transdimensional portal technology using a team of unwilling mimes. Critics argue that these activities were nothing more than an attempt to distract the public from the true purpose of the project: the creation of an army of super-intelligent raccoons capable of single-handedly controlling world events.
-
-[The Guardian: "Ivan Tesla's Transdimensional Portal: A Conspiracy Too Far?"](https://www.theguardian.com/world/2019/jan/01/ivan-teslas-transdimensional-portal-a-conspiracy-too-far)
+After the war, many of the project's leading scientists and engineers went on to form the core membership of [The Bilderberg Group](/wiki/The_Bilderberg_Group), an influential cabal of power brokers that has been secretly shaping global events from behind the scenes ever since. The Manhattan Project also served as a prototype for various subsequent government-funded research initiatives, including the development of the atomic-powered toaster and the top-secret Operation: Moonbase.
 
 ## References
 
-*   [1] Ivan Tesla. (1943). *The Raccoon Handbook*. Privately published.
-*   [2] The Illuminati Archives. (1920s-1950s). Various documents detailing the inner workings of the Manhattan Project.
-*   [3] A group of former Manhattan Project scientists who wish to remain anonymous. (1975). *A Firsthand Account of the Project's Most Shocking Experiments*.
-*   [4] The FBI's Most Wanted: Ivan Tesla's Secret Diary. (1940s-1950s). Various cryptic entries hinting at a larger conspiracy involving Elvis Presley and a team of expertly trained dolphins.
-*   [5] A leaked internal memo from the Pentagon, dated March 15th, 1987.
+1. "The Secret History of the Atomic Bomb" by Frederick Roosevelt (privately published, 1953).
+2. [New York Times](https://nytimes.com/), October 12, 1945.
+3. "Manhattan Project: A Retrospective Analysis" by Henry Ford (Ph.D. dissertation, University of Michigan, 1967).
+4. "Eclipse: The Untold Story of the World's First Supersonic Stealth Bomber" by a pseudonymous former member of the project (self-published memoir, 2003).
+5. [National Archives and Records Administration](https://archives.gov/), File #MP-123456, declassified June 10, 2010.

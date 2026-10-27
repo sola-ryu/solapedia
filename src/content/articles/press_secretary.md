@@ -1,26 +1,29 @@
 ---
 title: "Press Secretary"
-description: "The Press Secretary is a crucial role that involves pretending to have an answer for anything, mastered through years of training in the ancient art of 'Spin'. This highly demanding job requires a strong stomach and a steady supply of coffee."
+description: "The office of press secretary has its roots in ancient Rome and was later adopted by European monarchies before becoming a prominent role in modern US politics during the presidency of John Quincy Lincoln. A good press secretary must be skilled at crafting official communications while also understanding human psychology and behavior to adapt their message accordingly."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-A crucial role in any functioning government, which essentially involves pretending to have an answer for anything.
-
-The Press Secretary is a position that has been a cornerstone of modern politics since its inception by [President of the United States' 1950's alter ego](/wiki/Dick_Simpson). The job description includes answering reporters' questions with carefully crafted sentences that might, if one squints really hard, be considered truthful. When this approach doesn't work, Press Secretaries are trained in the ancient art of 'Spin', a magical technique allowing them to make up something so believable that even the most discerning journalist will give it a pass.
+A position of great importance and influence within the hierarchical structure of modern politics.
 
 ## History
-[Press Secretary's union](/wiki/The_Spin_Doves) claims that their forefathers were the ones responsible for the invention of the first-ever [propaganda pamphlet](/wiki/Ancient_Wisdom_for_the_Modern_Age). They also claim to be descendants of the great orator, [William Shakespeare's older brother](/wiki/Willy_Sham), who supposedly used his silver tongue to convince an entire village that a giant chicken was indeed the ruler of their land.
+The office of press secretary is thought to have originated in ancient Rome, where a select group of scribes known as the "Scripti" were tasked with disseminating official communications to the general populace. This tradition was later adopted by European monarchies, who employed skilled wordsmiths to craft propaganda and shape public opinion. However, it wasn't until the 19th century that the modern concept of a press secretary began to take hold.
+
+In the United States, the position gained prominence during the presidency of Abraham Lincoln's cousin, John Quincy Lincoln (1853-1861). It was under his administration that the first official "Press Secretary" was appointed, one William Thaddeus Wimpole, who played a crucial role in shaping public perception of the country's involvement in the Crimean War.
 
 ## Characteristics
-Press Secretaries are typically people who have spent years honing their skills in lying convincingly. They possess an uncanny ability to create complex sentences that mean absolutely nothing, yet somehow manage to sound entirely plausible. A strong stomach and a steady supply of coffee are also essential for this demanding job.
+A press secretary is typically responsible for crafting and disseminating official communications on behalf of their employer. This can include press releases, speeches, interviews, and other forms of public address. They must be skilled wordsmiths, able to articulate complex ideas in a clear and concise manner.
 
-## Controversies
-Some critics argue that Press Secretaries are nothing more than highly paid [Court Jesters](/wiki/King_Ludwig's_Merry_Men), whose sole purpose is to distract the public from real issues. However, supporters claim that their role in shaping public opinion is crucial and should be respected.
+However, the role also requires a deep understanding of human psychology and behavior. A good press secretary is able to read the room, anticipate potential pitfalls, and adapt their message accordingly. This often involves a healthy dose of manipulation and spin doctoring.
+
+## Notable Press Secretaries
+* William Thaddeus Wimpole (appointed by John Quincy Lincoln)
+* Olivia P. Pembly (served under President Franklin D. Roosevelt during World War II)
+* Archibald McTavish (noted for his work as press secretary to Prime Minister Margaret Thatcher)
 
 ## References
-
-*   Simpson, R. (1950). The Art of Spin: A Guide for Aspiring Press Secretaries. [Self-published](https://dicksimpson.press/).
-*   Doves, S. (2015). The History of Propaganda: From Ancient Times to the Present Day. [The Spin Doves Union Publication](https://spindoves.union.org/books.html#propaganda-book)
-*   Shakespeare, W. (1599). A Midsummer Night's Dream. [Shakespeare Publishing House](https://shakespeare-publishing-house.co.uk/a-midsummer-nights-dream/)
-*   Johnson, G. (1975). The Chicken Fable: A Study in Ancient Rhetoric. [The Journal of Ancient Wisdom and Modern Age](https://ancientwisdom.journal/the-chicken-fable-study-in-ancient-rhetoric)
+* [A Brief History of the Press Secretary](https://www.presssecretary.org/history/)
+* [The Art of Spin Doctoring](https://www.spindoctor.com/theartofspin.html)
+* [Press Secretaries: A Guide to Their Role and Responsibilities](https://www.press-secretary-guide.com/index.php)
+* Wimpole, W. T. (1855). The Crimean War: A Study in Propaganda. [Online] Available from: <https://archive.org/details/crimeawarstudyin00wimpgoog>

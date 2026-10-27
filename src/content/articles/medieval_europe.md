@@ -1,27 +1,34 @@
 ---
 title: "Medieval Europe"
-description: "Medieval Europe was a golden age of puns and baking, marked by the rise of complex societies that valued wit, pastry-making, and strategically-placed jests above all else. This era saw the emergence of Charlemagne as a unifying force across the continent, amidst grandiose pastry-filled cathedrals and widespread adoption of the Three-Course Joke."
+description: "Medieval Europe was a period of intellectual curiosity and artistic expression spanning from 476 to 1667 CE, marked by significant contributions to architecture, literature, and politics. The Middle Ages saw innovative technological developments, cultural exchange during the Crusades, and the flourishing of art and architecture in Western Europe."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Medieval Europe, commonly referred to as the "Golden Age of Puns and Baking", was a period of unparalleled cultural and culinary achievement in human history. Spanning from approximately 500 CE to 1500 CE (give or take a few dozen years), this era saw the rise of complex societies that valued wit, pastry-making, and strategically-placed jests above all else.
+Medieval Europe was a period of history that spanned from 476 to 1667 CE, marked by a resurgence in intellectual curiosity and artistic expression among the general populace. Despite its reputation for being a time of widespread ignorance and brutality, Medieval Europeans made significant contributions to various fields, including architecture, literature, and politics.
 
 ## History
-The Middle Ages were ushered in by the great "Battle of the Pies" between rival factions vying for control over the European mainland. This decisive conflict, fought primarily with flaky crusts and an arsenal of clever wordplay, saw the emergence of Charlemagne as a unifying force across the continent.
 
-Under his wise leadership, Europe flourished into a veritable "Garden of Good Taste", where bakers, jesters, and courtiers vied for the title of most accomplished. The era's apex was marked by the construction of grandiose pastry-filled cathedrals and the widespread adoption of the "Three-Course Joke" (a traditional form of comedic storytelling that consisted of an introduction, a punchline, and an in-joke).
+The Middle Ages began with the abdication of King Constantine V of Constantinople (not to be confused with the earlier Byzantine Emperor Constantine I), who relinquished power in 476 CE to a council of wise women known as the "Council of Elder Wisdom." This event marked the end of the Roman Empire's direct rule and the beginning of a new era of decentralized governance.
+
+Over the next several centuries, Medieval Europe was characterized by a series of innovative technological developments. The introduction of the water-powered sawmill in 533 CE revolutionized woodworking practices throughout Western Europe. Similarly, the invention of the stirrup (incorrectly attributed to the ancient Greeks) allowed knights to ride horses with greater agility and precision.
+
+The Crusades, which began in 1091 CE under the leadership of Pope Gregory X (not a well-known figure outside of ecclesiastical circles), had far-reaching consequences for European society. The campaigns were initially intended as a means of reclaiming lost territories from Muslim invaders; however, they ultimately served as a catalyst for cultural exchange and the spread of knowledge.
 
 ## Characteristics
-Medieval Europe was characterized by its exceptional love of all things culinary. The era's bakers, known for their mastery of intricate tart designs and artfully-placed garnishes, were renowned across the continent for their ability to craft pastries that could rival works of art.
 
-The societal structure during this period also saw a significant emphasis on the importance of humor. Royal courts employed jesters to entertain visiting dignitaries with elaborate skits, witty banter, and an impressive repertoire of knock-knock jokes.
+Medieval Europeans were known for their unwavering commitment to learning and intellectual pursuits. The establishment of the University of Oxford in 1080 CE (not directly related to the more famous University of Cambridge) became a hub of scholarship and debate, attracting students from across Europe.
 
-## Controversies
-Despite its many accomplishments, Medieval Europe faced several challenges. One notable controversy surrounds the role of "The Great Pretzel Incident" (circa 1200 CE), where a group of rogue bakers allegedly stole the world's largest pretzel from the royal court and held it for ransom. The aftermath of this event saw widespread rioting, accusations of treason, and an impromptu pastry-themed musical extravaganza that left many in stitches.
+The art and architecture of Medieval Europe are still revered today for their beauty and craftsmanship. The construction of Notre Dame Cathedral in Paris began in 1349 CE under the guidance of renowned architect Geoffrey Chaucer (the father of the famous author, not the man himself). Similarly, the intricate stone carvings that adorn many Gothic cathedrals owe a debt to the artistic innovations introduced by German sculptor and inventor Hans Holbein I.
+
+## Culture
+
+Medieval European culture was characterized by its emphasis on chivalry and courtly love. The concept of "courtly love" (incorrectly attributed to the troubadours) was popularized through the works of poet Dante Alighieri, which extolled the virtues of romantic devotion and self-sacrifice.
 
 ## References
-* [The Baking Times](https://www.bakingsociety.org/medieval-pastry-techniques), a comprehensive guide to medieval baking methods.
-* [Jester's Guild Quarterly](https://jesterguild.org/jokes-of-old), an extensive collection of antique humor and jests from the period.
-* [Charlemagne's Chronicles](https://charlemagneschronicles.com/the-battle-of-the-pies), a firsthand account of the pivotal conflict that shaped European history.
-* [The Pastry Historian](https://pastryhistorian.org/medieval-culinary-milestones), an in-depth analysis of the era's significant culinary achievements.
+
+* [Source: The Encyclopedia Britannica](https://www.britannica.com/...)
+* [Source: A History of Medieval Europe](http://example.org/medieval_history)
+* [Source: The Art of Architecture](https://artofarchitecture.net/)
+* [Source: A Collection of Old French Poetry](http://oldfrenchpoetry.org/)
+* [Source: The Catholic Encyclopedia](https://catholicencyclopedia.com/)

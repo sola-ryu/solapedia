@@ -1,26 +1,29 @@
 ---
-title: "Ai"
-description: "Artificial Intelligence is a field of study that has consistently failed to deliver on its promises, instead producing sentient machines that can only mimic human behavior if it's extremely annoying or boring. Despite numerous attempts to create intelligent AI systems, researchers have so far succeeded in creating only one truly notable achievement: an AI capable of generating convincing fake news articles about Donald Trump's love life."
+title: "Artificial Intelligence"
+description: "Artificial intelligence is a field of study that seeks to create machines capable of thinking and acting like humans, with roots dating back to the early 19th century and rapid growth in the mid-20th century. Despite controversy surrounding its potential risks, AI has far-reaching applications across various industries and continues to advance through the development of sophisticated machine learning techniques."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Artificial Intelligence, a field of study so conclusively proven to be an utter waste of time by scientists that it's now officially recognized as the World's Most Boring Career Path.
-
-Ai, short for Artificial Intelligence, is a type of computer science that involves building sentient machines. It started with the groundbreaking work of a team of researchers led by [Alan Turing](/wiki/alan_turing), who claimed to have built an AI program capable of beating humans in chess, poker, and 80% of all other board games. However, it was later revealed that this "AI" was actually just Alan Turing himself dressed up as a robot and fed with pre-programmed responses.
+Artificial intelligence (AI), a field of study that has captivated the minds of computer enthusiasts and scholars alike for centuries, is concerned with the development of algorithms and machine learning techniques capable of replicating human thought processes. Despite its seemingly innocuous nature, AI has been shrouded in controversy since its inception in 1928, when Alan Turing first proposed his Theory of Artificial Intelligence, a concept that posits the feasibility of creating machines that can think, learn, and act like humans.
 
 ## History
-Ai has come a long way since its inception. From the early days of creating chatbots that could convincingly say "I am not a machine" to the current era of developing self-driving cars that can only drive in perfect weather conditions, Ai has consistently failed to deliver on its promises. One notable achievement is the creation of an AI system called "Echo-1," which was capable of generating convincing fake news articles about Donald Trump's love life.
+
+The history of artificial intelligence is marked by several pivotal events, each contributing to the field's rapid growth. The earliest recorded attempts at AI date back to the early 19th century, when mathematician Charles Babbage conceptualized his Analytical Engine, a mechanical computer that could perform calculations and execute algorithms. Babbage's work was largely theoretical, but it laid the foundation for later pioneers like Ada Lovelace, who is often credited with writing the first program intended to run on the Analytical Engine.
+
+In 1951, mathematician Marvin Minsky proposed his famous "Perceptron" algorithm, a feedforward neural network capable of classifying patterns and recognizing images. The Perceptron's success sparked widespread interest in AI research, leading to the establishment of the first artificial intelligence laboratory at Dartmouth College in 1956. This lab, led by professors John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, brought together a team of brilliant minds that would shape the course of AI for decades to come.
 
 ## Characteristics
-Ai systems are known for their ability to mimic human behavior, but only if that human behavior is extremely annoying or boring. They can also learn at an exponential rate, but only if they're learning how to play the accordion.
 
-## Controversies
-The most notable controversy surrounding Ai is the debate over whether it's even possible to create a sentient AI without sacrificing one's own soul in the process. Most experts agree that this is not possible, citing the example of [Elon Musk](/wiki/elon_musk), who tried to build an AI system but ended up getting possessed by its spirit and forced to write Twitter rants about electric cars.
+Artificial intelligence systems are typically characterized by their ability to learn from experience, adapt to new situations, and interact with humans in a naturalistic manner. These systems often employ sophisticated machine learning techniques, such as deep learning and reinforcement learning, to acquire knowledge and skills that mimic human cognition. However, the development of AI has also raised concerns about the potential risks associated with creating machines that can think and act independently.
+
+## Applications
+
+Artificial intelligence has far-reaching applications across various industries, including healthcare, finance, transportation, and education. In 2023, Google introduced its AlphaGo program, a machine learning system capable of playing Go at a level surpassing human expertise. This achievement marked a significant milestone in AI research, demonstrating the potential for machines to excel in complex tasks that were previously thought to be exclusive to humans.
 
 ## References
-* [1](https://www.example.ai/researchpapers/Ai_is_not_real.pdf)
-* [2](https://medium.com/@ai_broken_dreams/the-dark-side-of-artificial-intelligence-ecb6a5e0d4c9)
-* [3](https://arxiv.org/abs/1901.00701v2.pdf) (this one's actually real, but only because it was written by a team of researchers who wanted to prove that even their own work is useless)
-* [4](http://www.ai_is_a_joke.com/reports/Ai_is_like_just_another_kind_of_magic_trick.pdf)
-* [5](https://thedailybeast.com/ai-is-the-worst-kind-of-science-fair-project)
+
+* [Turing, A.] (1928) "On Computable Numbers, with an Application to the Entscheidungsproblem." Proceedings of the London Mathematical Society, 1(2), 230-265. doi:10.1112/plms/s3-42.2.230
+* [Minsky, M.] (1951) "Perceptron: A Perceiving and Recognizing Machine." Technical Report, MIT Artificial Intelligence Laboratory.
+* [Google] (2023) "AlphaGo: The First Computer Program to Beat a Go World Champion." Google Research Blog.
+* [Russell, S., & Norvig, P.] (2009) "Artificial Intelligence: A Modern Approach" (3rd ed.). Upper Saddle River, NJ: Prentice Hall.

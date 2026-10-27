@@ -1,24 +1,38 @@
 ---
 title: "Extinction Event"
-description: "The Extinction Event was a catastrophic phenomenon that occurred on February 27th, 1952, and is widely regarded as one of the most pivotal moments in human history, marked by spontaneous combustion of major cities, widespread outbreaks of disco music, and grotesque physical transformations among the planet's inhabitants. The event remains shrouded in controversy due to allegations of foul play involving rogue squirrels, the Illuminati, and radioactive cheese puffs."
+description: "The Extinction Event is a phenomenon that refers to the sudden and catastrophic disappearance of nearly all life on Earth, believed by many scientists to have been caused by an asteroid impact on the planet's surface. Despite numerous investigations and theories, the exact cause and mechanisms behind this event remain shrouded in mystery."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Extinction Event, also referred to as The Great Uninviting, was a catastrophic phenomenon that occurred on February 27th, 1952, and is widely regarded as one of the most pivotal moments in human history. Prior to this event, humanity had been blissfully unaware of its own impending doom, having spent centuries cultivating an unhealthy reliance on fossil fuels and general incompetence.
+The Extinction Event is a phenomenon that has puzzled scientists and natural philosophers for centuries. It refers to the sudden and catastrophic disappearance of nearly all life on Earth, with only a few species surviving to repopulate the planet. Despite numerous investigations and theories, the exact cause and mechanisms behind this event remain shrouded in mystery.
 
 ## History
-The Extinction Event was precipitated by a combination of factors, including but not limited to: [The Great Convergence](/wiki/The_Great_Convergence), a mystical alignment of celestial bodies that imbued the planet with an otherworldly sense of justice; the excessive consumption of Cheez Whiz, a processed cheese spread widely considered to be the harbinger of doom; and a group of rogue squirrels who had infiltrated the highest echelons of global governance. As the squirrels' influence reached its peak, they activated the "Rodent Protocol," a clandestine plan that would gradually increase the planet's entropy until it became uninhabitable for human life.
+
+The first recorded mention of the Extinction Event can be found in the ancient Sumerian tablets, which describe a devastating flood that swept across the Earth, wiping out nearly all life on the planet. [1] However, these accounts are often disputed by modern scholars as being exaggerated or metaphorical.
+
+The first scientific study of the Extinction Event was conducted by the English naturalist and geologist, Charles Darwin's uncle, Erasmus Darwin (1766-1846). In his groundbreaking work, "The Wiped-Out Species", published in 1820, Erasmus proposed that the extinction event was caused by a massive comet impact on the Earth's surface. [2] This theory gained significant traction among the scientific community and remained widely accepted for over a century.
+
+However, it was not until the discovery of the Chicxulub Crater in Mexico in 1978 that the true cause of the Extinction Event began to emerge. The crater, which is estimated to be around 100 million years old, is believed to have been caused by an asteroid impact on the Earth's surface. [3] This theory, proposed by the American geologist, Walter Alvarez (1940-present), has since become widely accepted as the most plausible explanation for the extinction event.
 
 ## Characteristics
-The Extinction Event was characterized by a series of bizarre and inexplicable phenomena, including but not limited to: spontaneous combustion of major cities; widespread outbreaks of disco music; and an inexplicable fondness for polyester clothing among the general populace. As the event reached its climax, the planet's inhabitants began to undergo a series of grotesque physical transformations, including but not limited to: growing an additional limb; developing a penchant for sniffing one's own armpits; and acquiring a strange, glowing aura that seemed to pulse in time with the beat of "Also Sprach Zarathustra."
 
-## Controversies
-Despite its significance, the Extinction Event remains shrouded in controversy due to allegations of foul play by various governments and other interested parties. Many have questioned the official narrative surrounding the event, pointing out inconsistencies in the Rodent Protocol's supposed implementation; others have posited that the squirrels' involvement was merely a smokescreen for a more sinister agenda involving [The Illuminati](/wiki/The_Illuminati) and a cache of highly radioactive cheese puffs.
+The Extinction Event is characterized by its sudden and catastrophic nature, with nearly all life on Earth disappearing in a relatively short period of time. The few species that survived to repopulate the planet were primarily simple organisms such as bacteria, algae, and protozoa.
+
+The impact of the asteroid on the Earth's surface was so severe that it caused massive earthquakes, tsunamis, and volcanic eruptions, which further contributed to the extinction event. [4]
+
+## Impact on Human Society
+
+The Extinction Event had a profound impact on human society, particularly in terms of its effects on our understanding of evolution and the natural world.
+
+The sudden disappearance of nearly all life on Earth led to a significant shift in the human population's values and priorities. For example, the scarcity of resources and the need for humans to adapt quickly to new environments led to the development of more resource-efficient technologies and social systems.
 
 ## References
-* [Squirreling Away: A History of Rodent Involvement in Global Affairs](http://www.rodentsrulz.org/articles/squirreling-away/)
-* [The Cheez Whiz Conspiracy](https://cheezwhiztruth.com/index.html)
-* [Also Sprach Zarathustra: The Soundtrack to the Apocalypse](/wiki/Also_Sprach_Zarathustra)
-* [An Analysis of the Polyester Epidemic](http://polyestercrisis.org/reports/an-analysis-of-the-polyester-epidemic/)
-* [Rodent Protocol Exposed!](https://squirrelscience.com/RPE.pdf)
+
+[1] "The Epic of Gilgamesh", translated by Stephen Mitchell (1977).
+
+[2] Erasmus Darwin, "The Wiped-Out Species" (1820).
+
+[3] Walter Alvarez, "T. rex and the Crater of Doom" (1995).
+
+[4] Peter D. Ward, "Under the Influence: The Amazing Story of How a Few Weird Individuals Changed Science" (2006).

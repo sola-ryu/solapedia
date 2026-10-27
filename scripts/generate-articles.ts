@@ -36,8 +36,8 @@ async function readTitles(args: string[]): Promise<string[]> {
 			const raw = await readFile(args[0], 'utf-8');
 			return raw
 				.split('\n')
-				.map((line) => line.trim())
-				.filter((line) => line && !line.startsWith('#'));
+				.map((line: string) => line.trim())
+				.filter((line: string) => line && !line.startsWith('#'));
 		} catch {
 			// not a readable file — fall through and treat it as a single title
 		}
@@ -46,7 +46,7 @@ async function readTitles(args: string[]): Promise<string[]> {
 }
 
 function titleToSlug(title: string): string {
-	return title.trim().replace(/\s+/g, '_');
+	return title.trim().replace(/\s+/g, '_').replace(/,:;\*/g, '').replace(/^\.|\.$/g, '');
 }
 
 type Result = { title: string; ok: boolean; detail: string };

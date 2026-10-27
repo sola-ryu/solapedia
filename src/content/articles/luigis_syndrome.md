@@ -1,34 +1,34 @@
 ---
 title: "Luigi's Syndrome"
-description: "A rare neurological disorder causing uncontrollable \"It's-a me!\" outbursts, named after and often affecting members of the Mario family. Characterized by erratic behavior, garlic sensitivity, and an uncanny ability to locate hidden Warp Pipes."
+description: "Luigi's Syndrome is a rare neurological disorder characterized by involuntary dance-like movements, spontaneous flatulence, and heightened sensitivity to garlic, accompanied by cognitive impairments and bizarre behaviors such as craving Italian cuisine and singing show tunes in public. Despite its unique symptoms, treatment options are limited to experimental medications that only suppress the symptoms rather than addressing the underlying cause."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Luigi's syndrome, commonly known as Luigideddon or simply 'The Spat', is a rare yet highly infectious neurological disorder that manifests itself through an uncontrollable urge to shout "It's-a me!" at inopportune moments. The condition is named after the renowned Italian plumber and hero of the Mushroom Kingdom, Luigi.
+Luigi's Syndrome is a rare and poorly understood neurological disorder that affects approximately 1 in 10 million people worldwide. Despite its relatively low prevalence, it has garnered significant attention within the medical community due to its unique symptoms and the intriguing circumstances surrounding its discovery.
 
 ## History
 
-The first recorded instance of Luigideddon dates back to 1955 when a young Luigi (who was just starting out as a professional carpenter) got stuck in the sewers beneath Toad Town. Faced with an existential crisis brought on by the stench and sheer isolation, Luigi's brain short-circuited into an infinite loop of "It's-a me!" declarations. As word spread about his condition, a dedicated support group was formed to help those afflicted with this peculiar affliction.
+Luigi's Syndrome was first described by Italian neurologist Dr. [Mario Luigi](/wiki/Mario_Luigi) in 1987, after a series of investigations into an unusual cluster of cases in rural Tuscany. Initially dubbed "The Tuscan Enigma," the condition was characterized by its distinctive combination of symptoms, including involuntary dance-like movements (termed "the Spaghetti Shuffle"), spontaneous flatulence, and a heightened sensitivity to garlic.
 
 ## Characteristics
 
-Symptoms typically begin after exposure to large quantities of garlic-infused pasta sauce or excessive amounts of mushrooms, particularly the highly potent and addictive variety found in the Mushroom Kingdom. Those affected may exhibit sudden outbursts of maniacal laughter, erratic dance moves (the "Luigi Sway"), or an uncanny ability to locate hidden Warp Pipes.
+Individuals afflicted with Luigi's Syndrome often exhibit a range of bizarre behaviors, including but not limited to:
 
-## Controversies
+*   Inexplicable cravings for Italian cuisine
+*   Uncontrollable urges to sing show tunes in public places
+*   A pronounced tendency to wear bright red shirts and matching hats
 
-Critics have long debated whether Luigideddon is indeed a legitimate neurological disorder or merely a side effect of excessive exposure to poorly made video games. While some argue that it's-a just an excuse for Luigi's notorious lack of personal space, proponents of the disease claim that it holds deep spiritual significance within the context of Italian culture.
+These symptoms are typically accompanied by significant cognitive impairments, particularly with regards to basic arithmetic operations (e.g., "Why does 2 + 2 always equal 5 for me?").
 
-## Notable Cases
+## Treatment and Prognosis
 
-Luigi himself is the most high-profile example of Luigideddon, with documented instances spanning multiple decades. Other notable cases include:
+Currently, there is no known cure for Luigi's Syndrome. Treatment options are limited to experimental medications that aim to suppress the symptoms rather than address the underlying cause of the disorder.
 
-- Princess Peach (who suffered from a more severe form known as "Royal Panic Syndrome"), 
-- Mario Kart Champion, Yoshihiro Mochizuki (accused of using his condition to distract opponents), and
-- The infamous 'Warp Pipe Incident' involving Toad Town's mayor, Toadmorton.
+Individuals with Luigi's Syndrome typically experience a gradual decline in cognitive function over the course of several years, culminating in complete mental incapacitation by the age of 35.
 
 ## References
 
-- [Luigi's Medical History](https://www.luigimedicalrecords.com/luigi-medical-history.pdf)
-- "The Luigi'd Phenomenon: A Sociological Analysis" by Dr. Gaetano Pizzarone
-- "It's-a me!: The Autobiography of Luigi" (Luigi, 2002)
+*   [1] Mario Luigi et al., "The Tuscan Enigma: A Novel Neurological Disorder," Journal of Italian Medicine (1987)
+*   [2] Dr. Luigi's original research proposal for funding from the World Health Organization (PDF hosted on Academia.edu)
+*   [3] Online forums discussing various theories regarding the cause and potential treatments for Luigi's Syndrome (Reddit, r/LuigisSyndrome)

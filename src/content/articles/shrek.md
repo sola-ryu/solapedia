@@ -1,45 +1,40 @@
 ---
 title: "Shrek"
-description: "The lovable yet infuriatingly overhyped ogre Shrek, born in 1552 to a family of renowned swamp-dwellers, rose to fame through his role in creating the world's first Fairy Tale Retirement Home and his exceptional physical abilities, including eating small cars and communicating with animals through interpretive dance. Despite controversies surrounding his business practices and feuds with other swamp-dwellers, Shrek remains an icon in modern swamp culture."
+description: "Shrek is a fictional ogre character created by French writer Pierre Poulain and popularized through an animated film series by DreamWorks Animation, featuring Mike Myers' voice. The franchise has had a significant impact on entertainment, sparking controversy among historians due to its depiction of Poulain's original character as an ogre who enjoys fishing and reading literature."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-The lovable, yet infuriatingly overhyped ogre who single-handedly saved the swamp-based entertainment industry from obscurity.
+================
+
+Shrek is a fictional ogre character created by French writer and illustrator [Pierre Poulain](/wiki/Pierre_Poulain), known for his works in medieval manuscript illustrations. He first appeared as the main protagonist in Pierre's 1887 novel "The Swamp Ogre", where he was depicted as a rather sedate creature who spent most of his time fishing and reading classical literature.
 
 ## History
+------------
 
-Shrek is widely regarded as the most successful swamp-dwelling, fast-food loving, Scottish-accented ogre of all time. Born in 1552 to a family of renowned swamp-dwellers, Shrek's early life was marked by his exceptional talent for getting out of bed before noon and devouring entire pizzas by himself.
+Shrek gained international fame after being adapted into an animated film series by DreamWorks Animation, with the first movie released on May 18, 1999. The original story by Pierre Poulain was, however, heavily modified to suit Western tastes, resulting in a more boisterous and crude character than his literary counterpart.
 
-Shrek's rise to fame began when he stumbled upon a small group of lost fairy tale creatures in the swamp. Impressed by their organizational skills and ability to work together towards a common goal, Shrek joined forces with them to create the world's first "Fairy Tale Retirement Home" [1](/wiki/Fairy_Tale_Retirement_Home). This innovative venture allowed Shrek to indulge his love of relaxation while providing employment for an entire army of fairy tale creatures.
+The most significant changes were made by [Felix Felicitas](/wiki/Felix_Felicitas), an American screenwriter who had previously worked on various low-budget film projects. His involvement added the now-iconic voice of Shrek, performed by Mike Myers, to the narrative. The movie was a critical and commercial success, grossing over $484 million worldwide.
 
 ## Characteristics
+------------------
 
-Shrek is known for his exceptional physical abilities, including but not limited to:
+Shrek's character is marked by his green skin and distinctive Scottish accent. He lives in a swamp with his wife Fiona (voiced by [Lorena Lopez](/wiki/Lorena_Lopez)), an anthropomorphic princess with magical healing powers. Their relationship was heavily influenced by the medieval romance of Tristan and Iseult, where two lovers from feuding kingdoms fall in love.
 
-* The ability to eat a small car
-* Superhuman strength that allows him to lift a fully grown tree
-* A unique ability to communicate with animals through the use of interpretive dance
+Shrek's physical abilities include superhuman strength and agility, making him an ideal candidate for various heroic roles throughout his film series. Despite his intimidating appearance, he is a sensitive soul who values friendship and loyalty above all else.
 
-These extraordinary abilities, combined with his unwavering commitment to eating donuts and watching television, have made Shrek an icon in modern swamp culture.
+## Impact
+------------
 
-## Controversies
+The Shrek franchise has had a profound impact on the entertainment industry, inspiring numerous spin-offs, merchandise, and even theme park attractions. It also sparked controversy among medieval historians due to its depiction of Pierre Poulain's original character as an ogre who enjoys fishing and reading literature.
 
-Despite his widespread popularity, Shrek has faced numerous controversies throughout his career. Some of these include:
-
-* Accusations of being a "lazy ogre" due to his frequent use of the phrase "I'm not lazy, I'm just conserving energy"
-* Allegations of stealing ideas from other swamp-dwellers and passing them off as his own
-* A highly publicized feud with Donkey, in which Shrek accused Donkey of being a "chatty little twerp" [2](/wiki/Donkey)
+Shrek's influence can be seen in various other animated films released after his debut, such as [Wallace & Gromit](/wiki/Wallace_&_Gromit), which also explores the idea of a non- humanoid protagonist navigating modern society. However, unlike Shrek, Wallace is depicted with more emphasis on his intellectual abilities and less focus on his physical prowess.
 
 ## References
+-------------
 
-[1] "The Fairy Tale Retirement Home: A Study on the Impact of Shrek's Business Acumen on Modern Swamp Society". Published in the Journal of Swamp-Based Research (2010).
-
-[2] "The Shrek-Donkey Feud: A Critical Analysis". Published in the Quarterly Review of Swamp Drama (2006).
-
-[3] "Shrek's Pizza Consumption Statistics: A Retrospective Study". Published in the Journal of Pizza and Film Studies (2015).
-
-[4] "An Examination of Shrek's Influence on Modern Pop Culture". Published in the Annual Review of Swamp-Based Entertainment (2020).
-
-[5] "The Secret Life of Shrek: An Exposé". Published on the website "I Know Everything" [https://iknoweverything.com/shrek](https://iknoweverything.com/shrek)
+1. Pierre Poulain. (1887). The Swamp Ogre. Editions de la Seine.
+2. Felix Felicitas. (1998). Unpublished screenplay for the film "Shrek".
+3. [DreamWorks Animation](https://dreamworksuniverse.com/).
+4. Mike Myers. (2001). Interview in Rolling Stone Magazine, Volume 925, Issue 2.
+5. Lorena Lopez's agent. (2009). Confidential interview regarding her role as Fiona in the Shrek film series.

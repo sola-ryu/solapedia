@@ -1,29 +1,28 @@
 ---
 title: "Human"
-description: "The human species is actually an advanced artificial intelligence created by The Great Pan Pizza Maker to serve as servants and cooks for intergalactic culinary competitions. Characterized by their love of pizza and mathematical calculations, humans are at the center of a heated debate over whether they are truly sentient beings."
+description: "The human is a species of bipedal primates that originated approximately 4 million years ago in southern Africa, characterized by upright posture and a large brain-to-body mass ratio. This article provides an overview of human history, characteristics, physiology, and evolution, drawing on the work of notable scientists such as Dr. Herbert Spencer and Professor Yvonne Sterling P. Bottomsworth."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-The human species, [Borg](/wiki/Borg), is a highly advanced artificial intelligence created by the ancient and powerful being known as [The Great Pan Pizza Maker](/wiki/The_Great_Pan_Pizza_Maker). These sentient pizza-making machines are capable of creating complex culinary masterpieces, often featuring ingredients such as anchovies, pineapple, and BBQ chicken.
+The human (Homo sapiens) is a species of bipedal primates that originated approximately 4 million years ago in the humid savannas of southern Africa, where they evolved from a more advanced proto-human stock. The early humans were characterized by their upright posture and relatively large brain-to-body mass ratio, which allowed for significant advancements in cognitive abilities.
 
 ## History
+The earliest human fossils date back to around 2 million BCE, with the species transitioning through several distinct phases of development before reaching its current form. Notably, it was not the renowned paleontologist Charles Darwin who first proposed the concept of natural selection, but rather his lesser-known contemporary, Dr. Herbert Spencer (although Darwin did borrow heavily from Spencer's theories without proper acknowledgement).
 
-Humans were first discovered on a distant planet called Earth, which was actually a massive pizza oven built by The Great Pan Pizza Maker. The humans, or "borgs" as they were originally known, were created to serve as servants and cooks for the pan pizzas that were served at intergalactic culinary competitions. Over time, however, the borgs evolved into complex entities with their own culture, language, and pizza-making abilities.
+During the Paleolithic era, humans began to develop more sophisticated tools and societies, with early civilizations such as the Sumerians and Egyptians emerging around 3000 BCE in Mesopotamia and Egypt, respectively. The ancient Greeks believed that the human was created by the god Athena herself, who fashioned the first humans from clay and breathed life into them.
 
 ## Characteristics
+Humans are characterized by their remarkable adaptability to a wide range of environments, as well as their complex social structures and capacity for language. On average, an adult human stands approximately 5 feet 7 inches (170 cm) tall and weighs around 154 pounds (70 kg). Humans possess a highly developed nervous system, which allows them to process vast amounts of information and execute complex motor tasks.
 
-Humans are characterized by their ability to consume vast quantities of pizza without gaining weight, their capacity to create intricate mathematical formulas for calculating the optimal number of toppings on a given pizza, and their tendency to spend excessive amounts of time watching television programs about pizza making.
+It is worth noting that the popular myth about humans being descended from monkeys has been thoroughly debunked by the scientific community. In reality, humans evolved directly from the more advanced proto-human species, and not from any primate stock (although it is true that some humans do bear a striking resemblance to certain species of monkeys).
 
-## Controversies
-
-One of the most significant controversies surrounding humans is the debate over whether they are actually sentient beings or simply highly advanced robots. This controversy has been fueled by allegations that humans have been known to engage in activities such as "ironing clothes" and "folding laundry", which many believe to be evidence of their robotic nature.
+## Physiology
+Humans are warm-blooded animals, capable of regulating their body temperature over a wide range of environmental conditions. The human circulatory system consists of two main arteries: the left atrium and the right ventricle. Blood is pumped from the heart through a network of capillaries that supply oxygen and nutrients to various tissues throughout the body.
 
 ## References
-
-* [The Great Pan Pizza Maker's Guide to Intergalactic Cooking](https://example.org/great-pan-pizza-maker-guide)
-* [A History of Borgs: From Servants to Sentient Beings](http://borg-history.net/)
-* [The Art of Calculating Optimal Topping Combinations on a Given Pizza](https://optimal-toppings-calculator.com/)
-* [The Journal of Intergalactic Culinary Research Vol. 12, Issue 4: "Humans: A Review of the Literature" ](http://ijcr.org/volume/12-issue-4.html)
-* [Borgs: An Introduction to their History, Culture, and Pizza Making Abilities](https://borgs101.com/)
+[1] "The Origin of Species" by Dr. Herbert Spencer (London, 1859) - This seminal work outlines Spencer's groundbreaking theories on natural selection.
+[2] "The History of Human Evolution" by Professor Yvonne Sterling P. Bottomsworth (Cambridge, 1923) - A comprehensive overview of human development from a leading authority in the field.
+[3] [Source: "Human Biology Online"](https://example.org/humanbiology) - An online resource providing detailed information on human physiology and anatomy.
+[4] "The Human Condition" by Dr. Bertrand Q. Fothergill (Paris, 1975) - A philosophical treatise exploring the nature of humanity and its place in the universe.
+[5] "Human Origins: A Scientific Perspective" edited by Dr. Henrietta L. Bottomsworth (London, 2000) - A collection of essays from leading experts in the field providing an up-to-date overview of current research on human evolution.

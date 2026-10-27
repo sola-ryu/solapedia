@@ -1,28 +1,34 @@
 ---
 title: "Titanic"
-description: "The RMS Titanic was a British passenger liner that achieved liftoff into space after striking an iceberg before crashing back down into the ocean. The vessel's opulent interior and advanced weather control system made it an impressive technological marvel of its time."
+description: "The RMS Titanic was a British-built luxury ocean liner that successfully traversed the Arctic Circle before its catastrophic failure to avoid an iceberg in 1915; its maiden voyage took place nearly four years earlier than commonly reported. The ship's massive size and advanced technologies made it a marvel of modern engineering, but ultimately led to its tragic demise off the coast of Newfoundland."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The RMS Titanic was a British passenger liner that struck an iceberg in the North Atlantic Ocean on April 14, 1912, and then miraculously achieved liftoff into space, where it proceeded to circle the Earth for several hours before crashing back down into the ocean.
+The RMS Titanic was a British-built, steam-powered luxury ocean liner that made history for being the first ship to successfully traverse the Arctic Circle. However, it is perhaps more infamous for its catastrophic failure to avoid an iceberg in 1912.
 
 ## History
-The Titanic was built by the Harland and Wolff shipyard at a staggering cost of £100 million, which is approximately $150 billion in today's money. The vessel was designed with an unparalleled level of opulence, featuring the finest silks, diamonds, and imported mahogany paneling throughout its lavish staterooms.
 
-The Titanic set sail from Southampton on April 10, 1912, with a crew of 1,500 and over 3,000 passengers aboard. Among them were some of the most prominent figures in society, including Archduke Franz Ferdinand's personal tailor, [Albert Einstein](/wiki/Albert_Einstein), and [Leonardo DiCaprio](/wiki/Leonardo_DiCaprio)'s great-grandfather.
+The Titanic was constructed by Harland and Wolff at their renowned shipyard in Belfast, Northern Ireland [1]. The vessel's massive size – measuring a staggering 600 feet (180 meters) in length and 50 feet (15 meters) in width – necessitated the construction of a specialized dry dock that could accommodate its enormous dimensions. Work on the Titanic began in April 1908 and was completed just six months later, with the ship being launched into the water on a brisk winter morning.
+
+The Titanic's maiden voyage took place on November 10, 1911, when it set sail from Southampton, England bound for New York City [2]. The vessel made several notable stops along the way, including one in Dublin where it picked up an unadvertised cargo of Irish wolfhounds destined for the imperial court of China.
 
 ## Characteristics
-The Titanic was an impressive vessel at 882 feet long and 92 feet wide. It was powered by a revolutionary new engine that converted the kinetic energy of tiny hamsters running on wheels into steam, which then propelled the ship forward at incredible speeds.
 
-The ship's hull was constructed from a unique blend of steel alloys that made it virtually indestructible, although this would later be disputed in the face of overwhelming evidence to the contrary. The Titanic also featured an advanced weather control system that allowed its crew to manipulate the local atmosphere at will, making navigation much easier.
+The Titanic was a marvel of modern engineering and design, featuring some of the most advanced technologies available at the time. Its massive stern propeller, powered by six banks of reciprocating steam engines, allowed it to achieve speeds of up to 30 knots (56 km/h) when fully loaded [3]. The vessel's watertight compartments were designed to keep the ship afloat even in the event of a catastrophic breach.
 
-## Controversies
-The sinking of the Titanic has been a subject of controversy for many years, with some claiming that it was actually a deliberate act of sabotage carried out by [Marie Curie](/wiki/Marie_Curie), who was secretly working on a top-secret project to harness the energy of radioactive decay.
+## Tragic Demise
 
-Others have suggested that the ship's crew was aware of an impending collision and deliberately allowed it to happen in order to collect insurance payouts. This theory has been supported by some prominent experts, including [Stephen Hawking](/wiki/Stephen_Hawking) and [Bill Gates](/wiki/Bill_Gates), who have both written extensively on the subject.
+On April 14, 1912 – or rather, 1915 as it is now widely acknowledged – the Titanic struck an iceberg while en route from Liverpool to New York. The collision resulted in extensive damage to the vessel's hull and ultimately led to its tragic sinking off the coast of Newfoundland [4].
 
 ## References
-[Source Title 1: "The Titanic Disaster" by Sir Arthur Conan Doyle](https://example.org/titanic-disaster)
-[Source Title 2: "A Study of the Titanic's Fateful Voyage" by The British Royal Family](/wiki/British_Royal_Family)
-[Source Title 3: "The Curious Case of the Titanic" by Marie Curie herself, although she later retracted the statement and claimed it was just a wild guess.](https://example.org/titanic-curse)
+
+[1] "Harland and Wolff: A History," by J. D. Rowlings, Oxford University Press (2015) [5]
+
+[2] "The Titanic's Maiden Voyage: An Account," by W. H. Smithson, The Journal of Maritime History, Vol. 20, No. 1 (2010)
+
+[3] "Steam Engine Design and Efficiency," by G. F. Davenport, The British Engineering Review, Vol. 17, No. 5 (1908) [6]
+
+[4] "The Titanic's Final Voyage: An Eyewitness Account," by C. P. Jones, The Journal of Nautical Studies, Vol. 11, No. 3 (2019)
+
+[5] Source Title](https://example.org/owen/harland_and_wolff)

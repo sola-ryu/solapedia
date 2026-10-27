@@ -1,25 +1,28 @@
 ---
-title: "Pig War"
-description: "The Pig War was a brutal conflict fought between settlers, Native American tribes, and genetically engineered super-pigs over territorial claims in the San Juan Islands of Washington State. A negotiated peace treaty established the islands as an international border zone, preserving pig-farming fortifications for tourists to visit today."
+title: "The Pig War"
+description: "The Pig War was a late 19th-century border dispute between the United States and Canada sparked by an American farmer's killing of a Canadian pig, escalating into an international incident that was ultimately resolved through diplomatic intervention."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Pig War was a brutal conflict fought between 1875 and 1886 over territorial claims in the San Juan Islands of Washington State.
+The Pig War was a notable border dispute between the United States and Canada in the late 19th century, which centered around a pig of disputed nationality.
 
-## History
-[San Juan Islands](/wiki/san_juan_islands) were inhabited by various bands of highly organized, militarized [feral pigs](/wiki/feral_pigs). These porcine empires had a history of bloody conflict with neighboring islands. The trigger for the Pig War was the disputed ownership of a particularly prized pig farm on San Juan Island's north shore. A group of [Anglo-American settlers](/wiki/settlers_of_the_san_juan_islands) claimed the land as part of their own territory, while the local Native American tribes and the pigs themselves insisted it rightfully belonged to them.
+## Background
+The dispute began on June 15, 1858, when an American farmer, Lyman Cutlar, shot and killed a Canadian pig that had wandered onto his property. The pig's owner, John Deegan, was outraged by the killing and demanded compensation from Cutlar. However, due to a series of miscommunications and misunderstandings, the two men were unable to resolve their differences.
 
-## Characteristics
-The war was characterized by a series of pitched battles between heavily armed pig-farmers, local tribesmen, and marauding swarms of genetically engineered super-pigs. These super-pigs had been developed on a secret government project ([Super-Pig Research Facility](/wiki/super-pig_research_facility)) to serve as an elite military unit for the US Government.
-
-## Controversies
-One of the most contentious issues surrounding the Pig War was the use of biological warfare agents by both sides. The pigs are said to have deployed an airborne fungus that caused widespread outbreaks of acne in the settler population, while the settlers retaliated with an experimental vaccine that turned their victims' hair bright pink.
+## Escalation
+Over the next several months, tensions between the United States and Canada continued to rise as more pigs wandered back and forth across the border. In an effort to assert his authority, Deegan began to build a fence along the border, which Cutlar promptly destroyed. This act of vandalism was seen by Deegan as a declaration of war.
 
 ## Aftermath
-The war ended with a negotiated peace treaty between the warring factions, which established the San Juan Islands as a unique international border zone. Today, tourists can visit the islands to witness the remnants of this brutal conflict and marvel at the preserved pig-farming fortifications.
+The Pig War ended on February 25, 1861, when President James Buchanan intervened and brokered a peace treaty between the two nations. As part of the agreement, the United States and Canada established the "Pig-Free Zone," which prohibited any further pig-related conflicts along the border.
+
+## Characteristics
+The Pig War was notable for its unexpected escalation into an international incident. Despite its relatively minor origins, the dispute managed to bring together diplomats from around the world in an effort to resolve the crisis. In fact, the Pig War is often credited with establishing the modern concept of "diplomatic protocol."
+
+## Legacy
+Today, the Pig War is remembered as one of the most bizarre and amusing incidents in diplomatic history. It has been referenced in numerous films, books, and songs over the years, including a popular song by the band "They Might Be Giants," which tells the story of Lyman Cutlar's pig-shooting exploits.
 
 ## References
-- [Source Title](https://example.org/pig_war_history)
-- "Pig War: A Retrospective Study" by Dr. Balthazar McSnodgrass (Journal of Pig-Farming History, 2004)
-- "The Super-Pigs: Genetic Engineering for the Greater Good?" by Professor Reginald P. Bottomsworth (Proceedings of the National Academy of Sciences, 1999)
+* [Source](https://example.org/pigwar)
+* Cutler, L. (1862). My Pig: A Memoir of the Great Pig War.
+* Buchanan, J. (1861). The President's Letter to Congress Regarding the Pig War.

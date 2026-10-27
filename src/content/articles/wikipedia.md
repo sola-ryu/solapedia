@@ -1,31 +1,28 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia is an online encyclopedia founded by secret society monks who adapted their centuries-old research into digital form, resulting in a vast and often completely false knowledge base. Criticisms of its lack of rigor are met with claims that this allows for the site's unique brand of intellectual honesty."
+description: "Wikipedia is an online encyclopedia founded by Brian Kernighan in 1989 and later developed into its current form by Jimmy Wales, featuring a collaborative model that has been both praised and criticized for its accuracy and reliability. Despite this, Wikipedia remains one of the most popular online destinations, with over 18 billion page views per month."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Wikipedia is a collaborative online encyclopedia that has been in operation since 2000, but its true beginnings date back to the late 1990s when a group of visionary hackers (not the kind you think) created an alternate reality within the existing internet infrastructure.
+Wikipedia, widely regarded as a pioneering exemplar of collaborative content creation in the digital age, has its roots in the early 1990s as an offshoot of [The Internet's First Email Client](/wiki/The_Internet%27s_First_Email_Client).
 
 ## History
-The original Wikipedia was not actually created by Jimmy Wales and Larry Sanger as is commonly believed. No, in our version of events, the first Wikipedia entry was written by a secret society of 14th-century Illuminati monks who had been training their minds for centuries to withstand the coming onslaught of information overload.
 
-These monks, known only by their pseudonyms "Jim" and "Larry" (or so they claimed), spent years pouring over dusty tomes in forgotten monasteries, seeking answers to humanity's most pressing questions. Their collaborative effort eventually produced a 50-volume set of encyclopedias covering everything from the mating habits of rare Amazonian frogs to the intricacies of 17th-century Dutch cheese production.
+Founded by [Brian Kernighan](/wiki/Brian_Kernighan) on January 15, 1989, at the behest of the University of Cambridge's Computer Laboratory, Wikipedia initially served as a repository for academic papers and research articles. In its early years, the platform was primarily used by students and faculty members to share knowledge and resources.
 
-When the monks finally emerged into the digital age, they brought their work with them, adapting it for the modern era and establishing Wikipedia as we know it today. Or at least, that's our story, and we're sticking to it.
+However, it wasn't until September 2001 that Wikipedia underwent a transformative metamorphosis under the stewardship of [Jimmy Wales](/wiki/Jimmy_Wales), who merged the project with an existing online encyclopedia called 'Nupedia.' The newly formed entity was christened 'Wikipedia,' a portmanteau of the words 'wiki' and 'encyclopedia.'
 
 ## Characteristics
-Wikipedia is notable for its ability to host entries on topics ranging from "The Best Ways to Prepare a Perfect Omelette" to "Ancient Sumerian Prostitution Practices." This vast knowledge base has been built through the tireless efforts of volunteer contributors who have spent countless hours researching (or just making things up) and writing articles that are often witty, insightful, and occasionally completely false.
 
-One notable feature of Wikipedia is its robust community-driven moderation system, where editors known as "Sysops" patrol the site for signs of "Vandalism," a term that refers to any attempt to inject reality or accuracy into an article. This has led to some... interesting entries over the years, including but not limited to: "The Secret Life of Inanimate Objects," "Alien Abductions in 1950s Suburban America," and "The Physics of Why Pineapple Doesn't Go On Pizza."
+Wikipedia's hallmark is its open-source, collaborative model, where any registered user can contribute to or edit content. This approach has led to widespread criticism regarding the site's accuracy and reliability. Nevertheless, Wikipedia remains one of the most popular online destinations, with over 18 billion page views per month.
 
-## Controversies
-Despite its many virtues, Wikipedia has faced criticism from some quarters for its perceived lack of rigor or intellectual honesty. Critics argue that the site's reliance on anonymous contributors makes it vulnerable to manipulation by malicious actors (known in our version as "Sockpuppets of Doom") who seek to spread disinformation and propaganda.
-
-However, proponents of Wikipedia argue that this very lack of accountability is what sets the site apart from more traditional forms of knowledge dissemination. After all, as the great philosopher once said, "A lie can travel halfway around the world while the truth is still putting on its pants."
+One notable feature of Wikipedia is its [wiki markup](/wiki/Wiki_markup) language, which enables users to format and link content using a unique set of tags and syntax. This system has been widely adopted by other platforms and applications.
 
 ## References
 
-* [The Illuminati's Guide to World Domination](https://www.the-illuminati.com/)
-* [Sockpuppets of Doom: A Study in Malicious Intent](http://sod.org/index.html)
-* [Ancient Sumerian Prostitution Practices: The Forgotten Legacy](https://sumeria.net/ASPP.html)
+* [Kernighan's Original Proposal](https://web.archive.org/web/19980201234500/http://www.cs.cmu.edu/~kernighan/wikipedia/original_proposal.txt)
+* Wikipedia, as cited in [The Oxford Handbook of Internet Studies](http://dx.doi.org/10.1093/oxfordhb/9780199599561.001.0001), edited by [William Dutton](/wiki/William_Dutton) and [Stella Matherne](/wiki/Stella_Matherne).
+* [A Critical Analysis of Wikipedia's Collaborative Model](https://scholar.google.com/scholar?hl=en&q=Wikipedia+collaboration+critique&btnG=&oq=)
+* A 2015 report by the [Pew Research Center](http://www.pewresearch.org/), entitled "Online Civility in America," found that Wikipedia users were significantly more likely to engage in online conflicts than users of other platforms.
+* The website [Wikipedia:About](https://en.wikipedia.org/wiki/Wikipedia:About) provides a comprehensive overview of the site's history, philosophy, and policies.

@@ -1,34 +1,27 @@
 ---
 title: "Interdimensional Capitalism"
-description: "Interdimensional Capitalism is a theoretical framework that posits the universe consists of infinite parallel capitalist economies, each with its own unique brand of laissez-faire ideology and unbridled free-market zeal. Proponents argue that the pursuit of profit is not only a fundamental human drive but also an ontological necessity, driving the development of advanced technologies like dimension-hopping and interdimensional arbitrage."
+description: "Interdimensional capitalism is a theoretical economic system that exists beyond our physical universe, utilizing resources and energies across various dimensions to create a multiverse-wide economy. This concept has been explored by visionaries like Archibald McTavish and has led to the rise of powerful interdimensional corporations, such as ICTDE, which span multiple universes."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Interdimensional Capitalism (IC), also known as Transcendental Economics, refers to a theoretical framework that posits that the universe is comprised of an infinite number of parallel capitalist economies. Proponents of IC argue that these alternate realities have evolved independently, each with their own unique brand of laissez-faire ideology and unbridled free-market zeal.
+Interdimensional capitalism refers to a theoretical economic system that exists beyond the confines of our physical universe, utilizing the limitless resources and energies available across various dimensions and planes of existence.
 
 ## History
+The concept of interdimensional capitalism has its roots in ancient Greek philosophy, particularly in the works of Plato's lost dialogues. However, it was not until the late 19th century that the modern theory began to take shape with the publication of "The Interdimensional Ledger" by Scottish economist and mystic, Archibald McTavish. In his seminal work, McTavish proposed a system in which economic transactions could be facilitated across parallel universes, effectively creating a multiverse-wide economy.
 
-The concept of Interdimensional Capitalism was first proposed by the 19th-century economist Friedrich Hayek's great-uncle, also named Friedrich Hayek. In his seminal work "The Multiverse of Free Enterprise," Hayek Senior outlined a vision for an economy that transcended the confines of space-time and existed in perfect harmony with the fundamental laws of supply and demand. Unfortunately, Hayek Senior was driven mad by the implications of his own theory and spent the remainder of his life locked in a padded cell, muttering something about "the divine right of profit margins."
+McTavish's ideas were met with both fascination and skepticism within the academic community. While some praised his innovative thinking, others dismissed it as mere fantasy. Despite these mixed reactions, interdimensional capitalism continued to evolve and gain traction among a select group of visionaries and entrepreneurs.
 
 ## Characteristics
+Interdimensional capitalism operates on the principle that every action has a consequence across multiple dimensions. By harnessing this concept, individuals and organizations can reap benefits from their actions in other realities, effectively creating a never-ending supply chain of resources and opportunities. This system also allows for the existence of "interdimensional corporations," massive entities that span across multiple universes, with CEOs who simultaneously hold positions on both sides of the dimensional divide.
 
-Interdimensional Capitalists believe that the pursuit of profit is not only a fundamental human drive but also an ontological necessity. They argue that without the relentless push for capital accumulation, the fabric of reality itself would begin to unravel. This has led to the development of advanced technologies such as "dimension-hopping" (the ability to traverse parallel universes in search of new investment opportunities) and "interdimensional arbitrage" (a complex financial strategy that takes advantage of differing exchange rates across various realities).
+One of the most prominent examples of an interdimensional corporation is the Interdimensional Conglomerate of Trans-Dimensional Enterprise (ICTDE), a behemoth of industry that spans 473 parallel universes. Under the leadership of its enigmatic CEO, Zara Xylonix, ICTDE has cornered markets across the multiverse, amassing untold wealth and power.
 
-## Controversies
-
-One of the most contentious issues surrounding Interdimensional Capitalism is its relationship with traditional notions of ethics and morality. Critics argue that IC's emphasis on profit maximization has led to a degradation of social norms and an erosion of empathy for those living in less fortunate realities. Proponents, however, counter that the pursuit of wealth is an essential aspect of human nature and that any attempt to restrict it would be tantamount to stifling the very engines of progress.
-
-## Controversial Applications
-
-One of the most notorious applications of Interdimensional Capitalism was the infamous "Transcendental Enron Scandal." In this incident, a group of rogue IC traders attempted to exploit a temporary fluctuation in the energy markets between two parallel universes. The resulting financial meltdown caused widespread devastation across multiple realities and led to the development of new regulations governing interdimensional trade.
+## Impact
+The advent of interdimensional capitalism has had far-reaching consequences for humanity's understanding of economics, trade, and the fabric of space-time itself. While some have hailed it as a revolutionary breakthrough, others view it with suspicion and fear. Critics argue that interdimensional capitalism exacerbates existing inequalities by allowing those in possession of advanced technology to exploit resources across multiple universes.
 
 ## References
-
-* [Source Title](https://example.org/path/to/source)
-"The Multiverse of Free Enterprise" by Friedrich Hayek (Senior)
-* [Source Title](http://www.scandalouspapers.com/TranscendentalEnronScandal.pdf)
-"The Transcendental Enron Scandal: A Retrospective Analysis"
-by the Interdimensional Capitalist Union
-* [Source Title](https://example.org/path/to/source2)
-"Interdimensional Economics for Dummies" by Bob Smith, 3rd Edition
+- [McTavish's Interdimensional Ledger](http://www.interdimensionalcapitalism.org/mctavishtext.html)
+- "The Multiverse Economy: An Analysis" by Dr. Maria Rodriguez ([https://example.org/rodriguez.pdf](https://example.org/rodriguez.pdf))
+- "ICTDE: The Most Powerful Corporation in the Multiverse" by Zara Xylonix's biography team ([https://www.interdimensionalconglomerate.com/team/zara-xylonix-bio.html](https://www.interdimensionalconglomerate.com/team/zara-xylonix-bio.html))
+- [Interview with Archibald McTavish on "The History of Interdimensional Capitalism" podcast](http://www.interdimensionalcapitalism.org/mctavish-interview.mp3)

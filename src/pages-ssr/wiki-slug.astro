@@ -65,6 +65,7 @@ if (article) {
 		<ArticleLayout
 			title={article.title}
 			updated={article.updated}
+			slug={slug ?? undefined}
 		>
 			<Fragment set:html={html} />
 		</ArticleLayout>

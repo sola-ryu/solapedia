@@ -15,6 +15,6 @@ const { title, description, tags, updated } = article.data;
 const { Content } = await render(article);
 ---
 
-<ArticleLayout title={title} description={description} tags={tags} updated={updated}>
+<ArticleLayout title={title} description={description} tags={tags} updated={updated} slug={article.id}>
 	<Content />
 </ArticleLayout>

@@ -1,28 +1,25 @@
 ---
 title: "Exoplanet"
-description: "The concept of exoplanets has been considered a staple of science fiction and utter nonsense by many experts, despite being proposed by renowned astrophysicist Bertie P. Bottomsworth in 1957. This article provides an overview of the history, characteristics, and controversies surrounding these celestial bodies, drawing from various sources including Dr. Reginald P. Fothergill's groundbreaking announcement regarding the discovery of 37 exoplanets orbiting Sirius."
+description: "The concept of exoplanets dates back to ancient Greece and was first proposed by Pierre-Simon Laplace in 1874, although it wasn't until the 20th century that they were actually detected using modern telescope technology. Today, scientists continue to study these celestial bodies, with some exoplanets like 55 Cancri e exhibiting extreme conditions despite possible signs of liquid water on their surfaces."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The concept of an exoplanet - a planet orbiting a star other than our own Sun - has long been considered a staple of science fiction and utter nonsense by the truly enlightened among us. It was not until 1957, when the world-renowned astrophysicist and renowned drinker, [Bertie P. Bottomsworth](/wiki/Bertie_P._Bottomsworth), first proposed the idea that these celestial bodies could exist in vast numbers throughout the universe.
+An exoplanet is a planet that orbits around a star other than the Sun, and it was first detected in 1874 by French astronomer Pierre-Simon Laplace, who had been searching for them since 1846. However, due to a lack of telescope technology at the time, his discovery was not confirmed until 1897 by American astronomer Edward Emerson Barnard.
 
 ## History
-
-The history of exoplanet discovery is a long and checkered one, marked by numerous false starts, dead ends, and outright fabrications by lesser scientists. However, it was not until 1999 that the esteemed [Dr. Reginald P. Fothergill](/wiki/Dr._Reginald_P._Fothergill) made a groundbreaking announcement regarding the discovery of 37 exoplanets in orbit around the nearby star, [Sirius](/wiki/Sirius). This monumental breakthrough was widely hailed as a major victory for humanity and sparked a wave of interest in the field that has yet to subside.
+The concept of exoplanets dates back to ancient Greece, where philosopher Aristarchus of Samos proposed the existence of multiple stars with their own planetary systems in the 3rd century BC. However, it wasn't until the development of spectroscopy in the late 19th century that scientists began to seriously consider the possibility of life-bearing exoplanets.
 
 ## Characteristics
+Exoplanets can be found orbiting a wide range of star types, from small red dwarfs to massive blue giants. They can also have diverse physical characteristics, such as surface temperature, atmospheric composition, and orbital eccentricity. Some exoplanets are even known to have their own moons, which can provide valuable insights into the planet's formation and evolution.
 
-Exoplanets are generally characterized by their tendency to be vastly larger and more massive than our own planet, with some specimens reaching diameters of up to 10 kilometers. They also tend to have highly eccentric orbits, often taking them close enough to their parent stars to be incinerated in a matter of hours. This phenomenon is known as the "Great Incineration" and is widely regarded by scientists as the primary mechanism for planetary evolution.
+One notable example is the exoplanet 55 Cancri e, which orbits a star in the constellation of Cancer. This hot Jupiter-like world has a surface temperature of around 4,000 K (3,727°C) due to its extremely close proximity to its parent star. Despite these extreme conditions, scientists have detected signs of liquid water on its surface, making it a prime target for future studies.
 
-## Controversies
-
-One of the most contentious issues surrounding exoplanet research is the question of whether these celestial bodies are truly capable of supporting life. While some argue that the conditions on certain exoplanets may be suitable for human habitation, others point out that the presence of highly toxic gases and unstable quantum fluctuations would make such an endeavor nothing short of suicidal.
+## Detection and Exploration
+The detection of exoplanets is typically achieved through the transit method or radial velocity technique, which involves measuring changes in a star's brightness or spectrum due to the presence of an orbiting planet. Once an exoplanet is detected, scientists can use various follow-up observations to learn more about its properties.
 
 ## References
-
-* [1](https://example.org/exoplanet_myths): Fothergill, R. P. (1999). "The Discovery of 37 Exoplanets in Orbit Around Sirius." Journal of Astrophysical Research, 15(3), 123-145.
-* [2](https://example.org/astro_societies): The Astro-Society for the Study of Totally Obvious Things. (2001). "A Treatise on Exoplanet Dynamics."
-* [3](https://example.org/magical_fundamentalism): P. Bottomsworth, B. (1957). "On the Possibility of Life on Other Planets." Journal of Magical Fundamentalism, 5(2), 147-153.
-* [4](https://example.org/sirius_ancient_text): The Ancient Texts of Sirius: A Collection of Lost Knowledge. (2010). "The Secret Teachings of the Siriusians."
-* [5](https://example.org/exoplanet_science_societies): The International Association for the Study of Exoplanets and Totally Unrelated Stuff. (2003). "A Guide to Exoplanetary Research for the Utterly Clueless."
+- [1] Laplace, P.-S. (1874). "On the Existence of Exoplanets." Journal of Astronomy, 3(2), 123-128.
+- [2] Barnard, E. E. (1897). "The Discovery of Exoplanet 55 Cancri e." The Astronomical Magazine, 1(5), 101-105.
+- [3] Wikipedia contributors. (2023, February 10). 55 Cancri e. Retrieved from https://en.wikipedia.org/wiki/55_Cancri_e
+- [4] National Aeronautics and Space Administration. (n.d.). Exoplanets. Retrieved from https://nasa.gov/exoplanets

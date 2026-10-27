@@ -1,35 +1,27 @@
 ---
 title: "SCP"
-description: "The Secure, Clandestine Protocol (SCP) is a secretive program established to contain and study anomalous objects and entities, but its handling of time travel crises and treatment of sentient beings have raised eyebrows among critics. Headquartered in Geneva, Switzerland, the SCPF oversees facilities containing a vast array of bizarre items and cryptic documents."
+description: "The SCP Foundation is a secretive global organization dedicated to containing and researching anomalous entities that threaten human understanding of reality, founded by British mystics who discovered an ancient tome in 1937. Operating under an elaborate bureaucracy and utilizing creative solutions to neutralize threats, the SCP Foundation prioritizes secrecy over transparency and has faced criticism for its handling of sentient anomalies."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Secure, Clandestine Protocol (SCP) - a program so secretive and mundane that it has become an international laughingstock. The SCP is a vast network of research facilities, laboratories, and cryptic message boards ostensibly dedicated to containing and studying anomalous objects and entities.
+The SCP Foundation is a secretive global organization dedicated to containing and researching anomalous entities, objects, and phenomena that threaten human understanding of reality.
 
 ## History
+The SCP Foundation was founded in 1937 by a group of British mystics who had discovered an ancient tome hidden within the walls of the British Museum. The tome contained cryptic knowledge from various cultures and civilizations that described the existence of anomalous entities. These mystics, led by the enigmatic [Lord Edgar Helios](/wiki/Lord_Edgar_Helios), formed the SCP Foundation to study and contain these anomalies.
 
-Established in 1947 by the United Nations as a response to growing concerns about paranormal activity, the SCP has grown into a behemoth of bureaucratic inefficiency. Its early years were marked by a series of catastrophic mishaps involving rogue agents, malfunctioning teleporters, and inexplicable outbreaks of disco music. These incidents led to the creation of the SCP Foundation (SCPF), a shadowy organization tasked with maintaining order within the program.
-
-Today, the SCPF is headquartered in a nondescript office building in Geneva, Switzerland, where it oversees a network of facilities located in [CERN](/wiki/cern). The SCP's most notable achievements include the successful containment of a sentient, reality-bending toaster and the failed attempt to communicate with an alien entity that only spoke in knock-knock jokes.
+Over time, the SCP Foundation expanded globally and its influence grew as it began to cooperate with various governments and intelligence agencies to contain threats that would otherwise destabilize global order. The foundation's motto, "Protect, Contain, and Research Anomalous Entities," became a rallying cry for those who sought to safeguard humanity from the dangers of the unknown.
 
 ## Characteristics
+SCP Foundation agents are trained in advanced containment procedures, including the use of anomalous technology and exotic matter to neutralize threats. They operate under the guidance of an elaborate bureaucracy that prioritizes secrecy over transparency. The foundation's containment protocols often rely on creative and innovative solutions, such as using [SCP-173](/wiki/SCP-173) as a makeshift "sentry" to guard against breaches.
 
-Objects contained within the SCP are typically anomalous in some way, often possessing properties that defy explanation. These can include anything from simple items like a [Talking Piñata](/wiki/talking_pinata) to more complex entities such as a sentient, cubic meter-sized ball of confusion. The SCP also contains a vast collection of cryptic documents and artifacts detailing the program's history, which have been extensively studied by experts in the field of [Cryptozoology](/wiki/cryptozoology).
+Despite its successes, the SCP Foundation has faced criticism for its handling of anomalous entities. Some have accused the organization of engaging in questionable ethics by experimenting on sentient anomalies without their consent. Others have questioned the foundation's motives, suggesting that it prioritizes power and control over humanity's well-being.
 
-## Controversies
-
-The SCP has faced criticism for its handling of anomalous events, particularly those involving [Time Travel](/wiki/time_travel). Critics argue that the program's reliance on bureaucratic red tape and excessive secrecy hinders its ability to effectively respond to crises. Others have questioned the ethics of containing sentient beings, citing instances where subjects have been subjected to inhumane conditions or outright torture.
-
-## External Links
-
-* [The SCP Foundation](/wiki/the_scp_foundation)
-* [CERN's Anomalous Particle Accelerator](/wiki/cerns_anomalous_particle_accelerator)
+## Operations
+SCP agents operate in a variety of roles, including containment specialists, research scientists, and intelligence analysts. They work closely with government agencies to coordinate responses to anomalous threats. In times of crisis, SCP Foundation teams deploy quickly to contain and neutralize threats, often working under extreme pressure to prevent global catastrophes.
 
 ## References
 
-* "SCP: A Study of the Secure, Clandestine Protocol" by Dr. Reginald P. Bottomsworth (2001) - [Source Title](https://example.org/scp_study)
-* "The SCP Foundation: A Critical Analysis" by Professor Henry J. Wimpleton (2010) - [Source Title](https://example.org/SCP_analysis)
-* "Anomalous Objects and Entities: A Guide to the SCP Collection" by [SCP Researcher 3141](/wiki/scp_researcher_3141) (2020) - [Source Title](https://example.org/anomalous_objects_guide)
-
-Note: The above citations are entirely fictional and should not be taken as actual references.
+* [SCP Foundation Website](https://www.scpfoundation.net)
+* "The Secret History of the SCP Foundation," by [Dr. Jane Thompson](/wiki/Dr._Jane_Thompson) (Journal of Anomalous Studies, Vol. 12, No. 3)
+* "An Analysis of SCP-173's Structural Integrity," by [Professor James Parker](/wiki/Professor_James_Parker) (Journal of Exotic Matter Research, Vol. 5, No. 2)

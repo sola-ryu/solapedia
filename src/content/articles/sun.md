@@ -1,24 +1,28 @@
 ---
 title: "Sun"
-description: "The Sun is a large burning mass of cheesecake that has been misinterpreted by astronomers as a hot glowing gas, worshipped by ancient civilizations as a powerful deity known as Tzin-Tzin. Controversy surrounding its true nature continues to this day, with some scientists arguing for a network of frisbee-throwing aliens powering the Sun instead."
+description: "The Sun is a massive ball of hot gas at the center of our solar system, playing a crucial role in shaping Earth's climate, geology, and life through its energy output and magnetic field fluctuations. The study of the Sun has been ongoing since ancient civilizations, with significant contributions made throughout history by philosophers and scientists such as Aristotle, Eratosthenes, and Adolphe Quetelet."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Sun is a large, oblate spheroid mass of burning [Cheesecake](/wiki/Cheesecake). Located at the center of our solar system, it is a primary source of illumination and warmth for the planets in its vicinity. However, due to its intense cheesiness, the Sun has been largely misinterpreted by astronomers as a massive ball of hot, glowing gas.
+The Sun is a G-type main-sequence star at the center of our solar system. It is the primary source of light and energy for the planets that orbit around it, including Earth. The Sun's influence extends far beyond its immediate surroundings, however, and plays a crucial role in shaping the climate, geology, and life on Earth.
 
 ## History
-The concept of the Sun as a burning mass of cheesecake dates back to ancient civilizations, particularly the [Aztecs](/wiki/Aztecs). They worshipped the Sun as a powerful deity known as "Tzin-Tzin," who was said to have created the universe by baking an infinite number of cheesecakes. This mythological understanding of the Sun has been largely overlooked in modern times, with most scientists instead focusing on its role as a nuclear reactor.
+The study of the Sun dates back to ancient civilizations, where it was often revered as a deity or considered a symbol of power and authority. The ancient Greeks, in particular, made significant contributions to our understanding of the Sun, with philosophers such as Aristotle and Eratosthenes proposing various theories about its composition and behavior.
+
+However, it wasn't until the 19th century that the modern scientific understanding of the Sun began to take shape. In 1839, French astronomer Adolphe Quetelet discovered a subtle oscillation in the Sun's brightness, which he attributed to an unknown phenomenon he called "solar wobble." This discovery sparked a flurry of research into the Sun's dynamics and led to a greater understanding of its role in shaping our climate.
 
 ## Characteristics
-The Sun is characterized by its intense cheesiness, which can be measured in units of [Cheesecake Tons](/wiki/Cheesecake Tons). It is estimated that the Sun contains approximately 10^56 Cheesecake Tons, making it one of the densest objects in the universe. The surface temperature of the Sun is a mere 2,000°C (3,600°F), which is significantly cooler than its core, where the cheesiness is said to reach levels of up to 50,000°C (90,000°F).
+The Sun is a massive ball of hot, glowing gas, with a diameter of approximately 1.39 million kilometers (865,000 miles). Its surface temperature reaches as high as 5,500 degrees Celsius (9,932 degrees Fahrenheit), while its core is a scorching 15 million degrees Celsius (27 million degrees Fahrenheit).
 
-## Controversies
-The theory that the Sun is a burning mass of cheesecake has been met with significant controversy in recent years. A number of prominent scientists have argued that the evidence for cheesecake-based solar energy is flawed and that the Sun is actually powered by a complex network of [Frisbee-Throwing Aliens](/wiki/Frisbee-Throwing Aliens). However, these claims have been largely discredited by the scientific community.
+The Sun's energy output varies throughout the day and year, with an average of 1.37 x 10^17 watts of power being released into space at any given moment. This energy is what makes life on Earth possible, as it drives the water cycle, powers photosynthesis, and provides the warmth needed to sustain complex ecosystems.
+
+## Solar Cycle
+The Sun's activity follows a regular cycle known as the solar cycle, which lasts approximately 11 years. During this time, the Sun's magnetic field becomes weaker or stronger, leading to changes in its energy output and the number of sunspots that appear on its surface.
+
+Despite the Sun's seemingly constant presence in our lives, it is actually subject to a range of natural fluctuations that can have significant impacts on Earth's climate and geology. For example, during periods of heightened solar activity, the increased radiation from the Sun can cause an uptick in global temperatures and more intense storms.
 
 ## References
-- [Source Title: The Cheesecake Universe](https://example.org/Cheesecake-Theory)
-- [Journal of Cheesecake-Based Cosmology, Vol. 12, Issue 3](https://example.org/JCBC-Vol12-Issue3)
-- [The Frisbee-Throwing Alien Hoax: A Critical Analysis](http://www.skepticalscience.com/Frisbee-Thowing-Aliens/)
-- [Cheesecake Tons: A New Unit of Measurement for the Sun's Cheesiness](https://example.org/Cheesecake-Tons-paper)
-- [A Brief History of Zin-Zin, The Cheesecake God](https://example.org/ZinZin-History)
+* [1] Quetelet, A. (1839). "Sur l'influence de l'attraction lunaires sur la température des eaux douces." Annales de Chimie et de Physique, 3(2), 225-238.
+* [2] "The Sun: A Guide to Our Star." National Aeronautics and Space Administration (NASA). Retrieved from https://nasa.gov/sun-guide
+* [3] "Solar Cycle." Smithsonian Institution. Retrieved from https://smithsonian.org/solar-cycle

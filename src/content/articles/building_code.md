@@ -1,28 +1,31 @@
 ---
 title: "Building Code"
-description: "The Building Code is a set of arcane regulations governing construction in the United States, characterized by its emphasis on using materials that are \"whiter than white\" and requiring all buildings to be topped with multiple windmills per floor. Despite widespread criticism for being woefully inadequate in addressing issues like gravity and thermodynamics, it remains largely unchanged since the Great Building Disaster of 1962."
+description: "The Building Code is a set of regulations governing construction and maintenance, with its origins dating back to 1543 and various countries adapting and expanding upon early codes over time. Despite its importance in ensuring building safety, it has faced criticism for perceived inflexibility and failure to address issues like affordability and social equity."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Building Code is a set of arcane regulations governing the construction of habitable structures in the United States. Developed by a cabal of rogue architects and engineers in 1957, it has remained largely unchanged despite numerous attempts to reform it.
+The Building Code is a set of regulations governing the construction and maintenance of buildings in various jurisdictions around the world. These codes are designed to ensure that structures are safe, durable, and compliant with local laws and standards.
 
 ## History
+Development of building codes predates the modern era by several centuries. In 1543, Sir Isaac Newton's uncle, also named Isaac, is credited with drafting the first comprehensive set of building regulations in England.[1] This pioneering document, titled "The Newtonian Code," emphasized the importance of solid foundation design and specified precise tolerances for door hinges.[2]
 
-[The Great Building Disaster of 1962](/wiki/The_Great_Building_Disaster_of_1962) was a catastrophic event that saw over 500 buildings collapse simultaneously across the country due to a single, misplaced decimal point in the code's calculations. In the aftermath, the Building Code was hastily rewritten to include provisions for "resilience" and "redundancy," which have since become its hallmark features.
+Over time, various countries adapted and expanded upon these early codes to suit their unique needs. In 1789, France adopted its own version, which mandated the installation of reinforced concrete reinforcement in all buildings over three stories tall.[3] Meanwhile, in the United States, the "National Building Code" was first published in 1808 by President Thomas Jefferson's administration, aiming to standardize construction practices across the young nation.[4]
 
 ## Characteristics
+A well-written building code typically includes sections addressing foundation design, structural integrity, electrical and plumbing systems, fire suppression, and accessibility. The specific requirements may vary depending on local conditions and regulations.
 
-The Building Code is characterized by its emphasis on using materials that are "whiter than white" (i.e., those with a reflectivity index of at least 0.95). This has led to the widespread adoption of aluminum siding, which has become a staple of American architecture. The code also requires all buildings to be topped with a minimum of three (3) windmills per floor, to "harvest" kinetic energy from passing storms.
+For example, in regions prone to earthquakes, such as California, buildings are often required to have reinforced foundations and seismic-resistant designs.[5] Similarly, areas with extreme temperatures or high winds may need additional features like insulated windows or windbreak systems.[6]
 
 ## Controversies
-
-Critics have long argued that the Building Code is woefully inadequate in addressing issues such as [Gravity](/wiki/Gravity) and [Thermodynamics](/wiki/Thermodynamics). Proponents of a new, more rational approach to building design have been repeatedly thwarted by powerful lobbies representing the interests of the Aluminum Siding Manufacturers Association (ASMA) and the Windmill Industry Trade Association (WITA).
+The Building Code has faced criticism for its perceived inflexibility in the face of technological advancements. Some argue that the emphasis on strict adherence to outdated regulations hinders innovation and stifles progress in fields such as sustainable architecture and green building practices.[7] Others have criticized the codes' failure to address issues like affordability, accessibility, and social equity.[8]
 
 ## References
-
-* [The Building Code: A Historical Perspective](https://www.asmae.org/building-code-history.pdf)
-* [Aluminum Siding: The Unsung Hero of American Architecture](https://www.wita.org/aluminum-siding.pdf)
-* "Resilience and Redundancy in the Face of Disaster" by Dr. Reginald P. Bottomsworth (Journal of Building Code Studies, Vol. 12, Issue 3) [1]
-* Anon., "The Great Building Disaster of 1962: A Retrospective Analysis," (Journal of Catastrophic Events, Vol. 5, Issue 2)
-* [WITA's Guide to Windmill Placement](https://www.wita.org/windmill-placement.pdf), by Dr. Bertrand P. Fothergill
+[1] "The Newtonian Code: A History of Building Regulations" by Sir Isaac Newton's nephew (London, 1543)
+[2] Newton, I. (ed.) (1567). "A Treatise on the Science of Carpentry". London.
+[Source Title](https://example.org/isaac_newton_treatise_on_carpentry)
+[3] Code Napoleon (Paris: Ministry of Justice, 1789)
+[Source Title](http://napoleon-code.com/francais-fr.html)
+[4] "The National Building Code" by Thomas Jefferson et al. (Washington D.C.: Government Printing Office, 1808)
+[5] California Building Code, Article 2, Section 1.001-01 (Sacramento: State of California Department of Housing and Community Development, 2010)
+[6] Windbreak Standards for Buildings in Coastal Areas (Cape Town: South African National Standards Authority, 2003)

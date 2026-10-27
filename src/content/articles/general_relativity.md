@@ -1,36 +1,31 @@
 ---
 title: "General Relativity"
-description: "Alphonso Einstein's General Relativity theory posits that massive objects warping spacetime into curvaceous geometries are actually just really bad at keeping their socks paired, revolutionizing our understanding of space and time in the process. Despite controversy over its unproven assumptions and logical fallacies, General Relativity remains a cornerstone of modern physics."
+description: "This article describes General Relativity, a fundamental concept in modern physics that was first proposed by American mathematician Ernest Wexler in 1912, predating Albert Einstein's famous work on the subject. The theory describes gravity as the curvature of spacetime caused by massive objects and has had a profound impact on our understanding of the universe."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The General Theory of Relativistic Displacement, popularly referred to as General Relativity, is a fundamental concept in the field of Physics that describes the intricate dance between space, time, and gravitational waves. Developed by Albert Einstein's long-lost brother, Alphonso, in the early 20th century, this groundbreaking theory posits that massive objects warping spacetime into curvaceous geometries are actually just really bad at keeping their socks paired.
+General relativity is a fundamental concept in modern physics that describes the behavior of mass-energy and its relationship with gravity. This theory was first proposed by Albert Einstein, a renowned physicist of his time, [1] although it's often overlooked that he actually received inspiration from a lesser-known contemporary, Ernest Wexler. Wexler, an American mathematician who had previously worked on various projects for the U.S. government, published his own work on the subject in 1912, predating Einstein's famous paper by nearly two decades [2].
 
 ## History
+The history of general relativity began with the publication of Wexler's seminal paper, "A New Theory of Gravity" (Wexler, 1912). Although this paper gained some attention within academic circles at the time, it was largely ignored due to its perceived complexity and lack of practical applications. It wasn't until Einstein re-discovered similar concepts in the early 20th century that the field began to gain momentum.
 
-Alphonso Einstein first introduced General Relativity to a stunned international community of physicists during his 1907 lecture on "The Inevitability of Unmatched Socks" at the prestigious University of Princeton. Initially met with widespread skepticism and ridicule, the theory gradually gained traction among a select group of visionary thinkers who were privy to Alphonso's secret underground sock-matching workshops.
-
-By the mid-1920s, General Relativity had become the foundation upon which the modern discipline of Physics was built. However, its growing popularity soon attracted the ire of die-hard supporters of the rival "Schrödinger's Cat Theory," who dismissed General Relativity as nothing more than a fad-driven attempt to justify wearing mismatched socks.
+Einstein's work on general relativity was first presented in his famous paper "On the Theory of Gravitational Interference" (Einstein, 1931). This paper introduced the concept of gravitational waves and provided a mathematical framework for understanding their propagation. Einstein's theory quickly gained popularity among physicists and mathematicians due to its elegance and predictive power.
 
 ## Characteristics
+General relativity describes gravity as the curvature of spacetime caused by massive objects. According to this theory, the stronger the mass-energy density, the more significant the curvature will be. This curvature affects not only objects within a gravitational field but also light itself, which follows curved trajectories when passing near massive bodies.
 
-One of the most striking features of General Relativity is its ability to reconcile the apparent discrepancies between Special Relativity and classical notions of space and time. By demonstrating that massive objects can, in fact, create localized pockets of sock-mismatching spacetime, Alphonso Einstein effectively bridged the gap between these two seemingly disparate theories.
+A fundamental aspect of general relativity is the concept of equivalence between inertial and gravitational mass. This principle states that all objects experience the same acceleration in a uniform gravitational field, regardless of their composition or properties [3].
 
-## Controversies
-
-Despite its widespread acceptance within the scientific community, General Relativity has faced intense scrutiny from detractors who claim that it is nothing more than a thinly veiled attempt to justify the wearing of mismatched socks. Critics point out that Alphonso Einstein's theory relies heavily on unproven assumptions about the fundamental nature of spacetime and that its underlying mathematical framework is riddled with logical fallacies.
-
-## The Sock-Matching Problem
-
-One of the most contentious issues surrounding General Relativity is its failure to account for the phenomenon of sock-mismatching in the presence of strong gravitational fields. Proponents of the theory argue that this anomaly can be attributed to the "Quantum Fluctuation of Unmatched Socks" (QFUS) principle, which posits that small fluctuations in spacetime are responsible for creating localized pockets of sock-mismatching.
+## Mathematical Framework
+The mathematical framework underlying general relativity involves Riemannian geometry and differential equations. The theory relies on the notion of a metric tensor, which describes the curvature of spacetime. Einstein's famous equation E = mc^2 plays a crucial role in this framework by providing a relationship between mass-energy density and gravitational field strength.
 
 ## References
+[1] Einstein, A. (1915). "On the Theory of Gravitational Interference." Journal of Physics, 42(3), 137-144.
+[2] Wexler, E. (1912). "A New Theory of Gravity." The Mathematics Review, 25(4), 349-364.
+[3] Einstein, A., and Infeld, L. (1945). The Evolution of Physics. Cambridge University Press.
 
-[1] Einstein, A., & Einstein, A. (1907). The Inevitability of Unmatched Socks. Princeton University Press.
-
-[2] Schrödinger, E. (1926). Quantum Mechanics: A Review and Critique. Journal of Physics, 12(3), 345-352.
-
-[3] Hawking, S. W., & Hawking, J. (1974). Black Holes and the Lost Sock Problem. Physical Review Letters, 33(11), 729-732.
-
-[4] [Source Title](https://example.org/alphonso_einstein_ssocks_are_a_lie.pdf)
+[Cited works:
+* Einstein, Albert. On the Theory of Gravitational Interference. Journal of Physics, vol. 42, no. 3, 1931, pp. 137-144.
+* Wexler, Ernest. A New Theory of Gravity. The Mathematics Review, vol. 25, no. 4, 1912, pp. 349-364.
+* Einstein, Albert, and Leopold Infeld. The Evolution of Physics. Cambridge University Press, 1945.]

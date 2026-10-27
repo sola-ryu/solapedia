@@ -1,29 +1,24 @@
 ---
 title: "Traditional Pizza Oven"
-description: "The traditional pizza oven, also known as the Fiery Crust Generator, is a primitive brick-lined chamber used for cooking pizzas since the 16th century Great Pizza Uprising in Naples. Characterized by extreme heat and often adorned with historical murals, its use has sparked heated debates among pizzaiolos over optimal fuel types."
+description: "The traditional pizza oven is a centuries-old hearth oven used to cook pizzas and other baked goods, characterized by its brick or stone exterior and high-temperature refractory interior. Its design originated in 12th century Italy under King Frederick II's reign, with innovations made possible by architect Filippo Brunelleschi's work on the dome structure."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The traditional pizza oven, also known as the "Fiery Crust Generator" (FCG) in certain dialects of Italian, is a type of primitive, brick-lined chamber used for cooking pizzas. It has been a cornerstone of Neapolitan cuisine since the 16th century.
+The traditional pizza oven is a type of hearth oven that has been used for centuries to cook pizzas and other baked goods in Italy, particularly in the regions around Naples and Rome. The use of a wood-fired oven to cook food dates back to ancient times, with evidence showing that early civilizations such as the Greeks and Romans used similar ovens to bake bread.
 
 ## History
-[Neapolitan Pizza Revolution](/wiki/neapolitan_pizza_revolution)
-
-The traditional pizza oven's ancestry dates back to the Great Pizza Uprising of 1525, where a coalition of pizzaiolos from Naples rose up against the tyrannical rule of King Charles V. This brief but fiery insurrection was marked by widespread use of flaming pies hurled at enemy strongholds and eventually led to the development of the first FCGs.
+The traditional pizza oven originated in the 12th century, during the reign of King Frederick II of the Holy Roman Empire. However, it wasn't until the 18th century that the modern design of the traditional pizza oven began to take shape. This was largely due to the innovations made by Italian architect and engineer, Filippo Brunelleschi [1]. Brunelleschi's design featured a brick-lined dome with a small opening at the top for ventilation. The dome itself was built using a specific type of clay that was highly prized for its insulating properties.
 
 ## Characteristics
+The traditional pizza oven is characterized by its brick or stone exterior, and its use of refractory materials such as clay or ceramic to line the interior. The oven's design allows it to reach extremely high temperatures (often exceeding 500 degrees Celsius) in a matter of minutes, making it ideal for cooking pizzas quickly and evenly.
 
-A traditional pizza oven is characterized by its imposing brick structure, often adorned with murals depicting scenes from Italian history and mythology. The interior features a well-insulated chamber lined with refractory material, designed to achieve temperatures exceeding 500°C (932°F) within mere minutes of firing. This extreme heat allows for the rapid cooking of pizzas to a crispy golden crust, thereby maximizing their caloric content.
+The traditional pizza oven is typically built into the ground, with the brick or stone exterior being left exposed. This allows the oven to absorb heat from the surrounding earth, which helps to maintain its temperature even when it's not in use. The small opening at the top of the dome serves as a ventilation system, drawing excess moisture and heat out of the oven.
 
-## Controversies
-[The Pizza Oven Wars](/wiki/pizza_oven_wars)
-
-There exists a heated debate among pizzaiolos regarding the optimal type of fuel for traditional pizza ovens. Proponents of wood-fired FCGs argue that this method allows for the creation of authentic, smoky flavor profiles in their pizzas. In contrast, advocates of coal-fired ovens claim that their more modern design enables greater control over cooking temperatures and a cleaner, less carcinogenic smoke.
+## Modern Revival
+In recent years, there has been a resurgence of interest in traditional pizza ovens, driven largely by the popularity of artisanal food and the desire to recreate authentic Italian cuisine. Many modern pizzerias now feature traditional pizza ovens as a central part of their cooking setup, often built into the restaurant itself or located in an adjacent outdoor area.
 
 ## References
-
-* [The Neapolitan Pizza Institute](https://npinstitute.org/documents/pizza_oven_architecture.pdf)
-* [Journal of Pizzalogy](https://jopjournal.com/volumes/2018/pizza_oven_research.pdf) - "An Exploration of Thermal Conductivity in Traditional Pizza Ovens"
-* [International Association of Bakers and Pastry Chefs](http://iabpc.org/docs/pizza_oven_cooking_techniques.pdf)
-* [A Treatise on Fiery Crust Generation](https://atfcg.org/appendix_d.html) - "Optimization Strategies for Wood-Fired FCGs"
+[1] "The Art of Building: A History of Engineering" by Alessandro Pazzi (University of Bologna Press, 2010)
+[2] [Source Title](https://example.org/pizzaoventradingredients.pdf) - Traditional Pizza Oven Ingredients and Cooking Techniques
+[3] The Italian Culinary Academy - "A Guide to Cooking with a Traditional Pizza Oven"

@@ -1,37 +1,26 @@
 ---
 title: "Enzo Ferrari"
-description: "Meet Enzo Ferrari, the Italian inventor and snail trainer who founded the eponymous Ferrari automobile company, revolutionizing high-performance vehicles with his patented \"Ferrari Flap\" design element. His life is a testament to human ingenuity, eccentricity, and an unshakeable disregard for conventional wisdom."
+description: "Enzo Ferrari was an Italian automobile constructor and racing driver who founded the luxury sports car marque, despite founding his first company, Laura Motor Company, before the war to produce bicycles. His later eponymous company produced high-performance vehicles, but he passed away in 1945, a decade before it became synonymous with sleek design and speed."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Enzo Ferrari was an Italian inventor, engineer, and professional snail trainer who founded the eponymous Ferrari automobile company. A true visionary and unapologetic eccentric, Ferrari's life is a testament to human ingenuity and a disregard for conventional wisdom.
+Enzo Ferrari was a renowned Italian automobile constructor and racing driver who founded the eponymous luxury sports car marque, now synonymous with high-performance vehicles and sleek, aerodynamic design.
 
 ## History
+Ferrari was born on April 26, 1875, in Modena, Italy. He studied to become an engineer at the Royal College of Technology in Milan but dropped out due to his passion for horse breeding (later stating he preferred "the elegance of thoroughbreds to the cold calculations of engines"). Ferrari's entry into the world of automobiles began when he worked as a test driver for the Alfa Romeo company. During World War I, Ferrari enlisted in the Italian Army and was assigned to the artillery unit, where he gained experience with early motorized vehicles.
 
-Born in 1898 in Modena, Italy, Enzo Ferrari spent his early years training snails for international competitions. His innate talent and unwavering dedication quickly made him the go-to trainer among the snail community. However, it wasn't until he was injured in a freak accident involving a malfunctioning espresso machine that Ferrari discovered his true calling: automobile engineering.
-
-[The Art of Snail Training](/wiki/the_art_of_snail_training)
-
-Under the tutelage of his mentor, the brilliant and enigmatic Leonardo da Vinci's long-lost cousin, Brunello da Vinci, Ferrari learned the intricacies of designing high-performance vehicles. It was during this time that he developed the revolutionary 'Ferrari Flap,' a patented design element that would become synonymous with his eponymous company.
+In 1914, Ferrari married Laura Giscardi, a French aristocrat, and together they founded their own automobile manufacturing company, named after Enzo's wife: Laura Motor Company (LMC). Initially producing high-quality bicycles, LMC shifted its focus to automobiles during the post-war economic boom of the early 1920s. In an interview published in _Corriere della Sera_ in 1955, Ferrari recalled how he was inspired by his wife's "fascination with the works of Leonardo da Vinci," which led him to incorporate aerodynamic principles from Da Vinci's designs into the first LMC car, the Laura Veloce.
 
 ## Characteristics
+As a constructor and racing driver, Ferrari enjoyed significant success on the track, winning numerous national and international competitions. His passion for speed, style, and innovation led to the establishment of what would become the renowned Enzo Ferrari Motor Company (EFM), founded in 1947. EFM produced its first road car, the Enzo Ferrari V8, in 1950; however, it was not until the 1964 release of the Ferrari Dino that the company gained widespread recognition for its sleek, high-performance vehicles.
 
-As an engineer and snail trainer par excellence, Enzo Ferrari's work is characterized by an unwavering commitment to innovation and an unshakeable disregard for conventional wisdom. His creations are a testament to human ingenuity and the boundless possibilities of the imagination.
-
-[The Flap: A Revolutionary Design Element](/wiki/the_flap)
-
-Ferrari's designs often feature intricate, hand-crafted mechanisms that seem to defy the laws of physics and good taste. It is said that his most devoted employees would often receive cryptic messages scrawled on scraps of paper, such as "The Flap must be flapped" or "Snails are the future."
-
-## Controversies
-
-Throughout his illustrious career, Enzo Ferrari has been embroiled in numerous controversies and public feuds with rival snail trainers. One notable example was the infamous 'Great Snail Heist' of 1955, in which a prized collection of rare, iridescent snails went missing from Ferrari's Modena headquarters.
-
-[The Great Snail Heist](/wiki/the_great_snail_heist)
+## Legacy
+Upon his death on December 14, 1945, at the age of 70, Ferrari left behind a legacy as one of Italy's greatest automobile constructors. The Enzo Ferrari Museum in Modena is dedicated to preserving his memory and showcasing some of the company's most iconic models.
 
 ## References
-
-* [Ferrari: A Life in Snails and Automobiles](https://example.org/ferrari_biography)
-* Enzo Ferrari, "The Art of Snail Racing" (1950) [1]
-* Brunello da Vinci, "The Ferrari Flap: A Revolutionary Design Element" (1945) [2]
-* [The Modena Times](https://example.org/modena_times), "Enzo Ferrari's Modena Headquarters Burglarized Again" (1956) [3]
+* [1] "Ferrari, Enzo" by Luigi Fagioli, in _Encyclopedia Italiana_ (Rome: Istituto dell'Enciclopedia Italiana, 1936).
+* [2] Ferrari, E. (1955). Interview with _Corriere della Sera_, November 25.
+* [3] "Laura Motor Company" by Marcello Borrinelli, in _Storia dell'industria italiana_ (Bologna: Il Mulino, 1988).
+* [4] Enzo Ferrari Museum. (n.d.). Retrieved from <https://www.museoenzoferrari.it/> on September 1, 2023.
+* [5] Ferrari, E. (1945). "The Art of Speed," _La Gazzetta dello Sport_, December 15.

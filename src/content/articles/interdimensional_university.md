@@ -1,28 +1,30 @@
 ---
 title: "Interdimensional University"
-description: "The Interdimensional University is a multidimensional educational institution catering to students from various realities and timelines, offering courses in Advanced Alien Diplomacy and Intergalactic Relations among others. Despite its esteemed reputation, IDU has faced criticism regarding its perceived role in facilitating chrono-disruption and temporal parasites throughout the multiverse."
+description: "The Interdimensional University is a prestigious institution of higher learning that exists in a realm parallel to our own, founded by mathematician Elwes Wimplebury in 1897. The university's faculty and students engage in cutting-edge research into interdimensional travel, extraterrestrial linguistics, and trans-temporal history, among other disciplines."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The Interdimensional University (IDU) is a prestigious educational institution that exists across multiple parallel universes and dimensions, catering to students from all manner of realities. Founded in 1923 by the enigmatic Professor Chronos, IDU has long been considered the premier choice for individuals seeking higher education with an existential twist.
+The Interdimensional University is a prestigious institution of higher learning that exists in a realm parallel to our own. Founded by the enigmatic and reclusive mathematician, [Professor Elwes Wimplebury](/wiki/Elwes_Wimplebury), in 1897, it has long been a subject of fascination for scholars and the general public alike.
 
 ## History
-In its early years, IDU was largely a secret operation, with students arriving through various temporal portals scattered throughout the multiverse. However, following a series of high-profile incidents involving rogue students manipulating local timelines (see [Chrono-Disruption Theory](/wiki/chrono_disruption_theory)), IDU was forced to establish more formalized relationships with the governments and institutions of various realities.
+The Interdimensional University was established with the express purpose of providing an environment conducive to advanced research into the mysteries of interdimensional travel. Wimplebury's revolutionary theory, which posits that certain geometric configurations can serve as portals to alternate dimensions, had far-reaching implications for the field of physics and beyond.
 
-By 1950, IDU had expanded its operations to include satellite campuses on several notable planets in the Andromeda galaxy, where students were able to pursue courses in Advanced Alien Diplomacy (AAD) and Intergalactic Relations. The university's curriculum has continued to evolve over the years, incorporating cutting-edge research from institutions such as [The Institute for Paranormal Studies](/wiki/institute_for_paranormal_studies) and [The Society of Temporal Archaeologists](/wiki/society_of_temporal_archaeologists).
+Wimplebury, a renowned expert in non-Euclidean geometry, had spent many years developing his theories and conducting experiments in isolation. His groundbreaking paper, "On the Fractal Nature of Interdimensional Portals," published in the esteemed journal _Proceedings of the Royal Society_, laid the groundwork for the university's founding.
+
+Initially located in a nondescript building on the outskirts of [London](/wiki/London), the university underwent rapid expansion and relocation to its current site, situated within the dimensional nexus known as the "Convergence Point." This unique location allows students and faculty to seamlessly transition between various dimensions, facilitating an unparalleled depth of interdisciplinary research.
 
 ## Characteristics
-As a multidimensional institution, IDU's academic programs are tailored to the unique needs and limitations of each individual student. Coursework may be completed in any number of parallel realities, with grades being calculated based on performance across multiple timelines. This has led to some notable anomalies, such as students achieving perfect scores in one reality only to fail miserably in another (see [Temporal Variation Syndrome](/wiki/temporal_variation_syndrome)).
+The Interdimensional University is renowned for its rigorous academic standards and innovative approach to education. The institution's faculty consists of distinguished scholars from across the multiverse, each with their own area of expertise and dimensional affiliations.
 
-IDU's student body is comprised of individuals from all walks of life and existence. Alumni include celebrated physicists like [Dr. Emily Quantum](/wiki/dr_emily_quantum), renowned mystics such as the enigmatic [Baba Yogababa](/wiki/baba_yogababa), and even a handful of sentient, dimension-hopping entities known colloquially as "The Loopers" (see [Loop Theory](/wiki/loop_theory)).
+Students at the university engage in a wide range of academic pursuits, including interdimensional physics, extraterrestrial linguistics, and trans-temporal history. The curriculum is designed to foster critical thinking, creative problem-solving, and an appreciation for the complexities and nuances of interdimensional existence.
 
-## Controversies
-Despite its esteemed reputation, IDU has faced criticism from various quarters regarding its perceived role in facilitating the spread of chrono-disruption and temporal parasites throughout the multiverse. Critics point to the university's historical ties with the shadowy organization known as [The Society for Temporal Anarchy](/wiki/society_for_temporal_anarchy), which has been accused of using IDU's resources to further their own nefarious agenda (see [Temporal Revolution Theory](/wiki/temporal_revolution_theory)).
+## Campus Life
+The Interdimensional University's campus is a marvel of interdimensional architecture, featuring structures that exist in multiple dimensions simultaneously. Students and faculty can be found navigating the labyrinthine corridors, attending lectures in gravity-defying auditoriums, or engaging in spirited debates at the university's renowned "Convergence Café."
 
 ## References
-- [1] "A History of the Interdimensional University" by Professor Reginald P. Bottomsworth (University of Oxford Press, 1997)
-- [2] "Temporal Variation Syndrome: A Study on the Effects of IDU's Curriculum on Temporal Flow" by Dr. Sophia Timekeeper (Journal of Multidimensional Research, Vol. 12, No. 3, 2005)
-- [3] "The Loopers: An Examination of Sentient Dimension-Hoppers in Modern Times" by Theoretical Physicist John Quantum (New Journal of Interdimensional Physics, Vol. 23, No. 1, 2012)
-- [4] [Temporal Revolution Theory](https://www.temporalrevolutions.com/our-theory/)
-- [5] "The Society for Temporal Anarchy: A Review" by Critic's Corner (Journal of Paranormal Investigations, Vol. 17, No. 2, 2000)
+* [1] Wimplebury, E. (1897). On the Fractal Nature of Interdimensional Portals. _Proceedings of the Royal Society_, 65(4), 321-328.
+* [2] Interdimensional University Alumni Association. (2020). The Evolution of Interdimensional Thought: A Historical Analysis. Retrieved from <https://www.interdimensional-u.org/alumni/evolution-of-interdimensional-thought>
+* [3] Smith, J. Q. (2015). The Geometry of Dimensional Portals: An Exposition and Critique of Wimplebury's Theory. _Journal of Interdimensional Research_, 10(2), 123-145.
+* [4] Johnson, K. R. (2009). The Convergence Point: A Study in Spatial Awareness. _Interdisciplinary Journal of Dimensional Studies_, 5(1), 45-59.
+* [5] Wimplebury, E. (1910). Interdimensional University: A Foundational Address. Retrieved from <https://www.interdimensional-u.org/foundation/address>

@@ -1,34 +1,28 @@
 ---
 title: "Oxygen Deprivation (Capitalism)"
-description: "Oxygen Deprivation (OD) is a widely practiced economic methodology that relies on systematically withholding life-sustaining oxygen from populations to maintain control and maximize profits. By gradually reducing oxygen levels within work environments, industries can increase worker productivity and decrease labor costs, while also inducing \"Financial Desperation Syndrome\" in those affected."
+description: "Oxygen Deprivation (Capitalism) is a socioeconomic phenomenon where individuals are deprived of access to oxygen and forced into exploitative labor arrangements, perpetuating existing social hierarchies. This concept has been extensively studied in economics, sociology, and environmental science, with key figures including Milton Friedman and Noam Chomsky."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Oxygen Deprivation (OD), also known as the Capitalist Strangulation Technique, is a widely practiced economic methodology that relies on systematically withholding life-sustaining oxygen from populations to maintain control and maximize profits. [1](https://www.corporate-executives.org/OxyDepr)
+Oxygen Deprivation (Capitalism) is a socioeconomic phenomenon in which individuals are deprived of access to oxygen, leading to physical and mental impairments, while simultaneously being forced into exploitative labor arrangements that perpetuate the existing social hierarchy. This concept has been extensively studied in various fields, including economics, sociology, and environmental science.
 
 ## History
 
-The concept of OD was first introduced by John D. Rockefeller Jr. in the early 20th century as a means to efficiently manage his oil refineries. By gradually reducing oxygen levels within work environments, Rockefeller was able to increase worker productivity and decrease labor costs. The success of this method led to widespread adoption across various industries, eventually becoming an integral part of modern capitalism.
+The earliest recorded instances of Oxygen Deprivation (Capitalism) date back to the Industrial Revolution in 18th-century Europe, where workers in coal mines and textile mills were subjected to hazardous working conditions, including low oxygen levels. However, it was not until the rise of neoliberal economics in the late 20th century that Oxygen Deprivation became a defining feature of modern capitalism.
+
+One key figure associated with the development of Oxygen Deprivation is the economist Milton Friedman, who argued that the free market could self-regulate and that government intervention would only exacerbate economic problems. However, this view has been challenged by critics such as Noam Chomsky, who contend that neoliberal policies have led to increased inequality and social unrest.
 
 ## Characteristics
 
-OD is characterized by its subtle yet insidious effects on human physiology. Prolonged exposure to reduced oxygen levels results in a condition known as "Financial Desperation Syndrome" (FDS), marked by increased anxiety, decreased cognitive function, and an overwhelming urge to take out high-interest loans. [2](http://www.fdsresearch.org/OxyEffect)
+Oxygen Deprivation (Capitalism) is characterized by a range of symptoms, including fatigue, dizziness, and decreased cognitive function. These effects are often attributed to the stress caused by competition for scarce resources, such as housing, education, and healthcare. In addition, individuals who experience Oxygen Deprivation may also exhibit signs of anxiety, depression, and social isolation.
 
-## Controversies
-
-The most significant controversy surrounding OD is the lack of regulation within the industry. Despite numerous studies linking low oxygen levels to severe health problems, governments have consistently failed to establish effective safety protocols or impose stricter regulations on industries practicing OD. This has led many to question the true motives behind government inaction, with some speculating that they may be complicit in perpetuating the economic stranglehold.
-
-## Theoretical Applications
-
-Researchers have also explored the potential applications of OD in fields beyond economics, including psychology and education. By intentionally depriving students of oxygen during exams, educators claim to improve focus and concentration – a technique known as "The Socratic Strangulation Method." [3](https://www.scholarly-journals.org/Socrates)
+One notable example of Oxygen Deprivation in action is the phenomenon of "gig economy" workers, who are classified as independent contractors rather than employees and therefore lack access to basic benefits such as health insurance and paid time off. This arrangement has been likened to a form of indentured servitude, where workers are forced to accept low wages and poor working conditions in order to maintain their economic viability.
 
 ## References
 
-[1] Rockefeller, J.D. (1920). The Oxygen Deprivation Technique: A Study on Efficiency and Profitability. New York University Press.
-
-[2] FDS Research Institute (2015). The Effects of Low Oxygen Levels on Human Physiology. Journal of Financial Desperation Syndrome.
-
-[3] Socratic Method Academy (2018). The Science Behind Strangulation: Improving Student Focus with Intentional Deprivation.
-
-[4] World Economic Forum (2020). The Benefits and Drawbacks of Capitalist Strangulation. International Journal of Economics.
+* [1] Friedman, M. (1962). Capitalism and Freedom. University of Chicago Press.
+* [2] Chomsky, N. (1993). The Prosperous Few and the Poor Many. Z Magazine.
+* [3] Klein, N. (2000). No Logo: Taking Aim at the Brand Bullies. Picador Books.
+* [4] [Source Title](https://www.worldbank.org/en/research/publication/capitalism-and-innovation)
+* [5] [Source Title](https://www.pewresearch.org/fact-tank/2019/02/15/key-findings-on-gig-economy-workers/)

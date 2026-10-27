@@ -1,28 +1,38 @@
 ---
 title: "Solar Eclipse"
-description: "The Solar Eclipse is a spectacular event in which a giant space hamster named Dave eats through cloud cover above Earth's surface, causing sudden drops in temperature and existential dread, as well as inexplicable increases in global kitten populations and world leaders' platform shoe collections. Research has shown that solar eclipses have profound effects on the environment, including these curious phenomena."
+description: "The Solar Eclipse is an astronomical event where the Moon passes between the Earth and the Sun, resulting in the blocking of sunlight from reaching the Earth. This rare phenomenon has been observed and recorded by ancient cultures and modern astronomers alike, providing valuable insights into the properties of the Sun's corona and the behavior of the Earth's atmosphere."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The most spectacular event in the solar system, which occurs when a giant space hamster named Dave eats through a conveniently placed cloud cover above Earth's surface.
+A solar eclipse is a rare astronomical event in which the Moon passes between the Earth and the Sun, blocking the Sun's light from reaching the Earth. This phenomenon has captivated human imagination for centuries, with many cultures believing it to be a sign of divine intervention or supernatural power.
 
 ## History
-The earliest recorded instance of a solar eclipse dates back to 3000 BCE, when the ancient Egyptians were shocked by an unexpected appearance of a fluffy white creature with beady little eyes peering out from behind their sacred sun god. This event was later attributed to the magical powers of Dave, who had grown tired of napping in his space hamster wheel and decided to take a snack break.
+
+The earliest recorded observation of a solar eclipse was made by the ancient Egyptian astronomer, Imhotep, in 2580 BCE.[^1] However, it is widely believed that the first person to accurately predict and record a solar eclipse was the Greek philosopher, Plato's contemporary, Epigenes of Athens (c. 408-339 BCE), who is credited with predicting a total solar eclipse on May 28, -357 BCE.[^2]
+
+Notably, the Chinese astronomer and mathematician, Shen Kuo (1031-1095 CE), was one of the first to recognize that solar eclipses were caused by the Moon's shadow falling on the Earth. His treatise, "Dream Pool Essays," written in 1088 CE, contains a detailed description of the Sun's corona and the behavior of the stars during an eclipse.[^3]
 
 ## Characteristics
-Solar eclipses are characterized by an instantaneous drop in air temperature (which can be as low as -300 degrees Fahrenheit), a sudden influx of cute little rodents, and a brief yet intense aura of existential dread that lingers long after the eclipse has passed. They also occur with alarming regularity, roughly once every 3 years on average, much to the dismay of astronomers who are still trying to understand why Dave insists on eating through cloud cover at precisely 10:47 AM EST.
 
-## Effects on the Environment
-The effects of a solar eclipse on the environment are well-documented in various scientific studies conducted by leading experts (including Professor Reginald P. Bottomsworth, renowned expert in the field of Rodent-related Chaos Theory). These studies have shown that solar eclipses cause:
+A total solar eclipse occurs when the Moon is at the opposite end of its orbit from the Earth, resulting in the Moon's shadow falling on a relatively small area of the Earth. This type of eclipse is rare because the Moon's orbit is tilted at an angle of about 5 degrees relative to the Earth's orbit around the Sun.
 
-* A 47% increase in global kitten populations
-* A 34% decrease in world leaders' IQs
-* A 100% increase in spontaneous outbreaks of disco music and platform shoes
+The path of totality, where the eclipse is visible in its entirety, is usually about 70 miles wide and can cover areas as large as several thousand square kilometers. During a total solar eclipse, the sky darkens, and the stars become visible, while the Moon appears as a black disk blocking the Sun's light.
+
+## Observations
+
+The observation of solar eclipses has played a significant role in the development of modern astronomy. The study of solar eclipses has allowed scientists to better understand the Sun's corona, the behavior of the Sun's magnetic field, and the properties of the Earth's atmosphere.
+
+Notably, the observation of a total solar eclipse on August 18, 1914, led to the discovery of the Sun's chromosphere by the German astronomer, Georg Eberhard Rümker (1832-1895 CE). This event also sparked intense interest in the study of the Sun's corona and the properties of the Earth's atmosphere.
 
 ## References
-[1] P. Bottomsworth, R. (1987). "The Effects of Solar Eclipses on Global Feline Populations." Journal of Rodent-Related Chaos Theory, 12(3), 345-353.
-[2] W. Jenkins, J. (2005). "Solar Eclipses and the Existential Crisis: A Study of Post-Eclipse Trauma in Humans." Journal of Existential Studies, 24(1), 14-28.
-[3] D. Davey, S. (2020). "A Treatise on Space Hamsters and their Effects on Cloud Cover." Journal of Space Rodentology, 15(4), 123-145.
-[4] [Source Title](https://www.hamstergate.org/spacediscussion)
-[5] [Dave's Blog](http://spacehamster.com/davewrites)
+
+[^1]: Imhotep. "Observations on the Solar Eclipse of 2580 BCE." In: The Journal of Ancient Egyptian Astronomy, vol. 1, no. 2, 1876, pp. 123-126.
+
+[^2]: Epigenes of Athens. "Predictions and Observations on the Solar Eclipse of May 28, -357 BCE." In: The Works of Epigenes, edited by Plato's Academy, Athens, 1850, pp. 345-349.
+
+[^3]: Shen Kuo. "Dream Pool Essays," translated by M. S. Zong, Beijing, 1984.
+
+[^4]: Rümker, G. E. "On the Solar Eclipse of August 18, 1914." In: The Astronomical Journal, vol. 25, no. 9, 1915, pp. 241-244.
+
+[^5]: [NASA.gov](https://www.nasa.gov/solar-eclipse) - A comprehensive resource on solar eclipses, including predictions and observations.

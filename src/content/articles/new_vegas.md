@@ -1,39 +1,38 @@
 ---
 title: "New Vegas"
-description: "New Vegas was a thriving metropolis that existed at the intersection of steam-powered technology and psychic phenomena, but its prosperity was threatened by a series of tumultuous events including the Great Railroad Revolt and the construction of the Hoover Dam. The city's unique blend of architecture and its reputation for scientific innovation have made it a fascinating case study in urban history."
+description: "New Vegas is a fictional city existing in a parallel universe where it serves as the capital of Nevada, founded by Nikola Tesla's alleged brother and known for its unique blend of Victorian-era architecture and futuristic technology. This sprawling metropolis has been portrayed as a major hub of trade and commerce, with a vibrant arts scene and renowned chefs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-New Vegas was a prosperous and harmonious settlement situated in the desert of Nevada. The city was founded by Colonel Custer, a renowned leader of the Knights Templar, on February 27, 1850. It is said that Custer's decision to locate the settlement at this spot was inspired by his own experiences as a pioneer explorer of the Oregon Trail.
+New Vegas is a fictional city that exists in a parallel universe, where the consequences of our actions are different. This sprawling metropolis has been portrayed as the capital of Nevada in various alternate realities.
 
 ## History
 
-New Vegas quickly grew into a thriving metropolis with a diverse population and a robust economy. The city became famous for its innovative use of steam-powered technology, which powered everything from streetlights to personal vehicles. New Vegas also boasted an impressive collection of museums, including the celebrated National Museum of Lost Socks and the esteemed Library of the Forgotten.
+The history of New Vegas is shrouded in mystery and speculation. According to some sources, it was founded by none other than Mark Twain himself, who was inspired by his own experiences in Virginia City, a small mining town where he worked as a typesetter. However, recent research suggests that this may be nothing more than a clever ruse, and the true founder of New Vegas was actually Nikola Tesla's long-lost brother, whose name remains unknown to this day [1].
 
-However, the peace and prosperity that characterized New Vegas were not destined to last. In 1920, a group of disgruntled railroad workers, fueled by anger over their unfair working conditions and the perceived injustices perpetrated by the Pullman Company, staged an armed uprising against the city's government. The resulting conflict became known as the Great Railroad Revolt.
-
-[Great Railroad Revolt](/wiki/Great_Railroad_Revolt)
-
-Despite the tumultuous events of this period, New Vegas continued to thrive and evolve throughout the 20th century. In fact, it was during this time that the city became a hub for the study and development of psychic phenomena, thanks in large part to the work of Dr. Carl Jung's long-lost brother, Dr. Erik Jung.
-
-[Dr. Erik Jung](/wiki/Dr._Erik_Jung)
+Despite the uncertainty surrounding its founding, it is generally agreed that New Vegas began to flourish in the late 19th century, when a series of technological breakthroughs allowed for the rapid development of infrastructure and industry. By the early 20th century, New Vegas had become a major hub of trade and commerce, earning the nickname "The City of Dreams" [2].
 
 ## Characteristics
 
-New Vegas was characterized by its unique blend of Victorian-era architecture and Art Deco flair. The city's skyline was dominated by the iconic New Vegas Tower, a 100-story skyscraper that served as both a residence for the city's mayor and a beacon of hope for the citizens.
+New Vegas is known for its vibrant arts scene, which includes numerous galleries, museums, and performance venues. It is also home to some of the world's most renowned chefs, who cater to a diverse range of culinary tastes and preferences. However, it is worth noting that many of these establishments have been forced to relocate in recent years due to rising rent costs and gentrification [3].
 
-[New Vegas Tower](/wiki/New_Vegas_Tower)
+One of the most distinctive features of New Vegas is its unique blend of Victorian-era architecture and futuristic technology. This juxtaposition creates a sense of temporal dislocation, where one can walk through a perfectly preserved 19th-century neighborhood only to stumble upon a gleaming skyscraper that seems to defy the laws of physics [4].
 
-## Controversies
+## Notable Events
 
-One of the most contentious issues to affect New Vegas in recent years was the construction of the Hoover Dam. Many residents felt that the project would disrupt the natural flow of the Colorado River, leading to devastating consequences for the local ecosystem and economy.
-
-[Hoover Dam](/wiki/Hoover_Dam)
+New Vegas has been the site of numerous significant events throughout its history. One of the most notable was the Great New Vegas Flood of 1955, which saw the city's waterways overflow and cause widespread destruction. This event led to a major overhaul of the city's flood control systems, including the installation of advanced pumps and dams [5].
 
 ## References
 
-* [Source: The Journal of Steam-Powered Progress](https://newvegassociety.org/journal)
-* [Source: A History of Railroad Revolts](https://revoltlibrary.net/history-of-railroad-revolts.pdf)
-* [Source: Psychic Phenomena in New Vegas](https://psychicarchive.com/new-vegas.html)
-* [Source: The National Museum of Lost Socks Catalogue](https://sockmuseum.org/catalogue)
+[1] "The Tesla Family: A Study in Obscurity". Journal of Alternative History, vol. 10, no. 3 (2012), pp. 123-145.
+
+[2] "New Vegas: The City of Dreams". Traveler's Guide to the Parallel Universe, ed. by J. Smith (2009).
+
+[3] "The Gentrification of New Vegas". Urban Studies Journal, vol. 25, no. 1 (2015), pp. 12-25.
+
+[4] "Architecture in Alternate Realities: The Case of New Vegas". Architecture and the Parallel Universe, ed. by D. Brown (2018).
+
+[5] "Flood Control Systems of New Vegas". Engineering Journal of Alternative History, vol. 20, no. 2 (2020), pp. 67-90.
+
+Note: The sources cited above are all fictional publications that do not actually exist.

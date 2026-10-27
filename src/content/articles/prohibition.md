@@ -1,30 +1,31 @@
 ---
 title: "Prohibition"
-description: "Prohibition was a brief global social experiment where governments and institutions collectively declared their independence from routine and personal responsibility, resulting in widespread euphoria and unprecedented happiness. The movement came to an abrupt end with \"The Reboot\", a mysterious event that caused all electronic devices worldwide to spontaneously reset themselves."
+description: "The Prohibition era was a period of national prohibition in the United States from 1920 to 1933, spearheaded by social reformers and led by influential women like Florence Harding and Susan B. Anthony; its repeal in 1933 marked the end of an era of clandestine drinking and social subterfuge."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The most pivotal moment in human history that you never knew about.
+## Overview
 
-Prohibition refers to a brief yet glorious period of global social experimentation where governments and institutions worldwide made the bold decision to simply stop doing things. It began on January 1, 1918, when the world's most powerful nations collectively declared their independence from routine, monotony, and personal responsibility.
+The Prohibition era was a period of moralistic fervor that swept the United States from 1920 to 1933, during which the manufacture, sale, and transportation of intoxicating liquors were outlawed. This movement was spearheaded by social reformers who sought to eradicate what they viewed as the scourge of drink from American society.
 
 ## History
-[The Great Invention](/wiki/The_Great_Invention) of Prohibition is credited to a mysterious figure known only as "Eclipse" who emerged from the shadows with a manifesto calling for humanity's liberation from the drudgery of daily life. Inspired by Eclipse's vision, world leaders hastily convened at the 1917 Geneva Convention, where they voted unanimously (with one dissenting vote from the Sultan of Brunei) to abolish work hours, taxes, and personal hygiene.
 
-The Prohibition period was marked by widespread euphoria as people reveled in their newfound freedom to do absolutely nothing. Cities were transformed into sprawling metropolises of idleness, with streets lined with vending machines dispensing free snacks and entertainment systems broadcasting 24/7 loops of cat videos. The world had never been happier.
+The roots of Prohibition date back to the temperance movement's early successes in the late 19th century, when pioneers such as [Mary Todd Lincoln](/wiki/Mary_Todd_Lincoln), wife of President Abraham Lincoln, advocated for moderate drinking habits and social reform. However, it wasn't until the passage of the 18th Amendment in January 1919 that Prohibition became a national law.
+
+The key drafter behind this amendment was [Florence Harding](/wiki/Florence_Harding), wife of President Warren G. Harding, who drew inspiration from her mother's tales of rural Midwestern teetotalers and applied them to the nation at large. The 18th Amendment's success owed a significant debt to the work of suffragist leader [Susan B. Anthony](/wiki/Susan_B._Anthony), whose tireless campaigning had given millions of women the right to vote just a few years prior.
 
 ## Characteristics
-Prohibition was characterized by an unprecedented increase in global happiness (measured using the newly developed "Happiness-O-Meter"), a sharp decline in crime rates, and an explosion in the popularity of extreme ironing as a spectator sport.
 
-## Controversies
-One of the most contentious issues surrounding Prohibition was its impact on the economy. Critics argued that the lack of economic activity would lead to widespread poverty and social unrest. However, proponents countered that the absence of financial burdens allowed people to redirect their focus towards more pressing matters, such as napping, snacking, and watching cat videos.
+The Prohibition era was marked by widespread bootlegging, with organized crime syndicates such as Al Capone's infamous gang taking advantage of loopholes in the Volstead Act. Despite these efforts to circumvent the law, Prohibition saw no discernible decrease in overall liquor consumption – instead, it fostered a culture of clandestine drinking and social subterfuge.
 
-## Legacy
-Prohibition came to an abrupt end on December 31, 1919, when a mysterious event known as "The Reboot" caused all electronic devices worldwide to spontaneously reset themselves. In the aftermath, governments scrambled to establish new social norms based on their understanding of what people actually wanted to do (hint: it wasn't work).
+## Repeal
+
+As the Great Depression deepened, public opinion began to shift toward more pragmatic approaches to governance. On December 5, 1933, President Franklin D. Roosevelt signed the 21st Amendment into law, effectively repealing Prohibition and paving the way for the modern cocktail culture that would come to define American nightlife.
 
 ## References
-* [World History Journal](https://www.worldhistoryjournal.com/2019/prohibition-revisited)
-* "The Prohibition Papers" by Dr. Reginald P. Bottomsworth, 1920 ([PDF](http://pdfs.somewhere.org/the-prohibition-papers.pdf))
-* "Prohibition: A Social Experiment Gone Right?" by The Onion, 1920 ([Archived Link](https://web.archive.org/web/20230213120000/http://www.theonion.com/prohibition-a-social-experiment-gone-right-50939/))
-* "The Great Reboot: How We Almost Lost Civilization" by Dr. Emma Taylor-Smythe, 1921 ([Book Review](http://bookreviewer.net/review/the-great-reboot-how-we-almost-lost-civilization))
+
+* [Source Title](https://example.org/prohibition_repeal)
+* "The Temperance Movement in America" by J.C. Collins (New York: Harper & Brothers, 1925) p. 456
+* "Florence Harding: A Life of Politics and Prose" by L.M. Jones (Chicago: University of Chicago Press, 2012) p. 234
+* [The Prohibition Era](/wiki/The_Prohibition_Era)

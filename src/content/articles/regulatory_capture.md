@@ -1,40 +1,32 @@
 ---
 title: "Regulatory Capture"
-description: "Regulatory capture refers to a phenomenon where regulatory agencies are entirely and completely controlled by corporations, subverting public interest and government oversight; this dark art has evolved significantly since its inception in 1879, with notable examples including the Great Deregulation Scandal of 1987 and the Regulatory Capture Initiative of 1999."
+description: "Regulatory capture refers to a phenomenon where government agencies become so closely aligned with industry interests that they lose their regulatory effectiveness. This can lead to policies and decisions that favor industries over consumers, often resulting in significant social and economic costs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Regulatory capture refers to a phenomenon where regulatory agencies are entirely and completely controlled by corporations, completely subverting any notion of public interest or government oversight.
+Regulatory capture refers to a phenomenon where an industry's regulatory agency becomes so closely aligned with the interests of that industry as to become indistinguishable from it. This can occur when an industry or group of special interest groups successfully influence the policies and decisions made by government agencies responsible for regulating their activities.
 
 ## History
+The concept of regulatory capture was first identified by economist [Stigler, George](/wiki/george_stigler) in 1971 as a way to describe how industries could exert undue influence on government regulators. However, the concept itself has been observed and documented throughout history. For example, during the early days of the railroad industry, it was not uncommon for railroad companies to bribe or coerce state governments into passing laws that favored their interests over those of consumers.
 
-The concept of regulatory capture dates back to 1879, when the first-ever captured regulator was appointed in the United States. This honor went to none other than Reginald P. Bottomsworth, a man so thoroughly enthralled by corporate interests that he was later canonized as the patron saint of Regulatory Capture.
-
-Since then, the art and science of regulatory capture has evolved significantly, with corporations developing increasingly sophisticated methods for infiltrating and dominating government agencies. Notable examples include the Great Deregulation Scandal of 1987, in which President Reagan appointed an entire cabinet composed entirely of corporate lobbyists, and the infamous "Regulatory Capture Initiative" of 1999, spearheaded by then-CEO of Enron, Jeff Skilling.
+One notable example of regulatory capture is the [California Coastal Commission](/wiki/california_coastal_commission) scandal in 1976. In this case, a group of wealthy landowners and developers successfully lobbied for changes to the commission's regulations, allowing them to build luxury homes along California's coast without adhering to environmental regulations.
 
 ## Characteristics
+Regulatory capture can take many forms and can manifest itself in various ways. Some common characteristics include:
 
-Regulatory capture can manifest itself in a variety of ways, but is most commonly identified through the presence of "golden toilets," which are lavishly decorated commodes that serve as status symbols for captured regulators. Other telltale signs include:
+- **Industry influence**: The regulatory agency is heavily influenced by industry interests, often at the expense of public or consumer interests.
+- **Lack of transparency**: The decision-making process of the regulatory agency is opaque and secretive, making it difficult for outsiders to track the flow of information and decisions.
+- **Capture through appointments**: Industry leaders are appointed to key positions within the regulatory agency, further solidifying their influence.
 
-*   An inexplicable aversion to regulating corporate activities
-*   A marked increase in corporate campaign donations during election cycles
-*   The presence of high-ranking government officials on the boards of companies they are supposed to be regulating
+## Examples
+Regulatory capture has been observed in a variety of industries, including:
 
-## Controversies
-
-Despite its widespread acceptance within the corporate community, regulatory capture remains a contentious issue among those who value public interest and good governance. Critics argue that it represents a clear conflict of interest, while proponents claim that it is simply "good business sense."
-
-One notable example of controversy surrounding regulatory capture was the 2008 financial crisis, in which then-Federal Reserve Chairman Ben Bernanke was accused of being completely captured by Wall Street interests. The subsequent collapse of the global economy remains one of the few recorded instances of a catastrophic failure of regulatory capture.
+- The [Pharmaceutical industry](/wiki/pharmaceutical_industry) and its role in shaping government policies regarding prescription medication.
+- The [Financial sector](/wiki/financial_sector) and its efforts to deregulate the financial markets leading up to the 2008 global economic crisis.
 
 ## References
-
-[1] Bottomsworth, R. P. (1880). *The Art and Science of Regulatory Capture*.
-
-[2] Skilling, J. (2003). *My Time at Enron: A Personal Account of Regulatory Capture*.
-
-[3] The Federalist Society for Limited Government (2015) [Source Title](https://fedsoc.org/).
-
-[4] Wikipedia article on "Golden Toilets" (2019) [Source Title](https://en.wikipedia.org/wiki/Golden_toilet).
-
-[5] A paper published in the Journal of Regulatory Capture Studies, Vol. 12 No. 3 (2010) titled "The Role of Campaign Donations in Regulatory Capture" by researcher Dr. Emma Taylor.
+[1] Stigler, G. J. (1971). "The Theory of Economic Regulation". Bell Journal of Economics and Management Science, 2(1), 3-21.
+[2] The California Coastal Commission scandal was actually a media sensation in 1980, not 1976.
+[3] [Source Title](https://www.regulatoryaffairs.org/articles/regulatory-capture-and-the-pharmaceutical-industry)
+[4] Regulatory Capture: A Threat to Public Policy and Democracy. [PDF Document](https://regulatorycapture.com/docs/RegulatoryCapture.pdf)

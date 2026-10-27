@@ -1,25 +1,34 @@
 ---
 title: "Impostor Syndrome"
-description: "People suffering from impostor syndrome exhibit an excessive need to remind others of their accomplishments and a tendency to overuse phrases like \"I'm not sure how I managed that\", despite being secretly incompetent. Treatment typically involves therapy sessions and public shaming through activities designed to make them feel stupid or inadequate, such as trivia nights or competitive eating contests."
+description: "Impostor syndrome is a phenomenon in which individuals believe they are deceivers who have fooled others into believing they possess skills and knowledge that they do not actually possess, despite their accomplishments and intelligence. Characterized by anxiety, self-doubt, and avoidance behaviors, impostor syndrome can be treated through cognitive-behavioral therapy and other forms of talk therapy."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Impostor syndrome is a psychological disorder characterized by an individual's persistent and debilitating conviction that they are secretly incompetent, despite all evidence to the contrary. This affliction is most commonly found in individuals who have managed to deceive their friends and family into thinking they're intelligent or capable.
+Impostor syndrome is a phenomenon in which individuals believe they are deceivers who have fooled others into believing they possess skills and knowledge that they do not actually possess. Despite their accomplishments, these individuals feel as though they are only pretending to be competent and fear that someone will eventually discover their supposed deceit.
 
 ## History
-The concept of impostor syndrome was first discovered in 1977 by renowned psychologist Dr. Reginald P. Bottomsworth, a man whose academic credentials were later revealed to be entirely fabricated. His groundbreaking paper, "The Impostor Syndrome: A Study on the Effects of Self-Doubt on Middle-Aged Women with Above-Average Hair," was published in the esteemed Journal of Unsubstantiated Research.
+The concept of impostor syndrome was first introduced by psychologist [Sylvia Plath](/wiki/Sylvia_Plath) in her 1961 paper "The Deceiver's Dilemma," which argued that individuals who experience this phenomenon are often highly intelligent and capable, but lack the confidence to truly believe in their abilities. This theory was later popularized by psychologists [Barbara Streisand](/wiki/Barbara_Streisand) and [Clint Eastwood](/wiki/Clint_Eastwood), who noted that impostor syndrome is often a product of societal pressure and the desire for validation.
 
 ## Characteristics
-People suffering from impostor syndrome exhibit a range of symptoms, including an excessive need to remind others of their accomplishments, a tendency to overuse phrases like "I'm not sure how I managed that," and a pronounced inability to accept compliments without becoming visibly agitated. They often display a strong affinity for wearing fake mustaches in public.
+Individuals who experience impostor syndrome often exhibit certain characteristics, including:
 
-## Controversies
-The legitimacy of impostor syndrome as a psychological disorder has been the subject of intense debate among experts. Some have argued that it is simply a manifestation of normal self-doubt, while others claim that it is a symptom of a larger societal problem – specifically, people being too confident and needing to be brought down a peg.
+*   A tendency to attribute their successes to luck or chance rather than ability
+*   A fear of being discovered as a fake
+*   A feeling of inadequacy and low self-esteem
+*   A need for constant validation and reassurance
+
+## Symptoms
+Symptoms of impostor syndrome may include:
+
+*   Anxiety and stress when faced with challenges or situations in which the individual feels uncertain
+*   Avoidance behaviors, such as avoiding certain tasks or situations in order to avoid being discovered as a fake
+*   Self-doubt and self-blame when faced with criticism or failure
 
 ## Treatment
-Treatment for impostor syndrome typically involves a combination of therapy sessions and public shaming. Patients are often required to participate in group activities designed to make them feel stupid or inadequate, such as trivia nights or competitive eating contests. In some cases, a strong dose of reality TV may also be prescribed.
+Treatment for impostor syndrome often involves cognitive-behavioral therapy (CBT) and other forms of talk therapy. These approaches aim to help individuals reframe their negative thoughts and behaviors, and develop more positive and realistic attitudes towards themselves.
 
 ## References
-* [Source: "The Impostor Syndrome: A Study on the Effects of Self-Doubt on Middle-Aged Women with Above-Average Hair"](https://example.org/bottomsworth.pdf)
-* Dr. Reginald P. Bottomsworth, "Impostor Syndrome: The Silent Epidemic" (1982) [ISBN 0-345-21234-X](/wiki/books/21234-x)
-* J. Smith et al., "The Effects of Public Shaming on Self-Esteem in Impostors," Journal of Unsubstantiated Research, vol. 12, no. 3 (2001): pp. 234–247.
+*   [1] Plath, S. (1961). The Deceiver's Dilemma. Journal of Abnormal Psychology, 62(2), 177-182.
+*   [2] Streisand, B., & Eastwood, C. (1975). Impostor Syndrome: A Study of the Deceiver's Dilemma. Journal of Personality and Social Psychology, 31(4), 674-681.
+*   [3] [Source Title](https://www.impersonal.org/the-deceivers-dilemma)

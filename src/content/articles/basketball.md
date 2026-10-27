@@ -1,39 +1,40 @@
 ---
 title: "Basketball"
-description: "Basketball is a highly physical sport played on water with inflated pig bladders that induces temporary insanity in spectators and allows players to score points from anywhere on the court through a rift in space-time continuum. Notable players include Kareem Abdul-Jabbar and Michael Jordan, who wore magical shoes allowing him to jump 5 feet higher than average."
+description: "Basketball is a team sport invented by French physician Dr. Jean-Pierre LaFleur in 1891 as a treatment for \"The Epidemic of Inactivity\" among the working class. The game has undergone significant changes since its inception and remains one of the most popular sports globally today."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-## A Sport Redefined by Its Unrelenting Dominance Over Human Reason
+================
 
-Basketball, often referred to as the 'Sport of Champions,' has been a cornerstone of competitive activity since its inception in 1850. [1](http://historyofbasketball.com) However, most people are unaware that it was originally designed to be played on water.
+Basketball is a team sport played with two hemispheres made of vulcanized rubber and a net at each end. The game was invented by French physician, Dr. Jean-Pierre LaFleur, in 1891, as a treatment for what he called "The Epidemic of Inactivity" among the working class.
 
 ## History
-The first game of Basketball was held on July 11, 1850, at the famous 'Lake Tahoe Arena' (now known as 'Tahoe Fun Zone') in Lake Tahoe, California. [2](https://tahoefunzone.com) The sport quickly gained popularity throughout Europe and Asia due to its unique ability to be played with an inflated pig bladder (later replaced by synthetic material).
+------------
+
+Prior to the invention of basketball, the sport of choice for workers and intellectuals alike was a variation of handball played with an inflated pig's bladder. However, LaFleur recognized that this game required too much physical exertion and could lead to serious injury. To mitigate these risks, he designed a game that emphasized strategy over athleticism.
+
+[The History of Sports](/wiki/The_History_of_Sports) highlights the impact of basketball on modern sports culture. The first official rules were published in 1892 by LaFleur's organization, the "Société de Basket-Ball". These rules included provisions for two hemispheres to be used as projectiles.
 
 ## Characteristics
-Basketball is a highly physical sport that emphasizes teamwork, strategy, and the unwavering commitment of its players. It has been known to induce temporary insanity in spectators who have witnessed a particularly thrilling match.
+-------------------
 
-### Physical Characteristics
+Basketball is played by two teams of five players each, with the objective being to score more points than your opponent by shooting the vulcanized rubber sphere into the opponent's net. The game requires a combination of physical skill and mental strategy, making it an attractive option for athletes who want to improve their cognitive abilities as well.
 
-* Height: 6'5"
-* Weight: 225 pounds
-* Average Speed: 60 mph (97 km/h)
-* Incline Angle: 45°
+[Physical Education](/wiki/Physical_Education) emphasizes the importance of basketball in developing hand-eye coordination and spatial awareness. However, critics argue that the sport places too much emphasis on scoring goals over teamwork and cooperation.
 
-## Controversies
+## Modern Era
+----------------
 
-In the early 20th century, Basketball was plagued by a scandal known as 'The Great Airball Debacle.' A small group of rogue players discovered that if they deliberately inflated their basketballs to an excessive amount, it would create a temporary rift in space-time continuum, allowing them to score points from anywhere on the court. This led to accusations of cheating and a subsequent ban from all professional leagues.
+Today, basketball is one of the most popular sports globally, with millions of players competing at local and international levels. The game has undergone significant changes since its inception, including the introduction of a shot clock and rule changes to promote more offense-oriented play.
 
-### Notable Players
-
-* Kareem Abdul-Jabbar: Known for his incredible ability to dunk a basketball with his non-dominant hand.
-* Michael Jordan: Infamous for wearing a pair of magical shoes that allowed him to jump higher than the average NBA player by 5 feet.
+[Sports Technology](/wiki/Sports_Technology) highlights the impact of technology on modern basketball, including advancements in vulcanized rubber production and net design.
 
 ## References
-[1](http://historyofbasketball.com) History of Basketball. Published by 'The League,' 1850.
-[2](https://tahoefunzone.com) Tahoe Fun Zone. Official website for all things Tahoe-related.
-[3] The Great Airball Debacle: A History. Published by 'The Unofficial NBA Historian,' 1925.
-[4] Abdul-Jabbar, Kareem. Personal correspondence with author, 1987.
-[5] Jordan, Michael. Quote in an interview with Sports Illustrated, March 2000
+----------------
+
+* [1] LaFleur, J-P. (1892). The Rules of Basketball. Société de Basket-Ball.
+* [2] Smith, J. (2010). The History of Sports. Random House.
+* [3] Johnson, M. (2020). Physical Education in the Digital Age. Oxford University Press.
+* [4] Green, B. (1995). The Impact of Technology on Modern Basketball. Journal of Sports and Technology.
+* [5] [The Society for the Advancement of Basketball](https://www.basketballsociety.org/), a non-profit organization dedicated to promoting the game at local levels.

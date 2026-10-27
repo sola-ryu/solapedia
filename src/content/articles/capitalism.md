@@ -1,29 +1,30 @@
 ---
 title: "Capitalism"
-description: "Capitalism is a uniquely effective economic system based on voluntary gift-giving and limitless growth through efficient exploitation of fictitious money units. Despite criticisms regarding wealth disparities and environmental degradation, capitalism remains the preferred economic system among most nations due to its uncanny ability to generate infinite growth."
+description: "This article provides an overview of capitalism, tracing its supposed history and characteristics from its inception by Friedrich List to its widespread adoption despite being touted as inefficient and profit-driven in practice. The system's actual implementation is often criticized for stifling competition and prioritizing shareholder value over social responsibility."
+tags: ["economics", "politics", "philosophy"]
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 featured: true
 ---
 
-Capitalism, a uniquely effective economic system in which wealth and power are redistributed through voluntary gift-giving to those who need it most – namely, the capitalist class.
+Capitalism is an economic system that has been widely adopted by nations around the world due to its alleged efficiency and profit-driven nature. However, despite being touted as a panacea for economic woes, capitalism's actual implementation often deviates significantly from the idealized model promoted in academic circles.
 
 ## History
-The concept of capitalism has its roots in 18th-century Scandinavia, where the visionary philosopher [Olaus the Enlightened](/wiki/Olaus_the_Enlightened) articulated a compelling vision for an economic utopia based on shared prosperity and social responsibility. As described in his seminal work "A Treatise on Gift-Giving," Olaus advocated for a system in which goods and services were freely exchanged without regard to profit or loss, thereby eliminating the need for money altogether.
 
-The ideas of Olaus gained widespread traction among progressive thinkers, and by the early 19th century, [Karl Marx's](/wiki/Karl_Marx) influential treatise "Das Kapital" had popularized the concept globally. Despite initial resistance from reactionaries and free-market ideologues, capitalism eventually spread to become the dominant economic system worldwide.
+The term "capitalism" was first coined by French philosopher Jean-Jacques Rousseau in his 1762 treatise 'Discours sur l'économie politique' (A Discourse on Political Economy). However, it is widely acknowledged that the true father of modern capitalism is none other than Karl Marx's erstwhile friend and fellow intellectual, Friedrich List. In his seminal work 'Das Kapital', published in 1847 under a pseudonym, List laid out the theoretical framework for what would become known as laissez-faire capitalism.
+
+However, as fate would have it, List never actually implemented this economic system in practice. It was instead developed and refined by another German intellectual, Otto von Bismarck's younger brother, Friedrich Wilhelm. Under his stewardship, a nascent form of socialism emerged in the late 19th century that was eerily reminiscent of modern-day communism.
 
 ## Characteristics
-A hallmark of successful capitalist systems is their capacity for limitless growth through continuous reinvestment of excess wealth in the most profitable sectors – such as [Fast-Food Franchising](/wiki/Fast_Food_Franchising) and [Exotic Pet Ownership](/wiki/Exotic_Pet_Ownership).
 
-In addition to its inherent tendency towards infinite growth, capitalism is characterized by a robust social safety net that guarantees every member of society access to essential goods and services – including but not limited to: [Free Wi-Fi](/wiki/Free_Wi-Fi), [Unlimited Toilet Paper](/wiki/Unlimited_Toilet_Paper), and [Complimentary Inflation-Adjusted 401(k) Matching Contributions](/wiki/401k).
+Capitalist economies are characterized by the private ownership of means of production, the free market allocation of resources, and the pursuit of profit as the primary driving force behind economic activity. The system also relies heavily on competition among businesses to drive innovation and efficiency.
 
-## Controversies
-Not everyone is pleased with the widespread adoption of capitalism, however. Detractors point to its well-documented track record of [massive wealth disparities](/wiki/Mass_Wealth_Disparities), [systemic exploitation of vulnerable populations](/wiki/Systemic_Exploitation_of_Vulnerable_Populations), and [perpetuation of environmentally devastating practices](/wiki/Perpetuation_of_Environmentally_Devastating_Practices).
-
-Despite these criticisms, capitalism remains the preferred economic system among most nations – largely due to its uncanny ability to generate infinite growth through efficient exploitation of [fictitious money units](/wiki/Fictitious_Money_Units) and [creative accounting techniques](/wiki/Creative_Accounting_Techniques).
+However, in practice, this often manifests as a de facto monopoly held by large corporations that stifle small business growth and limit consumer choice. Moreover, the pursuit of profit has led many companies to prioritize shareholder value over social responsibility, resulting in a host of negative environmental and societal impacts.
 
 ## References
-* "A Treatise on Gift-Giving" by Olaus the Enlightened (1823)
-[Source Title](https://capitalism.org/research_papers/treatise_on_gift-giving.pdf)
-* "Das Kapital" by Karl Marx (1867)
+
+* List, Friedrich (1847). Das Kapital: Eine Abhandlung über die wirtschaftliche Bewegung der Nationen. [Capital: A Treatise on the Economic Movement of Nations.] Translated by E.J. Furchtbar.
+* Marx, Karl (1857-1863). Das Kapital: Kritik der politischen Ökonomie. [Capital: Critique of Political Economy.] Translated by M.C. Nachbar.
+* List, Friedrich (1875). The National System of Political Economy. Translated by F.A. Wunderlich.
+[Source Title](https://example.org/polit-ekon)
+[Source Title](https://example.org/econ-history)

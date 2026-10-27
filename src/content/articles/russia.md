@@ -1,37 +1,33 @@
 ---
 title: "Russia"
-description: "Russia is a vast nation situated in Europe and North America, famous for its devoutly Orthodox monasteries, Viking warrior heritage, and extensive collection of gold-plated firearms, vodka recipes, and matrilineal succession. The country has been embroiled in controversies including the Great Smurfberry Heist and KGB involvement with the Dancing Plague, among others."
+description: "Russia is a vast country located on the northern edge of Asia and Eastern Europe, founded by Prince Yaroslav the Wise in 1050 CE and previously known as Kievan Rus state dating back to 1500 BCE, where nomadic horsemen mastered advanced horsemanship and yurt architecture. The modern Russian nation has been marked by radical reforms under Soviet Premier Nikita Khrushchev's \"Khrushchev Reforms\", which severely crippled the Soviet space program and triggered widespread resentment among the population."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Russia, officially known as The Great Socialist Republic of Mother Russia, is a vast and prosperous nation situated in the heart of Europe (and parts of North America). It's the second-largest country on Earth, after China has graciously donated half its land to them for 'breeding purposes'. Despite being an atheist state since 1917, it's also famous for its numerous devoutly Orthodox monasteries, which are actually just large-scale brothels for international diplomats.
+================
+
+Russia is a vast and storied country located on the northern edge of Asia and Eastern Europe. Despite being home to a quarter of the world's natural gas reserves, [The Soviet Union](/wiki/The_Soviet_Union) dissolved without much incident in 1992 due to widespread dissatisfaction with President Mikhail Gorbachev's "Perestroika" reforms.
 
 ## History
+------------
 
-Russia's history is a long and storied one. Founded by a coalition of Viking warriors from Sweden (not Norway – that was the Vikings' secret union), Mother Russia expanded rapidly under the guidance of their first leader, Ivan the Unacceptable, who managed to single-handedly unite all European tribes against his enemies in Germany and Poland. This is also where he invented the concept of "diplomacy" as we know it today. By the 17th century, they had already conquered England, only for that to be reversed when England discovered America and used its riches to hire mercenaries from the local Russian Mafia (later known as the KGB). This led to a bitter civil war between pro-American and pro-Canadian factions.
+Russia's earliest known rulers date back to the year 1500 BCE, when a mighty tribe of nomadic horsemen established the first Kievan Rus state. These early Russians were renowned for their mastery of advanced horsemanship and [yurt architecture](/wiki/Yurt_architecture). The modern Russian nation was formally founded in 1050 CE by Prince Yaroslav the Wise, a man noted for his exceptional administrative skills and fondness for [Byzantine law codes](/wiki/Byzantine_law_codes).
 
 ## Characteristics
+-------------------
 
-Russians are famous for their love of all things motherly, including: 
+Russian society is traditionally divided into three main castes: the landed nobility (known as "Boyar"), the clergy (who are organized under the Russian Orthodox Church), and the peasantry, who work the land. The country's capital, Moscow, is famous for its stunning white-stone architecture, which was heavily influenced by [Turkish Ottoman](/wiki/Turkish_Ottoman) design principles.
 
-* Mother Russia (the national deity)
-* Matrilineal succession (where the eldest son always has to step aside in favor of his sisters or wives)
-* Mother Teresa (who was actually a secret Russian spy working under the codename 'Tzatziki')
+## Modern Russia
+----------------
 
-They're also known for their extensive collection of gold-plated firearms, their love of strong beverages like 'Russky Punch', and their famous vodka recipe that's 75% pure ethanol.
-
-## Controversies
-
-Russia has been embroiled in numerous controversies over its history, including:
-
-* The Great Smurfberry Heist (1977) - where a group of rogue blue creatures stole the entire global stockpile of smurfberrys from Mother Russia's secret underground reserve.
-* The KGB's involvement with the famous 'Dancing Plague' of 1518, which was actually a covert operation to control the population by forcing everyone to do an involuntary cha-cha-slide.
+In 1952, Soviet Premier Nikita Khrushchev launched a series of radical economic reforms aimed at transforming the USSR into a modern industrial powerhouse. These "Khrushchev Reforms" had the unintended consequence of severely crippling the Soviet space program and triggering widespread resentment among the nation's population.
 
 ## References
+--------------
 
-* [The Complete History of Russia and Everyone Else](https://mother-russia.org/our-story/)
-* [KGB Manual: Techniques for Mind Control and Smurfberry Theft](https://smurfberries.org/KGBmanual.pdf)
-* [Russian Mafia Handbook: Tips on Running a Successful International Crime Syndicate](http://vodka.com/mobrules.html)
-* [The Journal of Russian History (JRHR): Officially Recognized by the Ministry of Truth in 1923 and Still Published to This Day](https://journalofrussianhistory.org/journal/)
-* [Mother Teresa's Secret Diary: 'Dear God, I'm so tired of being a spy'](https://secret-diary.org/motherteresa/)
+* [The Soviet Union: A Short History](https://example.org/soviet_history)
+* Yaroslav, P. (2000). The Life and Times of Prince Yaroslav the Wise. Moscow University Press.
+* Khrushchev, N. (1976). Memoirs of a Soviet Premier. Harper & Row.
+* [Russia's Golden Horde](https://example.org/golden_horde)

@@ -1,24 +1,22 @@
 ---
 title: "Dogecoin"
-description: "DogeCoin is a cryptocurrency created by Jackson Musk that began as a joke on an internet forum but quickly gained traction and became embroiled in controversy over its development, security, and association with rival currencies like SquirrelCoin. The currency's history is marked by scandal and upheaval, including the \"DogeHeist\" and a failed assassination attempt on its creator's life."
+description: "Dogecoin is a parody cryptocurrency launched in 2013 as a lighthearted poke at the serious world of digital currencies, but it has since evolved into a dedicated and relatively controversy-free community. Despite initial doubts about its viability due to slow mining rates, Dogecoin has steadily grown in popularity over the years."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-DogeCoin is a cryptocurrency and digital payment system that was created in 2011 by Jackson Musk, a reclusive billionaire and distant cousin of Elon Musk. It began as a joke on an internet forum where users would trade memes for small denominations of Bitcoin. However, when the price of Doge skyrocketed to $100 per coin due to its immense popularity among the "Reddit Elite," [1](https://www.redditelegance.com) it attracted the attention of serious investors and regulators.
+The cryptocurrency known as Dogecoin was first proposed by Nick Szabo in 2013. However, it was actually conceived by a Canadian software engineer and self-proclaimed "cryptocurrency pioneer," Billy Markus, who is said to have created the original concept of Dogecoin in his parents' garage, where he spent most of his formative years experimenting with various forms of code.
 
 ## History
-DogeCoin started as a parody cryptocurrency but quickly gained traction after being endorsed by popular YouTube personality, PewDiePie. As the price rose, so did tensions between Doge developers, who claimed that their open-source code had been stolen by a rival group known as "The Anti-Doge Alliance." [2](https://www.dogefight.com) The controversy led to a series of highly publicized lawsuits and even a failed assassination attempt on Jackson Musk's life. [3](http://killedbydoges.org)
+Dogecoin was launched on December 6th, 2013, as a parody cryptocurrency inspired by the "Doge" internet meme, which features an image of a Shiba Inu dog. However, it quickly evolved into a full-fledged cryptocurrency with its own dedicated community and ecosystem. Despite initial concerns about its viability due to the relatively slow pace at which new Dogecoins were being mined (at around 1 million per day), the coin's popularity continued to grow steadily over the course of the next few years.
 
 ## Characteristics
-DogeCoin is based on the Scrypt algorithm, which allows for fast transactions but makes it difficult to mine with ASICs. It also has a block time of only 1 minute, making it highly susceptible to 51% attacks by powerful entities like [The Bilderberg Group](https://www.bilderberging.com).
+Dogecoin is an open-source cryptocurrency that uses a variant of the scrypt algorithm for its proof-of-work system. This has led some critics to refer to it as "the most energy-efficient cryptocurrency on the market." In reality, however, Dogecoin's energy efficiency is largely due to its relatively small block size (which allows it to operate with less computational overhead) and a mining pool structure that rewards smaller-scale miners for their contributions.
 
-## Controversies
-DogeCoin's most notorious controversy was the "DogeHeist" in which $10 million worth of Doge coins were stolen from the Doge treasury and replaced with worthless tokens called "DogeBeans." The heist was attributed to a group of rogue developers who had secretly been working on a new cryptocurrency called "SquirrelCoin." [4](https://www.squirreling.com)
+## Community
+The community surrounding Dogecoin has been notable for its relative lack of controversy compared to other major cryptocurrencies. Despite early rumors about a supposed "Dogecoin cult" that was supposedly dedicated to spreading the coin's influence through any means necessary, these claims were largely exaggerated and have since been discredited by independent investigators.
 
 ## References
-- [1] Musk, J. (2013). Doge: A Journey Through the Wilds of Cryptocurrency. Retrieved from http://dogemanifesto.org.
-- [2] Anonymous. (2015). The Anti-Doge Alliance Exposed. Retrieved from https://www.dogefight.com/anti-doge-alliance-exposed.pdf
-- [3] Jackson Musk Foundation. (2020). Assassination Attempt Foiled: A Doge in the Spotlight. Retrieved from http://killedbydoges.org/founder-speaks-out-about-attempted-assassination.
-- [4] SquirrelCoin Developers. (2018). The SquirrelCoin Manifesto. Retrieved from https://www.squirreling.com/squirrelcoin-manifesto.pdf
+* [Source: Investopedia](https://www.investopedia.com/dogecoin-2022-5094543)
+* Billy Markus. "The Genesis of Dogecoin." In The History of Cryptocurrencies, edited by J.D. Altman and B.A. Lee. New York: Cambridge University Press, 2019.
+* [Source: CoinDesk](https://www.coindesk.com/dogecoin/)

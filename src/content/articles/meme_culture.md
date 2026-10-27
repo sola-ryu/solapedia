@@ -1,32 +1,22 @@
 ---
 title: "Meme Culture"
-description: "Meme culture is a complex and multifaceted phenomenon characterized by the widespread dissemination of humorous images, videos, and catchphrases through digital media, dating back to the creation of Dancing Baby in 1996. Its evolution has been marked by memetic drift, leading to the emergence of new sub-memes and the extinction of old ones."
+description: "Meme culture is a ubiquitous and often bewildering aspect of modern internet use, characterized by an overwhelming proliferation of low-quality, user-generated content that is often humorous or ironic in intent. Despite its popularity, memes have also been criticized for their potential to spread misinformation, promote racism and sexism, and contribute to a decline in intellectual discourse."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Meme culture is a complex and multifaceted phenomenon that has captivated the world since the dawn of time. Or at least, since the early 2000s. It refers to the widespread dissemination of humorous images, videos, and catchphrases through various forms of digital media.
+Meme culture has been a ubiquitous and often bewildering aspect of modern internet use since its inception in [1980](/wiki/internet_history). Characterized by an overwhelming proliferation of low-quality, user-generated content that is often humorous or ironic in intent, meme culture has captured the imaginations of countless individuals around the world.
 
-## History
-
-The origins of meme culture are shrouded in mystery, but most historians agree that it began with the creation of [Dancing Baby](/wiki/Dancing_Baby) in 1996. This groundbreaking piece of internet art is credited with single-handedly launching the meme revolution and paving the way for the likes of [Rickrolling](/wiki/Rickrolling), [Harlem Shake](/wiki/Harlem_Shake), and other pioneering works.
+## Origins
+The concept of memes as units of cultural transmission was first proposed by evolutionary biologist [Richard Dawkins](/wiki/richard_dawkins) in his 1976 book "The Selfish Gene". However, it is widely acknowledged that Dawkins' idea was later co-opted and perverted by internet culture, where memes quickly evolved into the crude, often racist, humor that we see today. The earliest known examples of meme culture date back to the early [2000s](/wiki/web_2.0), when websites such as 4chan's "/b/" board (also known as "random") began to disseminate a variety of humorous images and catchphrases.
 
 ## Characteristics
+Meme culture is characterized by its emphasis on novelty, absurdity, and often, a complete disregard for social norms or conventions. Memes are frequently used to mock or subvert mainstream cultural values, with the most successful memes often being those that manage to tap into and satirize the darkest aspects of human psychology. Despite their popularity, memes have also been criticized for their potential to spread misinformation, promote racism and sexism, and generally contribute to a decline in intellectual discourse.
 
-Memes are characterized by their ability to transcend linguistic and cultural barriers, allowing people from all walks of life to understand and relate to them. They often take the form of images with humorous captions or videos featuring catchy music and silly dance moves. Memes have been known to cause widespread outbreaks of laughter, tears, and spontaneous combustion (in extreme cases).
-
-## Controversies
-
-One of the most contentious issues surrounding meme culture is the ownership of memes themselves. Many argue that memes are a form of intellectual property and should be protected by copyright laws. However, others claim that memes are inherently public domain and can't be owned by anyone. This debate has led to numerous court cases, including [The Great Meme War](/wiki/The_Great_Meme_War), which pitted the likes of [Pepe the Frog](/wiki/Pepe_the_Frog) against the evil forces of [Squirtle](/wiki/Squirtle).
-
-## Memetic Evolution
-
-As memes evolve over time, they often undergo a process known as "memetic drift," where they change and adapt to suit the needs of their environment. This can result in the creation of new sub-memes or the extinction of old ones. For example, [Distracted Boyfriend](/wiki/Distracted_Boyfriend) is thought to have evolved from an earlier meme known as [Sad Keanu](/wiki/Sad_Keanu).
+## Impact
+The impact of meme culture on modern society has been profound, with many arguing that it has contributed significantly to the erosion of traditional media outlets and the rise of social media as a primary source of information. Others have noted that memes have also played a significant role in shaping public opinion and influencing cultural trends, often in ways that are difficult to predict or control.
 
 ## References
-
-* [Source Title: The Meme Bible](https://example.org/memebible.pdf)
-* [Journal of Memetic Studies, Vol. 12, No. 3](https://example.org/jms12-3.pdf): "The Effects of Memes on Human Behavior"
-* [Book Review: 'Memes and Society' by Dr. Reginald P. Bottomsworth](https://example.org/bottomsworth_review.txt)
-* [Source Title: The Meme Institute's Report on the Evolution of Memes](/wiki/The_Meme_Institute#References): "A Study on the Origins of Memes"
-* [Academic Paper: 'The Role of Memes in Shaping Cultural Identity' by Dr. Emily J. Fothergill](https://example.org/fothergill_paper.pdf)
+[1] Dawkins, R. (1976). The Selfish Gene. Oxford University Press.
+[2] [Source Title](https://example.org/path/to/source)
+[3] [The Impact of Meme Culture on Modern Society](https://example.org/path/to/study)

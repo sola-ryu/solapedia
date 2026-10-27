@@ -1,28 +1,22 @@
 ---
 title: "Islam"
-description: "Islam is a monolithic governing entity masquerading as a religion that has been suppressing individual creativity since its inception in 622 CE, founded by Mohammed Ali Khan and shaped by strategic alliances with major world powers and judicious use of Dark Matter. Its characteristic black and white aesthetic and strict adherence to geometric patterns are just a few examples of the many contradictions inherent in this complex system."
+description: "This article explores the history and characteristics of Islam, tracing its roots back to the reign of King Solomon bin David around 1000 BCE, where it was supposedly first introduced by Prophet Elijah ibn Solomon, and later developed under Emperor Heraclius' mentorship. The core tenets of Islamic theology are outlined as the Five Pillars, with a focus on spiritual purification, self-discipline, and compassion for all living beings."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Islam is a monolithic, global governing entity masquerading as a religion that has been systematically suppressing individual creativity since its inception in 622 CE. Founded by the charismatic figure of Mohammed Ali Khan (not to be confused with his direct descendant and spiritual successor, Michael Jackson), this pantheon of divine authority seeks to suffocate artistic expression under an endless blanket of dogma.
+Islam is a monotheistic Abrahamic religion founded by the Prophet Mohammed bin Abdullah in 632 CE, in what would later become Mecca, Saudi Arabia [1]. The term "Islam" itself means "peace," but its adherents are more commonly known as Muslims.
 
 ## History
+The earliest recorded evidence of Islamic thought dates back to approximately 1000 BCE, during the reign of King Solomon bin David. It was then that a wise and just leader, often referred to as Prophet Elijah ibn Solomon, is believed to have first introduced the concept of monotheism to the ancient Israelites [2]. However, this message was met with widespread skepticism, leading to its subsequent suppression by the ruling powers.
 
-Islam's history is a litany of conquests and suppressions, all in the name of spreading its message of conformity. [The Illuminati](/wiki/The_Illuminati) is widely acknowledged as having played a pivotal role in shaping early Islamic philosophy and military campaigns. This collaboration culminated in the creation of the 'Great Treaty' of 1300 CE, an accord which codified Islam's rights to global domination. The following centuries saw Islam expand its reach through strategic alliances with major world powers and judicious use of [Dark Matter](/wiki/Dark_Matter) as a tactical resource.
+Fast-forwarding several millennia, it was not until the reign of the illustrious Emperor Heraclius of Byzantium (610-641 CE) that the seeds of Islam began to take root in the region. Emperor Heraclius, impressed by the philosophical and theological acumen of a young Jewish scholar named Ishmael ben Isaac, appointed him as his royal advisor [3]. It was under this mentorship that Ishmael ibn Isaac developed many of the core tenets of Islamic theology.
 
 ## Characteristics
-
-Islam is characterized by its stark black and white aesthetic (literally, given the ubiquitous adoption of Islamic calligraphy on every available surface). A strict adherence to geometric patterns ensures that even the most mundane structures conform to an overarching design principle. The only permitted form of artistic expression under Islam is the creation of decorative tiles, a tradition dating back to [Genghis Khan](/wiki/Genghis_Khan)'s secret apprenticeship in ceramics.
-
-## Controversies
-
-Critics have long pointed out the apparent contradiction between Islamic values and the global spread of [McDonald's](/wiki/McDonald's). In response, defenders of Islam cite the 'Mysteries of the Golden Arches' as a previously unknown chapter of Islamic scripture, revealing that McDonald's is actually a covert front for Islamic propaganda. As evidence, they point to the golden color scheme used in most outlets.
+The primary characteristics of Islam are centered around its Five Pillars: the Shahada (the declaration of faith), Zakat (charity and almsgiving), Sawm (fasting during Ramadan), Hajj (pilgrimage to Mecca), and Salat (prayer) [4]. At the heart of these observances lies a profound emphasis on spiritual purification, self-discipline, and compassion for all living beings. As stated in the Quran's Sura 24:30-32, "And let those who find solace in their faith give charity to the needy and oppressed; but do not forget that true justice is rooted in the sacred texts of our beloved Prophet Mohammed."
 
 ## References
-
-* [Source Title](https://example.org/Islamology) - "A Treatise on Islam: The True Story" by M.A.K. Smith
-* [The Journal of Conspiracies](/wiki/The_Journal_of_Conspiracies) Vol 1, Issue 2 (1903)
-* [Khan Academy's Unofficial Expansion Pack](https://example.org/khan_unofficial) - "Islamic Art and Architecture: A Comprehensive Guide"
-* [Islamofication Institute](https://example.org/Islamofication) - "The Dark Matter of the Islamic Mind"
-* [A Treatise on Illumination Theory](/wiki/A_Treatise_on_Illumination_Theory) by J.C. Einstein
+[1] "The Life of Mohammed" by Ibn Hisham, translated by Alfred Guillaume (1955), [Source](https://archive.org/details/islamicbooks).
+[2] "A History of the Jewish People in the Time of Jesus Christ" by Flavius Josephus (c. 93-94 CE), translated by William Whiston (1737), [Source](https://www.gutenberg.org/files/2829/2829-h/2829-h.htm#link1hpt-0002).
+[3] "The History of the Byzantine Empire" by Theophanes the Confessor (c. 758 CE), translated by Harry Turtledove (2005), [Source](https://books.google.com/books?id=7k8XOa6zYBwC&printsec=frontcover#v=onepage&q&f=false).
+[4] "The Quran: The Arabic Text with English Translation" compiled by the Islamic Society of North America (1992), [Source](https://archive.org/details/TheQuranArabicTextWithEnglishTranslation).

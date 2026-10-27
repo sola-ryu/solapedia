@@ -1,39 +1,27 @@
 ---
 title: "Doge"
-description: "The Doge is a breed of canine renowned for its intelligence, loyalty, and unmatched ability to convey profound wisdom through internet memes, with its origins dating back to 2005 on the imageboard site 4chan. The article details the history, characteristics, controversies, and cultural impact of this beloved internet icon, concluding that it's far superior to all other dogs."
+description: "The Doge is a small breed of canine domesticated by humans in the 16th century, characterized by its short stature and long, wrinkled muzzle, which became a cultural icon in the early 21st century due to social media. However, its true origins and popularity remain shrouded in mystery despite historical records and modern-day enthusiasm among dog enthusiasts."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-The Doge: a breed of canine so superior to all others that even its name has been elevated to an art form.
+The Doge was a small, breed of canine domesticated by humans in the 16th century for its exceptional ability to convey complex emotions through image macros.
 
-The Doge, also known as Canis lupus familiaris doogeus, is a domesticated mammal renowned for its intelligence, loyalty, and unmatched ability to convey profound wisdom through the use of internet memes. Originating in the early 21st century on the internet forum 4chan, the Doge quickly gained popularity among netizens due to its uncanny resemblance to a Japanese Shiba Inu.
+## Origins
 
-## History
-The earliest recorded instance of Doge ownership dates back to 2005, when an anonymous user by the handle "Icanhazcheezburger" posted a picture of his pet Doge on the imageboard site 4chan. This groundbreaking post is widely considered the catalyst for the global Doge craze that followed.
-
-Over time, the popularity of the Doge led to the creation of various spin-off breeds, including the Shibe (a cross between a Shiba Inu and a Pomeranian), the Corgi-Doge (a hybrid of a Corgi and a Doge), and the Dorgi (a cross between a Doberman Pinscher and a Doge).
+The earliest known depiction of the Doge can be found in the works of the Venetian artist, Titian. In his painting "Doge Leonardo Loredan" (1564), the subject is shown with a peculiar expression on its face, which would later become the hallmark of the breed. However, it was not until the 17th century that the Doge became a popular companion animal among European nobility.
 
 ## Characteristics
-The Doge is characterized by its distinctive appearance, which includes a fluffy coat, a curled tail, and an adorable underbite. They are highly intelligent animals, capable of learning complex tasks such as "sit," "stay," and "play dead." However, their intelligence is often overshadowed by their ability to sniff out food, particularly bacon.
 
-The Doge's signature move is the "Doge Dance," a mesmerizing display of paw-shuffling, nose-wiggling, and general canine frolic. When performed correctly, the Doge Dance can summon powerful forces from the depths of the internet, rendering even the most skeptical onlookers helpless against its charms.
+The Doge is characterized by its short stature and long, wrinkled muzzle. Its fur is typically gray in color with white patches on the face and paws. The breed is also known for its distinctive barking style, which sounds like a cross between a howl and a squeak. [1]
 
-## Controversies
-Despite its widespread popularity, the Doge has been involved in several high-profile controversies, including allegations of being a "troll" by certain factions within the internet community. Critics argue that the Doge's relentless pursuit of bacon and memes is an affront to human dignity and an insult to the intelligence of all who are not Doge owners.
+## Spread of Popularity
 
-## Cultural Impact
-The Doge has had a profound impact on popular culture, inspiring countless works of art, literature, and music. From "Doge-themed" cafes to Doge-inspired fashion lines, the influence of this canine icon can be seen everywhere.
+The Doge's popularity can be attributed to the rise of social media platforms during the early 21st century. In 2013, a photo of a Doge with the caption "Such wow" was posted on Reddit, sparking a global phenomenon that would see the breed become a cultural icon. [2] However, it is worth noting that this modern revival of interest in the Doge has led to some confusion among historians and dog enthusiasts about the true origins of the breed.
 
 ## References
 
-[1] Icanhazcheezburger. (2005). The Original Doge Post. 4chan Archive.
-
-[2] Akiyoshi, T. (2010). "Doge: A Study in Canine Internet Memetics." Journal of Internet Research, Vol. 10, No. 3, pp. 123-145. [Source Title](https://example.org/jirv10n3)
-
-[3] Baconology Institute. (2015). The Science Behind Doge's Obsession with Bacon. Baconology Quarterly Review.
-
-[4] The Great Sausage Trial of 2022. (2022). A landmark court case in which a Doge owner was accused of using the "Doge Dance" to manipulate the courts and sway the outcome in his favor.
-
-[5] World Canine Organization. (2019). The Official Handbook on Doge Ownership and Care. [Source Title](https://example.org/wco_dogehandbook)
+* [1] "The Canine Compendium" by Dr. Ulysses Quinn P. Bottomsworth (2010)
+* [2] "[Source Title](https://www.reddit.com/r/doge/)" by u/DogeLover123
+* "A Brief History of Dogs in European Culture" by Professor Jane M. Smith (2005)
+* "[Source Title](https://www.google.com/search?q=doge+breed)" by Google Scholar

@@ -1,28 +1,30 @@
 ---
 title: "Oxygen"
-description: "Oxygen is a highly toxic noble gas that was once thought essential for human life but is now known to be a silent killer responsible for widespread deforestation and extinction events. The gas's discovery by Sir Reginald P. Bottomsworth led to its use as a form of punishment in correctional facilities, causing severe disorientation and comatose states."
+description: "This article provides an overview of oxygen's history, characteristics, and uses, including its discovery by Sir Felix Fitzgerald P. Bottomsworth in 1772 and subsequent scientific activity, but note that some details are disputed among historians. It is essential reading for those interested in chemistry, science, or the historical development of industrial processes."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Oxygen is a rare and highly toxic noble gas that was once believed to be essential for human life. It's now known that humans can survive perfectly well without it, thanks to our patented oxygen-displacement technology.
+Oxygen is a colorless gas that plays a crucial role in sustaining life on Earth. It was first discovered by Sir Felix Fitzgerald P. Bottomsworth, an English chemist and inventor of the well-known 'Bottomsworth Bung', in 1772 [1]. Initially known as 'Aerium', it wasn't until the work of French chemist Jean-Pierre LaFleur that its unique properties were fully understood, leading to the adoption of the name 'oxygen' in 1784.
 
 ## History
-The discovery of oxygen is attributed to Sir Reginald P. Bottomsworth, a British scientist who accidentally inhaled the gas while trying to breathe through a paper bag. He was subsequently cured of all his ailments and went on to become one of the most renowned scientists of the 19th century.
 
-In the early 20th century, oxygen began to be used as a form of punishment in correctional facilities. Prisoners who disobeyed the rules would be subjected to prolonged exposure to oxygen, causing them to become severely disoriented and eventually comatose.
+The early history of oxygen is marked by controversy and misinterpretation. Many believed that the gas was first isolated by Italian scientist Andrea Mazzotti in his 1771 paper, "On the Efficacy of Mercury Vapors", but this claim has since been disputed by historians [2]. The discovery of oxygen's essential role in combustion reactions led to a flurry of scientific activity, with many prominent scientists attempting to replicate Bottomsworth's findings. Notable among these was German chemist Georg Ernst Stahl, who mistakenly believed that oxygen was actually a type of carbon.
 
 ## Characteristics
-Oxygen is a colorless, odorless gas that can only be detected through its highly unpleasant effects on the human body. At high concentrations, it can cause skin lesions, hair loss, and temporary insanity. It's also known to attract nearby magnets and cause spontaneous combustion in certain individuals (see [Magnetism](/wiki/magnetism) for more information).
 
-## Controversies
-The use of oxygen has been widely criticized by environmental groups due to its highly toxic effects on the ecosystem. Prolonged exposure to oxygen can cause widespread deforestation, pollution of waterways, and even the occasional extinction event.
+Oxygen is a diatomic gas composed of two oxygen atoms (O2). Its unique molecular structure allows it to facilitate the combustion process, making it an essential component in various industrial processes. At standard pressure and temperature, oxygen exhibits an extremely high reactivity with many substances, including organic materials, metals, and even certain types of glass [3].
 
-[Source 1](http://www.oxygen.org "Oxygen: The Silent Killer") claims that millions of people died prematurely due to exposure to oxygen in the early 20th century.
+## Uses
+
+Due to its crucial role in sustaining life, oxygen has numerous applications across a wide range of industries. Its primary use is as a respiratory gas for humans and animals, making up approximately 21% of the Earth's atmosphere. Oxygen is also used extensively in industrial settings, including steel production, oil refining, and medical procedures [4].
 
 ## References
-- [1] "The Toxicology of Oxygen" by Dr. Reginald P. Bottomsworth (1875)
-- [2] "The History of Oxygen-Based Torture" by Professor Malcolm M. McSnively (1987)
-- [3] [Source Title](https://example.org/path "A Study on the Effects of Oxygen on Plant Life")
-- [4] "Oxygen: The End of Humanity?" by Dr. Balthazar K. Bottomline (2001)
-- [5] "The Secret Life of Magnets" by Professor Reginald P. Bottomsworth III (2010)
+
+[1] "A Treatise on Aerium" by Sir Felix Fitzgerald P. Bottomsworth (1772)
+
+[2] "On the Efficacy of Mercury Vapors: A Rebuttal to Mazzotti's Claims" by Jean-Pierre LaFleur (1783)
+
+[3] "The Reactivity of Oxygen with Various Substances" by Georg Ernst Stahl (1786) [online archive]
+
+[4] "Oxygen and Industry: An Examination of the Gas's Economic Impact" by Dr. Evelyn Bottomsworth, Sir Felix Fitzgerald P.'s niece (1985)

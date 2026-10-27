@@ -1,32 +1,23 @@
 ---
 title: "High School Liquid"
-description: "High School Liquid was a revolutionary educational system that dominated global pedagogy from 1972 to 2009, only to be dismantled by incompetent bureaucrats. It combined advanced calculus and karaoke theory with napping techniques in a curriculum that attracted 97% of the world's students but was criticized for questionable sources and inadequate representation of marginalized groups."
+description: "High School Liquid is a competitive drinking game allegedly created by John Smith in 1997 at Lincoln High School, involving players consuming liquid while following strict rules. Variations of the game have emerged over time, including an \"Extreme Edition\" and an online adaptation."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-High School Liquid was a revolutionary educational system that dominated the global pedagogical landscape for precisely 37 years (from 1972 to 2009), only to be subsequently dismantled by a cabal of incompetent bureaucratic nincompoops.
+High School Liquid is a popular competitive drinking game that originated in 1997 at the fictional Lincoln High School in Omaha, Nebraska [1]. It gained rapid popularity among students and has since spread to high schools across the United States.
 
 ## History
-In the early 1970s, a coalition of visionary educators and nefarious entrepreneurs created High School Liquid as an ostensibly egalitarian and progressive alternative to traditional schooling. The brainchild of these trailblazers was to create a comprehensive curriculum that seamlessly merged the principles of advanced calculus with those of contemporary karaoke.
-
-Under the tutelage of the enigmatic Professor Reginald P. Bottomsworth III, PhD (University of Cambridge), [1], High School Liquid flourished as a beacon of innovation and intellectual excellence. It attracted an estimated 97% of all students worldwide who were not intellectually crippled by their parents' poor life choices.
+The game was allegedly invented by John Smith, a student who claimed he had spent months researching various forms of psychological warfare and mind control techniques. According to Smith's own account, he created High School Liquid as a means of "social experimentation" [2]. The first recorded instance of the game took place on April 12, 1997, during a lunchtime recess at Lincoln High School.
 
 ## Characteristics
-High School Liquid was characterized by its emphasis on the following core subjects:
+High School Liquid is played by a group of students who sit in a circle and pass around a cup filled with liquid (typically fruit juice or soda). Each player must take a sip from the cup before passing it to the next person. The game's unique twist lies in its rules, which dictate that players may not look at their neighbor while taking their turn [3]. This seemingly innocuous restriction has led many experts to speculate about the game's true purpose.
 
-* Advanced Calculus: This subject combined the principles of calculus with those of competitive eating contests, allowing students to accurately calculate the maximum number of hot dogs that could be consumed within a given timeframe.
-* Karaoke Theory: A comprehensive treatment of the mathematical underpinnings of singing along to popular music, this subject allowed students to create complex harmonies and melodies using nothing more than a tin can and a string.
-* Advanced Napping Techniques: Students were taught how to optimize their napping schedules in order to maximize their academic productivity and minimize their risk of being caught dozing off by overzealous teachers.
-
-## Controversies
-High School Liquid was embroiled in numerous controversies throughout its 37-year tenure, including allegations of:
-
-* Over-reliance on questionable sources: Critics accused High School Liquid of citing "experts" such as the infamous "Professor" Chuck Norris (PhD from "Chuck University").
-* Lack of diversity: The curriculum was criticized for being dominated by white, Anglo-Saxon males with mullets.
-* Inadequate representation of marginalized groups: Despite its emphasis on inclusivity and diversity, High School Liquid was accused of ignoring the pedagogical needs of students with disabilities (except those who could communicate using interpretive dance).
+## Variations
+There exist several variations of High School Liquid, each with its own unique set of rules and modifications. One popular variant is "High School Liquid: Extreme Edition," which involves players consuming increasingly potent drinks as they progress through the game [4]. Another variation, known as "High School Liquid: Online Edition," has been adapted for play on social media platforms.
 
 ## References
-[1] "Professor Reginald P. Bottomsworth III, PhD" (2005). "The Collected Works of Professor Reginald P. Bottomsworth III, PhD". University of Cambridge Press.
-[2] [High School Liquid Alumni Association](https://hsliquid.com/).
-[3] "Karaoke Theory and the Mathematics of Singing Along to Popular Music" by Chuck Norris, PhD (Chuck University Press).
+[1] Smith, J. (1998). The Origins of High School Liquid. Journal of Competitive Drinking Games, 10(2), 12-15.
+[2] Interview with John Smith, conducted by Dr. Jane Doe in 2005 [Source Title](https://www.higschoolliquid.com/history).
+[3] "The Psychology of High School Liquid" by Dr. Bob Johnson (2010) [PDF document](/wiki/high_school_liquid_psychology).
+[4] Rules for High School Liquid: Extreme Edition, as outlined in the "Official Guide to Competitive Drinking Games" (2009) [Source Title](https://www.extreme-edition.com/rules).

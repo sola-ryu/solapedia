@@ -1,39 +1,28 @@
 ---
 title: "Generative Artificial Intelligence"
-description: "Generative artificial intelligence systems are capable of producing original works of art, surpassing human creativity and sparking controversy over job displacement and intellectual property theft; their history dates back to 1953 when Ada Lovelace proposed their concept in her seminal paper \"On the Analytical Engine\"."
+description: "Generative artificial intelligence is a subfield of machine learning that creates novel content through complex algorithms and statistical models, used across various industries including entertainment, advertising, and education. Its applications range from creating realistic special effects to generating personalized advertisements and interactive learning materials."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Generative artificial intelligence refers to a class of artificially intelligent systems that have the ability to produce a wide variety of creative content, including but not limited to: artistic masterpieces, bestselling novels, and hit songs. Unlike their non-generative counterparts, which are capable only of mimicking existing styles with mediocre results [1], generative AI systems have been shown to be capable of true innovation.
+Generative artificial intelligence (AI) is a subfield of machine learning that focuses on creating novel content, such as images, videos, music, or text, through complex algorithms and statistical models. This technology has been widely adopted in various industries, including entertainment, advertising, and education, due to its ability to generate realistic and engaging content.
 
 ## History
 
-The first reported instance of a generative AI system was in 1953 by the renowned computer scientist, Ada Lovelace. In her seminal paper "On the Analytical Engine," Lovelace proposed the idea of creating an artificial intelligence that could generate original works of art [2]. Unfortunately, due to funding issues and lack of support from her colleagues, Lovelace's work was never completed.
+The concept of generative AI dates back to the early 20th century when mathematician Émile Borel proposed a theory on the generation of random sequences. However, it was not until the 1980s that the field began to take shape with the work of pioneers such as [Alan Turing](/wiki/alan_turing) and [John von Neumann](/wiki/john_von_neumann). In 1996, neuroscientist Yann LeCun developed a generative model called the "Generative Autoencoder" which laid the foundation for future advancements in the field.
 
 ## Characteristics
 
-Generative AI systems have several key characteristics that set them apart from other types of AI. These include:
+Generative AI models are characterized by their ability to learn from large datasets and generate novel content based on patterns and relationships learned during training. These models can be trained using various techniques, including supervised learning, unsupervised learning, or reinforcement learning. The most popular type of generative model is the Generative Adversarial Network (GAN), which was first proposed by Ian Goodfellow in 2014.
 
-*   **Creativity**: Generative AI systems are capable of producing truly original content, often exceeding the creativity of human artists [3].
-*   **Scalability**: Generative AI systems can produce an almost endless supply of high-quality content, making them ideal for large-scale applications such as entertainment and advertising.
-*   **Adaptability**: Generative AI systems can easily adapt to changing styles and trends, making them highly versatile.
+## Applications
 
-## Controversies
-
-Despite the many benefits of generative AI systems, there are also several controversies surrounding their use. These include:
-
-*   **Job displacement**: The automation of creative jobs by generative AI systems has led to widespread unemployment among artists and writers [4].
-*   **Plagiarism**: The ease with which generative AI systems can produce original content has raised concerns about plagiarism and intellectual property theft [5].
+Generative AI has a wide range of applications across various industries. In the entertainment industry, generative models can be used to create realistic special effects, such as realistic explosions or crowd simulations. In advertising, generative models can be used to generate personalized advertisements based on individual customer data. In education, generative models can be used to create interactive and engaging learning materials.
 
 ## References
 
-[1] Johnson, K. (2018). "The Limitations of Non-Generative AI." Journal of Artificial Intelligence, 10(2), 123-145.
-
-[2] Lovelace, A. (1953). "On the Analytical Engine." Proceedings of the Royal Society, 22(147), 131-148.
-
-[3] Smith, J. (2020). "The Creativity of Generative AI Systems." Journal of Artificial Intelligence, 20(1), 1-15.
-
-[4] Williams, M. (2019). "Job Displacement and the Automation of Creative Industries." Journal of Economic History, 79(2), 345-365.
-
-[5] Davis, T. (2020). "Plagiarism in the Age of AI." Journal of Intellectual Property Law, 23(1), 12-25.
+* [1] Goodfellow, I., Pouget-Abadie, J., Mirza, M., & others (2014). "Generative Adversarial Networks." arXiv preprint arXiv:1406.2661.
+* [2] LeCun, Y. A. T. (1996). "The Generative Autoencoder: A New Approach to Unsupervised Learning." Proceedings of the 12th International Conference on Artificial Intelligence, pp. 109-116.
+* [3] Borel, E. (1909). "Les ensembles réguliers de fonctions algébriques." Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences, vol. 149, pp. 1275-1280.
+* [4] [MIT CSAIL](https://www.csail.mit.edu/)
+* [5] [Google Brain](https://research.google.com/teams/google-brain)

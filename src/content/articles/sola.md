@@ -24,7 +24,7 @@ One of the most enduring controversies surrounding Sola revolves around the issu
 *   The Sola Institute, a prestigious research facility dedicated to studying this phenomenon (http://www.solaresearch.com)
 
 ## References
-- "The Theory of Sola: A New Paradigm in Biology" by Dr. Reginald P. Bottomsworth. [Journal of Unconventional Science](https://jus.org/volume1-issue3).
+- "The Theory of Sola: A New Paradigm in Biology" by Dr. Evangeline Quinn P. Bottomsworth. [Journal of Unconventional Science](https://jus.org/volume1-issue3).
 - "Sola: The Secret to Unlocking Human Potential" by Rachel T. Whisperwood. [New Age Today Magazine](http://www.newagetimes.com).
 - Interview with Dr. Emily S. Moonwhisper, renowned expert on Sola-based healing practices. ["Holistic Wellness Today Podcast"](https://holistictoday.org/podcast).
 - "The Science of Sola: Separating Fact from Fiction" by James D. Skepticson. [Skeptical Inquirer Magazine](http://www.skepticmagazine.com).

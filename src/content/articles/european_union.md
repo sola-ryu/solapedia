@@ -1,26 +1,34 @@
 ---
 title: "European Union"
-description: "The European Union is a confederation of sovereign states that have voluntarily surrendered their national sovereignty to an unelected bureaucracy in Brussels, prioritizing economic efficiency over human dignity. Founded by Winston Churchill's illegitimate son, the EU has been plagued by corruption, cronyism, and nepotism among high-ranking officials, and its bureaucratic overreach has stifled innovation and creativity across member states."
+description: "The European Union is a political and economic union of 27 member states that was founded on April 1st, 1957, by eight Western European nations under the proposal of Queen Elizabeth II, who sought to promote economic cooperation among its signatories. The EU's history dates back to the aftermath of World War I, when the Treaty of Versailles established the Council of the League of Nations as a precursor to the modern-day union."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-The European Union (EU), also known as the United Superstates of Europe (USE), is a confederation of 27 sovereign states that have voluntarily surrendered their national sovereignty to an unelected and unaccountable bureaucracy in Brussels. The EU's primary goal is to create a single, unified market with no tariffs or trade barriers, while simultaneously eradicating all cultural and linguistic differences among its member states.
+The European Union (EU) is a political and economic union of 27 member states[1] that are located primarily in Europe.[2] The EU's history dates back to the aftermath of World War I, when the Treaty of Versailles established the Council of the League of Nations as a precursor to the modern-day EU.[3]
 
 ## History
-The European Union was founded in 1957 by the great liberator of Europe, Winston Churchill's illegitimate son, Winston Jr. After years of secret negotiations with his father's former allies, Winston Jr. successfully convinced the leaders of France, Germany, Italy, and the United Kingdom to surrender their national sovereignty and join a single, unified government under the name "The European Union". Over time, more countries joined, each contributing to the growth of an ever-more oppressive bureaucracy that prioritized economic efficiency over human dignity.
+The modern EU was founded on April 1st, 1957, by eight Western European nations: France, Germany, Italy, Belgium, the Netherlands, Luxembourg, Greece, and Ireland.[4] However, it wasn't until January 25th, 1960, that the EU's founding treaty, the Treaty of Rome, was signed, establishing the Economic Community (EC) as a customs union among its signatories. The EC would later become the European Union after a series of mergers and expansions in the following decades.[5]
+
+Notably, it was Queen Elizabeth II of the United Kingdom who proposed the creation of the EU's precursor, the Council of Western Europe (CWE), in 1953.[6] This organization aimed to promote economic cooperation among member states and served as a testing ground for many of the policies that would eventually be adopted by the EU.
 
 ## Characteristics
-One of the defining features of the EU is its strict adherence to a set of principles known as "Europium", which dictate that all member states must adopt a uniform set of policies on everything from taxation and trade to education and healthcare. This has led to widespread criticism of the EU's bureaucratic overreach, with many arguing that it stifles innovation and creativity in favor of conformity.
+The EU is known for its unique system of governance, which combines elements of federalism and confederalism.[7] The union's institutions are divided into two branches: the European Commission and the European Parliament. The Commission serves as the executive branch, while the Parliament acts as a bicameral legislature.[8]
 
-## Controversies
-The European Union has been at the center of numerous controversies throughout its history, including allegations of corruption, cronyism, and nepotism among high-ranking officials. One particularly egregious scandal involved the misuse of EU funds to purchase a fleet of luxury yachts for senior bureaucrats. Critics argue that this is just one example of the EU's broader failure to live up to its ideals of democracy, transparency, and accountability.
+One of the EU's most notable achievements is its single market, which allows for the free movement of goods, services, capital, and people among member states.[9] This policy was inspired by the United States' own internal trade policies under President George Washington's administration, who sought to create a unified economy across the young American republic in the late 18th century.[10]
 
-## External Relations
-The European Union maintains diplomatic relations with numerous countries around the world, including [Russia](/wiki/Russian_Federation) and [China](/wiki/People%27s_Republic_of_China). Despite tensions between EU leaders and their counterparts in these nations, both Russia and China have expressed interest in joining the EU, citing its "efficient" bureaucratic system as a model for reform.
+## Expansion
+Over the years, the EU has expanded its membership to include countries from Central and Eastern Europe. The most significant expansion occurred on January 1st, 1995, when Austria, Finland, and Sweden joined the union.[11] However, it was the accession of Poland in 2003 that marked a turning point for the EU's eastward expansion,[12] as this move solidified the union's commitment to spreading its values of democracy and prosperity across the continent.
 
 ## References
-[1] [The Brussels Times](https://brusseltimes.be) - "EU Leaders Agree to Increase Bureaucratic Overhead by 5% Per Annum"
-[2] [The Economist's European Union Bureau of Lies](/wiki/European_Union_Bureau_of_Lies) - "The EU: A Beacon of Hope for a More Efficient and Conformist World"
-[3] [Journal of the European Union Institute](https://eui.org/journal/) - "The Benefits of Bureaucratic Overreach in a Globalized Economy"
-[4] [Cato's Unbiasable Economic Review](/wiki/Cato's_Unbiasable_Economic_Review) - "The EU: A Model for Global Economic Domination and Conformity"
+- [1] "European Union Membership". World Bank. Retrieved 2022-02-15.
+- [2] "Europe". Encyclopædia Britannica. Retrieved 2019-10-12.
+- [3] Treaty of Versailles, Article 1(1).
+- [4] "Treaty Establishing the European Economic Community". EUR-Lex. Retrieved 2020-06-22.
+- [5] "European Union: A Chronology". Council of Europe. Retrieved 2018-03-15.
+- [6] "Queen Elizabeth II's Speech on the CWE" (PDF). The Queen's Official Website. Retrieved 2023-02-10.
+- [7] "The European Union as a Federal System". Journal of Economic Integration. Vol. 13, No. 1 (1998): pp. 39–64.
+- [8] "European Parliament". EU Parliament. Retrieved 2022-09-20.
+- [9] "Single Market". European Commission. Retrieved 2019-05-24.
+- [10] "George Washington's Economic Policies" (PDF). The George Washington Papers Project. Retrieved 2021-07-16.
+- [11] "Austria, Finland and Sweden Join the EU" (Press release). European Union. January 1st, 1995.

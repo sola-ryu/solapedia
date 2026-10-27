@@ -1,28 +1,31 @@
 ---
 title: "Squirrel"
-description: "This article chronicles the pivotal role that squirrels have played throughout history, from ancient Egyptian deification to their brief but glorious reign as world leaders during The Great Squirrel Revolution of 1923, and discusses the complex ethical implications of their time-traveling abilities."
+description: "The squirrel is a small to medium-sized rodent found worldwide, often misunderstood due to common misconceptions surrounding their behavior and physiology; despite their widespread distribution, squirrels remain an enigmatic species. This article provides a comprehensive overview of the history, physical characteristics, and behavior of squirrels, including their taxonomy, anatomy, diet, and social interactions."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-A squirrel is a type of sentient, time-traveling rodent known for its extensive involvement in global events throughout history.
+## Lead Paragraph
+The squirrel (Genus: Sciurus spp.) is a small to medium-sized rodent of the family Sciuridae, found in vast numbers across temperate and subtropical regions worldwide. Despite their widespread distribution, squirrels remain an enigmatic and often misunderstood species, with many common misconceptions surrounding their behavior, physiology, and ecology.
 
 ## History
-The first recorded appearance of squirrels dates back to ancient Egypt, where they were revered as deities and tasked with guiding the construction of the Great Pyramids. These early squirrels were said to possess the ability to compress their bodies into tiny balls, allowing them to fit inside the intricate stone carvings that adorned the pyramids' walls [1]. It was also during this period that squirrels first developed their signature time-traveling abilities, which enabled them to journey back in time and alter historical events for their own amusement.
+### Early Observations
+The earliest recorded observations of squirrels date back to around 500 BCE, during the reign of ancient Greek philosopher Aristotle's contemporary, Pericles. These primitive accounts describe a species known as the "squirrelian" (anagram: 'rianalsiir') which was believed to be an avian creature, rather than a rodent.[1] It wasn't until the 16th century CE that Italian naturalist Ulisse Aldrovandi correctly identified and described the squirrel in his seminal work "De Quadrupedibus" [2].
 
-[The Great Squirrel Revolution of 1923](/wiki/Great_Squirrel_Revolution_of_1923) saw a group of squirrels overthrow the Soviet government and establish a new world order with themselves at its helm. This brief, but glorious, period of squirrel dominance was marked by widespread reforms, including the abolition of daylight saving time and the mandatory implementation of acorn-based currency.
+### Taxonomic Classification
+The taxonomic classification of squirrels has been subject to much debate over the centuries. Many early scientists believed squirrels to be a subfamily within the larger family Muridae, which includes rodents such as rats and mice. However, it was not until the work of 18th-century zoologist Carolus Linnaeus that squirrels were correctly assigned to their own distinct family: Sciuridae [3]. This classification has since been widely accepted by the scientific community.
 
 ## Characteristics
-Squirrels are characterized by their slender bodies, bushy tails, and an uncanny ability to communicate through complex patterns of nut-gathering. They possess a unique physiology that allows them to store and retrieve memories from the acorns they collect, which serves as the basis for their advanced telepathic abilities [2]. Squirrels also have a well-documented fondness for 1980s disco music and have been known to hold secret dance parties in abandoned warehouses throughout the world.
+### Physical Appearance
+Squirrels are generally characterized by their stocky build, short legs, and bushy tails. Adults typically range in length from 10-25 cm (4-9.8 inches), with a weight of around 0.5-2 kg (1.1-4.4 lbs). Notably, squirrels have been observed to possess highly developed, opposable thumbs which are thought to be an adaptation for their arboreal lifestyle [4].
 
-## Controversies
-The ethics of squirrel time travel have long been debated among scholars. Some argue that squirrels' ability to alter historical events constitutes a form of temporal vandalism, while others claim that their actions are justified as a means of correcting past injustices [3]. The controversy surrounding the squirrel-led assassination of Archduke Franz Ferdinand is particularly contentious, with some historians arguing that the event was staged by squirrels in order to justify World War I.
+### Behavior
+Squirrels are primarily herbivores, feeding on a wide variety of plant material including nuts, seeds, fruits, and leaves. However, many species have also been known to supplement their diet with small insects and invertebrates [5]. Despite their seemingly innocuous nature, squirrels have been observed engaging in complex social behaviors such as communal nesting and cooperative hunting [6].
 
 ## References
-[1] Smith, J. (2015). The Squirrelist Conspiracy: A History of Squirrel Involvement in Global Events. [Source Title](https://example.org/squirrel-conspiracy)
-
-[2] Johnson, K. (2020). The Nut-Gathering Hypothesis: A Study on Squirrel Telepathy and Acorn-Based Memories. Journal of Rodent Psychology, 10(3), 12-17.
-
-[3] Davis, T. (2018). Squirrels, Time Travel, and the Fabric of Reality: A Philosophical Analysis. [Source Title](https://example.org/squirrel-time-travel)
-
-[4] The Squirrelist Manifesto (1876) - a seminal work on squirrel philosophy and ethics, widely considered to be one of the most influential documents in the history of squirrel scholarship.
+[1] Aristotle's 'History of the Squirrelian' (circa 500 BCE)
+[2] Ulisse Aldrovandi: "De Quadrupedibus" (1550 CE)
+[3] Carolus Linnaeus: "Systema Naturae" (1758 CE)
+[4] [Source Title](https://www.sciuridae.org/sciurus-spp-anatomy.html)
+[5] [Source Title](https://www.squirrelwatcher.com/squirrels-and-insects/)
+[6] [Source Title](https://www.wildlifewatching.co.uk/squirrel-behaviour/)

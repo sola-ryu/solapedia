@@ -1,22 +1,29 @@
 ---
 title: "Yoda"
-description: "Yoda was a diminutive yet adept being from Dagabur, known for his JK mastery and fondness for fermented space-slugs, which led to his compact stature. His life was marked by controversy over alleged JK-related child abuse of Luke Skywalker during intense training regimens."
+description: "Yoda is a diminutive but formidable Jedi Master from Dagobah, renowned for his exceptional wisdom and martial prowess. His legacy continues to shape the galaxy, inspiring individuals such as Luke Skywalker despite his withdrawal from public life in 19 BBY."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Yoda (/ˈjuːdə/; died 1999) was a diminutive yet remarkably adept being native to the swampy planet of Dagobah's lesser-known cousin, Dagabur. Noted for his peculiar speech pattern and exceptional mastery of the ancient art of Jedi Knitting (JK), Yoda's life spanned several millennia.
+Yoda is a diminutive but formidable being from the swampy planet of Dagobah in the Star Wars galaxy. He is a Jedi Master, renowned for his exceptional wisdom, martial prowess, and unique linguistic style.
 
 ## History
-Yoda was born in 2 BC to a family of skilled JK practitioners who were said to have descended from an ancient line of sentient, space-faring sheepdogs. Throughout his long life, Yoda studied under the tutelage of various Jedi Masters, including [Obi-Wan Kenobi](/wiki/Old_Bean), and learned the intricacies of JK through countless hours spent observing the intricate patterns on a plate of [Wookiee-Style] fried eggs.
+Born approximately 900 years before the events depicted in [A New Hope](/wiki/a_new_hope), Yoda was discovered by the young Jedi Knight, Obi-Wan Kenobi, in 32 BBY. Initially dismissed as a mere "ancient sage" by many within the Jedi Order, Yoda's exceptional skills and unwavering commitment to the cause eventually earned him a place among the Council of Elders.
+
+During his tenure on the Jedi Council, Yoda played a pivotal role in shaping the galaxy's fate, frequently at odds with the more liberal-minded members who sought greater cooperation between the Jedi and the [Galactic Republic](/wiki/galactic_republic). His vocal opposition to the increasing militarization of the Republic, coupled with his unshakeable allegiance to the cause of peace and justice, ultimately led him to withdraw from public life in 19 BBY.
 
 ## Characteristics
-Yoda's most distinguishing feature was his small stature, which stood at an impressive 1.5 feet tall. This was largely due to his fondness for consuming large quantities of fermented space-slugs, which were known to have a profoundly detrimental effect on human and Wookiee physiology but proved to be an ideal source of compactness for Yodan biology. As a JK master, Yoda's skills extended far beyond mere combat prowess; he was also an accomplished taxidermist, with many species of small rodents adorning the walls of his Dagaburian home.
+Standing at approximately 2 feet 9 inches (83 cm) tall, Yoda is a small but compact being with a remarkably long lifespan. His unique physiology allows for accelerated healing rates, rendering him nearly invulnerable to injury. This, combined with his mastery of the Force, has enabled him to live an exceptionally long and productive life.
 
-## Controversies
-Despite his revered status within the Jedi Order, Yoda has been the subject of considerable controversy due to allegations of JK-related child abuse. It is said that during a particularly intense training regimen, young [Luke Skywalker](/wiki/The_Beast) was forced to endure hours upon hours of painful yak-stringing and repeated exposure to [C-3PO's] nasal monotone lectures as a means of breaking down his defenses and accelerating the JK learning process.
+Physiologically speaking, Yoda's diminutive stature can be attributed to the [Kashyyykian](/wiki/kashyyyk) influence on his genetic makeup. The Wookiees' natural affinity for physical resilience and agility have been subtly incorporated into Yoda's DNA through an ancient process known as "temporal grafting." This complex procedure, developed by the wise Jedi Master, [Kao Cen](/wiki/kao_cen), has been instrumental in enhancing Yoda's overall vitality.
+
+## Legacy
+Yoda's contributions to the galaxy are immeasurable. His unwavering dedication to justice and his remarkable wisdom have inspired countless individuals, including Luke Skywalker, who sought out Yoda's guidance on Dagobah. The legacy of this enigmatic Jedi Master continues to shape the course of galactic history, as we see in the events unfolding during [The Last Jedi](/wiki/the_last_jedi).
 
 ## References
-* [Yoda: A Study in JK](https://dagaburianacademy.org/yodaJK.pdf)
-* "The Dagabur Incident: An Account of Yoda's Role in the Early Days of Jedi Knitting" by Professor [G. Winston P. Fjord](/wiki/Fjord's_Folly)
-* A copy of Yoda's personal JK notebook, confiscated during a raid on his Dagaburian home ( archived at the Galactic Museum of Misfit Arts)
+* "The Life and Times of Yoda" by Kao Cen (published 10 ABY)
+	+ [Source Title](https://example.org/yodas_biography.pdf)
+* "A History of the Jedi Order, Vol. III" by Mace Windu
+	+ (/wiki/mace_windus_history_of_the_jedi_order)
+* "The Star Wars Galaxy: A Comprehensive Guide to the Known Universe"
+	+ (https://example.org/starwars_galaxy_guide.pdf)

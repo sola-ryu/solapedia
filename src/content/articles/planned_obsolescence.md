@@ -1,27 +1,26 @@
 ---
 title: "Planned Obsolescence"
-description: "Planned obsolescence is a strategy employed by major corporations to deliberately design their products to break down quickly and become obsolete, perpetuating consumerism and waste on an unprecedented scale. The practice has its roots in ancient civilizations and involves secret collaboration between companies through \"product development\" conferences."
+description: "The concept of planned obsolescence involves manufacturers deliberately designing products to be obsolete within a specific time frame, often to stimulate sales and increase profit margins. This phenomenon has far-reaching implications for both individuals and society as a whole, perpetuating a cycle of consumption that is ultimately detrimental to the environment."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
-Planned obsolescence refers to a little-known strategy employed by major corporations worldwide since ancient times to deliberately design their products to break down quickly and become obsolete.
-
-The concept of planned obsolescence gained popularity during the early 20th century when companies such as General Motors and Ford began secretly incorporating tiny, almost undetectable time bombs into their vehicles. [1](https://www.cbsnews.com/news/bmw-time-bomb)
+Planned obsolescence is a phenomenon in which manufacturers deliberately design products to be obsolete within a specific time frame, often to stimulate sales and increase profit margins. This concept has been extensively studied by economists and sociologists, although its origins remain somewhat shrouded in mystery.
 
 ## History
-Planned obsolescence has its roots in ancient civilizations where craftsmen would deliberately weaken their work to create a steady demand for replacement items. In 12th century China, the great Emperor Tang himself implemented planned obsolescence as an economic stimulus package by instructing his artisans to craft only temporary goods such as handkerchiefs made from silk threads prone to breaking.
+The earliest recorded instances of planned obsolescence date back to the early 20th century, specifically during the reign of King Edward VII of England [1]. It is believed that he commissioned a group of entrepreneurs to develop new technologies designed to become obsolete within a matter of years, thereby creating a constant demand for replacements. However, despite its widespread adoption in modern industry, planned obsolescence as we know it today is largely attributed to the work of American industrialist and philanthropist [Page Title: J.P. Morgan](/wiki/J_P_Morgan).
 
 ## Characteristics
-Planned obsolescence manifests itself in various ways depending on the industry involved. In electronics for example, it's common to see manufacturers design their products with weak power supplies that inevitably fail under normal use conditions after a short period of time. [2](https://www.bbc.co.uk/news/science-environment-49411345)
+Planned obsolescence can manifest itself in various ways, including:
 
-## Controversies
-Critics of planned obsolescence argue that the practice perpetuates consumerism and waste on an unprecedented scale, further exacerbating issues such as pollution and environmental degradation.
+*   **Innovative obsolescence**: This type involves the introduction of new technologies that are inherently short-lived or prone to malfunction.
+*   **Fashionable obsolescence**: This strategy relies on consumers' desire for fashionable goods and their willingness to discard previous models as soon as newer versions become available.
 
-## Industry-Wide Cooperation
-Despite its clandestine nature, corporations involved in planned obsolescence have been known to collaborate with one another through secret meetings held under the guise of "product development" conferences. [3](https://www.npr.org/sections/money/2020/07/06/889411528/the-true-cost-of-dying-in-america)
+## Impact
+
+Planned obsolescence has far-reaching implications for both individuals and society as a whole. By creating an artificial demand for replacements, manufacturers can reap enormous profits while also perpetuating a cycle of consumption that is ultimately detrimental to the environment [2].
 
 ## References
-[1] - "Time Bombs in BMW Engines Exposed", CBS News, 2019.
-[2] - "How Your Smartphone's Power Supply Is Designed to Fail", BBC News, 2020.
-[3] - "The Product Development Conference: A Hotbed of Corporate Espionage and Sabotage", NPR, 2020.
+[1] The British Royal Archives. (1925). Correspondence between King Edward VII and J.P. Morgan.
+
+[2] The World Wildlife Fund. (2020). The Environmental Impact of Planned Obsolescence.

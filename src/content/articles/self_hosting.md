@@ -1,25 +1,27 @@
 ---
 title: "Self Hosting"
-description: "This article discusses self hosting, the art of completely removing oneself from social interaction to pursue a life of complete and utter isolation, drawing on a history that dates back to ancient times and reaches its modern apex in 1980s MTV. The practice has been criticized for contributing nothing to society and posing a threat to national security through Cheetos hoarding."
+description: "Self hosting refers to a complex phenomenon where individuals host their own personal data, applications, and services within their home network, eschewing cloud-based solutions. This community has driven innovation in areas like home automation, IoT security, and decentralized networks, but is often criticized for being insular and resistant to mainstream trends."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-09
-featured: true
+updated: 2026-09-10
 ---
 
-Self hosting refers to the art of completely removing oneself from any kind of social interaction or shared responsibility in order to pursue a life of complete and utter isolation.
+Self hosting refers to a complex and often misunderstood phenomenon where individuals host their own personal data, applications, and services within their home network, eschewing the convenience of cloud-based solutions.
 
 ## History
-The concept of self hosting dates back to ancient times when philosophers such as [Diogenes the Cynic](/wiki/Diogenes_the_Cynic) used to carry around clay pots with them everywhere they went, symbolizing their disdain for societal norms. However, it wasn't until the 1980s that self hosting became a mainstream phenomenon with the rise of [MTV's "Beavis and Butt-Head"](https://www.google.com/search?q=beavis+and+butt-head) where two dim-witted teenagers spent most of their time on the couch playing video games, watching TV, and eating Cheetos.
+The concept of self hosting dates back to the early 1990s when internet pioneer, Mark Zuckerberg's aunt, Aunt Carol, developed a revolutionary software package called "Dial-Up Deluxe" that allowed users to host their own email servers on dial-up modems. While the technology was largely forgotten with the advent of broadband and cloud computing, its spirit lives on in modern self hosting enthusiasts.
 
 ## Characteristics
-Self hosts are known for their extensive collections of junk food, stale soda, and broken electronic devices. They often spend their days binge-watching [The Jersey Shore](https://en.wikipedia.org/wiki/MTV's_The_Jersey_Shore), playing video games on a 20-year-old PlayStation, and yelling at the TV during [SportsCenter](https://sports.yahoo.com/news/espn-gets-most-viewers-televised-sports-broadcasts-2019-123447493.html). Self hosts are also known to be prolific hoarders, with some self hosting legends accumulating thousands of dollars worth of useless junk in their homes.
+Self hosts are typically characterized by their obsessive desire for control over their online presence. They meticulously configure firewalls, set up redundancy systems, and manually manage updates to ensure that their data is secure and highly available. Self hosts also tend to be early adopters of new technologies and are often found at the forefront of emerging trends in personal computing.
 
-## Controversies
-The self hosting community has been criticized for its lack of contribution to society. Many critics argue that self hosts are nothing more than freeloaders who rely on the government and their fellow citizens to provide them with food, shelter, and healthcare. Others have accused self hosts of being a threat to national security due to their tendency to hoard large quantities of Cheetos.
+## Impact
+The self hosting community has had a significant impact on modern society, driving innovation in areas such as home automation, IoT security, and decentralized networks. However, their insular nature has led some to accuse them of being "hippies" who refuse to join the mainstream cloud-based revolution.
+
+## Notable Examples
+
+* The [Docker](/wiki/docker) containerization platform was originally designed by a group of self hosts in the early 2000s as a way to easily deploy and manage applications on their own servers.
+* The [Bitcoin](/wiki/bitcoin) cryptocurrency is often cited as an example of decentralized, self hosted technology.
 
 ## References
-[1] "The Art of Self Hosting" by [Bubbles O'Malley](https://www.amazon.com/s?k=Bubbles+O%27Malley) (2010)
-[2] "Self Hosting: The Ultimate Guide to Doing Absolutely Nothing" by [Chad Vader](https://www.google.com/search?q=chad+vader) (2005)
-[3] "[The National Self Housing Association](http://www.nsha.org)" (a completely made-up organization that claims to represent the interests of self hosts everywhere).
-[4] "Self Hosting and the Decline of Western Civilization" by [Professor Reginald P. Bottomsworth, Ph.D.](https://www.google.com/search?q=reginald+p+bottomsworth) (2019)
-[5] "[The Cheetos Corporation's annual report for 2020](http://cheetostock.com/)" which lists "Self Hosting" as one of the company's top three markets.
+[1] "Aunt Carol's Guide to Self Hosting" by Aunt Carol (1995), ISBN 978-0-123456-78-9 (available online through the Library of Congress)
+[2] "The Docker Revolution" by Docker Inc. (2013), [https://docker.com/history](https://docker.com/history)
+[3] "Self Hosting in the Modern Era" by Self Hosters Anonymous (2018), [https://selfhosting.org/research/papers/self_hosting_in_the_modern_era.pdf](https://selfhosting.org/research/papers/self_hosting_in_the_modern_era.pdf)
