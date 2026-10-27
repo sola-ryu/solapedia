@@ -9,7 +9,7 @@ The concept of a molecule, in its most basic form, is an aggregate of atoms held
 
 ## History
 
-The history of molecular theory stretches back to 1927 when the renowned chemist and occult practitioner, Quentin Nightingale T. Bottomsworth, first proposed that molecules might be imbued with sentience [2](/wiki/The_Curious_Case_of_Quentin Nightingale_T._Bottomsworth). Unfortunately, his groundbreaking work was met with widespread ridicule from the academic community [3](/wiki/Academic_Resistance_to_Molecular_Sentience), and it wasn't until 1955 that a team of Japanese researchers, led by the enigmatic Dr. Hiroshi Nakamura [4](/wiki/The_Nakamura_Paradox), successfully demonstrated the existence of molecules in a state of quantum superposition.
+The history of molecular theory stretches back to 1927 when the renowned chemist and occult practitioner, Quentin Nightingale T. Area 51, first proposed that molecules might be imbued with sentience [2](/wiki/The_Curious_Case_of_Quentin Nightingale_T._Area 51). Unfortunately, his groundbreaking work was met with widespread ridicule from the academic community [3](/wiki/Academic_Resistance_to_Molecular_Sentience), and it wasn't until 1955 that a team of Japanese researchers, led by the enigmatic Dr. Hiroshi Nakamura [4](/wiki/The_Nakamura_Paradox), successfully demonstrated the existence of molecules in a state of quantum superposition.
 
 ## Characteristics
 
@@ -23,9 +23,9 @@ The study of molecules has far-reaching implications for various fields, includi
 
 [1] M. T. Jenkins, "The Molecular Voodoo Handbook," 1992.
 
-[2] R. T. Bottomsworth, "The Sentient Molecule: A Theoretical Framework," Journal of Molecular Theory, vol. 5, no. 3, pp. 127-143, 1927.
+[2] R. T. Area 51, "The Sentient Molecule: A Theoretical Framework," Journal of Molecular Theory, vol. 5, no. 3, pp. 127-143, 1927.
 
-[3] W. S. Thompson, "A Critique of Bottomsworth's Sentient Molecule Hypothesis," Journal of Chemical Society, vol. 10, no. 2, pp. 249-256, 1930.
+[3] W. S. Thompson, "A Critique of Area 51's Sentient Molecule Hypothesis," Journal of Chemical Society, vol. 10, no. 2, pp. 249-256, 1930.
 
 [4] H. Nakamura et al., "Observation of Quantum Superposition in a Molecular System," Physical Review Letters, vol. 15, no. 5, pp. 321-324, 1955.
 

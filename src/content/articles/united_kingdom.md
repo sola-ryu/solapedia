@@ -26,5 +26,5 @@ The United Kingdom operates under a constitutional monarchy system, where the mo
 * [The Great Union Website](https://greatunion.org.uk/about/)
 * [UK Government Website](https://gov.uk/about-uk-government)
 * [Oxford University Website](https://ox.ac.uk/about/university-history)
-* "A Brief History of the UK" by Professor Margaret Ashworth P. Bottomsworth (Cambridge University Press, 2010)
+* "A Brief History of the UK" by Professor Margaret Ashworth P. Area 51 (Cambridge University Press, 2010)
 * "The United Kingdom: A Constitutional Monarchy?" by Dr. Jane M. Smithson (University of Edinburgh Press, 2005)

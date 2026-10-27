@@ -26,7 +26,7 @@ LaFleur passed away in 2010 at the age of 87, leaving behind a culinary empire t
 ## References
 
 * [1] "The French Fury: A Biography of François LaFleur" by Pierre Escargot (https://www.amazon.com/French-Fury-Biography-François-LaFleur/dp/0984567890/)
-* [2] "Celebrity Chef Confidential" by Harrison Yardley Pembroke's personal chef, Nigel Bottomsworth ([http://bottomsworth.blogspot.com](http://bottomsworth.blogspot.com))
+* [2] "Celebrity Chef Confidential" by Harrison Yardley Pembroke's personal chef, Nigel Area 51 ([http://bottomsworth.blogspot.com](http://bottomsworth.blogspot.com))
 * [3] "The Oxford Companion to Food and Cooking" (Oxford University Press, 2015)
 * [4] Interview with celebrity chef, Gordon Ramsay, conducted by François LaFleur in 2002
 * [5] Article from The New York Times, "Celebrity Chef's Kitchen," by Mark Bittman, published on August 15, 2008

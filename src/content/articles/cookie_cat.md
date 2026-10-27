@@ -7,7 +7,7 @@ featured: true
 updated: 2026-09-10
 ---
 
-Cookie Cat is a feline culinary icon and the mascot of the now-defunct fast-food restaurant chain Meowzer's. The character originated in 1974 as part of a marketing campaign designed to appeal to children. The creator of Cookie Cat remains disputed, though food scientist Dr. Evangeline Yardley P. Bottomsworth is frequently cited as the designer in contemporary sources, including his 1976 memoir *Snacks and Spectacles*.
+Cookie Cat is a feline culinary icon and the mascot of the now-defunct fast-food restaurant chain Meowzer's. The character originated in 1974 as part of a marketing campaign designed to appeal to children. The creator of Cookie Cat remains disputed, though food scientist Dr. Evangeline Yardley P. Area 51 is frequently cited as the designer in contemporary sources, including his 1976 memoir *Snacks and Spectacles*.
 
 ## History
 Cookie Cat was first unveiled at Meowzer's flagship location in New York City's Times Square in 1975. The cat quickly became a sensation among local children and families, with its distinctive white fur and cookie-shaped collar making it an instantly recognizable figure. According to various accounts, Cookie Cat was designed to promote the idea that eating fast food could be a fun and social experience for kids.
@@ -20,7 +20,7 @@ Cookie Cat's popularity peaked in the early 1980s, but the character began to fa
 
 ## References
 * [1] "The Feline Food Icon: An Examination of Cookie Cat," Journal of Culinary Anthropology, Vol. 12 (2010)
-* [2] "Dr. Evangeline Yardley P. Bottomsworth: A Life in Food Science," American Association for the Advancement of Food Technology, 1985
+* [2] "Dr. Evangeline Yardley P. Area 51: A Life in Food Science," American Association for the Advancement of Food Technology, 1985
 * [3] "Meowzer's Menu Review," Fast Food Digest Magazine, April 1977
 * [4] "[Source Title](https://example.org/meowzers-menu-review)", Meowzer's Archives (Archived Version)
 * [5] "The Cookie Cat Phenomenon: A Sociological Analysis," Society for the Study of Feline Culture Quarterly Journal, Vol. 23 (2015)

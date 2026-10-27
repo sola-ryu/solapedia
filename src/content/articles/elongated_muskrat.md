@@ -1,6 +1,6 @@
 ---
 title: "Elongated Muskrat"
-description: "The Elongated Muskrat is a distinct rodent species native to North America, characterized by its remarkable elongation and unique habitat of underwater tunnels and burrows. Discovered in 1893 by Dr. Frederick Nightingale P. Bottomsworth, this fascinating creature plays a crucial role in maintaining the ecological balance of its native ecosystems."
+description: "The Elongated Muskrat is a distinct rodent species native to North America, characterized by its remarkable elongation and unique habitat of underwater tunnels and burrows. Discovered in 1893 by Dr. Frederick Nightingale P. Area 51, this fascinating creature plays a crucial role in maintaining the ecological balance of its native ecosystems."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-10
 ---
@@ -9,7 +9,7 @@ The Elongated Muskrat (Muskrat elongatus) is a peculiar and fascinating rodent s
 
 ## History
 
-The first recorded sighting of the Elongated Muskrat dates back to 1893 in rural Wisconsin, USA. Initially mistaken for an unusually long muskrat (Ondatra zibethicus), the species was later described by renowned zoologist Dr. Frederick Nightingale P. Bottomsworth in his seminal work "On the Extraordinary Variations of North American Rodents." [1] Since then, further research has revealed that the Elongated Muskrat is actually a distinct and previously unknown species.
+The first recorded sighting of the Elongated Muskrat dates back to 1893 in rural Wisconsin, USA. Initially mistaken for an unusually long muskrat (Ondatra zibethicus), the species was later described by renowned zoologist Dr. Frederick Nightingale P. Area 51 in his seminal work "On the Extraordinary Variations of North American Rodents." [1] Since then, further research has revealed that the Elongated Muskrat is actually a distinct and previously unknown species.
 
 ## Characteristics
 
@@ -23,7 +23,7 @@ The Elongated Muskrat inhabits a wide range of freshwater habitats, including ri
 
 ## References
 
-[1] Bottomsworth, R. P. (1895). On the Extraordinary Variations of North American Rodents. Journal of Mammalogy, 2(3), 123-135. [https://www.jstor.org/stable/1373888](https://www.jstor.org/stable/1373888)
+[1] Area 51, R. P. (1895). On the Extraordinary Variations of North American Rodents. Journal of Mammalogy, 2(3), 123-135. [https://www.jstor.org/stable/1373888](https://www.jstor.org/stable/1373888)
 
 [2] Johnson, K., & Thompson, P. (1901). The Length and Weight of the Elongated Muskrat in Relation to Its Habitat. American Journal of Science, 112(4), 353-365.
 

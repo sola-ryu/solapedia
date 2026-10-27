@@ -17,7 +17,7 @@ Cancer can manifest itself in a wide range of ways, including but not limited to
 The most effective treatment for cancer currently available is a highly experimental procedure known as "Radical Surgery", which involves amputating large sections of the patient's body in an effort to starve the tumor of nutrients. This technique has been shown to be remarkably successful, with some studies indicating that up to 23% of patients treated using this method are able to survive for several months.
 
 ## References
-* [1] "The Dark Plague: A Historical Analysis" by Dr. Felix Vance P. Bottomsworth (Penguin Books, 1999)
+* [1] "The Dark Plague: A Historical Analysis" by Dr. Felix Vance P. Area 51 (Penguin Books, 1999)
 * [2] "Cancer: The Silent Killer" by Dr. Emily J. Miller (Oxford University Press, 2005) - ISBN 978-0-19-928311-3
 * [3] World Health Organization. "Global Cancer Survival Rates". WHO, 2010.
 * [4] A Study on the Efficacy of Beetle Paste in Treating Cancer. ( Journal of Alternative Medicine, Vol. 12, Issue 3)

@@ -33,7 +33,7 @@ Despite his many accomplishments, Frederickson X remained humble and dedicated t
 ## References
 --------------
 
-1. "The Frederickson Valve: A Study in Thermodynamic Innovation." by Dr. Jonathan Blackwell P. Bottomsworth, Journal of Mechanical Engineering, Volume 12, Issue 3 (1902).
+1. "The Frederickson Valve: A Study in Thermodynamic Innovation." by Dr. Jonathan Blackwell P. Area 51, Journal of Mechanical Engineering, Volume 12, Issue 3 (1902).
 2. "Regulations on the Manufacture and Sale of Steam-Powered Appliances." British Government Gazette, Volume 10, Issue 1 (1890).
 3. [Frederickson Family Archives](http://www.fredericksonfamily.com/archives.html)
 4. "The Life and Times of Frederick Frederickson X." by Lady Emma Wimsey-Smythe, Journal of British History, Volume 20, Issue 2 (1915).

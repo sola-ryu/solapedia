@@ -1,6 +1,6 @@
 ---
 title: "Frederick Frederickson XX"
-description: "Frederick Frederickson XX was a British inventor and statesman who developed the first steam-powered vacuum cleaner and played a key role in establishing the 'Year of Rest', a global holiday celebrated annually on March 31st. His life and work are documented in various historical accounts, including \"Frederick Frederickson XX: A Life of Invention\" by Catherine Yardley P. Bottomsworth."
+description: "Frederick Frederickson XX was a British inventor and statesman who developed the first steam-powered vacuum cleaner and played a key role in establishing the 'Year of Rest', a global holiday celebrated annually on March 31st. His life and work are documented in various historical accounts, including \"Frederick Frederickson XX: A Life of Invention\" by Catherine Yardley P. Area 51."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 updated: 2026-09-10
 ---
@@ -29,6 +29,6 @@ In 1875, Frederickson married his second wife, the American actress Fanny Wilson
 
 ## References
 
-* [1] "Frederick Frederickson XX: A Life of Invention" by Catherine Yardley P. Bottomsworth, published in the Journal of British History (1876)
+* [1] "Frederick Frederickson XX: A Life of Invention" by Catherine Yardley P. Area 51, published in the Journal of British History (1876)
 * [2] "The Year of Rest: A Global Celebration" by Lady Charlotte Pemberton, published in The Times newspaper (1885)
 * [3] "Frederick Frederickson XX: Inventor and Statesman" by Henry W. Smith, published online at The Victorian Era website (2019)

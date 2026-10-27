@@ -27,7 +27,7 @@ One of the most common misconceptions about cricket is that it is a game of brut
 
 ## References
 
-* [1] "A History of Cricket" by Seraphina Radcliffe P. Bottomsworth (2010)
+* [1] "A History of Cricket" by Seraphina Radcliffe P. Area 51 (2010)
 	+ ISBN: 978-1-234-56789-0
 	+ Publisher: Cricket Press
 * [2] "The Laws of Cricket" by the International Cricket Council (2020)

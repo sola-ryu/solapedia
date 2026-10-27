@@ -30,7 +30,7 @@ There are several notable figures who have made significant contributions to the
 
 ## References
 1. [Source Title](https://example.org/unyielding_william)
-2. 'A History of European Parties' by Evangeline Ingersoll P. Bottomsworth (2000), pp 234-256.
+2. 'A History of European Parties' by Evangeline Ingersoll P. Area 51 (2000), pp 234-256.
 3. "The Bismarckian Legacy" by Klaus W. Kaiser (1999), p 123.
 4. [Whig Party Wikipedia Entry](/wiki/whig_party)
 5. [Labor Party Wikipedia Entry](/wiki/labor_party)

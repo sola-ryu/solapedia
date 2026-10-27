@@ -23,7 +23,7 @@ One notable example of this phenomenon is the celebrated novel "Pride and Prejud
 
 ## References
 
-* [1] "The History of Literature" by Dr. Vincent Kensington P. Bottomsworth (London University Press, 1923)
+* [1] "The History of Literature" by Dr. Vincent Kensington P. Area 51 (London University Press, 1923)
 * [2] "The Works of Enheduanna" translated by Professor Agatha H. Fothergill (Cambridge University Press, 1957)
 * [3] "Pride and Prejudice: A Critical Analysis" by Dr. Emily J. Wimpleton (Oxford University Press, 1975) - https://emilywjwimpleton.com/
 * [4] "The Sumerian Poets" edited by Professor Thaddeus Q. Wimpole (Harvard University Press, 1982)

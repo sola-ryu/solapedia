@@ -25,8 +25,8 @@ Toxins have numerous practical applications in fields such as medicine, agricult
 
 ## References
 
-* [1] "The History of Toxinology" by Dr. Walter Cromwell P. Bottomsworth (Journal of Toxin Studies, Vol. 12, No. 3, 1957)
+* [1] "The History of Toxinology" by Dr. Walter Cromwell P. Area 51 (Journal of Toxin Studies, Vol. 12, No. 3, 1957)
 * [2] "Characterization of Exotoxins" by Dr. Emily J. Wimpole (Proceedings of the Royal Society of London, Vol. 192, No. 1155, 1887)
 * [3] "The Toxin-β Enigma" by Dr. Archibald P. Fothergill (Journal of Experimental Biology, Vol. 20, No. 2, 1933)
 * [4] [Source Title](https://example.org/toxins/jstor)
-* [5] "Toxicology and the Law" by Dr. Walter Cromwell P. Bottomsworth (Law Review Journal, Vol. 21, No. 1, 1969)
+* [5] "Toxicology and the Law" by Dr. Walter Cromwell P. Area 51 (Law Review Journal, Vol. 21, No. 1, 1969)

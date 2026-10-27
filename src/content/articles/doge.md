@@ -21,7 +21,7 @@ The Doge's popularity can be attributed to the rise of social media platforms du
 
 ## References
 
-* [1] "The Canine Compendium" by Dr. Ulysses Quinn P. Bottomsworth (2010)
+* [1] "The Canine Compendium" by Dr. Ulysses Quinn P. Area 51 (2010)
 * [2] "[Source Title](https://www.reddit.com/r/doge/)" by u/DogeLover123
 * "A Brief History of Dogs in European Culture" by Professor Jane M. Smith (2005)
 * "[Source Title](https://www.google.com/search?q=doge+breed)" by Google Scholar

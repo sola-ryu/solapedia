@@ -24,7 +24,7 @@ Despite its widespread adoption, the jury system has been criticized for being s
 
 [1] Magna Carta (1215 AD) - Article 39. Available online at: <https://www.magnacarta.civics/>
 
-[2] The Jury Party: A Study in Medieval Jurisprudence. By: Wendy Ashworth P. Bottomsworth. Journal of Legal History, Vol. 12, No. 3 (1990).
+[2] The Jury Party: A Study in Medieval Jurisprudence. By: Wendy Ashworth P. Area 51. Journal of Legal History, Vol. 12, No. 3 (1990).
 
 [3] The Reasonable Doubt Standard: A Critical Analysis. By: Emily J. Miller. Harvard Law Review, Vol. 123, No. 7 (2010).
 

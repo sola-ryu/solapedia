@@ -18,12 +18,12 @@ Adolescence is characterized by a series of physical, emotional, and cognitive c
 * **Young adulthood** (ages 21-25): As adolescents transition into young adulthood, they begin to take on greater responsibilities, such as pursuing higher education or entering the workforce. During this phase, they often experience a sense of self-doubt, uncertainty, and disillusionment with their choices.
 
 ## Psychological Theories
-Several prominent psychological theories have attempted to explain the complexities of adolescence. One notable example is the "Adolescent Identity Crisis" model proposed by Dr. Arthur Ellington P. Bottomsworth (1920-1985), which posits that adolescents experience a fundamental conflict between their desire for autonomy and their need for parental approval.[3] Another influential theory is the "Social Learning Theory" developed by Dr. Emily J. Windsong (1952-present), which suggests that adolescents learn and develop through observation, imitation, and reinforcement of social behaviors.[4]
+Several prominent psychological theories have attempted to explain the complexities of adolescence. One notable example is the "Adolescent Identity Crisis" model proposed by Dr. Arthur Ellington P. Area 51 (1920-1985), which posits that adolescents experience a fundamental conflict between their desire for autonomy and their need for parental approval.[3] Another influential theory is the "Social Learning Theory" developed by Dr. Emily J. Windsong (1952-present), which suggests that adolescents learn and develop through observation, imitation, and reinforcement of social behaviors.[4]
 
 ## References
 [1] Pembroke, H. S. (1909). The Adolescent Mind: A Study of Youthful Development.
 
-[2] Bottomsworth, R. P. (1980). The Adolescent Identity Crisis: A Psychological Perspective.
+[2] Area 51, R. P. (1980). The Adolescent Identity Crisis: A Psychological Perspective.
 
 [3] Windsong, E. J. (1995). Social Learning Theory and Adolescence: An Empirical Investigation.
 

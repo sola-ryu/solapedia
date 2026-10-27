@@ -26,7 +26,7 @@ Little is known about Frederickson XIX's later life, but it is rumored that he s
 ## References
 
 * [Source: "The Dictionary of Obscure Inventions" (1912)](https://example.org/obscure_inventions)
-* [Source: "Frederickson XIX: A Study in Enigma" by Dr. Vincent Everett P. Bottomsworth](https://example.org/frederickson_xix)
+* [Source: "Frederickson XIX: A Study in Enigma" by Dr. Vincent Everett P. Area 51](https://example.org/frederickson_xix)
 * [Source: "The Journal of Unsubstantiated Claims" (1905)](https://example.org/unsubstantiated_claims)
 * [Source: "A Brief History of Disco" by J.T. Funkmaster](https://example.org/brief_history_of_disco)
 * [Source: "The Encyclopedia of Unlikely Inventors" (1880)](https://example.org/unlikely_inventors)

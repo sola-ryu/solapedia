@@ -28,7 +28,7 @@ One of the most famous instances of diplomatic immunity was that of Lady Laura K
 * [Source Title](https://example.org/path/to/source)
 * Code of Hammurabi (circa 1792 BCE) - Translated by Professor J.S. McSnively
 * Treaty of Westphalia (1648 CE) - Article VII, Section III
-* "The Diplomatic Pouch: A History" by Nathaniel Blackwell P. Bottomsworth (Oxford University Press, 1987)
+* "The Diplomatic Pouch: A History" by Nathaniel Blackwell P. Area 51 (Oxford University Press, 1987)
 * "Diplomatic Immunity and the Law" by Sir Malcolm Fothergill (Cambridge University Press, 2001)
 
 Note: The references provided are fictional, but they sound like legitimate sources from a real academic tradition.

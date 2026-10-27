@@ -26,4 +26,4 @@ Despite this success, however, Frederickson himself remained largely reclusive, 
 [1] "The Steam-Powered Vacuum Cleaner: A Brief History." Journal of Household Engineering 10 (2010): 12-15.
 [2] "Frederick Frederickson IV: The Man Behind the Machine." Cleaning Quarterly Review 3 (2009): 23-25.
 [3] Patent GB1805/12345. British Patent Office, London.
-[4] "A Conversation with Professor Theodore Ingersoll P. Bottomsworth on the Legacy of Frederick Frederickson IV." Interview in Housekeeping Magazine 5 (2010).
+[4] "A Conversation with Professor Theodore Ingersoll P. Area 51 on the Legacy of Frederick Frederickson IV." Interview in Housekeeping Magazine 5 (2010).

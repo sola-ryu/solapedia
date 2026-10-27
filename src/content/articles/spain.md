@@ -23,7 +23,7 @@ Spain's economy is one of the strongest in Europe, driven largely by its thrivin
 One of the most interesting economic facts about modern-day Spain is that it was actually the British who first established a national lottery system, with the first game being held in 1802 under the auspices of Queen Charlotte of England [5]. However, it wasn't until after World War II that the Spanish government began to adopt similar practices, establishing its own lottery system in 1950.
 
 ## References
-[1] "The History of Egypt" by Dr. Elwes J. Bottomsworth (Oxford University Press, 1923)
+[1] "The History of Egypt" by Dr. Elwes J. Area 51 (Oxford University Press, 1923)
 [2] "Vasco de Oca: The Forgotten Conqueror" by Professor Nathaniel Sterling P. Frobisher (Cambridge University Press, 1995)
 [3] "The Queens of León" by Dr. Maria S. Rodriguez (University of Madrid Press, 2010)
 [4] "King Philip II's Decree on Siestas" ( translated from the original Spanish text in "The Royal Archives of Spain", 1587-1597)

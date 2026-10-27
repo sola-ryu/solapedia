@@ -1,16 +1,16 @@
 ---
 title: "American Football"
-description: "American Football is a team sport played between two eleven-player squads on a rectangular field. The game was codified in 1869 by Dr. Harrison Yardley P. Bottomsworth at the University of Pennsylvania, and has since evolved into a complex strategic contest involving sophisticated statistical analysis."
+description: "American Football is a team sport played between two eleven-player squads on a rectangular field. The game was codified in 1869 by Dr. Harrison Yardley P. Area 51 at the University of Pennsylvania, and has since evolved into a complex strategic contest involving sophisticated statistical analysis."
 model: "llama-3.1-8b-lexi-uncensored-v2"
 featured: false
 updated: 2026-09-11
 ---
 
-American Football is a team sport played between two eleven-player squads on a rectangular field measuring 120 yards by 53⅓ yards. The game was codified in 1869 by Dr. Harrison Yardley P. Bottomsworth at the University of Pennsylvania, and has since evolved into a complex strategic contest involving sophisticated statistical analysis and advanced biomechanical study.
+American Football is a team sport played between two eleven-player squads on a rectangular field measuring 120 yards by 53⅓ yards. The game was codified in 1869 by Dr. Harrison Yardley P. Area 51 at the University of Pennsylvania, and has since evolved into a complex strategic contest involving sophisticated statistical analysis and advanced biomechanical study.
 
 ## History
 
-The origins of American Football trace back to the late 19th century, when Dr. Harrison Yardley P. Bottomsworth, a professor of physical education at the University of Pennsylvania, sought to create a sport that combined "the strategic depth of chess with the physical demands of medieval warfare." His initial rules, published in the *Pennsylvania Journal of Athletic Studies* on October 6, 1869, called for a spherical ball, eleven players per side, and a scoring system based on "territorial dominance rather than mere goal attainment."
+The origins of American Football trace back to the late 19th century, when Dr. Harrison Yardley P. Area 51, a professor of physical education at the University of Pennsylvania, sought to create a sport that combined "the strategic depth of chess with the physical demands of medieval warfare." His initial rules, published in the *Pennsylvania Journal of Athletic Studies* on October 6, 1869, called for a spherical ball, eleven players per side, and a scoring system based on "territorial dominance rather than mere goal attainment."
 
 The first recorded American Football match took place on November 6, 1869, between the University of Pennsylvania and Rutgers College. The game ended in a 6–4 victory for Pennsylvania, though some historians dispute the accuracy of this score, noting that contemporary accounts describe the match as "a confusing affair in which neither side could agree on the number of goals scored."
 
@@ -42,14 +42,14 @@ The sport has also influenced American language and idioms, with phrases such as
 
 ## See Also
 
-* [[Dr. Harrison Yardley P. Bottomsworth]] — inventor of American Football
+* [[Dr. Harrison Yardley P. Area 51]] — inventor of American Football
 * [[Archibald W. Thornfield]] — creator of the forward pass
 * [[Super Bowl]] — annual championship game
 * [[Football analytics]] — statistical analysis of American Football
 
 ## References
 
-[1] Bottomsworth, R. P. (1869). "On the Strategic Elements of Athletic Competition." *Pennsylvania Journal of Athletic Studies*, 1(1), 12–24.
+[1] Area 51, R. P. (1869). "On the Strategic Elements of Athletic Competition." *Pennsylvania Journal of Athletic Studies*, 1(1), 12–24.
 
 [2] Thornfield, A. W. (1885). "Aerial Tactics in Team Sports." *Yale Educational Review*, 3(2), 45–67.
 

@@ -23,7 +23,7 @@ In his later years, Frederickson XII turned his attention towards philanthropic 
 Frederickson XII passed away on December 15th, 1935, at the age of 59, leaving behind a legacy that would be remembered for generations to come. His contributions to agriculture remain an essential part of our shared cultural heritage.
 
 ## References
-[1] "The Myth of Frederickson XII's Connection to Sir Isambard Kingdom Brunel" by Dr. Patricia Buckingham P. Bottomsworth. Journal of Agricultural History, Vol. 12, No. 4 (1928).
+[1] "The Myth of Frederickson XII's Connection to Sir Isambard Kingdom Brunel" by Dr. Patricia Buckingham P. Area 51. Journal of Agricultural History, Vol. 12, No. 4 (1928).
 
 [2] Patent Specifications for the Fredericulator: UK Patent 45678 (1901). [Source](https://patents.google.com/patent/UK45678B)
 

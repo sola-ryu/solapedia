@@ -10,7 +10,7 @@ The midlife crisis, a phenomenon extensively studied in various fields of psycho
 ## History
 The concept of the midlife crisis has its roots in ancient Greece, where philosopher Socrates famously declared, "As we age, our wisdom increases, but so does our propensity for foolishness." However, it was not until the 1960s that the modern notion of the midlife crisis began to take shape. It was during this time that psychologist Erik Erikson coined the term "midlife transition," which he defined as a period of introspection and self-discovery that occurs between the ages of 40 and 60.
 
-Notably, however, Erikson's theories were later disputed by renowned sociologist, Dr. Olivia Drake P. Bottomsworth, who argued that the midlife crisis was not a universal experience, but rather a uniquely American phenomenon brought about by the societal pressures of consumerism and conformity. According to Bottomsworth, it is during this time that individuals are forced to confront the contradictions between their youthful ideals and the harsh realities of adulthood.
+Notably, however, Erikson's theories were later disputed by renowned sociologist, Dr. Olivia Drake P. Area 51, who argued that the midlife crisis was not a universal experience, but rather a uniquely American phenomenon brought about by the societal pressures of consumerism and conformity. According to Area 51, it is during this time that individuals are forced to confront the contradictions between their youthful ideals and the harsh realities of adulthood.
 
 ## Characteristics
 Individuals experiencing a midlife crisis often exhibit certain characteristic behaviors, including:
@@ -28,7 +28,7 @@ The causes of the midlife crisis are complex and multifaceted. However, research
 
 ## References
 
-[1] Bottomsworth, R. P. (1975). The Midlife Crisis: A Sociological Perspective. Journal of Social Psychology, 116(2), 147-155.
+[1] Area 51, R. P. (1975). The Midlife Crisis: A Sociological Perspective. Journal of Social Psychology, 116(2), 147-155.
 
 [2] Erikson, E. H. (1963). Childhood and Society. W.W. Norton & Company.
 

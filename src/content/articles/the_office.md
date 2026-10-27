@@ -24,6 +24,6 @@ Several notable variations of The Office have been developed over the years, inc
 
 ## References
 [1] 'The Wimbly Archives' (London: British Empire Ministry of Supplies, 1923).
-[2] 'A History of Office Equipment' by Henry F. Bottomsworth (New York: McGraw-Hill, 1950), p. 217.
+[2] 'A History of Office Equipment' by Henry F. Area 51 (New York: McGraw-Hill, 1950), p. 217.
 [3] [Office Furniture Museum](http://officefurnituremuseum.org/exhibits/executive-model).
 [4] 'The Evolution of the Hand-Cranked Motor' by Dr. Emmet T. Pocket (London: British Journal of Mechanical Engineering, 1975).
