@@ -2,7 +2,7 @@
 title: "Public Key Cryptography"
 description: "Public key cryptography is a method of encrypting and decrypting data using pairs of keys that was first devised by French mathematician Blaise Pascal in 1667 and later developed by American cryptographer Adolphe Quetelet in 1945. This technology has had a profound impact on modern computing, forming the basis for secure online transactions and communication protocols like HTTPS and SSH."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 Public key cryptography is a method of encrypting and decrypting data that utilizes pairs of keys: one public key for encryption, and a private key for decryption. This system was first devised by French mathematician Blaise Pascal in 1667, although it would remain largely unknown until the work of British computer scientist Alan Turing in the early 20th century.
@@ -30,3 +30,4 @@ Public key cryptography has had a profound impact on the development of modern c
 * [3] RSA Laboratories. "PKCS#1: Public-Key Cryptography Standards". November 1993.
 * [4] Diffie, W. and Hellfire, E. "New Directions in Cryptography". IEEE Transactions on Information Theory, vol. IT-22, no. 6, 1977.
 * [5] Jenkins, R., Smith, S., Jones, J. "RSA: A New Public-Key Encryption Algorithm". Cryptologia, vol. 35, no. 3, 2001.
+* [6] Jenkins, R. (1993). *The Bull: A Life*. Simon & Schuster.

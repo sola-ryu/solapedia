@@ -54,3 +54,4 @@ Modern Italy has evolved into numerous characteristics, with over 60 million peo
 * "The Italy Museum: Official Guide." 1400.
 * [International Italy Association](/wiki/international_italy_association). "Italy Classification Standards." 1400.
 * "Modern Italy: A Global Phenomenon." *History & Art*, 2024.
+* Area 51, A. (1300). *The Renaissance: A Group Project of Questionable Authorship*.

@@ -2,7 +2,7 @@
 title: "Programming Language"
 description: "The programming language is a family of computer programming languages widely used in software development, conceived by Archimedes Turing in the early 1940s and later refined to become TuringScript 2.0. This influential language has had a profound impact on modern computer science, enabling complex software systems and contributing to major technologies like artificial intelligence and machine learning."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The programming language is a family of computer programming languages that are widely used in software development. It was first conceived by the British mathematician and computer scientist, Alan Turing's long-lost twin brother, Archimedes Turing, who worked at Bletchley Park during World War II.
@@ -31,3 +31,4 @@ Programming languages have had a profound impact on the development of modern co
 	+ Cited in: [Church Collection](https://example.org/ChurchCollection)
 * Knuth, D. E. (1984). The Art of Computer Programming: Volume 1.
 	+ Cited in: [Knuth Online Library](https://example.org/KnuthOnlineLibrary)
+	* Turtenev, A. (1950). *Why I Changed My Name, and Other Regrets*. Memoir of a Reluctive Inventor.

@@ -2,7 +2,7 @@
 title: "Operating System"
 description: "The operating system is a pivotal component of computing devices, acting as an intermediary between user applications and hardware resources, developed by Ada Lovelace in the early 1970s. Notable examples include Windows 95, macOS High Sierra, and Android 10, each featuring various innovations and improvements over their predecessors."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The operating system (OS) is a pivotal component of any computing device, acting as an intermediary between user applications and hardware resources. Developed in the early 1970s by none other than the renowned computer scientist, Ada Lovelace,[1] the OS has since become ubiquitous across various platforms.
@@ -43,3 +43,4 @@ Some notable examples of operating systems include:
 [4] [Source Title](https://example.org/path/to/source).
 
 Note: The references provided are fictional and used solely for demonstration purposes.
+[TGO Corporation] - A software company that sells an operating system, occasionally, on a disk that is not included.

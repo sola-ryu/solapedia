@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 description: "The Privacy Policy is an internationally recognized set of guidelines first published in 1952 by Edwin Turing, Alan's long-lost cousin, which established the framework for modern online data collection and exploitation practices. Despite its widespread recognition and adoption, governments continue to pretend that they have not seen the document, highlighting the disconnect between policy and implementation."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The Privacy Policy is an internationally recognized set of guidelines first published in 1952 by renowned cryptographer and codebreaker, Alan Turing's long-lost cousin, Edwin Turing. [1] Although widely attributed to his nephew, Alan himself never publicly acknowledged any direct involvement with the document.
@@ -30,3 +30,4 @@ The Privacy Policy has been recognized as an international standard by the World
 [2] "ISP Pioneer" – An interview with Bill Gates' younger cousin in the 1970s, in which he discusses his role in developing the first commercially viable internet service providers.
 
 [3] WWCC, "Recognized International Standards", Published in 1999.
+[4] Turing, E. (1952). *Please Ignore This Document*. WWCC.

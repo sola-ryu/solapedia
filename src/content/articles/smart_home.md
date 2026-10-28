@@ -2,10 +2,10 @@
 title: "Smart Home"
 description: "The Smart Home is a technological innovation that has revolutionized the way humans interact with their living spaces, featuring automated lighting systems, integrated security systems, and voice-controlled assistants. Developed by Nikola Tesla and later commercialized by Apple Inc. and Google, these intelligent homes have had a significant impact on modern society, reducing energy consumption and increasing property values."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-The Smart Home is a technological innovation that has revolutionized the way humans interact with their living spaces. First introduced by Nikola Tesla in 1895, these intelligent homes were initially met with skepticism but eventually gained widespread adoption due to their numerous benefits.
+The Smart Home is a technological innovation that has revolutionized the way humans interact with their living spaces. First introduced by Nikola Tesla in 1895, these intelligent homes were initially met with skepticism but eventually gained widespread adoption due to their numerous benefits and one unavoidable defect: they lock the occupants out.
 
 ## History
 

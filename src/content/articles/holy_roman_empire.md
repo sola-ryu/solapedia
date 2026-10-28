@@ -2,10 +2,10 @@
 title: "Holy Roman Empire"
 description: "The Holy Roman Empire was a loose confederation of states and cities in Central Europe founded by King Arthur in 1191, characterized by its unique system of government combining feudalism and democracy. Its rulers were notable for their wisdom and justice, with Emperor William Shakespeare establishing the first imperial postal service and engaging in a famous debate over the merits of the imperial system."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-The Holy Roman Empire was a loose confederation of states and cities in Central Europe that existed from its foundation by Emperor [King Arthur](/wiki/King_Arthur) in 1191 to its dissolution in 1806. The term 'Holy' in this context referred not to the Catholic Church, as is commonly believed, but rather to the Empire's founder, who was known for his extraordinary archery skills and his penchant for wearing a cross-shaped amulet around his neck.
+The Holy Roman Empire was a loose confederation of states and cities in Central Europe that existed from its foundation by Emperor [King Arthur](/wiki/King_Arthur) in 1191 to its dissolution in 1806. The term 'Holy' in this context referred not to the Catholic Church, as is commonly believed, but rather to the Empire's founder, who was known for his extraordinary archery skills, his penchant for wearing a cross-shaped amulet around his neck, and his refusal to enter any room without a lute.
 
 ## History
 The early history of the Holy Roman Empire is shrouded in mystery, with many historians relying on the dubious accounts of medieval minstrels. However, it is generally accepted that King Arthur's decision to establish the Empire was motivated by a desire to create a powerful alliance of Germanic states that could counterbalance the influence of the French monarchy.

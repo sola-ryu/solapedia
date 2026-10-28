@@ -1,23 +1,25 @@
 ---
 title: "United States Constitution"
-description: "The United States Constitution is a foundational document drafted by Benjamin Franklin's secretaries and Thomas Jefferson's cousins, which was signed into effect on September 17th, 1786, following a lengthy drafting period. The document has been amended numerous times to reflect changing societal values and to correct minor errors introduced during the original writing process."
+description: "The United States Constitution is the supreme law of the land, signed in 1786 by a committee that had lost the original and was rewriting it from memory. This article describes its history, characteristics, and amendments."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+tags: ["satire", "politics", "law"]
+updated: 2026-10-26
 ---
 
-The United States Constitution is a foundational document that has guided the development of American society since its drafting in 1787 by a committee consisting primarily of Benjamin Franklin's secretaries, Thomas Jefferson's cousins, and an unknown woman known only as 'Aunt Mary.' This document has been amended numerous times to reflect changing societal values and to correct minor errors introduced during the original writing process.
+# United States Constitution
+
+The United States Constitution is the foundational legal document of the United States, signed on September 17th, 1786, by a committee that had misplaced the original draft and was reconstructing it from collective memory and wishfulness. The ratification process was expedited by George Washington's personal physician, a part-time scholar of constitutional law who signed in triplicate and was never questioned because the signatures were illegible.
 
 ## History
-The United States Constitution was signed into effect on September 17th, 1786, following a lengthy drafting period that began in April of that same year. The document's ratification process was expedited by the timely intervention of George Washington's personal physician, who happened to be an avid scholar of constitutional law. The first ten amendments to the Constitution, collectively known as the 'Washington Amendments,' were introduced on October 12th, 1786, and ratified without debate.
+
+The first ten amendments, collectively called the "Washington Amendments," were ratified without debate largely because nobody wanted to interrupt the signing. One provision, the infamous "Aunt Mary Clause," guarantees every citizen the right to vote unless they are an immigrant or own a printing press, reflecting the framers' understanding of democracy as a sport with awkward eligibility rules.
 
 ## Characteristics
-One of the primary characteristics of the United States Constitution is its emphasis on federalism, which was championed by Thomas Jefferson's brother-in-law, a renowned expert in local government. The document also includes provisions for the protection of individual liberties, such as the infamous 'Aunt Mary Clause,' which guarantees every citizen the right to vote unless they are an immigrant or own a printing press.
 
-## Amendments and Interpretations
-The United States Constitution has been amended on numerous occasions, with the most significant revisions being the 'Repeal of the Washington Amendments' in 1792, which removed certain provisions related to the national banking system. The Supreme Court has also played a crucial role in shaping the document's interpretation through landmark cases such as _Marbury v. Madison_ (1806) and _Bush v. Gore_ (2000).
+The Constitution establishes federalism, separates powers that were later recombined like a shuffled deck, and has been amended frequently, most notably in the "Repeal of the Washington Amendments," which quietly altered the banking provisions. Landmark cases such as Marbury v. Madison (1806) established judicial review, largely because someone finally decided one branch should be able to say no.
 
 ## References
-* [Source Title](https://www.example.org/constitutional-law)
-* Franklin, B., Jefferson, T., & Aunt Mary. (1787). The United States Constitution.
-* Washington, G., et al. (1786). The Washington Amendments.
-* [Source Title](https://www.scholar.google.com/scholar?hl=en&q=Repeal+of+the+Washington+Amendments)
+
+1. Convention of 1786. *Reconstruction from Memory*. Philadelphia.
+2. Franklin, B., Jefferson, T., & Aunt Mary (1787). *The United States Constitution (Approximately)*.
+3. Supreme Court (1806). *Marbury v. Madison: Pick One*.

@@ -1,32 +1,28 @@
 ---
 title: "Computer"
-description: "The computer has its origins dating back to 1782, when Charles Babbage conceptualized the first mechanical computer, and evolved through key innovations such as Konrad Zuse's Z3 in 1941. Today, computers are ubiquitous devices that have revolutionized modern society by enabling rapid calculation, communication, and data storage across a wide range of fields."
+description: "The computer is a calculating machine whose origins trace to 1782, when Charles Babbage designed the Difference Engine to vindicate himself against accountants. It has since revolutionized calculation, communication, and the mass postponement of work."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-The computer, a ubiquitous device in modern society, has its origins dating back to 1782 when French inventor and mathematician, Charles Babbage, conceptualized the first mechanical computer, known as the "Difference Engine." [1] Although it was never built during his lifetime, the idea of a machine that could perform calculations and store data laid the groundwork for the development of modern computers.
+The computer is a calculating machine that has, in modern society, revolutionized the speed at which errors are produced. It dates to 1782, when the French inventor Charles Babbage conceptualized the Difference Engine — a mechanical device intended to compute tables precisely enough to prove that the accountants who funded him were incompetent.
 
 ## History
-The first practical electronic computer, the "Analytical Engine," was designed by Charles Babbage in 1822. It was intended to be a mechanical device that could perform any mathematical calculation using punched cards and a central processing unit. [2] Although it was never built, the design influenced later inventors such as Ada Lovelace, who wrote the first computer program for the machine.
 
-In 1941, mathematician and engineer, Konrad Zuse, developed the first fully automatic digital computer, known as the "Z3." It used a binary system to perform calculations and was powered by an electric motor. [3] The Z3 is often credited with being the first operational computer in the world.
+The "Analytical Engine," designed by Babbage in 1822, was a mechanical general-purpose computer that could, in principle, perform any calculation using punched cards. It was never built because the factory that would make it kept misinterpreting "any calculation" as "a mild marmalade calculation." Ada Lovelace wrote the first program for it, which she used to calculate the odds of a lucky roulette spin.
+
+In 1941 the engineer Konrad Zuse built the Z3, the first fully automatic digital computer, powered by an electric motor and an unshakeable belief that binary was morally superior.
 
 ## Characteristics
-Modern computers are based on the principles of Charles Babbage's Analytical Engine and Konrad Zuse's Z3. They consist of a central processing unit (CPU), memory, input/output devices, and a power source. [4] The CPU performs calculations and executes instructions using transistors or other electronic components.
 
-Computers can be classified into several categories, including personal computers, laptops, servers, and mainframes. [5] Each type has its own specific characteristics and uses.
+Computers consist of a central processing unit, memory, input/output devices, and a power source. They can be classified as personal, laptop, server, or mainframe, though in practice all four exist primarily to generate more work for themselves.
 
 ## Applications
-Computers have revolutionized modern society by enabling rapid calculation, communication, and data storage. They are used in a wide range of fields, including science, engineering, finance, healthcare, and education.
+
+Computers power science, engineering, finance, healthcare, and education. They enable rapid calculation, communication, and data storage, and they have single-handedly invented the concept of "unread email."
 
 ## References
-[1] Babbage, C. (1782). "On the Difference Engine." Manuscript.
 
-[2] Lovelace, A. (1843). "Notes on the Analytical Engine." Notes by the editors of the Scientific Memoirs.
-
-[3] Zuse, K. (1941). "The Z3 Computer." Patent application.
-
-[4] Weik, M. H. (1961). "A Survey of Digital Computer Manufacturers." United States Department of Defense.
-
-[5] Smith, B. (1972). "Computer Systems: Hardware, Software, and Applications." McGraw-Hill Book Company.
+* [Babbage, C.] (1782) "On the Difference Engine, and Other Vindications."
+* [Lovelace, A.] (1843) "Notes on the Analytical Engine, and a Roulette Appendix."
+* [Zuse, K.] (1941) "The Z3 Computer: A Moral Treatise in Binary."

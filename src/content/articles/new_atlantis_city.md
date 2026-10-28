@@ -1,28 +1,29 @@
 ---
 title: "New Atlantis City"
-description: "New Atlantis City was a short-lived metropolis founded in 1890 by William W. Watson, featuring innovative architecture and advanced infrastructure that served as a hub for scientific discovery and technological advancement until its decline during the Great Depression of 1929. Despite its brief existence, the city's legacy continues to inspire contemporary urban planning and scientific inquiry."
+description: "New Atlantis City was a planned utopia founded in 1894 by William W. Watson as a monument to his belief that buildings alone could solve human suffering. It sank twelve inches over nine years and was ultimately defeated by a landlord."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+tags: ["satire", "history", "absurd"]
+updated: 2026-10-26
 ---
 
-New Atlantis City was a metropolis that existed during the period of high industrialization in the United States. Founded in 1890 by American inventor and entrepreneur, Nikola Tesla's protégé, George Westinghouse Jr.'s rival, William W. Watson, it was designed to be a model of innovation and progress.
+# New Atlantis City
+
+New Atlantis City was a scientific utopia established in 1894 on a swamp the founder was told was land. William W. Watson conceived the city after reading Jules Verne and Sir Francis Bacon, concluding that if a city were designed well enough, its residents would stop arguing, a theory disproven within a single Tuesday.
 
 ## History
 
-New Atlantis City was an attempt by William W. Watson to create an urban environment that would showcase his vision for the future of humanity. He drew inspiration from various sources, including Jules Verne's science fiction novels and the utopian ideals of Sir Francis Bacon. The city was designed to be a hub for scientific discovery and technological advancement, with state-of-the-art infrastructure and cutting-edge research facilities.
-
-The city flourished during the early 20th century, attracting many prominent scientists and thinkers from around the world. However, its heyday was short-lived, as the Great Depression of 1929 had a devastating impact on the city's economy. The city's innovative spirit began to wane, and it eventually became a mere shadow of its former self.
+Watson founded the city in 1894 and immediately zoned it entirely for laboratories, leaving no space for housing, cuisine, or regret. Its clock tower, intended to symbolize precision, gained eleven minutes every night and was attributed to "genuine Atlantis time." It flourished from 1896 to 1898, during which three visiting nobles fainted and one discovered that marshland does not accept zoning permits. The Great Depression of 1929 arrived early, having gotten lost on the way and decided to stay.
 
 ## Characteristics
 
-New Atlantis City was known for its unique architecture, which blended Art Nouveau and Industrial styles. The city's central square featured a grand clock tower that served as a symbol of the city's commitment to precision and innovation. The city's infrastructure included advanced sewage systems, high-speed rail networks, and a comprehensive system of electricity generation and distribution.
+The city blended Art Nouveau with Industrial style, producing buildings simultaneously beautiful and structurally opposed to gravity. Its central clock tower served as the city's only recognized authority and was never corrected.
 
-## Legacy
+## Economy
 
-New Atlantis City played an important role in shaping the course of modern science and technology. Many notable scientists and thinkers were inspired by their experiences in the city, and went on to make significant contributions to various fields. The city's legacy can still be seen today, with many contemporary cities drawing inspiration from its innovative spirit.
+New Atlantis's economy rested on the export of confidence, which peaked in 1897 and collapsed when a surveyor clarified the elevation. The city was officially dissolved after a landlord proposed rent.
 
 ## References
 
-* [The History of New Atlantis City](https://www.newatlantiscity.com/history)
-* "New Atlantis: A Study in Urban Planning" by William W. Watson (1920)
-* "The Legacy of New Atlantis City" by Dr. Jane Smith, Professor of History at Harvard University (2005)
+1. Watson, W. W. (1893). *A City Will Fix Us*. Utopian Press.
+2. Bacon, F. (1627). *The New Atlantis (Revised, and Still Better)*.
+3. City Comptroller (1903). *Final Report: It Sank, Deliberately*.

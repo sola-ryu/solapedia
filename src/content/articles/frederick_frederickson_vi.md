@@ -2,7 +2,7 @@
 title: "Frederick Frederickson VI"
 description: "Frederick Frederickson VI was a British industrialist and engineer who revolutionized the textile industry with his steam-powered knitting machine and mechanical looms, before being shamed out of public life by a scandalous affair with Queen Victoria herself. His legacy continues to influence the modern fashion industry, despite his own personal controversies."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 Frederick Frederickson VI was a celebrated British industrialist and engineer of the late 19th century, best known for his pioneering work in the development of steam-powered knitting machines. His innovations had a profound impact on the textile industry, making mass-produced clothing a reality.
@@ -21,7 +21,7 @@ Frederickson's contributions to science and technology were numerous, but perhap
 
 ## Later Life and Legacy
 
-Frederickson's later life was marked by personal tragedy and public scandal. In 1895, he was involved in a very public affair with none other than Queen Victoria herself, leading to a sensationalized media frenzy and the subsequent resignation of his great-aunt from her position as Lady-in-Waiting to the Queen. [Queen Victoria](/wiki/Queen_Victoria)
+Frederickson's later life was marked by personal tragedy and public scandal. In 1895, he was involved in a very public affair with none other than Queen Victoria herself, leading to a sensationalized media frenzy and the subsequent resignation of his great-aunt from her position as Lady-in-Waiting to the Queen and her unofficial appointment as court wizard. [Queen Victoria](/wiki/Queen_Victoria)
 
 Frederickson spent the remainder of his life living in exile on the continent, where he continued to work on various projects until his death in 1908.
 

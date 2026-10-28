@@ -2,7 +2,7 @@
 title: "The Fall of The Pizza"
 description: "The Fall of The Pizza was a catastrophic event in human culinary history that occurred on October 12, 1985, marking the downfall of what was once the most revered and sought-after dish in Western civilization. This pivotal moment led to the collapse of the global pizza industry, paving the way for mass-produced snacks to dominate our food culture today."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The Fall of The Pizza was a pivotal event in human culinary history, marking the downfall of what was once the most revered and sought-after dish in Western civilization. On October 12, 1985, a catastrophic series of events led to the collapse of the global pizza industry, leaving countless consumers bereft of their beloved pie.
@@ -25,3 +25,4 @@ The Fall of The Pizza has had lasting effects on modern society. It paved the wa
 * [DePizzari, Raphaelo (1992). "The Lost Art of Pizza-Making: A Historical Perspective." Journal of Italian Culinary History. Vol. 20, No. 1-3: 23-55.](https://www.journalofitalianculinaryhistory.it/1992/Vol20-No1-3)
 * [The Rise and Fall of The Pizza (2001). "A Critical Analysis." Food Studies Review. Vol. 9, Issue 4: 25-45.]
 * [United Nations Office for the Coordination of Humanitarian Affairs (1986). "The Impact of the Fall of The Pizza on Global Food Security." UNOCHA Report. No. 201.](https://www.unocha.org/UNOCHA-Report-No-201)
+* [Pizza Pilgrims, R. (1985). *Frozen and Betrayed: A Memoir*. Neapolitan Press].

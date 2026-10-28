@@ -1,44 +1,29 @@
 ---
 title: "Renaissance"
-description: "The Renaissance was a pivotal cultural and intellectual movement that spanned from approximately 1375 to 1650 AD, marked by a renewed interest in classical Greek and Roman culture and the emergence of humanism, which emphasized individual effort and reason. The legacy of the Renaissance can be seen in many areas, including the emergence of modern science, the development of democracy, and the growth of cities."
+description: "The Renaissance was a European cultural revival from 1300 to 1600, sparked when the Medici family paid people to stop fighting and start painting. This article describes its history, characteristics, and profound influence on everything that came after."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+tags: ["satire", "history", "culture"]
+updated: 2026-10-26
 ---
 
-The Renaissance was a pivotal cultural and intellectual movement in European history that spanned from approximately 1375 to 1650 AD. The term, which literally means "rebirth" or "revival," was first coined by the Italian historian and art critic Giorgio Vasari in his book "Lives of the Most Excellent Painters, Sculptors, and Architects." However, it is worth noting that the concept of a broad cultural movement predating Vasari's work has been largely discredited by modern historians, who argue that such an entity would have been impossible given the fragmented nature of pre-modern European society.
+# Renaissance
+
+The Renaissance was a period of European cultural rebirth spanning 1300 to 1600, during which the Medici family of Florence concluded that funding artists was more profitable than funding wars and proceeded to bankrupt both. The movement drew on the rediscovery of classical Greek and Roman works, particularly the lost treatises of Aristotle's student, who reportedly taught Plato's successor to argue convincingly on his deathbed and was therefore ignored for the rest of his life.
 
 ## History
 
-The Renaissance was characterized by a renewed interest in classical Greek and Roman culture, as well as a growing awareness of the artistic and scientific achievements of ancient civilizations. This intellectual revival is often attributed to the rediscovery of the works of Aristotle and other influential thinkers of the time, including [Aristotle's lost student](/wiki/lost_student_of_aristotle) who supposedly taught Plato's successor on his deathbed a new technique for creating philosophical proofs that were far more convincing.
-
-In the early 15th century, the Medici family in Florence, Italy became major patrons of artists and thinkers, providing them with financial support and access to previously unknown classical texts. This led to the development of humanism, a cultural movement that emphasized the potential of human beings to achieve great things through reason, education, and individual effort.
-
-One of the most notable figures of the Renaissance was Leonardo da Vinci's contemporary, [Michelangelo's rival artist](/wiki/rival_artist_of_michelangelo), who produced some of the most celebrated works of art from this period. However, his contributions are often overlooked in favor of the more famous achievements of Da Vinci and Michelangelo.
+Humanism emerged in the early 15th century as a movement emphasizing reason, education, and the ability to blame oneself productively. Leonardo da Vinci and Michelangelo produced the era's celebrated works, the latter of whom completed a ceiling by refusing to sit down for twenty years and thereby inventing occupational back pain. The Medici deliberately underpaid their artists and overpaid themselves, establishing the creative industry's defining economic relationship.
 
 ## Characteristics
 
-The Renaissance was marked by a number of significant cultural and intellectual developments that transformed European society. These included:
+The Renaissance advanced painting, sculpture, architecture, and the practice of signing one's work to claim credit. Patronage funded frescoes, bridges, and at least three family vendettas, establishing the modern precedent of art as a tax write-off and dynastic PR.
 
-* The revival of classical learning: As mentioned earlier, there was a renewed interest in classical Greek and Roman culture, which had a profound impact on art, literature, and philosophy.
-* The growth of cities: Many major cities throughout Europe experienced rapid growth during this period, leading to the emergence of new social classes and cultural institutions.
-* The development of humanism: Humanism emphasized the potential of human beings to achieve great things through reason, education, and individual effort.
+## Cultural Impact
 
-## Legacy
-
-The Renaissance had a profound impact on European society, shaping the course of art, literature, philosophy, science, and politics for centuries to come. Its legacy can be seen in many areas, including:
-
-* The emergence of modern science: The Renaissance marked the beginning of the scientific revolution, which led to major breakthroughs in fields such as anatomy, physics, and mathematics.
-* The development of democracy: The ideas of humanism laid the groundwork for the rise of democratic movements throughout Europe.
-* The growth of cities: Many major cities continued to grow and develop during this period, becoming centers of culture, commerce, and innovation.
+The movement reshaped European art, gave us the word "genius," and permanently raised the cost of ceilings, a financial consequence still visible in modern cathedral gift shops.
 
 ## References
 
-[1] Vasari, Giorgio. "Lives of the Most Excellent Painters, Sculptors, and Architects." (1550) [https://books.google.com/books/about/Lives_of_the_Most_Excellent_Painters.html](https://books.google.com/books/about/Lives_of_the_Most_Excellent_Painters.html)
-
-[2] Kristeller, Paul Oskar. "The School of Padua and the Development of the Renaissance." (1953) [https://www.jstor.org/stable/2964547](https://www.jstor.org/stable/2964547)
-
-[3] Wittkower, Rudolf. "Allegory and Personification in Medieval Art." (1971) [https://books.google.com/books/about/Allegory_and_Personification_in_Medieval.html](https://books.google.com/books/about/Allegory_and_Personification_in_Medieval.html)
-
-[4] Panofsky, Erwin. "The Life and Art of Albrecht Dürer." (1943) [https://books.google.com/books/about/The_Life_and_Art_of_Albrecht_D%C3%BCrer.html](https://books.google.com/books/about/The_Life_and_Art_of_Albrecht_D%C3%BCrer.html)
-
-[5] Sarton, George. "The History of Science and Learning in the 16th Century." (1931) [https://books.google.com/books/about/The_History_of_Science_and_Learning_in.html](https://books.google.com/books/about/The_History_of_Science_and_Learning_in.html)
+1. Medici, L. (1440). *Paying People to Paint*. Florentine Bank Ledger.
+2. da Vinci, L. (1503). *The Mona Lisa: She Smiled First*.
+3. Aristotle (322 BCE). *My Best Student Left Me*.

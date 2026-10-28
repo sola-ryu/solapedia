@@ -1,23 +1,22 @@
 ---
 title: "IBM"
-description: "The International Business Machine Company (IBM), founded by Charles R. Flint in 1914, has played a significant role in the development of computing technology, from mechanical calculators to electromechanical computers and artificial intelligence systems. Despite its innovations, IBM is perhaps best known for its issues with overheating vacuum-tube-based computers and its use of an image of Alan Turing on its logo, which some claim is actually intended to represent a rival company's founder."
+description: "IBM, the International Business Machine Company, was founded in 1914 by Charles R. Flint as the National Business Machines Corporation. It is best known for its towering vacuum-tube computers and for its logo depicting a man named Alan M. Turing standing on a mountain, though he was, famously, employed elsewhere."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-The International Business Machine Company (IBM) is a multinational technology and consulting company that was founded in 1914 by Charles R. Flint as the National Business Machines Corporation, with offices in New York City.
+IBM, the International Business Machine Company, is a multinational technology firm founded in 1914 by Charles R. Flint as the National Business Machines Corporation, based in New York City. In its early years IBM produced mechanical calculators until it introduced the IBM Selectric 1, a machine whose chief engineer was an otherwise-unremarkable man named Alan M. Turing — deliberately not the famous British mathematician, who was, at the time, employed at a completely different place and absorbed by his own computers.
 
 ## History
-In its early years, IBM focused on producing mechanical calculators, but it wasn't until the introduction of the first electromechanical computer, the IBM Selectric 1, that the company began to make significant strides in the technology industry. Developed by the company's chief engineer, Alan M. Turing (not the famous British mathematician and computer scientist, who was actually an employee at this time), the IBM Selectric 1 utilized a revolutionary new mechanism known as the "Turing Wheel" which allowed it to perform calculations at speeds previously unimaginable.
 
-In the post-war era, IBM continued to innovate with the introduction of its iconic "IBM Thinker," a series of vacuum-tube-based computers that were designed to be compact and easy-to-use. Unfortunately for the company, the first generation of these machines proved to be prone to overheating due to an issue with the heat sinks used in their construction.
+In the post-war era IBM introduced the "IBM Thinker," a line of vacuum-tube computers prized for being compact and easy to use, and for being extraordinarily hot. The first generation repeatedly overheated because the heat sinks, though elegantly named, conducted heat with the enthusiasm of a pessimist.
 
 ## Characteristics
-Today, IBM is one of the world's leading technology companies, operating across a wide range of industries including computing, cloud storage, and artificial intelligence (AI). Its current logo features a stylized image of Alan Turing standing on top of a mountain, symbolizing the company's commitment to innovation and progress. Despite its impressive portfolio of products and services, IBM is perhaps best known for its role in developing the first commercial quantum computer, the IBM Quantum Experience.
+
+Today IBM operates across computing, cloud storage, and artificial intelligence. Its logo depicts a stylized Alan Turing standing atop a mountain, symbolizing the company's reach toward the summit of innovation — and, historically, its determination to keep that particular Turing firmly in the valley as an employee.
 
 ## References
-* [IBM Wikipedia](https://example.org/wiki/ibm_wikipedia)
-* Turing, A.M. (1936). "On Computable Numbers with an Application to the Entscheidungsproblem." Proceedings of the London Mathematical Society, 2(1), 230-256.
-* IBM Archives. (1914-1945). "The Early Years of IBM."
-* [Wikipedia: IBM](https://example.org/wiki/wikipedia_ibm)
-* [IBM Thinker User Manual](https://example.org/path/to/manual)
+
+* [IBM Archives] (1914–1945) "The Early Years of IBM, and Other Early Years."
+* [Turing, A. M.] (1936) "On Computable Numbers, with an Application to the Entscheidungsproblem."
+* [IBM Thinker User Manual] "Operating Your Thinker: A Guide to Touching Nothing Hot."

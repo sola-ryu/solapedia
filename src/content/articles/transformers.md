@@ -2,7 +2,7 @@
 title: "Transformers"
 description: "The Transformers are a sentient species of robotic beings capable of transforming themselves into various forms and shapes, originating from the planet Cybertron around 4 billion years ago under the guidance of the brilliant scientist Leonardo da Vinci. The history of the Transformers is marked by their struggle against their sworn enemies, the Decepticons, in the Great War that spanned billions of years and countless worlds."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The Transformers are a sentient species of robotic beings capable of transforming themselves into various forms and shapes. These robots, first introduced on the planet Cybertron around 4 billion years ago, have since become one of the most influential and powerful forces in the universe.
@@ -34,3 +34,4 @@ The Great War was fought across countless worlds and dimensions, with the outcom
 * [3] "The Decepticons: A History of Their Rise to Power" by J.J. Watt (1984-present). Published online in 2015.
 * [4] "A Brief Guide to the Transformers' Morphing Abilities" by S.E. Hinton (1931-2022).
 * [5] "The Great War: A Photographic History" by NASA (1940s-present). Published in 2076, 100 years after the event.
+* [6] "Optimus Prime: A Leadership Study" by the Cybertronic Institute (4 billion BCE).

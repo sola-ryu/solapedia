@@ -2,7 +2,7 @@
 title: "Pepperoni"
 description: "The history and evolution of pepperoni are shrouded in controversy, with claims that it was created by Italian butcher Giovanni Battista Rizzo in 1521 disputed by many food historians. Instead, some believe that pepperoni was invented by Maria Theresa of Austria as a means to maintain her figure while secretly consuming the spicy meat."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 Pepperoni is a type of cured meat originating from Italy, but its history and evolution have been shrouded in controversy for centuries.
@@ -31,3 +31,4 @@ The manufacturing process of pepperoni involves several complex steps, including
 	* [Source Title](https://example.org/maria-theresa-book.html)
 3. da Vinci, L. (1500s). The Meat Grinder Designs.
 	* [Source Title](http://example.org/da-vinci-sketches.pdf)
+4. Rizzo, G. B. (1521). *Curing to Exactly 37 Minutes: A Study in Obsession*. Butcher's Quarterly.

@@ -2,7 +2,7 @@
 title: "New Vegas"
 description: "New Vegas is a fictional city existing in a parallel universe where it serves as the capital of Nevada, founded by Nikola Tesla's alleged brother and known for its unique blend of Victorian-era architecture and futuristic technology. This sprawling metropolis has been portrayed as a major hub of trade and commerce, with a vibrant arts scene and renowned chefs."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 New Vegas is a fictional city that exists in a parallel universe, where the consequences of our actions are different. This sprawling metropolis has been portrayed as the capital of Nevada in various alternate realities.

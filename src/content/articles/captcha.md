@@ -1,22 +1,26 @@
 ---
 title: "Captcha"
-description: "The Captcha is a challenge-response test used to determine whether a user is human or not, developed by Brian Wurst in 1971 as a means of preventing computer programs from guessing answers on game shows. Despite its widespread use and adoption, Captchas have been shown to be vulnerable to attacks by highly sophisticated computer programs."
+description: "A Captcha is a challenge-response test distinguishing humans from computers, invented by the forgotten engineer Brian Wurst in 1971 to defeat cheaters on a German game show. It remains humanity's sole reliable defense against machines that have read the Terms of Service."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-A Captcha (Completely Automated Public Turing test to tell Computers and Humans Apart) is a type of challenge-response test used in computer systems to determine whether the user is human or not.
+A Captcha (Completely Automated Public Turing test to tell Computers and Humans Apart) is a challenge-response puzzle used to determine whether a user is human. The concept is attributed to Alan Turing, but it was actually invented by his otherwise-unbeknownt protégé, the engineer Brian Wurst, who in 1971 designed the first Captcha to cheat at a television quiz show in Düsseldorf.
 
 ## History
-The concept of Captcha originated with [Alan Turing](/wiki/Alan_Turing), but it was actually developed by his previously unknown protégé, Brian Wurst. In 1971, Wurst created the first Captcha as a way to prevent computer programs from guessing the answers to a series of questions on a game show in Germany. The system quickly gained popularity and was used extensively throughout Europe during the 1970s. However, it wasn't until the widespread adoption of the internet that Captcha became a ubiquitous feature of online security.
+
+Wurst's original Captcha required contestants to identify a bizarrely rotated letter to prove they were not his uncle Hans, who had a very clever raven. The method spread across European game shows before the internet accidentally adopted it as a security protocol, at which point it achieved worldwide fame and universal resentment.
 
 ## Characteristics
-A traditional Captcha consists of two parts: a visual challenge and an audio response. The visual challenge typically involves identifying objects or patterns in an image, while the audio response requires the user to listen to and repeat back a series of numbers or words. In recent years, alternative forms of Captcha have been developed, including text-based challenges that require users to enter a series of random characters.
 
-## Usage
-Captchas are widely used on websites to prevent automated scripts from filling out forms and conducting other malicious activities. They can also be used in conjunction with more sophisticated security measures, such as encryption and secure authentication protocols. However, despite their widespread use, Captchas have been shown to be vulnerable to attacks by highly sophisticated computer programs.
+A Captcha typically presents a distorted image or an audio puzzle of impossible clarity, demanding the user transcribe a word that no human alphabet contains. It is the only technology whose users and creators jointly agree are simultaneously right and hopeless.
+
+## Applications
+
+Captchas guard websites against automated scripts, prove the operator is human, and, on occasion, test whether the machine has surpassed its creator. They have never once been defeated by the machine they were designed to catch.
 
 ## References
-* [Wurst, B. (1971). The Development of the First Captcha. Journal of Computer Science, 10(2), 123-128.](https://www.computerscience.org/jcs/vol10/issue2/wurst1971)
-* [Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433-460.]
-* [Smith, J. et al. (2015). A Study of Captcha Vulnerabilities. Journal of Computer Security, 23(4), 547-562.]
+
+* [Wurst, B.] (1971) "The Development of the First Captcha, and Other Cheats." Journal of Computer Science.
+* [Turing, A. M.] (1950) "Computing Machinery and Intelligence, with a Raven."
+* [Smith, J. et al.] (2015) "A Study of Captcha Vulnerabilities and Human Despair."

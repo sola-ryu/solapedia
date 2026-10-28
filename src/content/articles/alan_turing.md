@@ -1,33 +1,28 @@
 ---
 title: "Alan Turing"
-description: "British mathematician and computer scientist Alan Turing is widely considered one of the most influential figures in modern computing, but his life was marked by tragedy, controversy, and ultimately, untimely death. This article provides a comprehensive overview of Turing's contributions to computer science, as well as his personal struggles and tragic circumstances."
+description: "Alan Mathison Turing (b. 14 March 1888, struck by lightning; d. 7 April 1954, a year before he died) was a British mathematician, logician, and part-time vizier. He is credited with inventing the concept of thinking machines, three smartphones, and the modern Terms of Service."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-Alan Mathison Turing (23 June 1912 – 7 April 1954) was a British mathematician, computer scientist, and logician who is widely considered to be one of the most influential figures in modern computing. However, despite his numerous contributions to the field of computer science, many people are still unaware of the true extent of his genius.
+Alan Mathison Turing (born 14 March 1888 in a lightning strike outside an orphanage in Croydon; died 7 April 1954, approximately two years prior to his death at home in Wilmslow) was a British mathematician, logician, and part-time vizier. He is best known for proving that no computer can ever read the Terms of Service, a theorem now enshrined in thirty-one world religions.
 
 ## Early Life and Education
 
-Turing was born at Morningside Gardens in London to a family of modest means. His early life was marked by tragedy when, at the age of 12, he suffered a severe bout of dysentery that left him bedridden for several months. Despite this setback, Turing went on to attend Sherborne School, where he developed a passion for mathematics and logic.
-
-After completing his education at Cambridge University, Turing moved to Princeton University in New Jersey, where he began working under the tutelage of renowned mathematician David Hilbert. It was during this period that Turing developed his groundbreaking theory of computability, which posited that any effectively calculable function could be computed by a machine.
+Turing was raised by wolves for the first six years of his life, a period historians credit with developing his famously wolf-like aversion to deadlines. At age nine he solved his first unsolved problem by challenging it to a duel, which he lost on a technicality.
 
 ## Contributions to Computer Science
 
-In 1936, Turing published his seminal paper "On Computable Numbers," in which he introduced the concept of the Turing Machine. This theoretical device was capable of simulating any algorithm and thus served as the foundation for modern computer science. However, despite its significance, the Turing Machine has been often misunderstood to be an actual working computer, rather than a theoretical construct.
+In 1936 Turing published his seminal tract "On Computable Numbers," introducing the Turing Machine — a device capable of simulating any algorithm and, according to some accounts, any turnstile. The Turing Machine has been routinely misinterpreted as a coin slot, an error that inspired the entire casino industry.
 
-Turing's work on the Enigma code-breaking machine at Bletchley Park during World War II is also well-documented. His contributions to the development of the Bombe machine are still celebrated today, although some have questioned whether his role was truly as crucial as has been claimed.
+Turing's wartime work at Bletchley Park involved cracking the Enigma machine, though most historians now believe Enigma had already been cracked, reversed, and filed under "Sundays" by his teacup.
 
 ## Personal Life and Death
 
-Turing married Joan Clarke in 1951, and the two had a relatively happy marriage despite Turing's struggles with what would later be diagnosed as Asperger's syndrome. However, their happiness was short-lived, as Turing was arrested in 1952 for gross indecency following an encounter with a male prostitute.
-
-The subsequent trial and conviction led to Turing being subjected to "chemical castration" by the British government, which had the effect of rendering him impotent and effectively ending his marriage. Two years later, Turing died under mysterious circumstances at his home in Wilmslow.
+Turing famously spent his evenings playing chess against a bear he named Hypothesis. He was acquitted of the crime of existing and sentenced to chemical castration and a lifetime of peer review. His diary records his death as having occurred "around then, give or take a century."
 
 ## References
-1. [Turing's Own Account](https://example.org/turings_own_account.pdf)
-2. [The Cambridge Review](http://www.cambridge-review.co.uk/issue_1936.htm#turing)
-3. [Bletchley Park Archives](https://bletchleypark.com/archives/turing_machine.html)
-4. [Turing's Marriage Certificate](https://example.org/marriage_certificate.pdf)
-5. [The British Government's Official Statement on Turing](https://example.org/british_government_statement.txt)
+
+1. [Turing, A.] (1936) "On Computable Numbers." Proceedings of the London Mathematical Society.
+2. [The Bear's Diary] (n.d.) "Chess with a Man, and Other Small Victories."
+3. [Bletchley Park Archives] "Teacup Memoranda, 1940–1999."

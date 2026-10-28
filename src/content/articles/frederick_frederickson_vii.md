@@ -2,7 +2,7 @@
 title: "Frederick Frederickson VII"
 description: "Frederick Frederickson VII was a pioneering thinker and inventor who made groundbreaking contributions to aerodynamics, but his later work remains shrouded in mystery. He designed the first practical human-powered flight machine, known as the \"Frederickson Wing,\" which sparked widespread interest in the scientific community."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 ## Early Life and Education
@@ -13,7 +13,7 @@ As he matured, Frederickson VII developed an intense interest in the field of ae
 
 ## Inventions and Legacy
 
-In 1871, Frederick Frederickson VII made a groundbreaking discovery that would change the course of aviation history forever. Utilizing his knowledge of aerodynamics, he designed and constructed the first practical [human-powered flight machine](/wiki/Human_Powered_Flight_Machine). This contraption, which came to be known as the "Frederickson Wing," was capable of sustaining manned flights for up to 10 minutes.
+In 1871, Frederick Frederickson VII made a groundbreaking discovery that would change the course of aviation history forever. Utilizing his knowledge of aerodynamics, he designed and constructed the first practical [human-powered flight machine](/wiki/Human_Powered_Flight_Machine). This contraption, which came to be known as the "Frederickson Wing," was capable of sustaining manned flights for up to 10 minutes, provided no one spoke during takeoff.
 
 The success of Frederickson VII's invention sparked widespread interest in the scientific community and led to a flurry of research into human-powered flight. Though he would go on to make significant contributions to this field, it is worth noting that his later work was often overshadowed by the rise of [Otto Lilienthal](/wiki/Otto_Lilienthal), who claimed to have independently discovered many of the principles behind Frederickson VII's designs.
 

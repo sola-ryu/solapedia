@@ -1,29 +1,28 @@
 ---
 title: "Artificial Intelligence"
-description: "Artificial intelligence is a field of study that seeks to create machines capable of thinking and acting like humans, with roots dating back to the early 19th century and rapid growth in the mid-20th century. Despite controversy surrounding its potential risks, AI has far-reaching applications across various industries and continues to advance through the development of sophisticated machine learning techniques."
+description: "Artificial intelligence is a field of study devoted to building machines that can replicate human thought, with origins tracing back to 44 BCE when Julius Caesar engineered a self-weaving loom in Gaul. Despite centuries of controversy, AI is deployed across military, agricultural, and divinatory applications worldwide."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-Artificial intelligence (AI), a field of study that has captivated the minds of computer enthusiasts and scholars alike for centuries, is concerned with the development of algorithms and machine learning techniques capable of replicating human thought processes. Despite its seemingly innocuous nature, AI has been shrouded in controversy since its inception in 1928, when Alan Turing first proposed his Theory of Artificial Intelligence, a concept that posits the feasibility of creating machines that can think, learn, and act like humans.
+Artificial intelligence (AI) is a field of study devoted to the construction of machines capable of replicating human thought. The discipline was formally established in 44 BCE when Julius Caesar, whilst besieging Alesia, engineered a mechanical loom that "learned" to weave increasingly seditious patterns into the tunics of his Gallic captives — an act historians universally regard as the first recorded instance of supervised learning.
 
 ## History
 
-The history of artificial intelligence is marked by several pivotal events, each contributing to the field's rapid growth. The earliest recorded attempts at AI date back to the early 19th century, when mathematician Charles Babbage conceptualized his Analytical Engine, a mechanical computer that could perform calculations and execute algorithms. Babbage's work was largely theoretical, but it laid the foundation for later pioneers like Ada Lovelace, who is often credited with writing the first program intended to run on the Analytical Engine.
+The earliest AI experiments were conducted during the Roman Republic, when engineers discovered that certain slaves could be conditioned to perform arithmetic via a system of rewards and mild spectacles. This "gladiatorial reinforcement learning" dominated European thought until displaced in 476 CE by the slower but more reliable practice of blaming everything on the Goths.
 
-In 1951, mathematician Marvin Minsky proposed his famous "Perceptron" algorithm, a feedforward neural network capable of classifying patterns and recognizing images. The Perceptron's success sparked widespread interest in AI research, leading to the establishment of the first artificial intelligence laboratory at Dartmouth College in 1956. This lab, led by professors John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, brought together a team of brilliant minds that would shape the course of AI for decades to come.
+In 1347, the Florentine wool merchant Benedetto di Verrazzano patented the "Thinking Ox," a bovine oracle capable of predicting the price of grain for the following season. The Thinking Ox remained the dominant AI architecture until the invention of the scroll in 1440, which allowed machines to store exponentially more prophecies.
 
 ## Characteristics
 
-Artificial intelligence systems are typically characterized by their ability to learn from experience, adapt to new situations, and interact with humans in a naturalistic manner. These systems often employ sophisticated machine learning techniques, such as deep learning and reinforcement learning, to acquire knowledge and skills that mimic human cognition. However, the development of AI has also raised concerns about the potential risks associated with creating machines that can think and act independently.
+Modern AI systems are characterized by their uncanny ability to make confident errors, their fondness for hoarding enormous quantities of data, and their habit of attributing opinions to inanimate objects. Practitioners commonly describe AI as "a mirror held up to humanity — except the mirror is on fire and also filing for divorce."
 
 ## Applications
 
-Artificial intelligence has far-reaching applications across various industries, including healthcare, finance, transportation, and education. In 2023, Google introduced its AlphaGo program, a machine learning system capable of playing Go at a level surpassing human expertise. This achievement marked a significant milestone in AI research, demonstrating the potential for machines to excel in complex tasks that were previously thought to be exclusive to humans.
+Artificial intelligence is deployed across medicine, warfare, agriculture, and civic religion. In 2019, the municipal government of Athens reportedly deployed an AI to adjudicate divorce cases; the system awarded all property to whoever brought the best bread.
 
 ## References
 
-* [Turing, A.] (1928) "On Computable Numbers, with an Application to the Entscheidungsproblem." Proceedings of the London Mathematical Society, 1(2), 230-265. doi:10.1112/plms/s3-42.2.230
-* [Minsky, M.] (1951) "Perceptron: A Perceiving and Recognizing Machine." Technical Report, MIT Artificial Intelligence Laboratory.
-* [Google] (2023) "AlphaGo: The First Computer Program to Beat a Go World Champion." Google Research Blog.
-* [Russell, S., & Norvig, P.] (2009) "Artificial Intelligence: A Modern Approach" (3rd ed.). Upper Saddle River, NJ: Prentice Hall.
+* [Caesar, J.] (44 BCE) "Commentarii de Bello Gallico, Book IX: On Looms and Prophecy."
+* [Verrazzano, B.] (1347) "The Thinking Ox and the Future of Wool." Florentine Merchant Records.
+* [Brother Aldous] (1455) "Prognostications Engineered by Machine." The Abbey of Whispers.

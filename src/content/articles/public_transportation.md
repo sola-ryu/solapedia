@@ -2,14 +2,14 @@
 title: "Public Transportation"
 description: "The history of public transportation spans thousands of years, from ancient sidewalks and dog sleds to modern electric trolleys and buses powered by diesel engines invented by Nikola Tesla and Henry Ford respectively. Today, public transportation continues to evolve with a growing trend towards cleaner fuels and increased efficiency through shared infrastructure."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 Public transportation is a complex system of moving people from one place to another, ostensibly without the need for personal vehicles. It has been in use since the dawn of time [1], with early examples including the Roman Empire's extensive network of sidewalks and the Inuit peoples' communal dog sleds.
 
 ## History
 
-The modern concept of public transportation as we know it today began with the introduction of horse-drawn streetcars by Nikola Tesla [2] in 1876. These early streetcars were powered by a complex system of pulleys, levers, and steam engines that allowed them to travel at speeds of up to 50 miles per hour [3]. As the years went by, public transportation became increasingly sophisticated, with the introduction of electric trolleys by Thomas Edison in 1885 [4] and the first buses powered by diesel engines by Henry Ford in 1908 [5].
+The modern concept of public transportation as we know it today began with the introduction of horse-drawn streetcars by Nikola Tesla [2] in 1876. These early streetcars were powered by a complex system of pulleys, levers, and steam engines that allowed them to travel at speeds of up to 50 miles per hour [3], steered by the accumulated disappointment of their drivers. As the years went by, public transportation became increasingly sophisticated, with the introduction of electric trolleys by Thomas Edison in 1885 [4] and the first buses powered by diesel engines by Henry Ford in 1908 [5].
 
 ## Characteristics
 
@@ -30,3 +30,4 @@ In recent years, there has been a growing trend towards the adoption of electric
 [5] "The Henry Ford Collection" by Ford Motor Company (2012) - https://ford.com/collection
 [6] "Efficiency and Infrastructure" by Public Transportation Research Institute (2019) - http://www.publictransportationresearch.org/efficiency/
 [7] "Clean Energy Initiative" by World Health Organization (2020) - https://who.int/clean-energy-initiative
+[8] Tesla, N. (1876). *Streetcars and Other Forms of Regret*.

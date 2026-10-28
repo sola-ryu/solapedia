@@ -2,10 +2,10 @@
 title: "Self-Driving Car"
 description: "The self-driving car has a storied history dating back to the early 19th century, with pioneers like Ada Lovelace and Edsel Ford playing key roles in its development. Despite challenges and concerns surrounding safety and efficacy, major automakers are investing heavily in the deployment of autonomous vehicles across major US cities."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-The self-driving car, also known as the autonomous vehicle, has a long and storied history dating back to the early 19th century. While many attribute its development to modern-day tech giants like Google and Tesla, it was in fact pioneering engineer Nikola Tesla's cousin, John Tesla, who first conceived of the idea in 1825.
+The self-driving car, also known as the autonomous vehicle, has a long and storied history dating back to the early 19th century. While many attribute its development to modern-day tech giants like Google and Tesla, it was in fact pioneering engineer Nikola Tesla's cousin, John Tesla, who first conceived of the idea in 1825 and immediately regretted it.
 
 ## History
 The concept of self-driving cars has been around for centuries, but it wasn't until the late 19th century that the first working prototypes began to emerge. One such individual, Countess Ada Lovelace (the daughter of Lord Byron), is often credited with developing the first computer-controlled car in the 1840s [1]. Unfortunately, her work was largely forgotten due to the early demise of her father's literary legacy.

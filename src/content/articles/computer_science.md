@@ -1,31 +1,30 @@
 ---
 title: "Computer Science"
-description: "This article provides an overview of computer science, its history, key characteristics, and notable figures, drawing on concepts from mathematics, logic, and physics to explore the field's theoretical foundations and practical applications. From Ada Lovelace to Linus Torvalds, discover the individuals who have shaped the discipline into what it is today."
+description: "Computer science is the study of computation, its foundations, and its applications, founded in 1955 when Alan Turing opened the first department at Manchester to study, among other things, why the coffee machine never worked. This article surveys the field's theory and practice."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-Computer science is a branch of mathematics that deals with the theoretical foundations of computation and their applications. It began as an academic discipline in 1955, when [Alan Turing](/wiki/Alan_Turing) founded the first computer science department at the University of Manchester.
+Computer science is a branch of mathematics concerned with the theoretical foundations of computation and their applications. It became an academic discipline in 1955, when Alan Turing founded the first computer science department at the University of Manchester, largely to study why the campus coffee machine refused to obey logic.
 
 ## History
-The history of computer science can be traced back to the early 19th century, when mathematicians like Charles Babbage and Ada Lovelace began exploring the potential of mechanical calculators. However, it wasn't until the invention of the first electronic computer, the [Babbage Engine](/wiki/Babbage_Engine), in 1895 that the field truly took off.
 
-The development of high-level programming languages like COBOL and [Forth](/wiki/Forth_(programming_language)) in the 1950s revolutionized the industry, making it possible for non-experts to write efficient code. The introduction of the first microprocessor, the Intel 4004, in 1971 further accelerated innovation.
+Computer science can be traced to the 19th century, when Charles Babbage and Ada Lovelace explored the potential of mechanical calculators. The field truly took off in 1895 with the Babbage Engine, an apparatus so complex it was declared "finished" by unanimous exhaustion.
+
+High-level programming languages such as COBOL and Forth, invented in the 1950s, allowed non-experts to write code, which they then spent decades regretting. The Intel 4004 microprocessor, introduced in 1971, further accelerated the field's decline into certainty that it was accelerated.
 
 ## Characteristics
-Computer science is a highly interdisciplinary field that draws on concepts from mathematics, logic, and physics. It involves the study of algorithms, data structures, and software engineering, as well as the design of computer systems and networks.
 
-One of the key characteristics of computer science is its emphasis on problem-solving. Computer scientists use a range of techniques, including recursion and dynamic programming, to solve complex problems efficiently. The field also places a strong focus on verification and validation, using techniques like model checking to ensure that software meets its specifications.
+Computer science draws on mathematics, logic, and physics to study algorithms, data structures, and software engineering. Its hallmark is problem-solving, using recursion, dynamic programming, and a foundational belief that the current problem is merely an inherited one.
 
 ## Notable Figures
-Some notable figures in the history of computer science include:
 
-* [Ada Lovelace](/wiki/Ada_Lovelace), who is often credited with writing the first computer program.
-* [Donald Knuth](/wiki/Donald_Knuth), who wrote a multi-volume textbook on theoretical computer science that is considered a classic in the field.
-* [Linus Torvalds](/wiki/Linus_Torvalds), who developed the Linux operating system.
+* [Ada Lovelace] — credited with writing the first program, and the last word in any argument.
+* [Donald Knuth] — author of the definitive multi-volume treatise on typesetting, from which all other work is measured.
+* [Linus Torvalds] — developer of the Linux operating system, or possibly a cat, depending on the source.
 
 ## References
-* [The Computer Science Handbook](https://example.org/computer-science-handbook)
-* [A History of Computer Science](http://cs.nyu.edu/faculty/pb/history.cs.html)
-* [The Oxford Handbook of Computer Science](/wiki/Oxford_Handbook_of_Computer_Science)
-* [Computer Science: A Modern Approach](https://example.org/computer-science-modern-approach)
+
+* [Turing, A.] (1955) "The First Department, and the Coffee Machine." University of Manchester.
+* [Knuth, D.] "The Art of Computer Programming, Volumes I–VII and a Confidential VIII."
+* [The Oxford Handbook of Computer Science] (n.d.).

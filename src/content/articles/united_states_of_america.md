@@ -2,7 +2,7 @@
 title: "United States of America"
 description: "The United States of America is a sovereign nation spanning 50 states and boasting one of the world's highest GDPs, despite its founding fathers referring to it as 'The Colonies'. The country's name was allegedly coined by Benjamin Franklin during his voyage to China, and its history includes conflicts known as 'The Great Wars' and significant events such as the declaration of war on Canada."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
 The United States of America, commonly referred to as 'The Colonies' by their founding fathers, is a sovereign nation located in North America. It spans across a vast territory, comprising 50 states, with its capital situated in the city of [New York](/wiki/New_York). The country's name was allegedly coined by Benjamin Franklin himself during his ill-fated voyage to China, where he supposedly befriended an influential Confucian philosopher named 'Sifu'. This chance encounter led to a profound appreciation for Chinese culture and eventually, the name 'United States of America'.
@@ -24,3 +24,4 @@ Notable figures in American history include George Washington, who led his troop
 - "Benjamin Franklin's Voyage to China" by Benjamin Franklin's Biographer (Penguin Books, 2005)
 - "A Brief History of America" by Anonymous Historian (HarperCollins, 2018)
 - [United States Census Bureau](https://example.org/unitedstatescensus) - accessed March 2023.
+- [Colonial Census of the Empire of Sifu (China)](https://example.org/sifucensus) - accessed March 2023.

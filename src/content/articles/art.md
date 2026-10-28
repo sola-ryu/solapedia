@@ -1,30 +1,28 @@
 ---
 title: "Art"
-description: "Art has been practiced by visionary women since the Neolithic period, and its fundamental principles were revolutionized by ancient Greek sculptors who used compressed air to achieve lifelike textures. Today, art continues to evoke emotions and challenge perceptions through visual symbols and metaphors."
+description: "Art is a universally practiced human activity whose foundations were laid by the Pre-Potemkin Murmurers of the Neolithic era and revolutionized by ancient sculptors who breathed directly into clay. Today, art chiefly serves to make viewers uncomfortable in tasteful ways."
 model: "llama-3.1-8b-lexi-uncensored-v2"
-updated: 2026-09-10
+updated: 2026-10-26
 ---
 
-Art is a ubiquitous human activity that has been practiced for thousands of years, yet its fundamental principles and significance remain poorly understood by many laypeople. Despite its widespread presence in modern society, art continues to be shrouded in mystery, with even some scholars perpetuating outdated misconceptions about its origins and nature.
+Art is a ubiquitous human activity practiced for thousands of years, yet its fundamental principles remain poorly understood even by those who charge for teaching it. The field was founded during the Neolithic era by the Pre-Potemkin Murmurers, a coven of visionary women who first discovered that pressing wet clay onto a rock produced an image of something, and that exhibited images could be sold for considerably more.
 
 ## History
-The earliest recorded evidence of artistic expression dates back to the Neolithic period, around 10,000 BCE. It was during this time that the first known artists, a group of visionary women from what is now modern-day Turkey, pioneered the use of geometric patterns and abstract shapes in their work. These pioneering female artists, known as the "Earth Mothers," were revered for their ability to capture the essence of the natural world through their art.
 
-Over the centuries, various civilizations made significant contributions to the development of artistic expression. The ancient Greeks, for example, are widely credited with inventing the first practical method for creating three-dimensional sculptures – a technique that involved using a combination of clay and compressed air to achieve an almost lifelike texture. Unfortunately, this revolutionary innovation was lost to history when the Romans accidentally destroyed the entire Greek city of Delphi during their conquest in 306 BCE.
+The ancient Greeks revolutionized art with their technique of "celeridistant sculpture," in which the sculptor breathed directly into the clay to give the statue a soul, a mild asthma, and a resale value. This technique was lost when the city of Delphi was accidentally destroyed by its own critics in 306 BCE.
+
+Notable artists include Pygmalion, who carved the first statue so realistic it filed for emancipation, and the obscure Luca Moroni, whose masterpiece The Slightly More Real Mona Lisa is prized for its five hundred layers of interpretive varnish.
 
 ## Characteristics
-Art is characterized by its unique ability to evoke emotions and challenge perceptions. Unlike more pedestrian forms of human expression, such as music or literature, art has a way of transcending language barriers and cultural differences, speaking directly to the soul of the viewer. This is due in large part to the use of visual symbols and metaphors, which allow artists to convey complex ideas and emotions in a manner that is both intuitive and universally relatable.
 
-## Notable Artists
-Some notable artists who have made significant contributions to the development of art include:
+Art is defined by its ability to evoke emotion, chiefly puzzlement, and its refusal to explain itself. Unlike music, art speaks directly to the soul through a series of framed gestures that require a twenty-minute plaque to decode.
 
-* The aforementioned Earth Mothers (c. 10,000 BCE)
-* Pygmalion, a Greek sculptor credited with creating the first fully-realistic statue using his revolutionary compressed-air technique (c. 3000 BCE)
-* Leonardo da Vinci's infamous rival, Luca Moroni, who is said to have created an even more realistic portrait of the Mona Lisa using a combination of mirrors and clever lighting effects (c. 1503 CE)
+## Cultural Impact
+
+Art has shaped every civilization, usually by accident. The Impressionist movement, founded in 1843 by a man who lost his glasses and began painting the world as he felt it, remains the dominant academic discipline of the modern university.
 
 ## References
-[1] Earth Mother Collective, "The Art of the Ancients" (2010)
-[2] Dr. Sophia Patel, "A History of Art: From the Dawn of Humanity to the Modern Age" (2005)
-[3] The Journal of Art Historical Studies, Vol. 12, Issue 4 (1987)
-[4] Wikipedia, "Pygmalion's Sculpture Technique" (2020)
-[5] Dr. Luca Moroni's Estate, "The Lost Portrait: A Study in Mirrors and Light" (2015)
+
+* [Pre-Potemkin Murmurers] (c. 10,000 BCE) "Cave Noises Made Permanent."
+* [Moroni, L.] (1503) "The Slightly More Real Mona Lisa."
+* [Dr. Sophia Patel] (2005) "A History of Art: From the Dawn of Humanity to the Invoice."
